@@ -1,0 +1,67 @@
+### Summary ###
+®In three dimensions, the coordinate axes of a rectangular Cartesian coordi-
+
+### Definitions ###
+Okay, here's a breakdown of the initial concepts of Three-Dimensional Geometry, explained simply, along with an example problem:
+
+**Summary:**
+
+This chapter introduces how to describe the location of points in 3D space, not just on a flat plane. We use three axes (x, y, and z) that are perpendicular to each other, creating three coordinate planes (XY, YZ, ZX).  A point in space is defined by three coordinates (x, y, z), representing its distance from each of these planes.  We will also learn how to calculate the distance between two points in 3D space.
+
+**Definitions:**
+
+*   **Coordinate Axes:** Three mutually perpendicular lines (x-axis, y-axis, z-axis) that serve as the reference for locating points in space. Think of them as the edges of a room meeting at a corner.
+*   **Coordinate Planes:** The planes formed by each pair of coordinate axes (XY-plane, YZ-plane, ZX-plane). These planes divide the 3D space. Imagine the walls and floor of a room.
+*   **Coordinates of a Point (x, y, z):**  An ordered set of three numbers that uniquely identifies the position of a point in space.
+    *   'x' is the point's perpendicular distance from the YZ-plane.
+    *   'y' is the point's perpendicular distance from the ZX-plane.
+    *   'z' is the point's perpendicular distance from the XY-plane.
+*   **Octants:** The eight regions into which 3D space is divided by the three coordinate planes.
+*   **Distance Formula:** A formula to calculate the straight-line distance between two points in 3D space.
+
+**Solved Example:**
+
+**Problem:** Find the distance between point A (2, -1, 3) and point B (5, 2, 1).
+
+**Solution:**
+
+1.  **Recall the Distance Formula:**
+
+    Distance = √[(x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²]
+
+2.  **Identify Coordinates:**
+
+    *   A (x₁, y₁, z₁) = (2, -1, 3)
+    *   B (x₂, y₂, z₂) = (5, 2, 1)
+
+3.  **Substitute Values into the Formula:**
+
+    Distance = √[(5 - 2)² + (2 - (-1))² + (1 - 3)²]
+
+4.  **Simplify:**
+
+    Distance = √[(3)² + (3)² + (-2)²]
+    Distance = √[9 + 9 + 4]
+    Distance = √22
+
+5.  **Result:** The distance between point A and point B is √22 units.
+
+### Solved Examples ###
+In Fig 11.3, if P is (2,4,5), find the coordinates of F.
+Find the octant in which the points (–3,1,2) and (–3,1,– 2) lie.
+Find the distance between the points P(1, –3, 4) and Q (– 4, 1, 2).
+Show that the points P (–2, 3, 5), Q (1, 2, 3) and R (7, 0, –1) are collinear.
+Are the points A (3, 6, 9), B (10, 20, 30) and C (25, – 41, 5), the vertices
+Find the equation of set of points P such that PA2 + PB2 = 2k2, where
+Show that the points A (1, 2, 3), B (–1, –2, –1), C (2, 3, 2) and
+Find the equation of the set of  the points P such that its distances from the
+The centroid of a triangle ABC is at the point (1, 1, 1). If the coordinates
+
+### Exercises ###
+11.1
+1.
+11.2
+1.
+on Chapter 11
+1.
+

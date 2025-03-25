@@ -1,0 +1,60 @@
+### Summary ###
+Atoms are the building blocks of elements. They are the smallest parts of an element that
+
+### Definitions ###
+Okay, here's an attempt to generate original definitions, a summary, and a solved example based on the provided NCERT chapter content on the structure of the atom.
+
+**Summary:**
+
+This chapter explores the evolution of our understanding of atomic structure, beginning with early philosophical ideas and culminating in the quantum mechanical model. Key milestones include the discovery of subatomic particles (electrons, protons, neutrons), the development (and subsequent downfall) of the Thomson and Rutherford atomic models, and the introduction of Bohr's model. The chapter emphasizes the wave-particle duality of matter and electromagnetic radiation, the Heisenberg uncertainty principle, and the role of quantum numbers in describing atomic orbitals and electron configurations.
+
+**Definitions:**
+
+*   **Atomic Orbital:** Instead of a fixed path, an atomic orbital is a region around the nucleus of an atom where there's a high probability of finding an electron. It's described by a set of quantum numbers and represented by a wave function (ψ).
+*   **Quantum Numbers:** These are a set of numbers (n, l, ml, ms) that uniquely describe the state of an electron in an atom, defining its energy level, shape, spatial orientation, and spin.
+*   **Electron Configuration:** This is the arrangement of electrons within the different energy levels and sublevels (orbitals) of an atom. It follows specific rules like the Aufbau principle, Hund's rule, and the Pauli exclusion principle.
+*   **Aufbau Principle**: It is like filling up a house, electrons will fill up energy levels that are the lowest, before going up the energy ladder. This affects electronic configuration.
+
+**Solved Example:**
+
+**Problem:** An element has an atomic number of 26.
+
+a)  Write the ground-state electronic configuration using both sa pbdc and orbital diagram notations.
+b) State how many unpaired electrons it will have.
+
+**Solution:**
+
+**a) Electronic configuration**
+1. Figure out number of electrons: Atomic number (Z) = 26, so the neutral atom has 26 electrons.
+2. Apply Aufbau principle: 1s, 2s, 2p, 3s, 3p, 4s, 3d in order
+3. Apply Pauli Exclusion principle: Note, "S" orbitals can only hold 2 electrons. P orbitals can hold 6 electrons and D orbitals can hold 10 electrons.
+
+*   1s2 2s2 2p6 3s2 3p6 4s2 3d6
+
+*Orbital Notation:
+"s" block: (1s)↑↓   (2s)↑↓ (3s)↑↓ (4s)↑↓
+"p" block: (2p)↑↓↑↓↑↓ (3p)↑↓↑↓↑↓
+"d" block: (3d)↑↓↑↑↑↑
+
+**b) Unpaired Electrons:**
+
+Hund's Rule: Electrons will singly occupy each orbital within a subshell before pairing up.
+
+Looking at the 3d orbital which has the most unpaired electrons, of the 6 "d" orbital electrons, there are only one set paired. Therefore, there are only 4 unpaired electrons in the 3d subshell.
+
+### Solved Examples ###
+potassium, rubidium, caesium
+Suppose you are asked to measure the
+when
+in the first shell (n = 1),
+electrons present in spherical
+(i)	  sa
+ pbdc ...... notation
+(ii)  Orbital diagram
+ 
+ s	                   p	
+                      d
+
+### Exercises ###
+No exercises found.
+

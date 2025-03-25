@@ -1,0 +1,57 @@
+### Summary ###
+Okay, here's a breakdown of logarithms and how to use log tables, designed as educational content:
+
+**Summary:**
+
+This section explains logarithms as a way to simplify complex calculations involving multiplication, division, and exponents. It covers the basic definition of a logarithm, the laws of logarithms (product rule, quotient rule, power rule), and how to use logarithm and antilogarithm tables. The appendix provides logarithm and antilogarithm tables and demonstrates how to find the logarithm of a number and vice versa and apply these skills to solve numerical problems.
+
+**Definitions:**
+
+*   **Logarithm:** A logarithm answers the question: "To what power must we raise a base number to get a specific number?". If a<sup>m</sup> = b, then log<sub>a</sub>(b) = m.
+*   **Base:** The base of a logarithm is the number being raised to a power (e.g., 'a' in log<sub>a</sub>(b)). Common bases are 10 (common logarithm) and *e* (natural logarithm).
+*   **Characteristic:** The integer part of a common logarithm (base 10). It indicates the power of 10 when the number is written in scientific notation.
+*   **Mantissa:** The decimal part of a common logarithm. It's always a positive value between 0 and 1, and it's found using log tables.
+*   **Antilogarithm:** The antilogarithm is the inverse operation of the logarithm. If log<sub>a</sub>(b) = m, then antilog<sub>a</sub>(m) = b.
+  
+
+**Solved Example:**
+
+**Problem:** Evaluate (23.4)<sup>2</sup> / (5.67 * 0.89) using logarithms.
+
+**Solution:**
+
+1.  **Let x = (23.4)<sup>2</sup> / (5.67 * 0.89)**
+
+2.  **Take the logarithm (base 10) of both sides:**
+    log x = log [(23.4)<sup>2</sup> / (5.67 * 0.89)]
+
+3.  **Apply the laws of logarithms:**
+    log x = 2 * log(23.4) - [log(5.67) + log(0.89)]
+
+4.  **Find the logarithms using log tables:**
+
+    *   log(23.4) = 1.3692
+    *   log(5.67) = 0.7536
+    *   log(0.89) = -0.0506  (This can be written as 1.9494)
+
+5.  **Substitute the values:**
+    log x = 2 * (1.3692) - [0.7536 + (-0.0506)]
+    log x = 2.7384 - [0.7030]
+    log x = 2.0354
+
+6.  **Find the antilogarithm of 2.0354:**
+    x = antilog(2.0354) = 108.5
+
+**Therefore, (23.4)<sup>2</sup> / (5.67 * 0.89) ≈ 108.5**
+
+### Definitions ###
+Fe3+ + 3e– ¾® Fe
+–0.04
+of logarithms that
+
+### Solved Examples ###
+To find log (8.127), we look in the row 81 under column 2, and we find 9096.
+
+### Exercises ###
+No exercises found.
+

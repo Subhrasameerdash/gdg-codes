@@ -1,0 +1,44 @@
+### Summary ###
+statement “x = 3 or x = 2”.
+
+### Definitions ###
+or an axiom or a proposition that is previously established
+of one-one function)
+
+### Solved Examples ###
+Example 1 Show that if x2 – 5x + 6 = 0, then x = 3 or x = 2.
+Prove that the function f : R →
+→
+→
+→
+→ R
+Show that if
+ A =
+Show that in any triangle ABC,
+Example 5 Show that the set of all prime numbers is infinite.
+Prove that the function f : R →
+→
+→
+→
+→ R  defined by f (x) = 2x + 5 is one-one.
+of “direct method”.
+Show that “if a matrix A is invertible, then A is non singular”.
+In the history of Mathematics, there are occasions when all attempts to find a
+to falsify the statement.
+to disprove the statement is called a counter example. Since the disproof
+For each n,
+2
+2
+1
++  is sufficient to disprove the generalisation. This is the
+Thus, we have proved that the generalisation “For each n,
+2
+2
+1
+Every continuous function is differentiable.
+to disprove “Every continuous function is differentiable”.
+—v
+
+### Exercises ###
+No exercises found.
+

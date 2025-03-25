@@ -1,0 +1,86 @@
+### Summary ###
+In this unit, we have learnt some basic concepts in structure and reactivity of organic
+
+### Definitions ###
+Okay, here's some original educational content based on the provided NCERT chapter extract:
+
+**Summary:**
+
+This chapter introduces the fundamental principles of organic chemistry. It covers the unique tetravalency of carbon and how that leads to diverse molecular shapes. You'll learn how to represent organic molecules in different ways (structural formulas), classify them into families based on their structure and functional groups, and name them systematically using IUPAC nomenclature. The chapter also delves into organic reaction mechanisms, explaining how reactions occur through bond breaking and formation, electron displacement effects, and the role of nucleophiles and electrophiles. Finally, it outlines essential techniques for purifying and analyzing organic compounds, including sublimation, crystallization, distillation, extraction, and chromatography, along with qualitative and quantitative analysis methods.
+
+**Definitions:**
+
+*   **Organic Chemistry:** The study of carbon-containing compounds, focusing on their structure, properties, composition, reactions, and preparation. Carbon's ability to form stable chains and rings leads to a vast array of organic molecules.
+
+*   **Tetravalency of Carbon:** Carbon's ability to form four covalent bonds. This is due to its electronic configuration, allowing it to share electrons with other atoms (including other carbon atoms) to achieve a stable octet. Tetravalency dictates the 3D shapes of organic molecules through hybridization (sp3, sp2, sp).
+
+*   **IUPAC Nomenclature:** A standardized system for naming organic compounds. It ensures that every compound has a unique and unambiguous name based on its structure. It involves identifying the parent chain, functional groups, and substituents, then applying specific prefixes and suffixes according to IUPAC rules.
+
+*   **Functional Group:** An atom or group of atoms within a molecule that is responsible for the molecule's characteristic chemical reactions. Common functional groups include alcohols (-OH), aldehydes (-CHO), ketones (>C=O), and carboxylic acids (-COOH).
+
+*   **Reaction Mechanism:** A step-by-step description of how a chemical reaction occurs. It includes the sequence of bond breaking and bond formation, the movement of electrons, and the formation of any intermediate species. Understanding reaction mechanisms helps predict reaction outcomes and optimize reaction conditions.
+
+*   **Nucleophile:** A "nucleus-loving" species that is electron-rich and seeks a positive charge or electron-deficient center to bond with. Nucleophiles donate an electron pair during a reaction (Lewis base).
+
+*   **Electrophile:** An "electron-loving" species that is electron-deficient and seeks a negative charge or electron-rich center to bond with. Electrophiles accept an electron pair during a reaction (Lewis acid).
+
+*   **Inductive Effect:** The polarization of sigma bonds due to the presence of an electronegative or electropositive atom or group. This effect is transmitted through the chain, decreasing with distance. Electron-withdrawing groups pull electron density away from the carbon chain (-I effect), while electron-donating groups push electron density into the carbon chain (+I effect).
+
+*   **Resonance:** A phenomenon where the actual structure of a molecule is represented as a hybrid of two or more Lewis structures (resonance structures or canonical forms). Resonance occurs when multiple Lewis structures can be drawn for a molecule that only differ in the distribution of electrons, not the arrangement of atoms.
+
+*   **Chromatography:** A technique used to separate mixtures of compounds based on their different affinities for a stationary phase and a mobile phase. Different types of chromatography (e.g., column, thin-layer, paper) exploit different principles of separation, such as adsorption or partition.
+
+**Solved Example:**
+
+**Problem:** Name the following compound using IUPAC nomenclature:
+
+```
+CH3 - CH - CH2 - CH = CH2
+       |
+       CH3
+```
+
+**Solution:**
+
+1.  **Identify the Parent Chain:** The longest continuous carbon chain containing the double bond has 5 carbons. Therefore, the parent chain is pentene.
+2.  **Number the Parent Chain:** Number the carbon atoms in the chain starting from the end closest to the double bond:
+    ```
+    1   2   3   4   5
+    CH3-CH-CH2-CH=CH2
+         |
+         CH3
+    ```
+    The double bond is between carbons 1 and 2, so it's a 1-pentene.
+3.  **Identify and Name Substituents:** There is a methyl group (CH3) attached to carbon 4.
+4.  **Combine the Information:** The IUPAC name is 4-methylpent-1-ene.
+
+### Solved Examples ###
+(homocyclic).
+of this type of compound:
+given below. 
+2024-25
+CH3–CH–CH2–CH3  CH3–CH–CH2–CH–CH3
+	 	
+	
+          	 	
+
+(I) given below, the longest chain has nine
+should be from left to right 
+(branching at carbon atoms 2 and 6) and
+CH2(OH)CH2(OH) is named as
+(i) 	CH2 = CH2  +  Br2	 →
+is that of
+of resonance is provided
+in nitrobenzene this electron
+system or to an atom with an unshared
+of CH3 C
++ H2 (ethyl cation) in
+When inductive and electromeric effects
+in each case.
+	
+(a) Crystallisation  (b) Distillation   (c) Chromatography
+8.19
+
+### Exercises ###
+No exercises found.
+

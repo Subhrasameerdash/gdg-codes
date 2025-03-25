@@ -1,0 +1,95 @@
+### Summary ###
+1.
+
+### Definitions ###
+Okay, here's some educational content based on the provided NCERT chapter excerpt, focusing on clear explanations and avoiding direct copying:
+
+**Summary of Alternating Current (AC)**
+
+This chapter introduces alternating current (AC) circuits, a departure from the direct current (DC) circuits studied previously. AC is characterized by voltages and currents that change direction periodically, typically in a sinusoidal pattern. The primary advantage of AC over DC lies in its efficient voltage transformation using transformers, enabling economical long-distance power transmission. The chapter explores the behavior of resistors, inductors, and capacitors when connected to AC sources, introducing concepts like impedance, reactance, and resonance. Finally, transformers are introduced for voltage manipulation.
+
+**Definitions of Key Concepts**
+
+*   **Alternating Current (AC):** Electric current that periodically reverses direction, usually following a sinusoidal pattern. Unlike direct current (DC) which flows in one direction only.
+*   **Root Mean Square (RMS) Value:** The effective value of an AC voltage or current. It's the equivalent DC voltage or current that would produce the same heating effect in a resistor.
+*   **Reactance:** The opposition to current flow in an AC circuit due to inductance (inductive reactance) or capacitance (capacitive reactance). Unlike resistance, reactance depends on the frequency of the AC signal.
+*   **Impedance (Z):** The total opposition to current flow in an AC circuit, combining the effects of resistance and reactance.
+*   **Phasor:** A rotating vector used to represent sinusoidal voltages and currents in AC circuits. Phasors simplify circuit analysis by visually showing the phase relationships between voltage and current.
+*   **Resonance:** A condition in an LCR series circuit where the inductive reactance and capacitive reactance cancel each other out, resulting in maximum current flow at a specific resonant frequency.
+*   **Transformer:** A device that uses electromagnetic induction to efficiently change the voltage of an AC signal. Step-up transformers increase voltage, while step-down transformers decrease voltage.
+*   **Power Factor:** A measure of how effectively electrical power is being used in an AC circuit. It's the cosine of the phase angle between voltage and current. A power factor of 1 indicates maximum power transfer.
+
+**Solved Example**
+
+**Problem:** A series LCR circuit has a resistance of 100 ohms, an inductance of 0.5 H, and a capacitance of 10 microfarads. It is connected to a 220V, 50 Hz AC source. Calculate:
+
+**(a)** The impedance of the circuit.
+**(b)** The RMS current flowing in the circuit.
+**(c)** The phase angle between the current and the voltage.
+
+**Solution:**
+
+**(a) Calculate the Impedance (Z):**
+
+1.  **Calculate Inductive Reactance (XL):**
+
+    XL = 2 * pi * f * L = 2 * 3.14 * 50 Hz * 0.5 H = 157 ohms
+
+2.  **Calculate Capacitive Reactance (XC):**
+
+    XC = 1 / (2 * pi * f * C) = 1 / (2 * 3.14 * 50 Hz * 10 * 10^-6 F) = 318.5 ohms
+
+3.  **Calculate Impedance (Z):**
+
+    Z = sqrt(R^2 + (XL - XC)^2) = sqrt(100^2 + (157 - 318.5)^2) = sqrt(10000 + 26082.25) = sqrt(36082.25) = 189.95 ohms
+
+**(b) Calculate the RMS Current (I):**
+
+I = V / Z = 220V / 189.95 ohms = 1.16 Amps
+
+**(c) Calculate the Phase Angle (Φ):**
+
+phi= tan^-1 ((X_L-X_C)/R) = tan^-1 ((157-318.5)/100) = -57.7 degrees
+
+**Answer:**
+
+**(a)** The impedance of the circuit is approximately 189.95 ohms.
+**(b)** The RMS current flowing in the circuit is approximately 1.16 amps.
+**(c)** The phase angle between the current and voltage is approximately -57.7 degrees (the negative indicates current lags the voltage, circuit is capacitive).
+
+### Solved Examples ###
+A light  bulb is rated at 100W for a 220 V supply. Find
+(a) the resistance of the bulb; (b) the peak voltage of the source; and
+(c) the rms current through the bulb.
+-25
+We see that the current reaches its maximum value later than the
+A pure inductor of 25.0 mH is connected to a source of
+220 V. Find the inductive reactance and rms current in the circuit if
+A lamp is connected in series with a capacitor. Predict
+A 15.0 µF capacitor is connected to a 220 V, 50 Hz source.
+EXAMPLE 7.4
+2024-25
+EXAMPLE 7.4
+A light bulb and an open coil inductor are connected to
+of this
+A resistor of 200 W and a capacitor of 15.0 mF are
+POWER IN AC CIRCUIT: THE POWER FACTOR
+Example 7.7
+Example 7.7
+(a) For circuits used for transporting electric power, a
+XAMPLE
+A sinusoidal voltage of peak value 283 V and frequency
+50 Hz is applied to a series LCR circuit in which
+FIGURE 7.15
+ EXAMPLE 7.7
+2024-25
+Since f is negative, the current in the circuit lags the voltage
+Suppose the frequency of the source in the previous
+can be varied. (a) What is the frequency of the source at
+EXAMPLE 7.8
+ EXAMPLE 7.10
+At an airport, a person is made to walk through the
+
+### Exercises ###
+No exercises found.
+

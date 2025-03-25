@@ -1,0 +1,763 @@
+### Summary ###
+Here's a breakdown of the sets chapter:
+
+**Summary:** This chapter introduces the concept of sets, which are well-defined collections of objects. It covers different ways to represent sets (roster form and set-builder form), types of sets (empty, finite, infinite, equal, equivalent), subsets, power sets, universal sets, and operations on sets like union, intersection, difference, and complement. Venn diagrams are used to visualize these operations.
+
+**Definitions:**
+*   **Set:** A group of distinct objects.
+*   **Roster Form:** Listing all elements of a set (e.g., {1, 2, 3}).
+*   **Set-Builder Form:** Describing a set using a property (e.g., {x : x is an even number}).
+*   **Subset:** A set contained within another set.
+*   **Power Set:** The set of all possible subsets of a given set.
+*   **Union:** Combining elements of two sets (A ∪ B).
+*   **Intersection:** Elements common to two sets (A ∩ B).
+*   **Difference:** Elements in one set but not the other (A - B).
+*   **Complement:** Elements not in a set but within the universal set (A').
+
+**Solved Example:**
+
+**Problem:** Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, A = {2, 4, 6, 8}, and B = {1, 3, 5, 7, 9}. Find A ∪ B and A ∩ B.
+
+**Solution:**
+1.  **A ∪ B (Union):** Combine all elements from A and B into one set: A ∪ B = {1, 2, 3, 4, 5, 6, 7, 8, 9}.
+2.  **A ∩ B (Intersection):** Find the elements that are in BOTH A and B. In this case, there are no common elements. So, A ∩ B = {} (the empty set).
+
+### Definitions ###
+Okay, I can help with that. Based on the NCERT content you provided, here's a breakdown focusing on the core concepts of sets:
+
+**Summary:**
+
+This chapter introduces the fundamental concept of sets, their representation, and basic operations. It covers set roster form, set-builder form, empty sets, finite & infinite sets, subsets, power sets, universal sets, Venn diagrams, union, intersection, difference of sets, and complements.
+
+**Definitions (Key Concepts Explained):**
+
+*   **Set:** Imagine a well-defined collection of objects or items. "Well-defined" means there's no ambiguity about whether an object belongs or doesn't belong to the collection. For example, the set of vowels in the English alphabet is well-defined {A, E, I, O, U}.
+
+*   **Roster Form:** This is a way to represent a set by listing all its elements within curly braces `{}`. For instance, the set of even numbers less than 10 in roster form is {2, 4, 6, 8}.
+
+*   **Set-Builder Form:** Instead of listing elements, you describe the property that all elements in the set must satisfy. For example, {x : x is an even natural number less than 10}. (Read as: "the set of all x such that x is...)
+
+*   **Subset:** Set 'A' is a subset of set 'B' if every element of 'A' is also an element of 'B'.
+*   **Universal set:** a set that contains all the elements we are interested in for a particular context. It's usually denoted by 'U'.
+
+**Solved Example:**
+
+**Problem:** Let A = {1, 2, 3, 4, 5} and B = {2, 4, 6, 8}. Find: (i) A ∪ B (ii) A ∩ B (iii) A - B
+
+**Solution:**
+
+(i) **A ∪ B (Union of A and B):**  This set contains all elements that are in A, or in B, or in both.
+
+*   List all elements from A: 1, 2, 3, 4, 5
+*   List all elements from B: 2, 4, 6, 8
+*   Combine the lists, removing duplicates: 1, 2, 3, 4, 5, 6, 8
+*   Therefore, A ∪ B = {1, 2, 3, 4, 5, 6, 8}
+
+(ii) **A ∩ B (Intersection of A and B):** This set contains only the elements that are common to both A and B.
+
+*   Compare the elements of A and B.
+*   Identify the common elements: 2 and 4.
+*   Therefore, A ∩ B = {2, 4}
+
+(iii) **A - B (Difference of A and B):** This set contains elements that are in A but *not* in B.
+
+*   Start with set A: {1, 2, 3, 4, 5}
+*   Remove any elements that are also in B (which are 2 and 4).
+*   Therefore, A - B = {1, 3, 5}
+
+### Solved Examples ###
+Okay, here's some educational content based on the provided NCERT exercises on Sets:
+
+**Summary:**
+
+This material covers the fundamentals of set theory. It includes identifying sets, representing them in roster and set-builder forms, understanding different types of sets (finite, infinite, empty), and performing operations on sets like union, intersection, and complement. The exercises also touch upon subsets, power sets, and Venn diagrams.
+
+**Definitions (Key Concepts Explained):**
+
+*   **Set:** A well-defined collection of distinct objects. "Well-defined" means there's a clear rule to determine if an object belongs to the collection or not.
+
+*   **Roster Form:** Listing all elements of a set within curly braces { }.  Example: The set of even numbers less than 10 is {2, 4, 6, 8}.
+
+*   **Set-Builder Form:** Describing the elements of a set by a property they share. Example: {x : x is an even natural number less than 10}.  This reads as "the set of all x such that x is an even natural number less than 10."
+
+*   **Empty Set (∅ or {}):** A set containing no elements.
+
+*   **Finite Set:** A set with a limited number of elements.
+
+*   **Infinite Set:** A set with an unlimited number of elements.
+
+*   **Subset (⊆):** Set A is a subset of set B if every element of A is also an element of B.
+
+*   **Union (∪):** The union of sets A and B (A ∪ B) is the set containing all elements that are in A, or in B, or in both.
+
+*   **Intersection (∩):** The intersection of sets A and B (A ∩ B) is the set containing all elements that are common to both A and B.
+
+*   **Complement (A'):** The complement of set A (A') (w.r.t Universal set U) is the set containing all elements in the universal set U that are not in A.
+
+**Solved Example:**
+
+**Problem:**
+
+Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} be the universal set.
+A = {2, 4, 6, 8}, B = {1, 3, 5, 7, 9}, and C = {3, 4, 5, 6}.
+
+Find: (i) A ∪ B (ii) A ∩ C (iii) B' (iv) (A ∪ C)'
+
+**Solution:**
+
+**(i) A ∪ B (Union of A and B):**
+
+1.  **Identify the elements:** List all elements in set A and set B. A = {2, 4, 6, 8}, B = {1, 3, 5, 7, 9}.
+2.  **Combine the elements:** Write a new set containing all elements from both A and B, without repeating any element.
+3.  **Result:** A ∪ B = {1, 2, 3, 4, 5, 6, 7, 8, 9}
+
+**(ii) A ∩ C (Intersection of A and C):**
+
+1.  **Identify the elements:** A = {2, 4, 6, 8}, C = {3, 4, 5, 6}.
+2.  **Find common elements:** Identify the elements that are present in both set A and set C.
+3.  **Result:** A ∩ C = {4, 6}
+
+**(iii) B' (Complement of B):**
+
+1.  **Identify B and U :** B = {1, 3, 5, 7, 9} , U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+2.  **Find elements in U but not in B:** Write a set containing all elements from the universal set U that are *not* present in set B.
+3.  **Result:** B' = {2, 4, 6, 8, 10}
+
+**(iv) (A ∪ C)' (Complement of A union C):**
+
+1.  **Find A ∪ C:** A = {2, 4, 6, 8}, C = {3, 4, 5, 6}.  A ∪ C = {2, 3, 4, 5, 6, 8}.
+2.  **Identify U :** U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+3.  **Find elements in U but not in (A ∪ C):** Form a set containing all the elements of the universal set U that are *not* in the set (A ∪ C).
+4.  **Result:** (A ∪ C)' = {1, 7, 9, 10}
+
+### Exercises ###
+1.1
+1.    (i),
+(iv),  (v),  (vi),  (vii)  and  (viii) are sets.
+2.
+(i)
+∈  (ii) ∉  (iii) ∉
+(vi) ∈  (v) ∈  (vi) ∉
+3.
+(i)
+1.2
+1.
+(i),
+(iii),   (iv)
+2.
+(i)
+1.3
+1.
+(i)
+⊂
+(ii) ⊄
+(iii) ⊂
+(iv)
+⊄
+(v) ⊄
+    (vi) ⊂
+(vii)
+⊂
+2.
+(i)
+1.4
+1.
+(i)
+1.5
+1.
+(i)
+{ 5, 6, 7, 8, 9}
+(ii) {1, 3, 5, 7, 9 }
+(iii) {7, 8, 9 }
+(iv)
+{ 5, 7, 9 }
+(v) { 1, 2, 3, 4 }
+(vi) { 1, 3, 4, 5, 6, 7, 9 }
+2.
+(i)
+{ d, e, f, g, h}
+(ii) { a, b, c, h }
+(iii) { b, d , f, h }
+(iv)
+{ b, c, d, e }
+3.
+(i)
+{ x : x is an odd natural number }
+(ii)
+{ x : x  is an even natural number }
+(iii)
+{ x : x  ∈ N and x is not a multiple of 3 }
+2024-25
+on Chapter 1
+1.
+2.1
+1.
+2.2
+1.
+2.3
+1.
+(i)
+on Chapter 2
+2.
+2.1
+3.  Domain of function is set of real numbers except 6 and 2.
+4.
+3.1
+1.
+(i)
+5π
+36
+(ii) 19π
+72
+–
+(iii)  4π
+3
+(iv) 26π
+9
+2.
+(i)
+39° 22′ 30″
+(ii) –229° 5′ 27″     (iii)  300°
+(iv) 210°
+3.
+12π
+         4. 12° 36′
+5. 20π
+3
+6.   5 : 4
+7.
+(i)
+2
+15
+(ii) 1
+5
+ (iii) 7
+25
+3.2
+1.
+3
+2
+1
+3.3
+5.
+(i)
+3
+1
+2 2
++
+    (ii) 2 – 
+3
+on Chapter 3
+8.
+2 5
+5 1
+5
+5
+2
+,
+,
+9.
+6
+3
+2
+3
+3
+, –
+, –
+10.
+8
+2 15
+8
+2 15 4
+15
+4
+4
+,
+,
++
+−
++
+4.1
+1.
+3 + i0
+2.
+0 + i 0
+3.
+0+i 1
+4.
+14 + 28 i
+5.
+2 – 7 i
+6.
+19
+21
+5
+10
+on Chapter 4
+1.
+2 – 2 i
+3.
+307 599
+442
+5.1
+  1.
+(i)
+{1, 2, 3, 4}
+(ii)
+{... – 3, – 2, –1, 0, 1,2,3,4,}
+  2.
+(i)
+on Chapter 5
+1.
+[2, 3]
+2.
+(0, 1]
+3.
+[– 4, 2]
+4.
+(– 23, 2]
+5.
+80
+10
+3
+3
+–
+–
+,
+
+
+
+
+
+
+6.
+11
+1 3
+,
+
+
+
+
+
+
+7.
+(–5, 5)
+8.
+(–1, 7)
+9.
+(5, ∞)
+10.
+[– 7, 11]
+11.
+6.1
+1.
+(i) 125, (ii) 60.
+2.  108
+3.
+5040
+4.
+336
+5.
+8
+6.   20
+6.2
+1.
+(i) 40320, (ii) 18
+2.
+30, No
+3.
+28
+4.
+64
+5.
+(i) 30, (ii) 15120
+6.3
+1.
+504
+2.
+4536
+3.
+60
+4.
+120, 48
+5.
+56
+6.
+9
+7.
+(i) 3,  (ii) 4
+8.
+40320
+2024-25
+6.4
+1.
+45
+2.
+(i) 5, (ii) 6
+3.
+210
+4.
+40
+5.
+2000
+6.
+778320
+7.
+3960
+8.
+200
+9.
+35
+on Chapter 6
+1.
+3600
+2.
+1440
+3.
+(i) 504,  (ii) 588,  (iii) 1632
+4.
+907200
+5.
+120
+6.
+50400
+7.
+420
+8.
+4C1×48C4
+9.
+2880
+10.
+22C7+22C10
+11.
+151200
+7.1
+1.
+1–10x + 40x2 – 80x3 + 80x4 – 32x5
+2.
+5
+3
+5
+3
+32
+40
+20
+5
+5
+8
+32
+on Chapter 7
+2.
+396 6
+3.
+2a8 + 12a6 – 10a4 – 4a2 + 2
+4.
+0.9510
+5.
+2
+3
+4
+2
+3
+4
+16
+8
+32
+16
+4
+5
+2
+2
+16
+8.1
+1.
+3, 8, 15, 24, 35
+2.
+1
+2 3 4 5
+2
+3 4 5 6
+,
+,
+,
+,
+3.
+2, 4, 8, 16 and 32
+4.
+1 1 1 5
+7
+8.2
+1.
+20
+5
+5
+2
+2n
+,
+2.
+3072
+4.
+– 2187
+5.
+(a) 13th ,   (b) 12th,   (c) 9th
+6.
+± 1
+7.
+(
+)
+20
+1 1
+0 1
+6
+.
+
+
+−
+
+
+8.
+(
+)
+2
+7
+3
+1
+3
+1
+2
+on Chapter 8
+1.
+4
+2.
+160; 6
+3.
+± 3
+4.
+8, 16, 32
+5.
+4
+11.
+(i) 
+(
+)
+50
+5
+10
+1
+81
+9
+9.1
+1.
+121square unit.
+2
+2.
+(0, a), (0, – a) and (
+)
+3 0
+−
+9.2
+1.
+9.3
+1.
+(i)
+1
+1
+0
+0;
+7
+7
+on Chapter 9
+1.
+(a) 3, (b) ± 2, (c) 6 or 1
+2.
+2
+3
+6
+3
+2
+6
+10.1
+1. x2 + y2 – 4y = 0
+2. x2  + y2 + 4x – 6y –3 = 0
+3. 36x2  + 36y2 – 36x – 18y + 11 = 0
+4.
+10.2
+1. F (3, 0), axis - x - axis, directrix x = – 3, length of the Latus rectum = 12
+2. F (0, 3
+2 ), axis - y - axis, directrix y = –  3
+2 ,  length of the Latus rectum = 6
+3. F (–2, 0), axis - x - axis, directrix x =  2, length of the Latus rectum = 8
+2024-25
+10.3
+1. F (±
+20 ,0); V (± 6, 0); Major axis = 12; Minor axis = 8 , e  = 
+20
+6
+,
+ Latus rectum = 16
+3
+2. F (0, ±
+21 ); V (0, ± 5); Major axis = 10; Minor axis = 4 , e  =  
+21
+5
+;
+10.4
+1.
+on Chapter 10
+1.
+11.1
+1.
+11.2
+1.
+(i) 2 5
+(ii)
+43 (iii) 2 26
+(iv) 2 5
+4.
+on Chapter 11
+1.
+(1, – 2, 8)
+2.
+7
+34 7
+,
+,
+3.
+12.1
+1.
+6
+2.
+22
+π
+7
+
+
+−
+
+
+
+
+3.
+π
+4.
+19
+2
+5.
+1
+2
+−
+6.
+5
+7.
+11
+4
+8.
+108
+7
+9.
+12.2
+1.
+20
+2.
+1
+3.
+99
+4.
+(i) 3x2
+(ii)
+2x – 3
+(iii)
+3
+2
+on Chapter 12
+1.
+(i) – 1  (ii) 
+2
+1
+13.1
+1.
+3
+2.
+8.4
+3.
+2.33
+4.
+7
+5.
+6.32
+6.
+16
+7.
+3.23
+8.
+5.1
+9.
+157.92
+10.
+11.28
+11.
+10.34
+12.
+7.35
+13.2
+1.
+9, 9.25
+2.
+2
+1
+1
+2
+12
+on Chapter 13
+1.
+4, 8
+2.
+6, 8
+3.
+24, 12
+5.
+(i) 10.1,  1.99    (ii) 10.2,  1.98
+6.
+20, 3.036
+14.1
+1.
+14.2
+1.
+(a) Yes     (b) Yes     (c) No    (d) No    (e) No
+2.
+3
+4
+3.
+(i) 1
+2  (ii) 2
+3  (iii) 1
+6  (iv) 0  (v) 5
+6
+4.
+(a) 52  (b) 1
+52  (c) 
+1
+1
+(i)
+(ii)
+13
+2
+5.
+1
+1
+(i)
+(ii)
+12
+12
+6.
+3
+5
+7.
+on Chapter 14
+1.
+(i) 
+20
+5
+60
+5
+

@@ -1,0 +1,73 @@
+### Summary ###
+As a branch of biology, Ecology is the study of the relationships of
+
+### Definitions ###
+Okay, here's a breakdown of the key concepts from those Ecology and Populations chapters, along with some definitions and a solved example:
+
+**Summary:**
+
+This unit explores how organisms interact with each other and their environment, forming complex systems. It introduces ecology as a way to understand these interactions at different levels: individual organisms, populations, communities, ecosystems, and biomes. Key concepts include population growth (exponential and logistic models), population attributes (birth/death rates, sex ratio, age structure), and interspecies interactions (competition, predation, parasitism, mutualism, commensalism). The unit also highlights the importance of understanding these ecological principles in the face of environmental degradation and the need for conservation.
+
+**Definitions:**
+
+*   **Ecology:** The study of how organisms interact with each other *and* their physical surroundings (the abiotic environment). It's about understanding the relationships that connect living things.
+*   **Population:** A group of individuals of the *same* species living in a specific area, capable of interbreeding (or sharing genes through asexual reproduction). It's more than just a bunch of the same thing; they share resources and influence each other.
+*   **Community:** A group of *different* populations of different species living and interacting in the same area. It's all the living things in a place, considered together.
+*   **Biome:** A large-scale community of organisms, primarily defined by dominant plant types and climate conditions.
+*   **Population Density (N):** The number of individuals of a species per unit area or volume in a habitat. It's a measure of how crowded a population is.
+*   **Birth Rate:** The number of new individuals born into a population per unit of time, expressed as a proportion of the population size.
+*   **Death Rate:** The number of individuals dying in a population per unit of time, expressed as a proportion of the population size.
+*   **Carrying Capacity (K):** The maximum population size that an environment can sustainably support, given the available resources.
+*   **Exponential Growth:** Population growth that occurs when resources are unlimited, leading to a rapid increase in population size. Represented by a J-shaped curve.
+*   **Logistic Growth:** Population growth that occurs when resources are limited, resulting in a slowing growth rate as the population approaches carrying capacity. Represented by an S-shaped curve.
+*   **Interspecific Interactions:** Relationships between different species in a community, which can be beneficial (+), harmful (-), or neutral (0) to each species involved.
+*   **Mutualism (+/+):** A relationship where both species benefit.
+*   **Competition (-/-):** A relationship where both species are harmed, usually because they are competing for the same limited resources.
+*   **Predation (+/-):** A relationship where one species (the predator) benefits by killing and eating another species (the prey).
+*   **Parasitism (+/-):** A relationship where one species (the parasite) benefits by living in or on another species (the host) and harming it.
+*   **Commensalism (+/0):** A relationship where one species benefits, and the other species is neither harmed nor helped.
+*   **Amensalism (-/0):** A relationship where one species is harmed, and the other species is unaffected.
+
+**Solved Example:**
+
+**Problem:**
+
+A population of rabbits in a field starts with 50 individuals.  Over the course of a year, 120 rabbits are born, and 70 rabbits die.  Additionally, 10 rabbits immigrate into the field, and 5 rabbits emigrate out. What is the population size at the end of the year?
+
+**Solution:**
+
+1.  **Identify the variables:**
+    *   Initial population (N<sub>t</sub>) = 50
+    *   Births (B) = 120
+    *   Deaths (D) = 70
+    *   Immigration (I) = 10
+    *   Emigration (E) = 5
+
+2.  **Use the population change equation:**
+    *   N<sub>t+1</sub> = N<sub>t</sub> + (B + I) - (D + E)
+
+3.  **Plug in the values:**
+    *   N<sub>t+1</sub> = 50 + (120 + 10) - (70 + 5)
+
+4.  **Calculate the result:**
+    *   N<sub>t+1</sub> = 50 + 130 - 75
+    *   N<sub>t+1</sub> = 105
+
+**Answer:** The population size at the end of the year is 105 rabbits.
+
+### Solved Examples ###
+If in a pond there were 20 lotus plants last year and through
+of
+of commensalism.  The
+of commensalism is the interaction
+for each:
+(a) Commensalism
+(b) Parasitism
+(c) Camouflage
+(d) Mutualism
+(e) Interspecific competition
+8.
+
+### Exercises ###
+No exercises found.
+

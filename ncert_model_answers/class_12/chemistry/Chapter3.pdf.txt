@@ -1,0 +1,128 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's a breakdown of the NCERT Chapter on Chemical Kinetics, focusing on clear definitions, a summary, and a solved example.
+
+**Summary of Chemical Kinetics**
+
+Chemical kinetics is the study of reaction rates, factors affecting them, and the mechanisms by which reactions occur. It helps us understand *how fast* a reaction proceeds and *what factors* influence its speed.  Thermodynamics tells us *if* a reaction is possible, but kinetics tells us *how quickly* it will happen. Key concepts include rate laws, reaction order, rate constants, activation energy, and reaction mechanisms.  Collision theory provides a model for how reactions occur at the molecular level.
+
+**Definitions of Key Concepts**
+
+*   **Rate of Reaction:**  How quickly reactants are consumed or products are formed. It's measured as the change in concentration per unit time (e.g., mol L<sup>-1</sup> s<sup>-1</sup>).
+
+*   **Rate Law:**  An equation that expresses the rate of a reaction in terms of the concentrations of reactants.  It's determined *experimentally*, not from the balanced chemical equation.  Example: `Rate = k[A]^x[B]^y`
+
+*   **Reaction Order:**  The power to which a reactant's concentration is raised in the rate law.  It indicates how much the rate changes as you change the concentration of that reactant.  Orders are usually 0, 1, or 2, but can be fractional. The *overall order* is the sum of the individual orders.
+
+*   **Rate Constant (k):**  The proportionality constant in the rate law.  It's a measure of how fast the reaction proceeds at a given temperature.  Its units depend on the overall reaction order.
+
+*   **Elementary Reaction:** A reaction that occurs in a single step.
+
+*   **Complex Reaction:** A reaction that occurs in multiple steps.
+
+*   **Molecularity:** The number of molecules, atoms, or ions that participate in an elementary reaction.
+
+*   **Rate Determining Step:** In a multi-step reaction, the slowest step determines the overall rate of the reaction.
+
+*   **Activation Energy (Ea):**  The minimum energy that colliding molecules must possess for a reaction to occur. It represents the energy barrier that must be overcome for the reaction to proceed.
+
+*   **Arrhenius Equation:** `k = A * exp(-Ea / RT)`.  This equation describes the relationship between the rate constant (k), activation energy (Ea), temperature (T), and the gas constant (R).  'A' is the pre-exponential factor (or frequency factor).
+
+*   **Collision Theory:**  A theory that states that reactions occur when reactant molecules collide with sufficient energy (greater than or equal to the activation energy) and with the proper orientation.
+
+*   **Half-life (t1/2):** The time required for the concentration of a reactant to decrease to one-half of its initial value.
+
+*   **Pseudo-First Order Reaction:** A reaction that is actually of higher order but behaves as first order because one or more reactants are present in large excess.
+
+**Solved Example**
+
+**Problem:**
+
+The reaction A → B + C is a first-order reaction. If the initial pressure of A is 800 mm Hg and the total pressure after 20 minutes is 900 mm Hg, calculate the rate constant k.
+
+**Solution:**
+
+1.  **Write the reaction and pressures:**
+
+    A (g) → B (g) + C (g)
+
+    Initial: 800 mm Hg 0 0
+
+    Change: -p +p +p
+
+    At t=20 min: 800-p p p
+
+2.  **Calculate 'p':**
+    Total pressure at 20 min = (800 - p) + p + p = 900 mm Hg
+
+    800 + p = 900
+
+    p = 100 mm Hg
+
+3.  **Calculate the partial pressure of A at 20 minutes:**
+
+    P<sub>A</sub> = 800 - p = 800 - 100 = 700 mm Hg
+
+4.  **Apply the integrated rate law for a first-order reaction in terms of pressure:**
+
+    k = (2.303 / t) \* log(P<sub>0</sub> / P<sub>t</sub>)
+
+    Where:
+
+    *   t = time = 20 minutes
+
+    *   P<sub>0</sub> = initial pressure of A = 800 mm Hg
+
+    *   P<sub>t</sub> = pressure of A at time t = 700 mm Hg
+
+5.  **Substitute the values and calculate k:**
+
+    k = (2.303 / 20 min) \* log(800 / 700)
+
+    k = (2.303 / 20) \* log(1.143)
+
+    k = (2.303 / 20) \* 0.058
+
+    k = 0.00667 min<sup>-1</sup>
+
+**Therefore, the rate constant k for the reaction is 0.00667 min<sup>-1</sup>.**
+
+### Solved Examples ###
+Example 3.1
+Example 3.1
+Solution
+Example 3.2
+Example 3.2
+Rate
+NO(g) + O2(g) ® 2NO2 (g)
+Example 3.3
+Example 3.3
+Solution
+Example 3.4
+Example 3.4
+Solution
+of zero order reaction.
+of first order reaction.
+Example 3.5
+Example 3.5
+Solution
+Example 3.6
+Example 3.6
+Solution
+Example 3.7
+Example 3.7
+Solution
+Example 3.8
+Example 3.8
+Solution
+Example 3.10
+Example 3.10
+Example 3.9
+Example 3.9
+Example 3.9
+
+### Exercises ###
+No exercises found.
+

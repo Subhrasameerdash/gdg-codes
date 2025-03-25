@@ -1,0 +1,55 @@
+### Summary ###
+The salient features of the chapter are –
+® The conditional probability of an event E, given the occurrence of the event F
+
+### Definitions ###
+1 If  E and F are two events associated with the same sample space of a
+of
+can also be used in
+2 Two events E and F are said to be independent, if
+we need to have P (E) ≠ 0 and  P(F) ≠ 0
+3 Let E and F be two events associated with the same random experiment,
+and
+
+### Solved Examples ###
+If P(A) = 7
+13 , P(B) = 9
+13  and P(A ∩ B) = 4
+13 , evaluate P(A|B).
+A family has two children. What is the probability that both the children are
+Ten cards  numbered 1 to 10 are placed in a box, mixed up thoroughly and
+In a school, there are 1000 students, out of which 430 are girls. It is known
+A die is thrown three times. Events A and B are defined as below:
+A die is thrown twice and the sum of the numbers appearing is observed
+Example 7 Consider the experiment of tossing a coin. If the coin shows head, toss it
+Example 8  An urn contains 10 black and 5 white balls. Two balls are drawn from the
+illustrates the extension of multiplication rule of probability
+Three cards are drawn successively, without replacement from a pack of
+52 well shuffled cards. What is the probability that first two cards are kings and the
+A die is thrown. If E is the event ‘the number appearing is a multiple of
+3’ and F be the event ‘the number appearing is even’ then find whether E and F are
+An unbiased die is thrown twice. Let the event A be ‘odd number on the
+Three coins are tossed simultaneously. Consider the event E ‘three heads
+Prove that if E and F are independent events, then so are the events
+If A and B are two independent events, then the probability of occurrence
+A person has undertaken a construction job. The probabilities are 0.65
+Bag I contains 3 red and 4 black balls while another Bag II contains 5 red
+Given three identical boxes I, II and III, each containing two coins. In
+Suppose that the reliability of a HIV test is specified as follows:
+In a factory which manufactures bolts, machines A, B and C manufacture
+A doctor is to visit a patient. From the past experience, it is known that
+A man is known to speak truth 3 out of 4 times. He throws a die and
+Coloured balls are distributed in four boxes as shown in the following table:
+A and B throw a die alternatively  till one of them gets a ‘6’ and wins the
+If a machine is correctly set up, it produces 90% acceptable items. If it is
+
+### Exercises ###
+13.1
+1.
+13.2
+1.
+13.3
+1.
+on Chapter 13
+1.
+

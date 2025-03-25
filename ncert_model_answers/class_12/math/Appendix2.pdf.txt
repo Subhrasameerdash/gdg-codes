@@ -1,0 +1,109 @@
+### Summary ###
+Okay, here's a breakdown of the chapter on Mathematical Modelling:
+
+**Summary:**
+
+This chapter introduces mathematical modelling as a way to translate real-world problems into mathematical terms, solve them using mathematical tools (like matrices, calculus, and linear programming), and then interpret the results back in the context of the original problem. It emphasizes the importance of understanding the physical situation, identifying key variables and parameters, making reasonable assumptions, and validating the model against real-world observations. The chapter also highlights the power and limitations of mathematical modelling, noting its successful applications in various fields while acknowledging the challenges posed by complex situations and the need for careful parameter selection.
+
+**Definition of Mathematical Modelling:**
+
+Mathematical modelling is essentially the process of building a simplified representation of a real-world situation using mathematical concepts and language. It involves:
+
+1.  **Identifying a problem:** Recognizing a real-world situation you want to understand or solve.
+2.  **Formulating a model:** Expressing the problem mathematically by defining variables, parameters, relationships, and equations that capture the key aspects of the situation.
+3.  **Solving the model:** Using mathematical techniques to find a solution to the formulated equations.
+4.  **Interpreting the results:** Translating the mathematical solution back into the real-world context and drawing meaningful conclusions.
+5.  **Validating the model:** Comparing the model's predictions with real-world data or observations to assess its accuracy and usefulness. If needed the model can be refined and improved.
+
+**Solved Example:**
+
+**Problem:** A farmer wants to determine the optimal amount of fertilizer to use on their crop to maximize yield. Using too little fertilizer will limit growth, while using too much can be harmful.
+
+**Solution:**
+
+**Step 1: Identify the physical situation.**
+The goal is to find the fertilizer amount that leads to the highest crop yield.
+
+**Step 2: Formulate a mathematical model.**
+*   Let `x` represent the amount of fertilizer used (in kg per hectare).
+*   Let `Y(x)` represent the crop yield (in tons per hectare) as a function of fertilizer amount.
+*   Assume that the relationship between fertilizer and yield can be approximated by a quadratic function: `Y(x) = a*x^2 + b*x + c`, where `a`, `b`, and `c` are parameters that depend on the crop, soil, and other factors.
+
+**Step 3: Find the solution of the mathematical problem.**
+
+To maximize the yield Y(x), we need to find the value of x where the derivative of Y(x) is zero:
+
+`dY/dx = 2ax + b = 0`
+Solving for x, we get: `x = -b / (2a)`
+Assuming we have previously gathered real world data and have estimated that `a = -0.05` (negative as beyond a certain point extra fertilizer decreases yield) and `b = 0.5`, then the optimal fertilizer amount is:
+
+`x = -0.5 / (2 * -0.05) = 5 kg per hectare`
+
+**Step 4: Interpret the result in terms of the original problem.**
+
+The mathematical model suggests that the farmer should use 5 kg of fertilizer per hectare to maximize crop yield.
+
+**Step 5: Validate the model.**
+
+The farmer should conduct field trials by applying different amounts of fertilizer (including 5 kg/hectare) and measuring the resulting crop yields. Comparing the actual yields with the model's predictions will help to validate the model and refine the parameters `a`, `b`, and `c` for better accuracy. If the model is innacurate, a different equation may be trialled and this process repeated.
+
+### Definitions ###
+**Summary:**
+
+This chapter introduces mathematical modeling as a way to use math to understand and solve real-world problems. It outlines the process, from identifying a problem to testing the model's accuracy, and demonstrates how techniques like matrices, calculus, and linear programming can be applied. It also highlights the limitations of mathematical modeling, such as parameter selection and complex situations.
+
+**Definitions:**
+
+*   **Mathematical Modeling:** The process of representing real-world situations and problems using mathematical concepts and language. It involves creating a simplified version of reality to analyze, understand, and predict outcomes.
+*   **Parameters/Variables:** Quantities or factors that influence the situation being modeled. Variables can change, while parameters are usually fixed or constant within the model.
+*   **Physical Insights:** The real-world understanding and context needed to solve problems effectively, including physical laws and symbols.
+*   **Model Validation:** The process of checking if the model's predictions match real-world observations. If not, the model needs to be adjusted.
+
+**Solved Example:**
+
+**Problem:** A farmer wants to determine the optimal amount of fertilizer to use on their tomato crop. Using too little fertilizer will result in a low yield, while using too much will damage the plants and be a waste of money. The farmer knows that the yield increases with fertilizer up to a certain point, then decreases.
+
+**Solution:**
+
+1.  **Identify the Problem:** Determine the amount of fertilizer to maximize the tomato yield.
+
+2.  **Formulate the Model:**
+
+    *   Let `x` = amount of fertilizer (in kg/hectare).
+    *   Let `Y(x)` = tomato yield (in tons/hectare).
+    *   Assume the relationship between fertilizer and yield can be represented by a quadratic function: `Y(x) = ax² + bx + c` (where a, b, and c are constants).
+
+3.  **Gather Data:** The farmer conducts experiments with different fertilizer amounts and records the corresponding tomato yields.
+
+4.  **Determine Constants:** Using the data, the farmer can use regression analysis (or similar methods) to estimate the values of a, b, and c in the quadratic equation.
+    *   For example, let's say the equation becomes `Y(x) = -0.1x² + x + 2`.
+
+5.  **Find the Optimal Fertilizer Amount:** The maximum yield occurs at the vertex of the quadratic function. The x-value of the vertex is given by `x = -b / (2a)`.
+    *   In this case, `x = -1 / (2 * -0.1) = 5`. Therefore, the optimal amount of fertilizer is 5 kg/hectare.
+
+6.  **Interpret the Result:** The model suggests that using 5 kg of fertilizer per hectare will result in the maximum tomato yield.
+
+7.  **Validate the Model:** The farmer applies 5 kg/hectare of fertilizer to a test plot and compares the actual yield to the yield predicted by the model. They also observe the health of the tomato plants. If the actual yield is significantly different from the prediction or the plants show signs of damage, the model needs to be adjusted.
+
+### Solved Examples ###
+Find the height of a given tower using mathematical modelling.
+Let a business firm produces three types of products P1, P2 and P3 that
+Interpret the model in Example 2, in case
+3
+4
+0
+10
+15
+6
+by A1 given by
+Example 4 Suppose P1, P2, P3 and R1, R2, R3 are as in Example 2. Let the firm has
+330 units of R1, 455 units of R2 and 140 units of R3 available with it and let the amount
+), he/she is unable to meet these purchase orders as
+A manufacturer of medicines is preparing a production plan of medicines
+Suppose a company plans to produce a new product that incur some costs
+(fixed and variable) and let the company plans to sell the product at a fixed price.
+Let a tank contains 1000 litres of brine which contains 250 g of salt per
+
+### Exercises ###
+No exercises found.
+

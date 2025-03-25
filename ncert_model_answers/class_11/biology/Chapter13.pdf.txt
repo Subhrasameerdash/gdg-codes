@@ -1,0 +1,48 @@
+### Summary ###
+Growth is one of the most conspicuous events in any living organism. It is
+
+### Definitions ###
+Okay, here's a breakdown of the key concepts from the plant growth and development chapter, explained simply:
+
+**Summary:**
+
+This chapter explores how plants grow, change, and develop from a single cell into complex organisms. It covers growth patterns, the roles of different plant tissues, and the influence of both internal factors (like hormones) and external factors (like light and temperature) on plant development.
+
+**Definitions:**
+
+*   **Growth:** An *irreversible* increase in size or mass. It's not just swelling (like wood in water), but actual new material being added.
+
+*   **Differentiation:** The process where cells become specialized to perform specific jobs (e.g., a cell becoming a xylem cell to transport water).
+
+*   **Dedifferentiation:** When a specialized cell *reverts* to a less specialized state, regaining the ability to divide. Think of it as a cell "forgetting" its job to become a general-purpose cell again.
+
+*   **Redifferentiation:** After dedifferentiation, cells re-specialize and take on a new, specific function.
+
+*   **Development:** The entire lifecycle of a plant, from seed germination to death. It includes both growth and differentiation.
+
+*   **Plant Growth Regulators (PGRs):** Chemical messengers (hormones) that control various aspects of plant growth and development. Examples include auxins (promote growth), gibberellins (increase stem length), cytokinins (promote cell division), ethylene (fruit ripening), and abscisic acid (stress response).
+
+*   **Photoperiodism:** the response of plants to the relative length of day and night, particularly in relation to flowering.
+
+**Solved Example:**
+
+Imagine you're a farmer wanting bigger apples. You know gibberellins can increase fruit size. You have two apple trees: Tree A yields apples that average 7cm in diameter, and Tree B hasn't been treated. After applying gibberellins to Tree B, the apples average 9cm in diameter.
+
+1.  **Calculate the absolute growth rate increase due to gibberellins.**
+
+    *   Absolute growth increase = Diameter of apples with gibberellin - Diameter of apples with no gibberellin
+    *   Absolute growth increase = 9cm - 7cm = 2cm
+
+2.  **Express the relative increase in fruit size.**
+
+    *   Relative Growth Rate = (Absolute growth increase / Original size ) \* 100
+    *   Relative Growth Rate = (2cm / 7cm) \* 100 = 28.57%
+
+*This shows that treating Tree B with gibberellins increased the average apple diameter by 2cm, a 28.57% increase compared to the original average size of apples from Tree A.*
+
+### Solved Examples ###
+of plasticity.
+
+### Exercises ###
+No exercises found.
+

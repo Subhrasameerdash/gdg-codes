@@ -1,0 +1,40 @@
+### Summary ###
+In this Chapter, we studied about the axiomatic approach of probability. The main
+
+### Definitions ###
+Any subset E of a sample space S is called an event.
+14
+of probability that
+(i)
+0 ≤ P (ωi) ≤ 1 for each ωi ∈ S
+(ii)
+of probability of an event, we have
+(
+)
+(
+)
+
+### Solved Examples ###
+in the experiment of tossing two coins, a sample space is
+Consider the experiment of rolling a die. Let A be the event ‘getting a
+Two dice are thrown and the sum of the numbers which come up on the
+A coin is tossed three times, consider the following events.
+Let a sample space be S = {ω1, ω2,..., ω6}.Which of the following
+One card is drawn from a well shuffled deck of 52 cards. If each outcome
+A bag contains 9 discs of which 4 are red, 3 are blue and 2 are yellow. The
+Two students Anil and Ashima appeared in an examination. The probability
+A committee of two persons is selected from two men and two women.
+On  her vacations Veena visits four cities (A, B, C and D) in a random
+Find the probability that when a hand of 7 cards is drawn from a well
+If A, B, C are three events associated with a random experiment,
+In a relay race there are five teams A, B, C, D and E.
+(a)
+
+### Exercises ###
+14.1
+1.
+14.2
+1.
+on Chapter 14
+1.
+

@@ -1,0 +1,44 @@
+### Summary ###
+Points to Ponder
+
+### Definitions ###
+here.
+of a rigid body that no real body is truly rigid,
+the position of the
+of the centre of
+of Vector Product
+of angular momentum to
+of
+Eq. (6.34), to
+of ω = dθ/dt we may
+the moment of inertia of the body
+
+### Solved Examples ###
+of
+of this kind of
+Find the centre of mass of
+Find the centre of mass of a
+Find the centre of mass of a
+Find the scalar and vector
+of opening or
+Find the torque of a force  
++ 
+ – 
+ about the origin. The force acts on
+Show that the angular
+gives a proof of this result
+is a
+Show that moment of a
+of a lever. Two forces F1 and F2, parallel
+A metal bar 70 cm long and
+4.00 kg in mass supported on two knife-
+A 3m long ladder weighing
+20 kg leans on a frictionless wall. Its feet
+Obtain Eq. (6.36) from first
+The angular speed of a
+A cord of negligible mass is
+of this technique is separating the kinetic energy of a system of particles K as
+
+### Exercises ###
+No exercises found.
+

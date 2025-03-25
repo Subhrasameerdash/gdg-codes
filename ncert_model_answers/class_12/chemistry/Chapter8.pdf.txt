@@ -1,0 +1,73 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's a breakdown of the key concepts from the NCERT chapter excerpt you provided, explained in a way that's easy to understand:
+
+**Chapter Summary:**
+
+This chapter dives into the world of aldehydes, ketones, and carboxylic acids – all organic compounds containing a carbonyl group (C=O).  It covers how to name them using both common and IUPAC rules, how they're made, their physical properties (like boiling point and solubility), and the chemical reactions they undergo.  A key focus is on understanding how the structure of these molecules affects their reactivity.
+
+**Key Definitions Explained:**
+
+*   **Aldehydes, Ketones, and Carboxylic Acids:** These are families of organic compounds characterized by the presence of a carbonyl group (C=O).
+
+    *   **Aldehydes:** The carbonyl group is attached to at least one hydrogen atom. Think of it as being at the *end* of a carbon chain.
+    *   **Ketones:** The carbonyl group is attached to *two* carbon atoms. It's in the *middle* of a carbon chain.
+    *   **Carboxylic Acids:** The carbonyl group is attached to a hydroxyl group (-OH). This -COOH group gives these compounds acidic properties.
+
+*   **IUPAC Nomenclature:** This is a standardized system for naming organic compounds. For aldehydes and ketones, it involves finding the longest carbon chain containing the carbonyl group and replacing the "-e" ending of the corresponding alkane with "-al" (for aldehydes) or "-one" (for ketones).  Numbering the chain ensures the carbonyl carbon has the lowest possible number. Carboxylic acids are named by replacing the "-e" of the corresponding alkane with "-oic acid".
+
+*   **Nucleophilic Addition Reactions:** These are reactions where a nucleophile (an electron-rich species) attacks the electrophilic (electron-deficient) carbonyl carbon. The carbonyl group's polarity makes it susceptible to this type of attack. Aldehydes are generally more reactive than ketones in these reactions due to less steric hindrance and electronic factors.
+
+*   **Acidity of Carboxylic Acids:** Carboxylic acids are acidic because they can donate a proton (H+). The resulting carboxylate ion is stabilized by resonance, making it more favorable for the acid to lose the proton. The presence of electron-withdrawing groups near the carboxyl group increases acidity, while electron-donating groups decrease acidity.
+
+*   **Aldol Condensation:** This is a reaction where aldehydes or ketones with alpha-hydrogens (hydrogens on the carbon next to the carbonyl group) react with each other in the presence of a base to form a beta-hydroxy aldehyde or ketone (an aldol or ketol).
+
+**Solved Example Problem:**
+
+**Problem:** Draw the structure and name the major product formed when propanal undergoes an aldol condensation reaction.
+
+**Solution:**
+
+1.  **Identify the alpha-hydrogens:** Propanal (CH3CH2CHO) has two alpha-hydrogens on the carbon atom next to the carbonyl group.
+
+2.  **Aldol Condensation Mechanism:** In the presence of a dilute base, one molecule of propanal will lose an alpha-hydrogen to form an enolate ion (nucleophile). This enolate will attack the carbonyl carbon of another propanal molecule (electrophile).
+
+3.  **Formation of the Aldol:** The nucleophilic attack results in the formation of a beta-hydroxyaldehyde.
+
+4.  **Dehydration (Aldol Condensation):** The aldol product readily loses a molecule of water (dehydration) from the alpha and beta carbons, resulting in the formation of an alpha, beta-unsaturated aldehyde.
+
+5.  **Draw the Structure:**
+
+    The structure of the major product is CH3CH2CH=C(CH3)CHO
+
+6.  **Name the Product:**
+
+    The IUPAC name of the product is 2-methylpent-2-enal.
+
+### Solved Examples ###
+Nomenclature and Structure of Carbonyl Group
+(b) IUPAC names
+Example 8.1
+Example 8.1
+Solution
+Example 8.2
+Example 8.2
+Solution
+Example 8.3
+Example 8.3
+Solution
+Example 8.4
+Example 8.4
+An organic compound (A) with molecular formula C8H8O forms an
+Example 8.5
+Example 8.5
+Write chemical reactions to affect the following transformations:
+(i)
+Reprint 2024-25
+of the reaction in
+
+### Exercises ###
+No exercises found.
+

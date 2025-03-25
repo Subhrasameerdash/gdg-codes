@@ -1,0 +1,62 @@
+### Summary ###
+® An equation involving derivatives of the dependent variable with respect to
+
+### Definitions ###
+will be given later.
+A function F(x, y) is said to be homogeneous function of degree n if
+
+### Solved Examples ###
+Find the order and degree, if defined, of each of the following differential
+Verify that the function y = e– 3x is a solution of the differential equation
+2
+2
+6
+0
+Verify that the function y = a cos x + b sin x, where, a, b ∈ R is a solution
+Find the general solution of the differential equation 
+1
+2
+Find the general solution of the differential equation 
+2
+2
+1
+1
+Find the particular solution of the differential equation 
+2
+4
+Find the equation of the curve passing through the point (1, 1) whose
+Find the equation of a curve passing through the point (–2, 3), given that
+In a bank, principal increases continuously at the rate of 5% per year. In
+Show that the differential equation (x – y) dy
+Show that the differential equation
+Show that the differential equation 2
+2
+0
+Show that the family of curves for which the slope of the tangent at any
+Find the general solution of the differential equation
+Find the general solution of the differential equation 
+2
+2
+(
+0)
+Find the general solution of the differential equation y dx – (x + 2y2) dy = 0.
+Find the particular solution of the differential equation
+Find the equation of a curve passing through the point (0, 1). If the slope
+Verify that the function y = c1 eax cos bx + c2 eax sin bx, where c1, c2 are
+Find the particular solution of the differential equation log
+3
+4
+Solve the differential equation
+(x dy – y dx) y sin
+Solve the differential equation
+(tan–1y  – x) dy = (1 + y2) dx.
+
+### Exercises ###
+9.1
+9.2
+9.3
+9.4
+9.5
+on Chapter 9
+1.
+

@@ -1,0 +1,76 @@
+### Summary ###
+®By a sequence, we mean an arrangement of number in definite order according
+
+### Definitions ###
+Okay, here's a breakdown of the core concepts from the chapter excerpt on Sequences and Series, explained in an easy-to-understand way.
+
+**Summary:**
+
+This chapter introduces sequences, which are ordered lists of numbers or objects. Some sequences follow specific patterns called progressions, like Arithmetic Progressions (A.P.) and Geometric Progressions (G.P.). The chapter covers how to find specific terms in a sequence, calculate the sum of terms in a sequence (series), and explore the relationship between Arithmetic Mean (A.M.) and Geometric Mean (G.M.).
+
+**Definitions:**
+
+*   **Sequence:** Think of a sequence as a line of numbers (or other things) where the order matters. Each item in the line is called a "term."
+
+*   **Term:** Each individual number (or object) in a sequence. We label them like a1 (the first term), a2 (the second term), and so on. 'an' represents the "nth term," which is a general formula for finding any term in the sequence.
+
+*   **Finite Sequence:** A sequence that *ends*. It has a specific, countable number of terms.
+
+*   **Infinite Sequence:** A sequence that goes on *forever*. It never stops.
+
+*   **Series:** A series is what you get when you *add up* the terms of a sequence.
+
+*   **Geometric Progression (G.P.):** A special type of sequence where each term is found by multiplying the previous term by a constant value called the "common ratio."
+
+**Solved Example:**
+
+**Problem:** Consider the sequence defined by a\_n = 3n - 1. Determine if this is an arithmetic progression. Find the first 3 terms and the sum of the first three terms.
+
+**Solution:**
+
+1.  **Check if it is an arithmetic progression:**
+
+*   Calculate the first few terms:
+    *   a\_1 = 3(1) - 1 = 2
+    *   a\_2 = 3(2) - 1 = 5
+    *   a\_3 = 3(3) - 1 = 8
+*   Determine the difference:
+    *   5-2 = 3
+    *   8-5 = 3
+*   So, this is an arithmetic progression since the difference is a constant 3.
+
+2.  **The first three terms:** 2, 5, 8
+
+3.  **Sum of the first three terms:** 2 + 5 + 8 = 15
+
+### Solved Examples ###
+of successive quotients
+Write the first three terms in each of the following sequences defined by
+What is the 20th term of the sequence defined by
+Let the sequence an be defined as follows:
+Find the 10th and nth terms of the G.P. 5, 25,125,… .
+Which term of the G.P., 2,8,32, ... up to n terms is 131072?
+In a G.P., the 3rd term is 24 and the 6th term is 192.Find the 10th term.
+Find the sum of first n terms and the sum of first 5 terms of the geometric
+How many terms of the G.P. 
+3 3
+3 2 4
+, ,
+,... are needed to give the
+The sum of first three terms of a G.P. is  13
+12  and their product is – 1.
+Find the sum of the sequence 7, 77, 777, 7777, ... to n terms.
+A person has 2 parents, 4 grandparents, 8 great grandparents, and so on.
+Insert three numbers between 1 and 256 so that the resulting sequence
+ is a G.P.
+If A.M. and G.M. of two positive numbers a and b are 10 and 8,
+If a, b, c, d and p are different real numbers such that
+(a2 + b2 + c2)p2 – 2(ab + bc + cd) p + (b2 + c2 + d2) ≤ 0, then show that a, b, c and d
+
+### Exercises ###
+8.1
+8.2
+1.
+On Chapter 8
+1.
+

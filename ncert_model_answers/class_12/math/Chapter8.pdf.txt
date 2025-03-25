@@ -1,0 +1,68 @@
+### Summary ###
+® The area of the region bounded by the curve y = f (x), x-axis and the lines
+
+### Definitions ###
+Okay, here's educational content based on the provided NCERT chapter extract, focusing on explaining the concepts in my own words and creating a new solved example:
+
+**Chapter 8: Application of Integrals - Definitions and Concepts**
+
+**Summary:**
+
+This chapter explores how definite integrals can be used to calculate areas of regions bounded by curves, lines, and the axes. It builds upon the understanding of definite integrals as the limit of a sum (from the previous chapter). We'll learn how to find the area under simple curves, between curves, and within shapes like circles, parabolas, and ellipses. The core idea is to divide the area into infinitely small strips, calculate the area of each strip using integration, and then add them up to find the total area.
+
+**Key Definitions and Concepts:**
+
+*   **Area Under a Curve:** Imagine a curve *y = f(x)* plotted on a graph. The area "under" the curve between two vertical lines *x = a* and *x = b*, and above the x-axis, can be found using a definite integral. This is like summing up the areas of many tiny rectangles squeezed between the curve and the x-axis. The formula is:
+
+    Area = ∫\[a to b] *f(x) dx*
+
+*   **Elementary Area:** This refers to the area of one of those infinitely thin rectangles mentioned above. It's represented as *dA = y dx* (or *dA = x dy* if we're using horizontal strips).
+
+*   **Area Bounded by a Curve and the Y-axis:** If the area is bounded by a curve *x = g(y)*, the y-axis, and two horizontal lines *y = c* and *y = d*, we integrate with respect to *y*:
+
+    Area = ∫\[c to d] *g(y) dy*
+
+*   **Area When the Curve is Below the X-axis:** If a portion of the curve lies below the x-axis, the integral will give a negative value. Remember that area is always positive, so we take the absolute value of the integral for that portion.
+
+*   **Area of Complex Shapes:** When a curve crosses the x-axis, dividing the area into separate parts above and below the axis, we need to calculate the area of each part separately (taking the absolute value for the parts below the x-axis) and then add them together.
+
+**Solved Example:**
+
+**Problem:** Find the area of the region bounded by the curve *y = x² + 1*, the x-axis, and the lines *x = 0* and *x = 2*.
+
+**Solution:**
+
+1.  **Sketch the curve:** (Not required, but helps visualize) The curve *y = x² + 1* is a parabola shifted one unit upwards.
+
+2.  **Set up the integral:** Since we want the area bounded by *y = x² + 1*, the x-axis, and the vertical lines *x = 0* and *x = 2*, we integrate the function *f(x) = x² + 1* from 0 to 2:
+
+    Area = ∫\[0 to 2] *(x² + 1) dx*
+
+3.  **Evaluate the integral:**
+    *   Find the antiderivative of *x² + 1*:  (x³/3) + x
+    *   Evaluate the antiderivative at the upper and lower limits of integration:
+        *   At *x = 2*: (2³/3) + 2 = 8/3 + 2 = 14/3
+        *   At *x = 0*: (0³/3) + 0 = 0
+
+4.  **Subtract the values:**
+    Area = (14/3) - 0 = 14/3
+
+**Answer:** The area of the region is 14/3 square units.
+
+### Solved Examples ###
+Find the area enclosed by the circle x2 + y2 = a2.
+Find the area enclosed by the ellipse 
+2
+2
+2
+2
+1
+Find the area of the region bounded by the line y = 3x + 2, the x-axis and
+Find the area bounded by
+
+### Exercises ###
+8.1
+1.
+on Chapter 8
+1.
+

@@ -1,0 +1,46 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's a breakdown of the key concepts from the provided NCERT chapter excerpt on Biomolecules, explained in a way that avoids direct copying and is suitable for educational purposes:
+
+**Summary:**
+
+This chapter introduces the major biomolecules essential for life: carbohydrates, proteins, nucleic acids, vitamins, and hormones. It discusses their basic building blocks, classifications, structures, and functions within living organisms. The chapter emphasizes how these molecules interact to create the complex processes that sustain life.
+
+**Definitions:**
+
+*   **Biomolecules:** These are organic molecules that are essential for life and are produced by living organisms. This chapter will focus on Carbohydrates, Proteins, Nucleic Acids, Lipids, Vitamins, and Hormones.
+*   **Carbohydrates:** These are primarily energy-providing molecules made of carbon, hydrogen, and oxygen. Think of them as sugars, starches, and fibers. They are classified based on how many sugar units they contain: monosaccharides (single sugars), oligosaccharides (2-10 sugars), and polysaccharides (many sugars).
+*   **Proteins:** These are complex molecules made up of amino acids. They are involved in nearly every function in the body, acting as enzymes, structural components, and more. The sequence of amino acids determines the protein's structure and function.
+*   **Amino Acids:** The building blocks of proteins. Each amino acid contains an amino group, a carboxyl group, and a side chain ("R" group) that is unique to each amino acid.
+*   **Enzymes:** Biological catalysts, typically proteins, that speed up chemical reactions in living organisms. Each enzyme is highly specific for a particular reaction.
+*   **Vitamins:** Organic compounds needed in small amounts in the diet to maintain health and proper bodily function. They are classified as either water-soluble or fat-soluble.
+*   **Nucleic Acids:** These molecules (DNA and RNA) store and transmit genetic information. They are polymers of nucleotides.
+*   **Hormones:** Chemical messengers produced by endocrine glands and transported in the blood to target organs to regulate specific body functions.
+
+**Example**
+**Question:**
+A biochemist has isolated a carbohydrate sample and wants to determine its class. Upon hydrolysis, each molecule of the carbohydrate yields exactly two molecules of glucose.
+(a) What class of carbohydrates does the sample belong to?
+(b) Provide at least 2 common examples of carbohydrates that fall into this class.
+
+**Solution**
+**(a) Class of Carbohydrate:**
+   - According to the chapter, carbohydrates yielding two monosaccharide units upon hydrolysis belong to the **disaccharide** class.
+
+**(b) Common Examples of Disaccharides that Yield Two Glucose Molecules:**
+   - **Maltose:** Hydrolysis of maltose specifically yields two molecules of glucose.
+   - **Cellobiose:** Hydrolysis of cellobiose also yields two molecules of glucose.
+
+### Solved Examples ###
+acetic acid (CH3COOH) fits into
+of denaturation. Another
+is curdling of milk which is caused due to the formation of
+is the digestion of food, absorption of
+insulin and
+of this
+
+### Exercises ###
+No exercises found.
+

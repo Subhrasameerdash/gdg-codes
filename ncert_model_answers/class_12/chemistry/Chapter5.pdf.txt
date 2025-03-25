@@ -1,0 +1,89 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's a breakdown of coordination compounds designed to help explain the core concepts:
+
+**Summary:**
+
+This section introduces coordination compounds, a vital area of inorganic chemistry. These compounds, formed when metal atoms/ions bind to molecules or ions (ligands) through coordinate bonds, play critical roles in biological systems (like chlorophyll and hemoglobin), industrial processes, and medicine.  The section explores Werner's theory, basic definitions (ligands, coordination number, etc.), nomenclature, isomerism, and bonding theories like Valence Bond Theory (VBT) and Crystal Field Theory (CFT) to explain their structure, properties, and applications.
+
+**Definitions of Key Terms:**
+
+*   **Coordination Compound:** A compound containing a central metal atom or ion bonded to a surrounding array of molecules or ions called ligands.
+
+*   **Central Atom/Ion:**  The metal atom or ion at the center of a coordination compound, acting as a Lewis acid (electron-pair acceptor).
+
+*   **Ligand:** An ion or molecule that binds to the central metal atom/ion in a coordination compound. Ligands act as Lewis bases (electron-pair donors). Examples are Cl-, NH3, or even larger molecules.
+
+*   **Coordination Number:** The number of ligand donor atoms directly bonded to the central metal atom/ion. It indicates how many bonds are formed to the central metal.
+
+*   **Coordination Sphere:** The central metal atom/ion and its directly attached ligands, enclosed in square brackets in the compound's formula.  It represents the core complex.
+
+*   **Coordination Polyhedron:** The geometric shape formed by the arrangement of ligands around the central metal atom/ion (e.g., octahedral, tetrahedral, square planar).
+
+*   **Oxidation Number:** The charge the central metal atom would have if all ligands were removed along with the electron pairs shared with it.
+
+*   **Homoleptic Complex:** A complex where the metal is bound to only *one* type of ligand (e.g., \[Fe(CN)6]4-).
+
+*   **Heteroleptic Complex:** A complex where the metal is bound to *more than one* type of ligand (e.g., \[Co(NH3)4Cl2]+).
+
+*   **Isomers:** Compounds with the same molecular formula but different arrangements of atoms, leading to distinct properties. Coordination compounds exhibit structural and stereoisomerism.
+
+**Solved Example Problem:**
+
+**Problem:** A coordination compound has the formula CrCl3 · 6H2O. Conductivity measurements show that one mole of this compound produces two moles of ions in solution. When treated with excess silver nitrate (AgNO3), one mole of the compound yields one mole of silver chloride (AgCl) precipitate. Deduce the formula of the coordination compound, provide its IUPAC name, and explain the observations.
+
+**Solution:**
+
+1.  **Determine the Counter Ion:** Since one mole of the compound yields one mole of AgCl, this means that one chloride ion is outside the coordination sphere as a counter ion.
+2. **Determine the coordination number and the coordination sphere**: It is given that one mole of the compound produces two moles of ions in solution. Since one chloride ions is the counter ion, the rest of the compound including the metal must form a complex that carries one charge. That means the metal and the ligands form the coordination sphere. Given that the water molecule is neutral, the 3 chlorides, one is the counter ion, the other two must be ligands to satisfy the need for the coordination sphere to have one charge. We know that chromium can have coordinate number of 6, so the coordination number must be 6 and the ligands must be the two chloride molecules and the 4 water molecules.
+3.  **Write the Coordination Compound Formula:** Based on the above steps, the formula of the coordination compound is \[CrCl2(H2O)4]Cl · 2H2O. Note that the two water molecules that is not included in the coordination sphere, is outside the bracket.
+4.  **IUPAC Name:** The IUPAC name of the compound is tetraaquadichloridochromium(III) chloride dihydrate.
+5.  **Explanation:** In solution, the coordination compound ionizes as follows:
+
+    \[CrCl2(H2O)4]Cl(s) -> \[CrCl2(H2O)4]+(aq) + Cl-(aq).
+
+    The chloride ion outside the coordination sphere reacts with silver nitrate to form AgCl precipitate:
+
+    Cl-(aq) + AgNO3(aq) -> AgCl(s) + NO3-(aq)
+
+    The chloride ions within the coordination sphere are tightly bound to the chromium(III) ion and do not react with silver nitrate under these conditions. This explains the 1:1 mole ratio of compound to AgCl.
+
+### Solved Examples ###
+Example 5.1
+Example 5.1
+Werner
+Example 5.2
+Example 5.2
+Solution
+Example 5.3
+Example 5.3
+Solution
+Example 5.4
+Example 5.4
+Reprint 2024-25
+is provided by complexes
+is provided by [Co(NH3)6][Cr(CN)6], in which the NH3 ligands
+is provided by the ionisation
+Example 5.5
+Example 5.5
+Solution
+Example 5.6
+Example 5.6
+Reprint 2024-25
+is provided by the aqua
+is [Ni(CN)4]
+2–. Here nickel is in +2 oxidation state and has
+Example 5.7
+Example 5.7
+Solution
+of synergic bonding
+is the treatment of problems caused by the
+of each.
+5.9
+Discuss briefly giving an example in each case the role of coordination
+
+### Exercises ###
+No exercises found.
+

@@ -1,0 +1,109 @@
+### Summary ###
+®Measures of dispersion Range, Quartile deviation, mean deviation, variance,
+
+### Definitions ###
+Okay, here's a breakdown of the NCERT chapter content on Statistics, focusing on measures of dispersion:
+
+**Summary:**
+
+This chapter introduces the concept of dispersion, which is how spread out data is. It explains why measures of central tendency (mean, median) aren't enough to fully understand data, and how measures of dispersion provide additional insight. The chapter covers range, mean deviation (about mean and median), variance, and standard deviation, along with methods for calculating them for both ungrouped and grouped data (discrete and continuous frequency distributions).
+
+**Definitions (Key Concepts):**
+
+*   **Dispersion:** The extent to which data points in a set are scattered or spread out from each other or around a central value. It tells us about the variability within the data.
+
+*   **Range:**  The simplest measure of dispersion, calculated as the difference between the maximum and minimum values in a dataset.
+
+*   **Mean Deviation:** The average of the absolute deviations of data points from a central value (either the mean or the median).  It shows the average distance of data points from the center.
+
+*   **Variance:** The average of the squared deviations of data points from the mean. Squaring the deviations ensures that all values are positive and gives more weight to larger deviations.
+
+*   **Standard Deviation:** The square root of the variance. It is a commonly used measure of dispersion that expresses the spread of data in the same units as the original data.
+
+**Example Problem:**
+
+**Problem:** A small company has the following monthly expenses (in thousands of Rupees) for the past year: 15, 18, 20, 16, 21, 19, 17, 18, 22, 20, 19, 20. Calculate the mean deviation about the mean and the standard deviation.
+
+**Solution:**
+
+1.  **Calculate the Mean:**
+    *   Sum of expenses = 15 + 18 + 20 + 16 + 21 + 19 + 17 + 18 + 22 + 20 + 19 + 20 = 225
+    *   Mean (x̄) = Sum / Number of months = 225 / 12 = 18.75
+
+2.  **Calculate Absolute Deviations from the Mean:**
+    *   |15 - 18.75| = 3.75
+    *   |18 - 18.75| = 0.75
+    *   |20 - 18.75| = 1.25
+    *   |16 - 18.75| = 2.75
+    *   |21 - 18.75| = 2.25
+    *   |19 - 18.75| = 0.25
+    *   |17 - 18.75| = 1.75
+    *   |18 - 18.75| = 0.75
+    *   |22 - 18.75| = 3.25
+    *   |20 - 18.75| = 1.25
+    *   |19 - 18.75| = 0.25
+    *   |20 - 18.75| = 1.25
+
+3.  **Calculate Mean Deviation about the Mean:**
+    *   Sum of absolute deviations = 3.75 + 0.75 + 1.25 + 2.75 + 2.25 + 0.25 + 1.75 + 0.75 + 3.25 + 1.25 + 0.25 + 1.25 = 19.5
+    *   Mean Deviation = Sum of absolute deviations / Number of months = 19.5 / 12 = 1.625
+
+4.  **Calculate Squared Deviations from the Mean:**
+    *   (15 - 18.75)^2 = 14.0625
+    *   (18 - 18.75)^2 = 0.5625
+    *   (20 - 18.75)^2 = 1.5625
+     *   (16 - 18.75)^2 = 7.5625
+    *   (21 - 18.75)^2 = 5.0625
+     *   (19 - 18.75)^2 = 0.0625
+    *   (17 - 18.75)^2 = 3.0625
+    *   (18 - 18.75)^2 = 0.5625
+     *   (22 - 18.75)^2 = 10.5625
+     *   (20 - 18.75)^2 = 1.5625
+    *   (19 - 18.75)^2 = 0.0625
+     *   (20 - 18.75)^2 = 1.5625
+
+5.  **Calculate the Variance:**
+      *  Sum of squared deviations = 14.0625 + 0.5625 + 1.5625 + 7.5625 + 5.0625 + 0.0625 + 3.0625 + 0.5625 + 10.5625 + 1.5625 + 0.0625 + 1.5625 = 46.25
+    *   Variance = Sum of squared deviations / Number of months = 46.25 / 12 = 3.854
+
+6.  **Calculate the Standard Deviation:**
+    *   Standard Deviation = √(Variance) = √3.854 ≈ 1.96
+
+**Therefore:**
+*   The mean deviation about the mean is 1.625 (thousand Rupees).
+*   The standard deviation is approximately 1.96 (thousand Rupees).
+
+### Solved Examples ###
+of runs scored by two batsmen A and B, we had some idea
+Find the mean deviation about the mean for the following data:
+6, 7, 10, 12, 13, 4, 8, 12
+Find the mean deviation about the mean for the following data :
+12, 3, 18, 17, 4, 9, 17, 19, 20, 15, 8, 17, 2, 3, 16, 11, 3, 1, 0, 5
+Find the mean deviation about the median for the following data:
+3, 9, 5, 3, 12, 10, 18, 4, 7, 19, 21.
+Find mean deviation about the mean for the following data :
+Find the mean deviation about the median for the following data:
+-25
+Find the mean deviation about the mean for the following data.
+and find the mean deviation by using step-
+Example 7 Calculate the mean deviation about median for the following data :
+to illustrate the calculation of variance and
+Find the variance of the following data:
+6, 8, 10, 12, 14, 16, 18, 20, 22, 24
+Example 9  Find the variance and standard deviation for the following data:
+Calculate the mean, variance and standard deviation for the following
+Find the standard deviation for the following data :
+by the short-cut method and using formula (5)
+The variance of 20 observations is 5. If each observation is multiplied by
+2, find the new variance of the resulting observations.
+The mean of  5 observations is 4.4 and their variance is 8.24. If three of
+If each of the observation x1, x2, ...,xn is increased by ‘a’, where a is a
+The mean and standard deviation of 100 observations were calculated as
+40 and 5.1, respectively by a student who took by mistake 50 instead of 40 for one
+
+### Exercises ###
+13.1
+13.2
+On Chapter 13
+1.
+

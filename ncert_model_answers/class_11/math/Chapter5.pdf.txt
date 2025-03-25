@@ -1,0 +1,47 @@
+### Summary ###
+®Two real numbers or two algebraic expressions related by the symbols <, >, ≤
+
+### Definitions ###
+1 Two real numbers or two algebraic expressions related by the symbol
+‘<’, ‘>’, ‘≤’ or ‘≥’ form an inequality.
+
+### Solved Examples ###
+Solve 30 x < 200 when
+(i) x is a natural number,
+(ii) x is an integer.
+Solve 5x – 3 < 3x +1 when
+(i)
+Solve 4x + 3 < 6x +7.
+Solve 5
+2
+5
+3
+6
+–
+Solve 7x + 3 < 5x + 9. Show the graph of the solutions on number line.
+Solve 3
+4
+1 1
+2
+4
+The marks obtained by a student of Class XI in first and second terminal
+Find all pairs of consecutive odd natural numbers, both of which are larger
+Solve – 8 ≤ 5x – 3 < 7.
+Solve – 5 ≤ 5
+3
+2
+– x  ≤ 8.
+Solve the system of inequalities:
+3x – 7 < 5 + x
+... (1)
+11 – 5 x ≤ 1
+... (2)
+In an experiment, a solution of hydrochloric acid is to be kept between
+30° and 35° Celsius. What is the range of temperature in degree Fahrenheit if conversion
+A manufacturer has 600 litres of a 12% solution of acid. How many litres
+
+### Exercises ###
+5.1
+1.
+on Chapter 5
+

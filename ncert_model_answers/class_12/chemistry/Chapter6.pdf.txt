@@ -1,0 +1,55 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's some original educational content based on the NCERT chapter extract you provided, focusing on clear explanations and avoiding direct copying:
+
+**Summary:**
+
+This chapter introduces haloalkanes and haloarenes – organic compounds where one or more hydrogen atoms in an alkane or arene have been replaced by halogen atoms (fluorine, chlorine, bromine, or iodine). It discusses their classification, nomenclature (naming), methods of preparation, physical properties (like boiling point and solubility), chemical reactions (nucleophilic substitution and elimination reactions), and some important uses and environmental effects of polyhalogen compounds.
+
+**Definitions:**
+
+*   **Haloalkanes (Alkyl Halides):** These are compounds where a halogen atom is attached to an *sp3* hybridized carbon atom in an *alkyl group* (a chain of carbon and hydrogen atoms). Think of it like replacing a hydrogen on a regular alkane with a halogen.
+*   **Haloarenes (Aryl Halides):** These are compounds where a halogen atom is directly attached to an *sp2* hybridized carbon atom in an *aryl group* (an aromatic ring, like benzene). The halogen is directly bonded to the ring.
+*   **Nucleophilic Substitution Reactions:** These are reactions where a nucleophile (a species with a lone pair of electrons that it donates) replaces a leaving group (in this case, a halogen atom) on a carbon atom. Two main types of mechanisms exist, SN1 and SN2 which are influenced by steric factors.
+*   **Elimination Reactions:** These reactions involve the removal of a hydrogen atom and a halogen atom from adjacent carbon atoms, resulting in the formation of an alkene (a molecule with a carbon-carbon double bond).
+*   **Grignard Reagents**: An organometallic chemical compound that is composed of an alkyl or aryl group bonded to magnesium halide and is useful for forming carbon-carbon bonds.
+
+I'm ready for more tasks if you have them!
+
+### Solved Examples ###
+Example 6.1
+Example 6.1
+Solution
+Example 6.2
+Example 6.2
+Solution
+Example 6.3
+Example 6.3
+Solution
+Example 6.4
+Example 6.4
+Solution
+Example 6.5
+Example 6.5
+Solution
+Example 6.6
+Example 6.6
+H2C
+2
+Example 6.7
+Example 6.7
+Predict the order of reactivity of the following
+(±) butan-2-ol. The process
+Example 6.8
+Example 6.8
+Identify chiral and achiral molecules in each of the following pair of
+Example 6.9
+Example 6.9
+Solution
+Exercises
+
+### Exercises ###
+No exercises found.
+

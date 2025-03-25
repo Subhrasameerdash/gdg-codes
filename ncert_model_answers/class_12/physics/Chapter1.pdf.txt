@@ -1,0 +1,78 @@
+### Summary ###
+1.
+
+### Definitions ###
+of a
+for a unit of charge. In the relation, Eq. (1.1), k is so far
+of electric flux. Electric flux Df through
+of electric flux given by Eq. (1.11) can be used, in
+of dipole moment. The dipole moment
+of linear,
+of flux, f3 = 0. Further, the outward
+
+### Solved Examples ###
+of electric discharge is the lightning that we see in the
+EXAMPLE 1.1
+If 109 electrons move out of a body to another body
+How much positive and negative charge is there in a
+Interactive animation on Coulomb’s law:
+Coulomb’s law for electrostatic force between two point
+FIGURE 1.4
+A charged metallic sphere A is suspended by a nylon
+-25
+2024-25
+handle is brought close to A such that the distance between their
+In the same way, the force on q1 due to q3, denoted by F13, is given by
+Consider three charges q1, q2, q3 each equal to q at the
+Thus,
+Consider the charges q, q, and –q placed at the vertices
+-25
+2024-25
+Similarly the total force on charge –q at C is F3  = 
+3  F ˆn , where ˆn is
+An electron falls through a distance of 1.5 cm in a
+-25
+2024-25
+EXAMPLE 1.7
+–7
+2
+2
+1 3 10
+we have ignored the acceleration
+Example 1.8 Two point charges q1 and q2, of magnitude +10–8 C and
+–10–8 C, respectively, are placed 0.1 m apart. Calculate the electric
+-25
+2024-25
+Notice the important point that the dipole field at large distances
+of this type. Various materials give rise to interesting
+Two charges ±10 mC are placed 5.0 mm apart. Determine
+Solution  (a) Field at P due to charge +10 mC
+= 
+5
+12
+2
+1
+2
+10
+E
+(iv) The surface that we choose for the application of Gauss’s law is called
+The electric field components in Fig. 1.24 are
+EXAMPLE 1.10
+= fR + fL = ERa2 – ELa2 = a2 (ER – EL) = aa2 [(2a)1/2 – a1/2]
+=  aa5/2 (
+)
+2 – 1
+=  800 (0.1)5/2 (
+)
+2 – 1
+= 1.05 N m2 C–1
+(b) We can use Gauss’s law to find the total charge q inside the cube.
+An electric field is uniform, and in the positive x
+The flux through the Gaussian surface, calculated as before, is
+An early model for an atom considered it to have a
+where E (r)  is the magnitude of the electric field at r. This is because
+of
+
+### Exercises ###
+1.14
+

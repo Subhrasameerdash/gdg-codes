@@ -1,0 +1,59 @@
+### Summary ###
+In this Chapter the following concepts and generalisations are studied.
+®A circle is the set of all points in a plane that are equidistant from a fixed point
+
+### Definitions ###
+1 A circle is the set of all points in a plane that are equidistant from a fixed
+2 A parabola is the set of all points
+of  parabola, the mid-point O is on the
+3 Latus rectum of a parabola is a line segment perpendicular to the axis of
+of the parabola, AF = AC.
+4 An ellipse is the set of all points in
+of ellipse, we have
+2
+2
+2
+5 The eccentricity of an ellipse is the ratio of the distances from the centre
+6 Latus rectum of an ellipse is a
+7 A hyperbola is the set of all points in a plane, the difference of whose
+means the distance to the
+of the hyperbola)
+8 Just like an ellipse, the ratio e = c
+9 Latus rectum of hyperbola is a line segment perpendicular to the transverse
+
+### Solved Examples ###
+Find an equation of the circle with centre at (0,0) and radius r.
+Find the equation of the circle with centre (–3, 2) and radius 4.
+Find the centre and the radius of the circle x2 + y2 + 8x + 10y – 8 = 0
+Find the equation of the circle which passes through the points (2, – 2), and
+(3,4) and whose centre lies on the line x + y = 2.
+Find the coordinates of the focus, axis,
+Find the equation of the parabola with focus (2,0) and directrix x = – 2.
+Find the equation of the parabola with vertex  at (0, 0) and focus at (0, 2).
+Find the equation of the parabola which is symmetric about the y-axis, and
+Find the coordinates of the foci, the vertices, the length of major axis, the
+Find the coordinates of the foci, the vertices, the lengths of major and
+Find the equation of the ellipse whose vertices are (± 13, 0) and foci are
+(± 5, 0).
+Find the equation of the ellipse, whose length of the major axis is 20 and
+Find the equation of the ellipse, with major axis along the x-axis and
+Find the coordinates of the foci and the vertices, the eccentricity,the
+Find the equation of the hyperbola with foci (0, ± 3) and vertices
+(0, ± 
+11
+2
+).
+Find the equation of the hyperbola where foci are (0, ±12) and the length
+The focus of a parabolic mirror as shown in Fig 10.31 is at a distance of
+5 cm from its vertex. If the mirror is 45 cm deep, find
+A beam is supported at its ends by
+A rod AB of length 15 cm rests in between two coordinate axes in such
+
+### Exercises ###
+10.1
+10.2
+10.3
+10.4
+on Chapter 10
+1.
+

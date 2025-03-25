@@ -1,0 +1,107 @@
+### Summary ###
+Thermodynamics deals with energy changes in chemical or physical processes and enables us to
+
+### Definitions ###
+Okay, here's a breakdown of key thermodynamics concepts in plain language, an original example problem, and a chapter summary:
+
+**Chapter Summary: Thermodynamics**
+
+Thermodynamics studies energy transformations and relationships between heat, work, and internal energy. It helps us predict whether a process will occur spontaneously and to what extent a reaction will proceed. Key concepts include systems and surroundings, internal energy, enthalpy, entropy, and Gibbs free energy. The laws of thermodynamics provide a framework for understanding energy conservation and the direction of spontaneous change.
+
+**Definitions**
+
+*   **System:** The specific part of the universe we're interested in observing (e.g., a reaction in a beaker).
+
+*   **Surroundings:** Everything else in the universe *outside* the system.
+
+*   **Internal Energy (U):** The total energy stored within a system (kinetic and potential energy of all its molecules). We usually focus on *changes* in internal energy (ΔU).
+
+*   **Work (w):** Energy transferred when a force causes displacement (e.g., a gas expanding and pushing against a piston).
+
+*   **Heat (q):** Energy transferred due to a temperature difference between the system and surroundings.
+
+*   **Enthalpy (H):** A state function that combines internal energy, pressure, and volume (H = U + pV). Useful for reactions at constant pressure. The change in enthalpy (ΔH) tells us if a reaction is exothermic (releases heat, ΔH < 0) or endothermic (absorbs heat, ΔH > 0).
+
+*   **State Function:** A property that depends only on the initial and final states of the system, not on the path taken to get there (e.g., internal energy, enthalpy, volume, temperature).
+
+*   **Entropy (S):** A measure of the disorder or randomness of a system.  Spontaneous processes tend to increase the overall entropy of the universe.
+
+*   **Gibbs Free Energy (G):** A thermodynamic potential that combines enthalpy and entropy (G = H - TS). The change in Gibbs free energy (ΔG) predicts the spontaneity of a process at constant temperature and pressure:
+    *   ΔG < 0: Spontaneous
+    *   ΔG > 0: Non-spontaneous
+    *   ΔG = 0: Equilibrium
+
+*   **Standard State:** A defined set of conditions (usually 298 K and 1 bar pressure) used as a reference point for thermodynamic properties.
+
+*   **Hess's Law:** The enthalpy change for a reaction is independent of the path taken; it only depends on the initial and final states.  This allows us to calculate enthalpy changes for reactions that are difficult to measure directly.
+
+**Solved Example:**
+
+**Problem:**
+
+Consider the reaction:  N2(g) + 3H2(g) ⇌ 2NH3(g)
+
+Given the following data:
+
+*   ΔfH°[NH3(g)] = -46 kJ/mol
+
+*   S°[N2(g)] = 192 J/mol·K
+
+*   S°[H2(g)] = 131 J/mol·K
+
+*   S°[NH3(g)] = 193 J/mol·K
+
+Calculate ΔG° at 298 K and determine if the reaction is spontaneous under standard conditions.
+
+**Solution:**
+
+**Step 1: Calculate ΔH°**
+
+ΔH° = Σ(n * ΔfH°[products]) - Σ(n * ΔfH°[reactants])
+
+ΔH° = [2 * (-46 kJ/mol)] - [1 * (0 kJ/mol) + 3 * (0 kJ/mol)] = -92 kJ/mol
+
+(Note: ΔfH° of elements in their standard state is zero)
+
+**Step 2: Calculate ΔS°**
+
+ΔS° = Σ(n * S°[products]) - Σ(n * S°[reactants])
+
+ΔS° = [2 * (193 J/mol·K)] - [1 * (192 J/mol·K) + 3 * (131 J/mol·K)]
+
+ΔS° = 386 J/mol·K - (192 J/mol·K + 393 J/mol·K) = -199 J/mol·K
+
+**Step 3: Calculate ΔG°**
+
+ΔG° = ΔH° - TΔS°
+
+ΔG° = -92 kJ/mol - (298 K * -0.199 kJ/mol·K)
+ΔG° = -92 kJ/mol + 59.3 kJ/mol = -32.7 kJ/mol
+
+**Step 4: Determine spontaneity**
+
+Since ΔG° is negative (-32.7 kJ/mol), the reaction is spontaneous under standard conditions at 298 K.
+
+### Solved Examples ###
+of an open system*.
+of a closed
+of an
+temperature, density, pressure etc.
+C2H5OH(l) + 3O2(g) → 2CO2(g) + 3H2O(l);
+∆rH = – 1367 kJ mol–1
+N2(g) + 3H2 (g) → 2NH3 (g);
+∆r H  = – 91.8 kJ. mol–1
+2NH3(g) → N2(g) + 3H2 (g);
+∆r H  = + 91.8 kJ mol–1
+(e)	 Hess’s
+Consider the enthalpy change for the
+Cl2(g)  →  2Cl(g);  ∆Cl–ClH   = 242 kJ mol–1
+of atomization
+in CH4, ∆C–HH   is calculated as: 
+∆C–HH = ¼ (∆a H) = ¼ (1665 kJ mol–1)
+                              = 416 kJ mol–1
+N2(g) +
+
+### Exercises ###
+No exercises found.
+

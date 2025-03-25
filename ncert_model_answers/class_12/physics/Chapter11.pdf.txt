@@ -1,0 +1,70 @@
+### Summary ###
+is again in striking contrast to
+
+### Definitions ###
+Okay, here's an explanation of the key concepts from that chapter in simpler terms, along with a summary and an example problem:
+
+**Summary of "Dual Nature of Radiation and Matter":**
+
+This chapter explores how light and matter both have wave-like and particle-like properties. It starts with the discovery of the electron and the photoelectric effect, which showed that light can behave as particles (photons). It then introduces de Broglie's hypothesis, suggesting that matter (like electrons) can also behave as waves. This "wave-particle duality" is a fundamental concept in quantum mechanics.
+
+**Definitions (Key Concepts Explained):**
+
+*   **Photoelectric Effect:** This is when light shines on a metal surface and causes electrons to be emitted. It demonstrates the particle nature of light because the energy of the emitted electrons depends on the *frequency* of the light, not the intensity. Think of it like light being made of tiny packets (photons) that knock electrons off the surface.
+
+*   **Work Function (Φ₀):**  This is the minimum amount of energy an electron needs to escape from the surface of a metal. It's like a barrier the electron has to overcome. Different metals have different work functions.
+
+*   **Threshold Frequency (ν₀):** The minimum frequency of light required to cause photoelectric emission. If the light's frequency is below this threshold, no electrons will be emitted, no matter how bright the light is.
+
+*   **Stopping Potential (V₀):** The negative voltage applied to a collecting plate that is just enough to stop the most energetic photoelectrons from reaching it.  It's a measure of the maximum kinetic energy of the emitted electrons.
+
+*   **Einstein's Photoelectric Equation:** This equation (KE<sub>max</sub> = hν - Φ₀) explains the photoelectric effect by stating that the maximum kinetic energy (KE<sub>max</sub>) of an emitted electron is equal to the energy of the incoming photon (hν) minus the work function (Φ₀) of the metal.
+
+*   **de Broglie Wavelength (λ):** This is the wavelength associated with a moving particle. It's calculated as λ = h/p, where h is Planck's constant and p is the momentum of the particle. This equation suggests that all matter has wave-like properties.
+
+*   **Wave-Particle Duality:** The concept that light and matter exhibit both wave-like and particle-like properties. Which property is observed depends on the experiment.
+
+**Solved Example:**
+
+**Problem:**
+
+An electron is accelerated through a potential difference of 250 V. Calculate the de Broglie wavelength associated with the electron.
+
+**Solution:**
+
+1.  **Calculate the kinetic energy (KE) of the electron:**
+
+    KE = eV, where e is the charge of an electron (1.602 x 10<sup>-19</sup> C) and V is the potential difference.
+
+    KE = (1.602 x 10<sup>-19</sup> C) * (250 V) = 4.005 x 10<sup>-17</sup> J
+
+2.  **Calculate the momentum (p) of the electron:**
+
+    KE = p<sup>2</sup> / 2m, where m is the mass of the electron (9.11 x 10<sup>-31</sup> kg).
+
+    p = √(2 * m * KE) = √(2 * 9.11 x 10<sup>-31</sup> kg * 4.005 x 10<sup>-17</sup> J)
+
+    p ≈ 8.55 x 10<sup>-24</sup> kg m/s
+
+3.  **Calculate the de Broglie wavelength (λ):**
+
+    λ = h / p, where h is Planck's constant (6.626 x 10<sup>-34</sup> J s).
+
+    λ = (6.626 x 10<sup>-34</sup> J s) / (8.55 x 10<sup>-24</sup> kg m/s)
+
+    λ ≈ 7.75 x 10<sup>-11</sup> m  or 0.0775 nm
+
+**Answer:**
+
+The de Broglie wavelength associated with the electron is approximately 0.0775 nanometers.
+
+### Solved Examples ###
+EXAMPLE 11.2
+Monochromatic light of frequency 6.0 ´1014 Hz is
+The work function of caesium is 2.14 eV. Find (a) the
+p = m v = 0.12 kg × 20 m s–1 = 2.40 kg m s–1
+What is the de Broglie wavelength associated with (a) an
+
+### Exercises ###
+No exercises found.
+

@@ -1,0 +1,53 @@
+### Summary ###
+1.
+
+### Definitions ###
+of the ampere was adopted in 1946. It is a theoretical
+of the ampere. Hence it is important to eliminate the effect of the
+
+### Solved Examples ###
+Example 4.1 A straight wire of mass 200 g and length 1.5 m carries
+If the magnetic field is parallel to the positive y-axis
+Charged particles moving in a magnetic field.
+Example  4.3   What is the radius of the path of an electron (mass
+9 × 10-31 kg and charge 1.6 × 10–19 C) moving at a speed of 3 ×107 m/s in
+The magnitude of this field is,
+µ
+θ
+=
+π
+0
+2
+An element 
+ˆ
+∆= ∆x i
+-25
+Example 4.5 A straight wire carrying a current of 12 A is bent into a
+Consider a tightly wound 100 turn coil of radius 10
+-25
+below. The boundary of the loop chosen is
+possesses what is called a cylindrical symmetry. The field that
+will help us understand what is meant by the term
+Figure 4.13 shows a long straight wire of a circular
+Solution (a) Consider the case r > a. The Amperian loop, labelled 2,
+possesses the required symmetry so that Ampere’s
+solenoid is made longer it appears like a long cylindrical metal sheet.
+A solenoid of length 0.5 m has a radius of 1 cm and is
+of two parallel
+The ampere is the value of that steady current which, when maintained
+The horizontal component of the earth’s magnetic field
+As θ à 0, the perpendicular distance between
+A 100 turn closely wound circular coil of radius 10
+EXAMPLE 4.10
+(a) A current-carrying circular loop lies on a smooth horizontal plane.
+the total field (external field + field produced by the loop) is
+In the circuit (Fig. 4.23) the current is to be
+-25
+Solution
+(a) Total resistance in the circuit is,
+3
+63
+
+### Exercises ###
+4.11 obtain the frequency of revolution of the electron in
+

@@ -1,0 +1,64 @@
+### Summary ###
+Okay, here's a breakdown of what Mathematical Modelling is all about, drawing from the text you provided:
+
+**Summary:**
+
+Mathematical modelling is the process of translating real-world problems into mathematical terms, solving those mathematical problems, and then interpreting the solutions back in the context of the original real-world situation. It's a way to use math to understand and make predictions about things happening around us, from the height of a tower to population growth. The process involves understanding the real-world problem, formulating a mathematical representation (model), solving the mathematical problem, and then interpreting the solution in real-world terms, and validating the model to check for accuracy. If the model isn't accurate, it can be refined and the process repeated.
+
+**Definition of Mathematical Modelling:**
+
+Mathematical modelling is creating a simplified representation of a real-world situation using mathematical concepts and language. It involves:
+
+*   **Identifying key factors:** Determining the most important elements of the real-world problem.
+*   **Formulating a model:** Expressing the relationships between these factors using equations, inequalities, or other mathematical structures.
+*   **Solving the model:** Using mathematical techniques to find a solution to the formulated problem.
+*   **Interpreting the solution:** Translating the mathematical solution back into the context of the real-world problem.
+*   **Validating the model:** Checking if the solution makes sense and accurately reflects the real-world situation.
+
+**Solved Example:**
+
+**Problem:** A farmer wants to fence a rectangular garden. They have 100 meters of fencing material. What dimensions should the garden have to maximize the area enclosed?
+
+**Solution:**
+
+*   **Step 1: Understand the problem.**
+    We want to find the length and width of a rectangle that will give us the biggest possible area, given a fixed amount of fencing (perimeter).
+
+*   **Step 2: Formulate the model.**
+    *   Let 'l' be the length and 'w' be the width of the rectangle.
+    *   The perimeter is given by: 2l + 2w = 100
+    *   The area is given by: A = l * w
+    *   We want to maximize A, subject to the constraint 2l + 2w = 100
+
+*   **Step 3: Solve the model.**
+    *   Solve the perimeter equation for one variable. Let's solve for l:
+        l = 50 - w
+    *   Substitute this expression for 'l' into the area equation:
+        A = (50 - w) * w = 50w - w^2
+    *   To find the maximum area, we can use calculus (find the derivative and set it to zero) or recognize that this is a quadratic equation representing a parabola opening downwards. The maximum value occurs at the vertex. The w-coordinate of the vertex is given by -b/2a, where a = -1 and b = 50.
+        w = -50 / (2 * -1) = 25
+    *   Now, find the corresponding length:
+        l = 50 - w = 50 - 25 = 25
+
+*   **Step 4: Interpret the solution.**
+    The dimensions that maximize the area are length = 25 meters and width = 25 meters. This means the garden should be a square.
+
+*   **Step 5: Validate the model.**
+    Let's calculate the area with these dimensions: A = 25 * 25 = 625 square meters.  We can try other dimensions that also give a perimeter of 100 (e.g., l=40, w=10, A=400) and see that the area is indeed smaller. This supports our solution.
+
+### Definitions ###
+Mathematical modelling is an attempt to study some part (or form) of the
+
+### Solved Examples ###
+Appendix
+The angle of elevation of the top of a tower from a point O on the ground,
+Example 2 (Bridge Problem) Konigsberg is a town on the Pregel River, which in the
+18th century was a German
+shows how modelling can be done using the techniques of finding
+A farm house uses atleast 800 kg of special food daily. The special food is
+Suppose a population control unit wants to find out “how many people will
+of an exponential function. Any function of the form cr t, where c
+
+### Exercises ###
+No exercises found.
+

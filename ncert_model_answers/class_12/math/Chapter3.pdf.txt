@@ -1,0 +1,252 @@
+### Summary ###
+® A matrix is an ordered rectangular array of numbers or functions.
+® A matrix having m rows and n columns is called a matrix of order m × n.
+® [aij]m × 1 is a column matrix.
+® [aij]1 × n is a row matrix.
+® An m × n matrix is a square matrix if m = n.
+® A = [aij]m × m is a diagonal matrix if aij = 0, when i ≠ j.
+® A = [aij]n × n is a scalar matrix if aij = 0, when i ≠ j, aij = k, (k is some
+
+### Definitions ###
+1  A matrix is an ordered rectangular array of numbers or functions. The
+2 Two matrices A = [aij] and B = [bij] are said to be equal if
+(i)
+3  If A = [aij] be an m × n matrix, then the matrix obtained by interchanging
+4 A square matrix A = [aij] is said to be symmetric if A′ = A, that is,
+[aij] = [aji] for all possible values of i and j.
+5 A square matrix A = [aij] is said to be skew symmetric matrix if
+6 If A is a square matrix of order m, and if there exists another square
+of inverse of a matrix, we have
+(AB) (AB)–1 = 1
+
+### Solved Examples ###
+point P(0, 1) as a matrix representation may be given as
+0
+Consider the following information regarding the number of men and women
+If a matrix has 8 elements, what are the possible orders it can have?
+Construct a 3 × 2 matrix whose elements are given by 
+1 |
+3 |
+2
+A
+3 2
+1
+2
+4
+3
+1
+−
+
+
+
+
+
+
+= 
+
+
+
+−
+
+
+ is a square matrix of order 3.
+A = [3],     
+1
+0
+[1], 
+1
+0
+0
+1
+
+
+
+
+
+, 
+1
+0
+0
+0
+1
+0
+0
+0
+1
+
+
+
+
+
+
+
+
+
+
+ are identity matrices of order 1, 2 and 3,
+If  
+3
+4
+2
+7
+0
+6
+3
+2
+6
+1
+0
+6
+3
+2
+2
+3
+21
+0
+2
+4
+21
+0
+Find the values of a, b, c, and d from the following equation:
+2
+2
+4
+3
+5
+4
+3
+11
+24
+Given 
+3
+1
+1
+if 
+2
+3
+of binary operation
+If 
+1
+2
+3
+3
+1
+3
+If 
+8
+0
+2
+2
+Find  X and Y, if 
+5
+2
+Find the values of x and y from the following equation:
+5
+3
+4
+2 7
+3
+1
+2
+Two farmers Ramkishan and Gurcharan Singh cultivates only three
+of multiplication of matrices. We observe that, for
+Find AB, if 
+6
+9
+2
+6
+0
+that even if AB and BA are both defined, it is not
+If 
+2 3
+1
+2
+3
+both AB and BA are of different order and so AB ≠ BA. But
+to show that even if AB and BA are of
+If 
+1
+0
+Example 15 Find AB, if 
+0
+1
+If 
+1
+1
+1
+1 3
+1
+2
+3
+4
+If 
+0
+6
+7
+0
+1
+1
+2
+If 
+1
+2
+3
+In a legislative assembly election, a political group hired a public relations
+If 
+2
+1
+2
+3
+3
+2
+If 
+[
+]
+2
+A
+2
+1.5
+1
+3
+1
+1
+
+
+
+
+=
+−
+−
+
+
+
+
+−
+
+
+ is a symmetric matrix as A′ = A
+Express the matrix 
+2
+2
+4
+If
+If A and B are symmetric matrices of the same order, then show that AB
+Let 
+2
+1
+5
+2
+2
+5
+
+### Exercises ###
+3.1
+1.
+3.2
+1.
+3.3
+1.
+3.4
+on Chapter 3
+1.
+

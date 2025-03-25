@@ -1,0 +1,40 @@
+### Summary ###
+if we represent the chemical
+
+### Definitions ###
+Okay, here's a breakdown of the key concepts from the biomolecules chapter, explained simply and with examples:
+
+**Chapter Summary:**
+
+This chapter explores the chemical building blocks of life. It starts by showing that living things, while diverse, share a common set of elements and compounds. It explains how to analyze the chemical composition of living tissues to identify organic and inorganic molecules. We learn about different types of biomolecules, including:
+
+*   **Amino acids:** The building blocks of proteins.
+*   **Fatty acids:** Components of lipids (fats and oils).
+*   **Nitrogenous bases:** Key parts of nucleotides, which make up DNA and RNA.
+*   **Sugars:** The basic units of carbohydrates.
+
+The chapter then delves into the structure and function of larger biomolecules (macromolecules) like proteins, polysaccharides, and nucleic acids, as well as lipids, explaining their importance in cells and organisms. Finally, it discusses enzymes, how they work as biological catalysts, and the factors that affect their activity.
+
+**Key Definitions:**
+
+*   **Biomolecules:** These are carbon-based molecules essential for life. They include carbohydrates (sugars, starches), lipids (fats, oils), proteins, and nucleic acids (DNA, RNA). Think of them as the ingredients that make up living things.
+*   **Macromolecules:** These are large biomolecules, also known as polymers, with high molecular weights. The main ones are proteins, polysaccharides (like starch and cellulose), and nucleic acids. Lipids are also included, even though they don't have as high a molecular weight, because of how they interact in biological systems. Think of them as big structures assembled from smaller building blocks.
+*   **Primary Metabolites:** Molecules directly involved in essential life processes like growth, development, and reproduction (e.g., amino acids, sugars).
+*   **Secondary Metabolites:** Molecules not directly involved in these processes, but often play roles in defense, signaling, or other specialized functions (e.g., alkaloids, rubber, antibiotics).
+*   **Amino Acids:** Organic compounds containing an amino group (-NH2), a carboxyl group (-COOH), a hydrogen, and a variable R group, all attached to a central carbon atom.
+*   **Proteins:** Polymers made of amino acids linked together by peptide bonds. They have diverse functions, including catalyzing reactions (enzymes), transporting molecules, providing structure, and defending against disease.
+*   **Polysaccharides:** Polymers made of many sugar molecules (monosaccharides) linked together. They serve as energy storage (starch, glycogen) or structural components (cellulose, chitin).
+*   **Nucleic Acids (DNA & RNA):** Polymers made of nucleotides. DNA stores genetic information, while RNA is involved in expressing that information.
+*   **Enzymes:** Proteins (or sometimes RNA molecules called ribozymes) that act as biological catalysts. They speed up chemical reactions in cells by lowering the activation energy.
+*   **Active Site:** The specific region on an enzyme where the substrate binds and the chemical reaction occurs.
+*   **Cofactors:** Non-protein molecules or ions that are required for some enzymes to function properly. They can be organic (coenzymes) or inorganic (metal ions).
+
+### Solved Examples ###
+of non-living matter,
+Some tissues especially the neural tissues have lipids with
+Ba(OH)2 + H2SO4 → BaSO4 + 2H2O
+CO2             +           H2O  →
+
+### Exercises ###
+No exercises found.
+

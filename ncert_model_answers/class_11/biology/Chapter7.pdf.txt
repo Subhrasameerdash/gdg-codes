@@ -1,0 +1,63 @@
+### Summary ###
+Cells, tissues, organs and organ systems split up the work in a way that
+
+### Definitions ###
+Okay, here's a breakdown of the NCERT chapter "Structural Organisation in Animals," focusing on clear explanations and avoiding direct copying:
+
+**Summary:**
+
+This chapter explores how animal bodies are organized, starting from the basic building blocks (cells) and moving up to complex systems. It explains that multicellular animals have specialized cells that form tissues, which then combine to create organs. Organs work together in organ systems to perform essential life functions. The chapter uses the frog as a specific example to illustrate these organizational principles, examining its external features (morphology) and internal structures (anatomy).
+
+**Definitions:**
+
+*   **Tissue:** A group of similar cells working together to perform a specific job in the body (e.g., muscle tissue helps with movement).
+
+*   **Organ:** A structure made of different tissues that work together to perform a more complex function (e.g., the stomach, which contains muscle, epithelial, and other tissues to digest food).
+
+*   **Organ System:** A group of organs that cooperate to carry out a major bodily function (e.g., the digestive system, which includes the stomach, intestines, liver, and pancreas).
+
+*   **Morphology:** The study of the external form and visible features of an organism (what it looks like on the outside).
+
+*   **Anatomy:** The study of the internal structure of an organism (what its organs and tissues look like and how they're arranged).
+
+*   **Poikilotherm:** An animal whose body temperature varies with the environment; also known as "cold-blooded" (e.g., a frog).
+
+*   **Aestivation:** A state of dormancy or inactivity during hot and dry periods (summer sleep).
+
+*   **Hibernation:** A state of dormancy or inactivity during cold periods (winter sleep).
+
+*   **Ureotelic:** An animal that excretes urea as its main nitrogenous waste product.
+
+### Solved Examples ###
+Okay, here's some educational content based on the provided NCERT chapter excerpt, explained in my own words and aiming for clarity:
+
+**Summary:**
+
+This chapter explores how complex animals, like us, are organized. It starts by explaining that multicellular organisms have specialized cells grouped into tissues. These tissues work together to form organs, and organs cooperate in organ systems. This division of labor allows for efficient functioning. The chapter then focuses on the frog as an example, looking at its external features (morphology) and internal structure (anatomy). It covers key organ systems like the digestive, respiratory, circulatory, excretory, nervous, and reproductive systems of the frog.
+
+**Definitions (Key Concepts):**
+
+*   **Tissue:** A group of similar cells performing a specific function. Think of it like a team of workers who all have the same job.
+*   **Organ:** A structure made of different tissues working together to perform a more complex function (e.g., the heart, which contains all 4 basic tissue types). This is like several teams working together towards a bigger goal.
+*   **Organ System:** A group of organs that cooperate to carry out a major bodily function (e.g., the digestive system).
+*   **Morphology:** The study of the external form and visible features of an organism.
+*   **Anatomy:** The study of the internal structure of an organism.
+*   **Poikilotherm:** An animal whose body temperature varies with the environment; also called cold-blooded.
+
+**Solved Example:**
+
+**Problem:** A student dissecting a frog observes a thin, dark red, bean-shaped structure on either side of the vertebral column. They also notice tubes leading from these structures to a common opening. Identify the structure and the function of the tubes. Also, is the frog ureotelic or not and Why?
+
+**Solution:**
+
+*   **Step 1: Identify the Structure:** The dark red, bean-shaped structures are the *kidneys*.
+
+*   **Step 2: Identify the Tubes:** The tubes leading from the kidneys are the *ureters*.
+
+*   **Step 3: Function of the Ureters:** The ureters transport urine (containing nitrogenous waste) from the kidneys to the cloaca (the common exit point).
+
+*   **Step 4: Ureotelic and Why:** Yes, The frog is ureotelic because it excretes urea as its main nitrogenous waste product.
+
+### Exercises ###
+No exercises found.
+

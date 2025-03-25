@@ -1,0 +1,102 @@
+### Summary ###
+® If a quantity y varies with another quantity x, satisfying some rule 
+( )
+
+### Definitions ###
+1 Let I be an interval contained in the domain of a real valued function f.
+2 Let x0 be a point in the domain of definition of a real valued function  f.
+for the case of increasing function.
+1, it follows that f is strictly increasing on R.
+3 Let f be a function defined on an interval I. Then
+(a)
+ f is said to have a maximum value in I, if there exists a point c in I such that
+( )
+( )
+>
+of the function.
+Definition 4 Let  f  be a real valued function and let c be an interior point in the domain
+states that if  x = c is a point of local maxima of  f,
+
+### Solved Examples ###
+Find the rate of change of the area of a circle per second with respect to
+The volume of a cube is increasing at a rate of 9 cubic centimetres per
+A stone is dropped into a quiet lake and waves move in circles at a speed
+The length x of a rectangle is decreasing at the rate of 3 cm/minute and
+The total cost C(x) in Rupees, associated with the production of x units of
+The total revenue in Rupees received from the sale of x units of a product
+Show that the function given by f(x) = 7x – 3 is increasing on R.
+Show that the function  f  given by
+Prove that the function given by f (x) = cos x is
+(a)
+Find the intervals in which the function f given by f(x) = x2 – 4x + 6 is
+(a) increasing
+(b)  decreasing
+Find the intervals in which the function f given by f (x) = 4x3 – 6x2 – 72x
++ 30 is (a) increasing (b) decreasing.
+Find intervals in which the function given by f (x) = sin 3x, x ∈
+
+
+
+0 2
+, π  is
+(a) increasing (b) decreasing.
+Find the intervals in which the function f given by
+ f (x) = sin x + cos x, 0 ≤ x ≤ 2π
+).
+Find the maximum and the minimum values, if
+Find the maximum and minimum values
+is not differentiable at
+Find the maximum and the minimum values, if any, of the function
+, if we include the points 0 and 1
+Find all points of local maxima and local minima of the function f
+Find all the points of local maxima and local minima of the function f
+, never changes its sign on R,
+Find local minimum value of the function f
+Find local maximum and local minimum values of the function  f  given by
+Find all the points of local maxima and local minima of the function f
+) that, using first derivative test, x =1 is neither
+Find two positive numbers whose sum is 15 and the sum of whose
+one may prove that the two positive numbers,
+Find the shortest distance of the point (0, c) from the parabola y = x2,
+, we have used first derivative
+Let AP and BQ be two vertical poles at
+If length of three sides of a trapezium other than base are equal to 10cm,
+Prove that the radius of the right circular cylinder of greatest curved
+Find the absolute maximum and minimum values of a function f given by
+Find absolute maximum and minimum values of a function f given by
+4
+1
+3
+3
+( )
+12
+6
+,
+[ 1, 1]
+An Apache helicopter of enemy is flying along the curve given by
+A car starts from a point P at time t = 0 seconds and stops at point Q. The
+A water tank has the shape of an inverted right circular cone with its axis
+A man of height 2 metres walks at a uniform speed of 5 km/h away from
+Find intervals in which the function given by
+Show that the function f given by
+A circular disc of radius 3 cm is being heated. Due to expansion, its
+An open topped box is to be constructed by removing equal squares from
+Manufacturer can sell x items at a price of rupees 5
+100
+−
+
+
+
+
+
+### Exercises ###
+6.1
+1.
+to the reader.
+6.2
+1.
+6.3
+1.
+on Chapter 6
+1.
+

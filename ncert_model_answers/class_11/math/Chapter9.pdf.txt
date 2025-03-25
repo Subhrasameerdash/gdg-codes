@@ -1,0 +1,45 @@
+### Summary ###
+®Slope (m) of a non-vertical line passing through the points (x1, y1) and (x2, y2)
+
+### Definitions ###
+1 If θ is the inclination of a line
+
+### Solved Examples ###
+Example 1 Find the slope of the lines:
+(a)
+If the angle between two lines is π
+4 and slope of one of the lines is 1
+2 , find
+Line through the points (–2, 6) and (4, 8) is perpendicular to the line
+Find the equations of the lines
+Find the equation of the line through (– 2, 3) with slope – 4.
+Write the equation of the line through the points (1, –1) and (3, 5).
+Write the equation of the lines for which tan θ = 2
+1
+, where θ is the
+Find the equation of the line, which makes intercepts –3 and 2 on the
+Find the distance of the point (3, – 5) from the line 3x – 4y –26 = 0.
+Find the distance between the parallel lines 3x – 4y +7 = 0 and
+3x – 4y + 5 = 0
+If the lines 2
+3
+0
+5
+3
+0
+Find the distance of the line 4x – y = 0 from the point P (4, 1) measured
+Assuming that straight lines work as the plane mirror for a point, find
+Show that the area of the triangle formed by the lines
+A line is such that its segment
+Show that the path of a moving point such that its distances from two
+
+### Exercises ###
+9.1
+1.
+9.2
+9.3
+1.
+on Chapter 9
+1.   Find the values of k for which the line (k–3) x – (4 – k2) y + k2 –7k + 6 = 0 is
+(a)
+

@@ -1,0 +1,61 @@
+### Summary ###
+that light is an electromagnetic wave. Maxwell’s work
+
+### Definitions ###
+Okay, here's some educational content derived from the NCERT chapter excerpt you provided, focusing on definitions, a summary and a solved example, explained in a way that avoids direct copying and promotes understanding:
+
+**Summary of Electromagnetic Waves**
+
+Electromagnetic waves are disturbances that propagate through space due to the interplay between time-varying electric and magnetic fields. Maxwell's equations predicted their existence and showed that accelerating charges are the source of these waves. Light is one form of electromagnetic wave, and the entire spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, all traveling at the speed of light in a vacuum.
+
+**Definitions**
+
+*   **Displacement Current:** This is a crucial concept introduced by Maxwell. It's the current that arises due to a *changing* electric field. Think of it as an "effective current" that produces a magnetic field, just like a regular current (conduction current) does. It is defined as:
+    `Id = ε0 dΦE/dt`
+    where ε0 is the permittivity of free space and dΦE/dt is the rate of change of electric flux. Without displacement current, Ampere's Law would be inconsistent in situations like a charging capacitor.
+
+*   **Maxwell's Equations:** These are a set of four fundamental equations that describe the behavior of electric and magnetic fields and their relationship to electric charges and currents. They form the foundation of classical electromagnetism.
+
+*   **Electromagnetic Spectrum:** The complete range of electromagnetic waves, ordered by frequency (or wavelength). It encompasses everything from low-frequency radio waves to extremely high-frequency gamma rays.
+
+**Solved Example**
+
+**Problem:** A parallel-plate capacitor with circular plates of radius 5 cm is being charged. The distance between the plates is 1 mm, and the voltage across the plates is changing at a rate of 10^6 V/s. Calculate the displacement current through the capacitor.
+
+**Solution:**
+
+1.  **Identify the Formula:** We need to use the formula for displacement current: `Id = ε0 dΦE/dt`. We also know that electric flux ΦE = EA, where E is the electric field and A is the area.
+
+2.  **Relate Electric Field to Voltage:** The electric field (E) between the capacitor plates is related to the voltage (V) and the distance (d) between the plates by: E = V/d
+
+3.  **Express Displacement Current in Terms of Voltage:** Substitute E = V/d and A = πr² (area of circular plates) into the displacement current equation:
+
+    `Id = ε0 * d(EA)/dt = ε0 * A * dE/dt = ε0 * πr² * d(V/d)/dt = (ε0 * πr²/d) * dV/dt `
+
+4.  **Plug in the Values:**
+
+    *   ε0 = 8.85 x 10^-12 C²/Nm²
+    *   r = 5 cm = 0.05 m
+    *   d = 1 mm = 0.001 m
+    *   dV/dt = 10^6 V/s
+
+    `Id = (8.85 x 10^-12 * π * (0.05)² / 0.001) * 10^6`
+    `Id ≈ 6.96 x 10^-6 A`
+
+**Answer:** The displacement current through the capacitor is approximately 6.96 microamperes.
+
+### Solved Examples ###
+of accelerating charge.)   This
+of a plane
+Heinrich Rudolf Hertz
+(1857 – 1894) German
+We
+EXAMPLE 8.1
+A plane electromagnetic wave of frequency
+25 MHz travels in free space along the x-direction. At a particular
+The magnetic field in a plane electromagnetic wave is
+semiconductor light emitting diodes) also   emit infrared and are widely
+
+### Exercises ###
+No exercises found.
+

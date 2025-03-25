@@ -1,0 +1,62 @@
+### Summary ###
+®The expansion of a binomial for any positive integral n is given by Binomial
+
+### Definitions ###
+Okay, here's a breakdown of the Binomial Theorem based on the provided NCERT text, explained in my own words:
+
+**Summary**
+
+This chapter introduces the Binomial Theorem, a powerful tool for expanding expressions of the form (a + b)^n, where 'n' is a positive integer. It avoids tedious repeated multiplication, especially for large values of 'n'. The chapter explores patterns in binomial expansions, introduces Pascal's Triangle (also known as Meru Prastara), and then formally states and proves the Binomial Theorem using mathematical induction. Finally, it demonstrates how to apply the theorem with special cases and examples.
+
+**Definitions**
+
+*   **Binomial Theorem:** A formula that provides a straightforward way to expand expressions in the form of (a + b)^n, where 'n' is a positive integer. Instead of multiplying (a + b) by itself 'n' times, the theorem gives a direct expansion using combinations and powers of 'a' and 'b'.
+
+*   **Pascal's Triangle (Meru Prastara):** A triangular arrangement of numbers where each number is the sum of the two numbers directly above it. The rows of Pascal's Triangle provide the coefficients in the binomial expansion. The outer edges of the triangle are always 1. It offers a visual and intuitive way to determine binomial coefficients for smaller powers.
+
+*   **Binomial Coefficients:** The numerical coefficients in the expansion of (a + b)^n, represented as nCr. These coefficients can be found in Pascal's Triangle or calculated using the combinations formula: nCr = n! / (r! * (n-r)!).
+
+**Solved Example**
+
+**Problem:** Expand (x - 1/x)^4 using the Binomial Theorem.
+
+**Solution:**
+
+1.  **Identify 'a', 'b', and 'n':** In this case, a = x, b = -1/x, and n = 4.
+
+2.  **Apply the Binomial Theorem Formula:**
+    (a + b)^n = nC0\*a^n + nC1\*a^(n-1)\*b + nC2\*a^(n-2)\*b^2 + ... + nCn\*b^n
+
+    So, (x - 1/x)^4 = 4C0\*x^4 + 4C1\*x^3\*(-1/x) + 4C2\*x^2\*(-1/x)^2 + 4C3\*x\*(-1/x)^3 + 4C4\*(-1/x)^4
+
+3.  **Calculate the Binomial Coefficients:**
+
+    *   4C0 = 1
+    *   4C1 = 4
+    *   4C2 = 6
+    *   4C3 = 4
+    *   4C4 = 1
+
+4.  **Substitute the Coefficients and Simplify:**
+
+    (x - 1/x)^4 = 1\*x^4 + 4\*x^3\*(-1/x) + 6\*x^2\*(-1/x)^2 + 4\*x\*(-1/x)^3 + 1\*(-1/x)^4
+
+    = x^4 - 4x^2 + 6 - 4/x^2 + 1/x^4
+
+Therefore, (x - 1/x)^4 = x^4 - 4x^2 + 6 - 4/x^2 + 1/x^4
+
+### Solved Examples ###
+Expand 
+4
+2
+3
+Compute (98)5.
+Which is larger (1.01)1000000 or 10,000?
+Using binomial theorem, prove that 6n–5n always leaves remainder
+1 when divided by 25.
+
+### Exercises ###
+7.1
+on Chapter 7
+1.
+

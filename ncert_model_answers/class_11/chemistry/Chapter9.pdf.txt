@@ -1,0 +1,70 @@
+### Summary ###
+Hydrocarbons are the compounds of carbon and hydrogen only. Hydrocarbons are mainly
+
+### Definitions ###
+Okay, here's a breakdown of Unit 9, "Hydrocarbons," designed to help students understand the key concepts:
+
+**Summary:**
+
+This unit explores hydrocarbons, which are organic compounds made of carbon and hydrogen. It covers their classification (alkanes, alkenes, alkynes, and aromatic hydrocarbons), nomenclature (naming rules), isomerism (different structures with the same formula), methods of preparation, physical and chemical properties, and uses. The unit also discusses the structure of benzene, aromaticity, and the directive influence of substituents on the benzene ring, as well as the harmful effects of certain hydrocarbons.
+
+**Definitions of Key Concepts:**
+
+*   **Hydrocarbons:** Molecules composed *only* of carbon and hydrogen atoms. They're the fundamental building blocks of many fuels, plastics, and other organic materials.
+
+*   **Alkanes:** Saturated hydrocarbons containing only single bonds between carbon atoms. They are relatively unreactive (also known as paraffins) and follow the general formula CnH2n+2.
+
+*   **Alkenes:** Unsaturated hydrocarbons containing at least one carbon-carbon double bond. The double bond makes them more reactive than alkanes. General formula: CnH2n.
+
+*   **Alkynes:** Unsaturated hydrocarbons containing at least one carbon-carbon triple bond. They are even more reactive than alkenes. General formula: CnH2n-2.
+
+*   **Aromatic Hydrocarbons (Arenes):** Cyclic hydrocarbons with a special type of stability (aromaticity) due to a ring of delocalized electrons. Benzene is the most common example.
+
+*   **Isomers:** Molecules with the same molecular formula but different structural arrangements of atoms.  This leads to different properties. There are structural and stereo isomers.
+
+*   **Saturated Hydrocarbon:** A hydrocarbon in which all carbon-carbon bonds are single bonds.
+
+*   **Unsaturated Hydrocarbon:** A hydrocarbon containing at least one carbon-carbon double or triple bond.
+
+*   **Aromaticity:** A special property of cyclic, planar molecules with a specific number of pi electrons (following Hückel's rule: 4n+2) that makes them unusually stable.
+
+*   **Electrophilic Substitution:** A common type of reaction for aromatic compounds where an electrophile (electron-seeking species) replaces a hydrogen atom on the ring.
+
+*   **Directive Influence:** The effect that a substituent already on a benzene ring has on determining the position where a new substituent will attach. Substituents are either ortho/para-directing or meta-directing.
+
+*   **Carcinogenicity:** The ability of a substance to cause cancer. Some polycyclic aromatic hydrocarbons are carcinogenic.
+
+*   **Conformations:** Different spatial arrangements of a molecule that are interconverted by rotation about single bonds.
+
+**Solved Example Problem:**
+
+**Problem:** Draw all the possible structural isomers for an alkyne with the molecular formula C4H6. Name each isomer using IUPAC nomenclature and identify any position isomers.
+
+**Solution:**
+
+**Step 1: Determine the possible arrangements of the carbon chain.**
+*   The four carbon atoms can be arranged in a straight chain.
+
+**Step 2: Place the triple bond in different locations.**
+*   **Isomer 1:** The triple bond can be between the first and second carbon atoms: HC≡C-CH2-CH3
+*   **Isomer 2:** The triple bond can be between the second and third carbon atoms: CH3-C≡C-CH3
+
+**Step 3: Name each isomer using IUPAC nomenclature.**
+*   **Isomer 1:** But-1-yne
+*   **Isomer 2:** But-2-yne
+
+**Step 4: Identify position isomers.**
+*   But-1-yne and But-2-yne are *position isomers* because they have the same molecular formula (C4H6) and the same carbon skeleton, but differ in the position of the triple bond.
+
+### Solved Examples ###
+of β-elimination reaction, since hydrogen
+of  
+β-elimination reaction since –OH group
+of electrophilic addition reaction
+of electrophilic addition
+of nitro group.
+-25
+
+### Exercises ###
+i.e., replacing hydrogen
+

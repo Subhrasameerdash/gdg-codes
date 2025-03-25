@@ -1,0 +1,76 @@
+### Summary ###
+In this chapter, we studied different types of relations and equivalence relation,
+
+### Definitions ###
+1 A relation R in a set A is called empty relation, if no element of A is
+2  A relation R in a set A is called universal relation, if each element of A
+3 A relation R in a set A is called
+(i)
+4 A relation R in a set A is said to be an equivalence relation if R is
+5 A function f : X → Y is defined to be one-one (or injective), if the images
+6 A function f : X → Y is said to be onto (or surjective), if every element
+7 A function f : X → Y is said to be one-one and onto (or bijective), if f is
+8 Let f : A → B and g : B → C be two functions. Then the composition of
+9 A function f : X → Y is defined to be invertible, if there exists a function
+of Y, y = 4x + 3,
+of function which was being used till the set
+of function presently used, was given after set theory was
+of function
+given by Dirichlet
+
+### Solved Examples ###
+Let A be the set of all students of a boys school. Show that the relation R
+Let T be the set of all triangles in a plane with R a relation in T given by
+Let L be the set of all lines in a plane and R be the relation in L defined as
+Show that the relation R in the set {1, 2, 3} given by R = {(1, 1), (2, 2),
+(3, 3), (1, 2), (2, 3)} is reflexive but neither symmetric nor transitive.
+Show that the relation R in the set Z of integers given by
+, note that all even integers are related to zero, as (0, ± 2), (0, ± 4)
+, we can show that R is an equivalence
+Let R be the relation defined in the set A = {1, 2, 3, 4, 5, 6, 7} by
+of a relation. Which is
+(i) Symmetric but neither reflexive nor transitive.
+(ii) Transitive but neither reflexive nor symmetric.
+(iii) Reflexive and symmetric but not transitive.
+(iv) Reflexive and transitive but not symmetric.
+(v) Symmetric and transitive but not reflexive.
+11.
+Let A be the set of all 50 students of Class X in a school. Let f : A → N be
+Show that the function f : N → N, given by f(x) = 2x, is one-one but not
+Prove that the function f : R → R, given by f (x) = 2x, is one-one and onto.
+Show that the function f : N → N, given by f (1) = f (2) = 1 and f(x) = x – 1,
+Show that the function f : R → R,
+Show that f : N → N, given by
+1,if
+Show that an onto function f : {1, 2, 3} → {1, 2, 3} is always one-one.
+Show that a one-one function f : {1, 2, 3} → {1, 2, 3} must be onto.
+Let f : {2, 3, 4, 5} → {3, 4, 5, 9} and g : {3, 4, 5, 9} → {7, 11, 15} be
+Find gof and fog, if f : R → R and g : R → R are given by f(x) = cos x
+Let f : N → Y be a function defined as f (x) = 4x + 3, where,
+If R1
+ and R2 are equivalence relations in a set A, show that R1 ∩ R2 is
+Let R be a relation on the set A of ordered pairs of positive integers
+Let X = {1, 2, 3, 4, 5, 6, 7, 8, 9}. Let R1 be a relation in X given
+Let f : X → Y be a function. Define a relation R in X given by
+Find the number of all one-one functions from set A = {1, 2, 3} to itself.
+Let A = {1, 2, 3}. Then show that  the number of relations containing (1, 2)
+Show that the number of equivalence relation in the set {1, 2, 3} containing
+(1, 2) and (2, 1) is two.
+Consider the identity function IN : N → N defined as IN (x) = x ∀x ∈ N.
+Consider a function f : 0, 2
+π
+
+→
+
+
+
+
+
+### Exercises ###
+1.1
+1.
+1.2
+1.
+on Chapter 1
+1.
+

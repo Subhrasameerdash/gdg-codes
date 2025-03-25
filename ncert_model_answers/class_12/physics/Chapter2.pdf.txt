@@ -1,0 +1,63 @@
+### Summary ###
+of the important electrostatic properties
+
+### Definitions ###
+of potential energy of a charge q at any point.
+of
+is the potential at P due to the charge Q
+0
+( )
+4
+of an equipotential
+of potential, work done in bringing charge q2 from
+of
+
+### Solved Examples ###
+Equation (2.8) is true for any
+(a) Calculate the potential at a point P due to a charge of 4 × 10–7C
+=
++
++
++
+
+
+
+
+1
+4
+0
+1
+1
+2
+2
+πε
+Two charges 3 × 10–8 C and –2 × 10–8 C are located
+15 cm apart. At what point on the line joining the two charges is the
+which gives
+Figures 2.8 (a) and (b) show the field lines of a positive
+Electric potential, equipotential surfaces:
+is characteristic of the present state of configuration, and not the way
+Four charges are arranged at the corners of a square
+Add the work done in steps (i), (ii), (iii) and (iv). The total work
+(We continue to take potential at infinity to be zero.) Thus, work done in
+(a) Determine the electrostatic potential energy of a system consisting
+(c) Suppose that the same system of charges is now placed in an
+This expression can alternately be understood also from Eq. (2.29).
+A molecule of a substance has a permanent electric
+FIGURE 2.18 The electric field inside a
+(a) A comb run through one’s dry hair attracts small bits of paper.
+(b) To enable them to conduct charge (produced by friction) to the
+Eq. (2.54) for the case of a parallel plate capacitor, it holds good for any
+A slab of material of dielectric constant K has the same
+FIGURE 2.29
+A network of four 10 mF capacitors is connected to a 500 V
+Note that Ad is the volume of the region between the plates (where
+(a) A 900 pF capacitor is charged by 100 V battery
+[Fig. 2.31(a)]. How much electrostatic energy is stored by the capacitor?
+(b) The capacitor is disconnected from the battery and connected to
+SUMMARY
+1.
+
+### Exercises ###
+2.8, a 3 mm thick mica sheet (of dielectric constant = 6) were inserted
+

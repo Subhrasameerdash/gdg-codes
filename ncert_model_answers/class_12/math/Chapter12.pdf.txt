@@ -1,0 +1,86 @@
+### Summary ###
+® A linear programming problem is one that is concerned with finding the optimal
+
+### Definitions ###
+Okay, here's a breakdown of Linear Programming based on the provided NCERT chapter content, explained in my own words:
+
+**Summary:**
+
+Linear Programming is a mathematical technique used to find the best possible solution (maximum profit or minimum cost) to a problem where you have multiple options and limitations. It involves defining a goal (objective function) and restrictions (constraints) as linear equations and inequalities, then finding the optimal solution within those boundaries. Graphical methods provide a visual approach to solving these problems, especially when dealing with two variables.
+
+**Definitions:**
+
+*   **Objective Function:** This is the mathematical equation that represents what you're trying to optimize (maximize or minimize). It's a linear equation, meaning the variables are raised to the power of 1. Example: `Z = 3x + 4y` (where Z is profit, x and y are quantities of two different products).
+
+*   **Constraints:** These are the limitations or restrictions you have in the problem. They are expressed as linear inequalities or equations. Constraints limit the possible values of the variables. Examples:
+    *   `x + y ≤ 60` (total number of items must be less than or equal to 60)
+    *   `2x + y ≤ 100` (resource limitation)
+    *   `x ≥ 0, y ≥ 0` (non-negativity constraints - you can't have negative quantities)
+
+*   **Feasible Region:** This is the area on a graph that satisfies *all* the constraints simultaneously. It's the set of all possible solutions that meet the requirements of the problem.
+
+*   **Feasible Solution:** Any point *within* the feasible region.
+
+*   **Optimal Solution:** The specific point *within* the feasible region that gives you the best possible value for the objective function (either the maximum or minimum).
+
+*   **Corner Point:** A vertex of the feasible region, formed by the intersection of two constraint lines.  The optimal solution *always* occurs at a corner point (in a bounded feasible region).
+
+*   **Bounded Region:** The feasible region can be enclosed in a circle.
+
+*   **Unbounded Region:** The feasible region extends indefinitely. Max/Min may not exist
+
+**Solved Example:**
+
+A small bakery makes cakes and cookies.
+
+*   A cake requires 2 cups of flour and 1 cup of sugar.
+*   A cookie requires 1 cup of flour and 0.5 cups of sugar.
+*   The bakery has 16 cups of flour and 6 cups of sugar available.
+*   Each cake sells for $10, and each cookie sells for $3.
+
+How many cakes and cookies should the bakery make to maximize revenue?
+
+**Solution:**
+
+1.  **Define Variables:**
+
+    *   `x` = number of cakes
+    *   `y` = number of cookies
+
+2.  **Objective Function:**
+    *   Maximize `Z = 10x + 3y` (revenue)
+
+3.  **Constraints:**
+
+    *   `2x + y ≤ 16` (flour constraint)
+    *   `x + 0.5y ≤ 6` (sugar constraint)
+    *   `x ≥ 0, y ≥ 0` (non-negativity)
+
+4.  **Graph the Constraints:** Graph the inequalities on a coordinate plane. The feasible region is the area where all shaded regions overlap.
+
+5.  **Identify Corner Points:** Find the coordinates of the vertices (corner points) of the feasible region.  In this case, they are (0,0), (0, 12), (8, 0), and (2, 12). The last intersection may require solving equations.
+
+6.  **Evaluate Objective Function at Corner Points:**
+
+    *   (0, 0): Z = 10(0) + 3(0) = 0
+    *   (0, 12): Z = 10(0) + 3(12) = 36
+    *   (8, 0): Z = 10(8) + 3(0) = 80
+    *   (2, 12): Z = 10(2) + 3(12) = 56
+
+7.  **Determine Optimal Solution:** The maximum value of Z is 80, which occurs at the point (8, 0).
+
+**Answer:** The bakery should make 8 cakes and 0 cookies to maximize revenue at $80.
+
+### Solved Examples ###
+of linear programming
+of furniture dealer which will further
+of an optimisation
+Solve the following linear programming problem graphically:
+Solve the following linear programming problem graphically:
+Solve the following problem graphically:
+Determine graphically the minimum value of the objective function
+Minimise Z = 3x + 2y
+
+### Exercises ###
+12.1
+

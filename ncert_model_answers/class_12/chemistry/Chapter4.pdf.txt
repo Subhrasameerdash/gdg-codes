@@ -1,0 +1,85 @@
+### Summary ###
+Summary
+
+### Definitions ###
+Okay, here's a breakdown of the d- and f-block elements suitable for an NCERT textbook, focusing on definitions, a summary, and a new solved example.
+
+**Summary of d- and f-Block Elements**
+
+The d- and f-block elements, also known as transition and inner transition metals, respectively, occupy the center and bottom portions of the periodic table. Transition metals (d-block) are characterized by having partially filled d orbitals, leading to variable oxidation states, colored compounds, catalytic activity, and the formation of complexes. The inner transition metals (f-block) are divided into lanthanoids and actinoids, both series featuring the progressive filling of f orbitals. The lanthanoid contraction, a gradual decrease in size across the lanthanoid series, significantly affects the properties of subsequent elements. Actinoids are radioactive and exhibit a wider range of oxidation states than lanthanoids.
+
+**Definitions**
+
+*   **Transition Metals (d-block elements):** These are elements found in groups 3-12 of the periodic table. A key characteristic is that they have an *incomplete* d subshell in at least one of their ions. This partially filled d-orbital is the reason behind their unique properties.
+    *Example:* Iron (Fe) can exist as Fe2+ or Fe3+, both having incomplete d subshells.
+
+*   **Inner Transition Metals (f-block elements):** These elements are found in two rows at the bottom of the periodic table. They are characterized by the filling of their *f* orbitals. They include the Lanthanoids and Actinoids.
+
+*   **Lanthanoid Contraction:** This refers to the gradual decrease in the atomic and ionic radii of the lanthanoid elements (Ce to Lu). It happens because the *f* electrons don't shield the outer electrons very well from the increasing positive charge of the nucleus. This contraction significantly affects the size and properties of elements that come *after* the lanthanoids in the periodic table.
+
+*   **Variable Oxidation States:** Transition metals commonly exhibit multiple oxidation states in their compounds. This is because the energy levels of the *(n-1)d* and *ns* orbitals are quite close, allowing for the loss of different numbers of electrons.
+
+*   **Interstitial Compounds:** These are compounds formed when small atoms (like hydrogen, carbon, or nitrogen) get trapped inside the crystal lattice of a metal. The trapped atoms change the properties of the metal, making it harder and less ductile.
+
+*   **Alloys:** Alloys are mixtures of two or more metals (or a metal and a non-metal) that are combined to create a material with enhanced properties, such as increased strength or corrosion resistance.
+
+**Solved Example Problem**
+
+**Problem:** A transition metal 'M' forms a divalent ion, M2+, with a magnetic moment of approximately 4.90 Bohr Magnetons (BM). Identify the metal 'M' and write its electronic configuration.
+
+**Solution:**
+
+1.  **Relate Magnetic Moment to Unpaired Electrons:** The spin-only formula for magnetic moment is:  µ = √(n(n+2)) BM, where *n* is the number of unpaired electrons. We are given µ ≈ 4.90 BM.
+
+2.  **Solve for n:**
+    *   4.  90 = √(n(n+2))
+    *   Squaring both sides: 24.01 = n(n+2)
+    *   By trial and error, we find that n = 4 satisfies the equation (4(4+2) = 24).
+        Therefore, there are 4 unpaired electrons.
+
+3.  **Determine the Electronic Configuration of M2+:**  Since M2+ has 4 unpaired electrons, it is likely to have a d4 configuration.
+
+4.  **Identify the Metal:** To form an M2+ ion with a d4 configuration, the neutral metal 'M' must have lost two electrons. So the electronic configuration of neutral M is [Ar] 3d64s2, which implies that the metal is Iron (Fe).
+
+5.  **Final Answer:**
+    *   The metal 'M' is Iron (Fe).
+    *   The electronic configuration of Fe2+ is [Ar] 3d6.
+
+### Solved Examples ###
+Example 4.1
+Example 4.1
+Solution
+Example 4.2
+Example 4.2
+Solution
+Example 4.3
+Example 4.3
+Solution
+Example 4.4
+Example 4.4
+Solution
+Example 4.5
+Example 4.5
+How would you account for the increasing oxidising power in the
+Example 4.6
+Example 4.6
+Intext Questions
+Example 4.7
+Example 4.7
+Solution
+Example 4.8
+Example 4.8
+Solution
+Colour
+When a particular oxidation state becomes less stable relative to other
+Example 4.9
+Example 4.9
+Solution
+Example 4.10
+Example 4.10
+Solution
+Magnetic Moment (BM)
+
+### Exercises ###
+No exercises found.
+

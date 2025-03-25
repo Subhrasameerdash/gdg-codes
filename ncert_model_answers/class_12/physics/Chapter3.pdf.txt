@@ -1,0 +1,31 @@
+### Summary ###
+1.
+
+### Definitions ###
+[Eq. (3.2)] I Dt, where I is the magnitude of the current. Hence,
+I is related to the magnitude |j| of the current density by
+
+### Solved Examples ###
+ne
+(a) Estimate the average drift speed of conduction
+Example 3.2
+(a) In Example 3.1, the electron drift speed is estimated to be only a
+Unlike metals, the resistivities of semiconductors decrease with
+An electric toaster uses nichrome for its heating
+Example 3.4 The resistance of the platinum wire of a platinum
+This applies equally well if instead of a junction of
+A battery of 10 V and negligible internal resistance is
+Similation for application of Kirchhoff’s rules:
+Solution  The network is not reducible to a simple series and parallel
+In a general network, there will be no such simplification due to symmetry,
+Example 3.6 Determine the current in each branch of the network
+Solution  Each branch of the network is assigned an unknown current
+immediately gives us the relations I1 = I3 and I2 = I4. Next, we apply
+The four arms of a Wheatstone bridge (Fig. 3.19) have
+A galvanometer of 15W resistance is connected across BD. Calculate
+of (a) is when r increases with I (even if temperature is
+is 8.5 × 1028 m–3. How long does an electron
+
+### Exercises ###
+No exercises found.
+

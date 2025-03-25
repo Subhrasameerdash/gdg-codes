@@ -1,0 +1,39 @@
+### Summary ###
+Biotechnology has given to humans several useful products by using
+
+### Definitions ###
+Okay, here's a breakdown of the Biotechnology and its Applications chapter:
+
+**Summary:**
+
+This chapter explores how biotechnology is used to improve our lives, particularly in agriculture and medicine. It covers techniques like tissue culture and genetic engineering to enhance food production (e.g., pest-resistant crops) and create new treatments for diseases (e.g., insulin production, gene therapy). The chapter also touches upon the ethical concerns surrounding these technologies, including biopiracy and the need for regulation. Finally, it briefly discusses transgenic animals and their uses.
+
+**Definitions (Key Concepts):**
+
+*   **Biotechnology:** Using living organisms (or parts of them) to develop or make useful products. Think of it as using nature's toolbox for our benefit on a large scale.
+
+*   **Genetically Modified Organism (GMO):** An organism whose genetic material has been altered using techniques that are generally not possible through natural mating or recombination.
+
+*   **Tissue Culture:** Growing plant cells or tissues in a lab under sterile conditions to produce many identical plants.
+
+*   **Micropropagation:** Producing thousands of plants through tissue culture.
+
+*   **Somatic Hybridization:** Fusing protoplasts (cells without cell walls) from two different plants to create a hybrid plant.
+
+*   **Bt toxin:** A natural insecticide produced by the bacterium *Bacillus thuringiensis*. The gene for this toxin can be inserted into plants to make them pest-resistant.
+
+*   **RNA interference (RNAi):** A process where double-stranded RNA molecules are used to silence specific genes, often used to create pest-resistant plants.
+
+*   **Gene Therapy:** Introducing genes into a person's cells to treat or cure a disease.
+
+*   **Transgenic Animal:** An animal whose DNA has been altered to carry a foreign gene.
+
+*   **Biopiracy:** The exploitation of biological resources and traditional knowledge by companies without proper authorization or compensation.
+
+### Solved Examples ###
+Compare and contrast the advantages and disadvantages of production
+of adenosine
+
+### Exercises ###
+No exercises found.
+

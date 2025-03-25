@@ -1,0 +1,80 @@
+### Summary ###
+is somewhat strengthened by the following set of computation.
+
+### Definitions ###
+of limit and study some algebra of limits. Then we come
+of derivative and study some algebra
+1 Suppose f is a real valued function and a is a point in its domain of
+2 Suppose f  is a real valued function, the function defined by
+(
+)
+( )
+0
+of derivative is also called the first principle of derivative.
+of f′ (x) is wherever the above limit exists. There
+of derivatives
+of the derivative function, we have
+       
+( )
+(
+)
+( )
+0
+'
+of a limit, Cauchy gave examples such as the limit of
+
+### Solved Examples ###
+Find the limits:  (i)  
+3
+2
+1
+Find the limits:
+(i)
+2
+1
+1
+Evaluate:
+(i)  
+15
+10
+1
+1
+Evaluate:
+(i) 
+0
+Find the derivative at x = 2 of the function f(x) = 3x.
+Find the derivative of the function f(x) = 2x2 + 3x – 5 at x =  –1. Also prove
+Find the derivative of sin x at x = 0.
+Find the derivative of f(x) = 3 at x = 0 and at x = 3.
+Find the derivative of f(x) = 10x.
+Find the derivative of f(x) = x2.
+Find the derivative of the constant function f (x) = a for a fixed real
+Find the derivative of f(x) = 1
+Compute the derivative of 6x100 – x55 + x.
+Find the derivative of f(x) = 1 + x + x2 + x3 +... + x50 at x = 1.
+Find the derivative of f(x) = 
+1
+Compute the derivative of sin x.
+Compute the derivative of tan x.
+Compute the derivative of f(x) = sin2 x.
+Find the derivative of f from the first principle, where f is given by
+(i)
+Find the derivative of f(x) from the first principle, where f(x) is
+(i) sin
+Compute derivative of
+(i) f(x) = sin 2x
+(ii) g(x) = cot x
+and also that the
+Find the derivative of
+(i) 
+5
+
+### Exercises ###
+in induction on n tells us that
+12.1
+12.2
+1.
+on Chapter 12
+1.  Find the derivative of the following functions from first principle:
+ (i)
+
