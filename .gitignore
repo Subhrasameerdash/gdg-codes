@@ -3,3 +3,4 @@ model_1/model.safetensors
 model_2/model.safetensors
 model_3/model.safetensors
  
+results_fold_*/checkpoint-*/*
