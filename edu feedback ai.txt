@@ -1,0 +1,146 @@
+✅ Everything That Has Been Done
+🔥 1. Project Setup and Preparation
+✅ Installed all required dependencies:
+
+PyTorch, TensorFlow, and Hugging Face transformers.
+Google Cloud SDK, Flask, and other required libraries.
+✅ Set up Google Cloud:
+
+Created a Google Cloud Project.
+Enabled necessary APIs (Cloud Functions, Cloud Build, Cloud Run).
+Configured authentication and billing.
+Deployed the model as a REST API on Google Cloud Functions.
+✅ Local Environment Setup:
+
+Configured Anaconda environment with Jupyter Lab.
+Installed all Python packages required for model training, evaluation, and deployment.
+📚 2. Dataset Preparation
+✅ Extracted text from NCERT textbooks using Tesseract OCR and stored them in a structured folder hierarchy:
+
+ncert_model_answers/
+teacher_assignments/
+student_submissions/
+grading_reports/
+✅ Used Google Gemini to generate:
+
+10 short questions (2 marks)
+10 focused questions (5 marks)
+3 long questions (10 marks)
+For each subject in every class.
+✅ Generated:
+
+Teacher assignments with questions.
+Student sample answers.
+Grading reports with feedback.
+✅ Combined all structured data into:
+
+Training dataset (training_dataset.json).
+Test dataset (test_dataset.json).
+Dataset split in 80/20 ratio for training and testing.
+✅ Verified the dataset structure:
+
+Input: student_answer + model_answer.
+Output: score, grade, and feedback.
+🔥 3. Model Development
+✅ Chose BERT-based custom NLP model for fine-tuning.
+✅ Trained the model using:
+
+BERT (pre-trained on bert-base-uncased).
+Training Arguments:
+batch_size: 8
+epochs: 3
+learning_rate: 2e-5
+✅ Fine-tuned on the training dataset (training_dataset.json).
+✅ Saved the fine-tuned model as:
+edu_feedback_bert_model/ folder.
+🔥 4. Model Evaluation
+✅ Evaluated the model on the test dataset (test_dataset.json).
+✅ Calculated:
+
+Classification Metrics:
+Accuracy
+Precision
+Recall
+F1-score
+Regression Metrics:
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+R2 Score
+✅ Displayed per-sample predictions with:
+
+Student answer.
+Model answer.
+Predicted grade and score.
+✅ Printed overall evaluation results.
+
+🔥 5. REST API Deployment
+✅ Built a Flask REST API:
+
+Deployed the model as a service.
+Included /predict endpoint for grading.
+✅ Added proper exception handling and error handling.
+✅ Added API routes:
+/ → Check server status.
+/predict → Grade student answers with score, grade, and feedback.
+✅ Exported the model as a .pth file and deployed it on Google Cloud Functions.
+
+✅ Verified the endpoint URL:
+
+✅ Successfully deployed at:
+https://us-central1-gen-lang-client-0914915233.cloudfunctions.net/edu-feedback-api
+✅ Tested the API using:
+
+curl commands in cmd.
+Received valid responses with score, grade, and feedback.
+🔥 6. Debugging and Fixes
+✅ Resolved:
+
+Memory issues by increasing to 2Gi.
+Timeout errors by increasing to 540s.
+Missing dependencies issues by installing tf-keras, transformers, and pytorch.
+Compatibility issues with Keras 3 and TensorFlow by downgrading to compatible versions.
+Cloud Functions deployment issues by using --gen2.
+Failed API responses by fixing missing fields in the request.
+✅ Verified API responses with curl commands.
+✅ Added validation and error handling in the API.
+🚀 Pending Tasks
+✅ 1. Model Refinement and Tuning
+
+🛠️ Further fine-tuning of the BERT model with more samples to improve accuracy.
+📈 Hyperparameter optimization (learning rate, batch size, epochs) for better performance.
+⚙️ Regularization techniques to prevent overfitting.
+🔍 Cross-validation to validate the model's generalizability.
+✅ 2. Testing and Validation
+
+📊 Perform detailed testing with larger datasets.
+✅ Improve error handling in the REST API.
+🔥 Stress test the API to handle multiple concurrent requests.
+✅ 3. Integration with Google Classroom
+
+🔗 Google Classroom API Integration:
+Automatically fetch student submissions.
+Grade them using your REST API.
+Return grades and feedback to Google Classroom.
+📌 Display results in your Flutter app.
+✅ 4. App Integration
+
+🎯 Use Flutter Dart for the app frontend.
+🔥 Integrate the deployed API into the app.
+✅ Display:
+Student submissions.
+Grading results (score, grade, feedback).
+🛠️ Add proper exception handling for network issues.
+📊 Improve UI/UX for displaying results.
+✅ 5. Model Export and Documentation
+
+🔥 Export the trained model as a .pth or .h5 file.
+✅ Add detailed documentation on:
+Model training process.
+Deployment steps.
+API usage instructions.
+Sample API calls with responses.
+🔥 Next Steps
+✅ 1. Implement Google Classroom Integration.
+✅ 2. Create and test the Flutter app interface with the deployed API.
+✅ 3. Optimize the model further with hyperparameter tuning.
+✅ 4. Prepare documentation and project reports.
