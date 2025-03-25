@@ -10,7 +10,7 @@
 
 ### 🚀 **Project Overview**
 
-Edu Feedback AI is an AI-powered automated grading and feedback system designed for **BTech 1st-year students' assignments**. The system streamlines the evaluation process by leveraging **Google Cloud services**, **BERT-based models**, and **custom NLP pipelines** for accurate and consistent feedback.
+Edu Feedback AI is an AI-powered automated grading and feedback system designed for **Class 11 & 12 students' assignments**. The system streamlines the evaluation process by leveraging **Google Cloud services**, **BERT-based models**, and **custom NLP pipelines** for accurate and consistent feedback.
 
 ---
 
