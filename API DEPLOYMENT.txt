@@ -1,0 +1,34 @@
+API DEPLOYMENT
+ gcloud version
+gcloud auth login
+gcloud auth list
+gcloud config set project gen-lang-client-0914915233
+gcloud config set functions/region us-central1
+gcloud storage buckets list
+gcloud storage buckets create gs://edu-feedback-model-bucket --location=us-central1
+gcloud storage cp -r fine_tuned_edu_feedback_bert_model gs://edu-feedback-model-bucket/
+gcloud config set project gen-lang-client-0914915233
+gcloud services enable googleapis.com
+gcloud services enable cloudfunctions.googleapis.com
+gcloud services enable run.googleapis.com
+gcloud services enable eventarc.googleapis.com
+gcloud services enable cloudbuild.googleapis.com
+
+gcloud functions delete edu-feedback-api --quiet
+gcloud functions deploy edu-feedback-api ^
+  --region=us-central1 ^
+  --runtime=python310 ^
+  --trigger-http ^
+  --allow-unauthenticated ^
+  --entry-point=predict ^
+  --source=. ^
+  --timeout=3600s ^
+  --memory=2Gi ^
+  --gen2
+
+12. gcloud functions describe edu-feedback-api --region=us-central1 --format="value(serviceConfig.uri)"
+
+13. curl -X POST ^
+  -H "Content-Type: application/json" ^
+  -d "{\"student_answer\": \"Newton's first law states that an object will remain at rest...\", \"model_answer\": \"Newton's first law explains that an object continues its state of motion...\"}" ^
+  "https://us-central1-gen-lang-client-0914915233.cloudfunctions.net/edu-feedback-api"
