@@ -6,13 +6,6 @@
 
 
 
-### 🛡️ **License**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for details.
-
 ---
 
 ### 🚀 **Project Overview**
@@ -133,8 +126,10 @@ The following large models are stored as **GitHub Releases** due to their size:
 
 ### 🛡️ **License**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  
 This project is licensed under the **MIT License**.  
-You are free to **use, modify, and distribute** this project with attribution.
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
