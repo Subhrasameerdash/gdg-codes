@@ -1,0 +1,70 @@
+Okay, let's evaluate a hypothetical student answer against the provided model answer for the set theory assignment.
+
+**Hypothetical Student Answer:**
+
+1.  **Defining Set Equality:**
+
+    *P* = {4, 16, 36, 64}
+    *Q* = {4, 16, 36, 64}
+    Yes, the sets are equal.  They have the same numbers.
+
+2.  **Subset Identification and Set Operations:**
+
+    A is not a subset of B because A has "a" and "e" and B does not.
+    B is a subset of U because U has all the vowels.
+    A ∪ B = {a, e, i, o, u}
+    (A ∪ B)' = {}
+
+3.  **Applying Set Builder Notation and Set Complement:**
+
+    U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+    A = {3, 6, 9, 12, 15, 18}
+    B = {2, 3, 5, 7, 11, 13, 17, 19}
+    A' = {1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19}
+    B' = {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18}
+    A' ∩ B' = {1, 4, 8, 10, 14, 16}
+
+**Evaluation:**
+
+**1. Accuracy:**
+
+*   **Question 1:** The student's answer is accurate. They correctly identify the elements of both sets and conclude that they are equal. (10/10)
+*   **Question 2:**  The student's answer is entirely accurate.  The student correctly states the conclusions. (10/10)
+*   **Question 3:** The student's answer is entirely accurate. Each set is correctly identified. (10/10)
+
+**2. Clarity:**
+
+*   **Question 1:** The clarity could be improved.  The student gets the answer right, but the justification is a little brief ("They have the same numbers").  The model answer explicitly states the condition for set equality. (6/10)
+*   **Question 2:** Good clarity.  The student's explanation is short, but provides sufficient reasoning for the "subset" and "superset" portion of the problem. (8/10)
+*   **Question 3:** Great clarity. All answers are expressed in Roster notation, as requested in the problem statement. (10/10)
+
+**3. Structure:**
+
+*   **Question 1:** The structure is simple and functional. The student lists the sets and states the conclusion. It could benefit from a more formal structure that explicitly refers to the definition of set equality. (6/10)
+*   **Question 2:** Good structure. It follows the order of the problem statement. (8/10)
+*   **Question 3:** Good structure, following the order of operations for this problem (10/10)
+
+**Overall Assessment:**
+
+*   **Numerical Score:** (10+6+6 + 10+8+8 + 10+10+10) = 78/90  -> ~87
+*   **Grade:** B+
+
+**Detailed Feedback:**
+
+**Strengths:**
+
+*   The student demonstrates a good understanding of set theory concepts like set equality, subsets, union, complement, and intersection.
+*   The calculations are accurate. The student correctly identifies the elements of each set and performs the set operations.
+*   The answers are generally well-organized and easy to follow.
+
+**Areas for Improvement:**
+
+*   **Justification:**  The student needs to improve their justification, especially in Question 1.  They need to explicitly state the definitions and conditions they are using to arrive at their conclusion.  Simply saying "they have the same numbers" is not sufficient. Referencing the definition of set equality would strengthen the answer.
+*   **Formal Language:** Encourage the student to use more formal mathematical language.
+*   **Show All Work:** While not explicitly asked for in all parts, encourage the student to *show* how they arrived at their answers. This is especially helpful in questions involving set builder notation. The model answers do this.
+
+**Recommendations:**
+
+*   Review the definitions of set equality, subset, union, intersection, and complement.
+*   Practice writing explanations that clearly state the reasoning behind each step.
+*   When answering questions about sets, make sure to explicitly refer to the relevant definitions. For instance, when showing that two sets are equal, explicitly state that they contain exactly the same elements.
