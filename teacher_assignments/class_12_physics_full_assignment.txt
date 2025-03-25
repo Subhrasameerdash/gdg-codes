@@ -1,0 +1,78 @@
+
+                === Short Questions (2 marks each) ===
+                Okay, here are 10 short assignment questions based on the provided content, suitable for Class 11-12 students, each worth 2 marks:
+
+1.  **Question 1:** Define electric charge and state the principle that governs the force between two point charges.
+
+2.  **Question 2:** Explain, in your own words, what is meant by an 'electric field' at a point in space. How is its direction defined?
+
+3.  **Question 3:** Two charges of +2μC and -4μC are placed a certain distance apart. Qualitatively describe the nature of the force between them (attractive or repulsive) and explain why.
+
+4.  **Question 4:** Define electric potential. What is its SI unit?
+
+5.  **Question 5:** A parallel plate capacitor is charged. How does the stored energy change if the distance between the plates is doubled while keeping the charge constant? Briefly explain your reasoning.
+
+6.  **Question 6:** Define the term 'capacitance' of a capacitor. On what factors does the capacitance of a parallel plate capacitor depend?
+
+7.  **Question 7:** State Coulomb's Law in mathematical form and define all the terms used in the equation.
+
+8.  **Question 8:** A charge of 5 x 10^-6 C is placed in an electric field. If it experiences a force of 2 x 10^-3 N, what is the magnitude of the electric field at that point?
+
+9.  **Question 9:** Explain the difference between electric potential and potential energy.
+
+10. **Question 10:** Two capacitors, C1 and C2, are connected in parallel to a battery. Which quantity (charge or voltage) will be the same for both capacitors? Briefly explain your answer.
+
+                === Focused Questions (5 marks each) ===
+                Here are 10 focused questions, each worth 5 marks, based on the provided NCERT content for Class 11-12 students:
+
+1.  **Question 1:** Two point charges, +8 μC and -4 μC, are located 20 cm apart in a vacuum.
+    (a) Determine the electric field at the midpoint of the line joining the two charges.
+    (b) Calculate the potential at that midpoint. Explain whether the electric field and electric potential are vector or scalar quantities, justifying why this makes sense in the context of your calculations.
+
+2.  **Question 2:** A parallel plate capacitor with air between the plates has a capacitance of 4 pF. If the distance between the plates is doubled and a dielectric material of dielectric constant K = 3 is inserted between the plates, what will be the new capacitance? Explain the effect of the dielectric material on the capacitance and why the distance alteration impacts capacitance.
+
+3.  **Question 3:** Three capacitors of capacitances 2 μF, 3 μF, and 6 μF are connected in series to a 12V battery.
+    (a) Calculate the equivalent capacitance of the combination.
+    (b) Determine the charge on each capacitor. Explain why the charge is the same on each capacitor in a series combination.
+
+4.  **Question 4:** A copper wire has a resistance of 10 ohms at 20°C. If the temperature coefficient of resistance for copper is 0.004 °C⁻¹, what will be its resistance at 80°C? Explain how temperature affects the resistance of a conductor, referring to the movement of electrons.
+
+5.  **Question 5:** State Coulomb's Law in both its scalar and vector forms. Explain the significance of the vector form of the law. Give a real-world example where understanding the vector nature of the electrostatic force is crucial.
+
+6.  **Question 6:** A square loop of side 10 cm carries a current of 5 A. It is placed in a uniform magnetic field of 0.2 T, with its plane making an angle of 30° with the direction of the field. Calculate the magnitude of the torque acting on the loop. Explain how the torque changes if the angle between the plane of the loop and the magnetic field is increased to 90 degrees.
+
+7.  **Question 7:** A long solenoid with 15 turns per cm has a small loop of area 2.0 cm² placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 2.0 A to 4.0 A in 0.1 s, what is the induced emf in the loop while the current is changing? Explain which Law of Electromagnetic Induction applies to this scenario, and why.
+
+8.  **Question 8:** A step-down transformer connected to a 2200 V line supplies a load with 220 V. The primary winding has 5000 turns.
+    (a) What is the number of turns in the secondary winding?
+    (b) Assuming the transformer is ideal, what is the current in the primary when the current in the secondary is 80 A? Explain the principle of a step-down transformer and why it is used.
+
+9.  **Question 9:** Define electric flux. A uniform electric field E = 3 x 10³ i N/C passes through an area of 0.2 m² oriented such that the normal to the area makes a 60° angle with the direction of the field. Calculate the electric flux through this area. Explain how the orientation of the area affects the electric flux, and what position relative to E produces maximal flux.
+
+10. **Question 10:** Explain the concept of electrostatic potential energy. Calculate the electrostatic potential energy of a system consisting of two charges, 7 μC and -2 μC, placed at (-9 cm, 0, 0) and (9 cm, 0, 0), respectively. Explain whether this energy is positive or negative and what this sign indicates about the work required to assemble this charge configuration.
+
+                === Long Questions (10 marks each) ===
+                Here are 3 long assignment questions, each worth 10 marks, based on the provided NCERT content:
+
+1.  **Question 1 (10 marks):**
+
+    (a) Explain Coulomb's Law in detail, highlighting its similarities and differences with Newton's Law of Gravitation. Include a discussion of the role of the permittivity of free space (ε₀) in Coulomb's Law. (4 marks)
+
+    (b) A charge q is placed at the center of a cube of side 'a'.
+
+    (i) What is the electric flux through each face of the cube? Explain your reasoning using Gauss's Law. (3 marks)
+
+    (ii) If the charge is moved to a corner of the cube, how does the electric flux through each face change? Explain. (3 marks)
+
+2.  **Question 2 (10 marks):**
+
+    (a) Define electric potential and potential difference. Explain the concept of equipotential surfaces and their significance in understanding electric fields. (4 marks)
+
+    (b) A parallel plate capacitor with air between the plates has a capacitance of 8 pF (picofarads). The separation between the plates is now halved, and the space between them is filled with a dielectric material of dielectric constant K = 6. Calculate the new capacitance. Explain how each change (halving the separation and filling with dielectric) affects the capacitance. (6 marks)
+
+3.  **Question 3 (10 marks):**
+
+    (a) Define Capacitance, what are the factors affecting capacitance? Explain in detail how it is affected by those factors. (5 marks)
+
+    (b) Three capacitors of capacitances 2μF, 3μF, and 6μF are connected first in series and then in parallel. Determine the equivalent capacitance in each case. Explain why the equivalent capacitance differs significantly between the series and parallel configurations. In which configuration do you get a high voltage supply? (5 marks)
+                

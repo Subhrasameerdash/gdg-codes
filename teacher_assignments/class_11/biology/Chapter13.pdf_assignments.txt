@@ -1,0 +1,10 @@
+Here are 3 assignment questions based on the provided chapter content, designed for CBSE Class 11-12 students:
+
+1.  A scientist is studying a plant species that exhibits rapid root elongation in response to drought conditions. Describe the cellular processes (differentiation, dedifferentiation, redifferentiation) that might be involved in this adaptive response. Explain how plant growth regulators could mediate these cellular changes.
+
+2.  Two groups of identical seedlings are grown under different photoperiods: Group A receives 16 hours of light and 8 hours of darkness, while Group B receives 8 hours of light and 16 hours of darkness. After several weeks, Group A flowers profusely, while Group B remains vegetative.
+    *   Explain this phenomenon using the concept of photoperiodism.
+    *   Hypothesize whether the plant is a short-day, long-day, or day-neutral plant, justifying your answer.
+    *   Suggest an experiment to confirm your hypothesis.
+
+3.  A botanist observes that applying a specific plant growth regulator to a plant stem results in a significant increase in stem length, but also a noticeable decrease in root development. Explain the potential reasons for this observation, considering the roles and interactions of different plant growth regulators. Discuss whether this observation represents a beneficial or detrimental effect on the plant and under which environmental condition.

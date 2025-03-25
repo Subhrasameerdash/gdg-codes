@@ -1,0 +1,146 @@
+
+                === Short Questions (2 marks each) ===
+                Okay, here are 10 short assignment questions, each worth 2 marks, based on the provided information. These questions are designed to test key concepts, reasoning, and application skills suitable for CBSE Class 11-12 students:
+
+1.  **Question 1:** Explain the significance of the limiting reactant in a chemical reaction. How does identifying the limiting reactant help in determining the theoretical yield of the product?
+
+2.  **Question 2:** A compound is found to contain 60% carbon, 5% hydrogen, and 35% nitrogen by mass. Determine the empirical formula of the compound. Show your work.
+
+3.  **Question 3:** Define the terms 'empirical formula' and 'molecular formula'. How is the molecular formula related to the empirical formula, and what additional information is needed to determine the molecular formula?
+
+4.  **Question 4:** What is the significance of the equilibrium constant (Kc) for a reversible reaction? How does the value of Kc indicate the relative amounts of reactants and products at equilibrium?
+
+5.  **Question 5:** Explain what pH measures. How are the pH and hydrogen ion concentration [H+] related? What does a low pH value indicate about a solution?
+
+6.  **Question 6:** A student performs a calculation and obtains the result 2.34567. If the input data has only three significant figures, how should the student report the final answer and why?
+
+7.  **Question 7:** Convert 5.0 cm to nanometers (nm). Show your conversion steps, clearly stating the relationship between cm and nm.
+
+8.  **Question 8:** Write the mathematical expression for Heisenberg’s uncertainty principle and explain its significance in determining the position and momentum of a subatomic particle.
+
+9.  **Question 9:** Define "quantum number" and explain the significance of each of the four quantum numbers (n, l, ml, and ms) in describing the properties of an electron in an atom.
+
+10. **Question 10:** The wavelength of a certain violet light is 400 nm. Calculate the energy of the photon corresponding to this radiation.
+
+                === Focused Questions (5 marks each) ===
+                Okay, based on the provided information, here are 10 focused assignment questions, each worth 5 marks, suitable for CBSE Class 11-12 students:
+
+1.  **Stoichiometry and Limiting Reactant:** Consider the reaction: N<sub>2</sub>(g) + 3H<sub>2</sub>(g) → 2NH<sub>3</sub>(g). If 28g of N<sub>2</sub> and 6g of H<sub>2</sub> are allowed to react, identify the limiting reactant. Calculate the maximum mass of NH<sub>3</sub> that can be formed. Justify your answer with calculations.
+
+2.  **Empirical and Molecular Formula:** A compound contains 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass. If the molar mass of the compound is 180 g/mol, determine its empirical and molecular formulas. Show all your working clearly.
+
+3.  **Significant Figures and Unit Conversion:** The radius of an atom is 150 pm. Express this value in meters (m) and centimeters (cm) using scientific notation. How many significant figures are there in the original value (150 pm)? Explain the rules for significant figures you applied.
+
+4.  **Acid-Base Equilibria and pH Calculation:** A solution of acetic acid (CH<sub>3</sub>COOH) has a concentration of 0.1 M. If the acid dissociation constant (Ka) for acetic acid is 1.8 x 10<sup>-5</sup>, calculate the pH of the solution. Explain the relationship between Ka and pH.
+
+5.  **Equilibrium Constant Kc Calculation:** For the reversible reaction: 2SO<sub>2</sub>(g) + O<sub>2</sub>(g) ⇌ 2SO<sub>3</sub>(g), the equilibrium concentrations at a certain temperature are [SO<sub>2</sub>] = 0.2 M, [O<sub>2</sub>] = 0.1 M, and [SO<sub>3</sub>] = 0.4 M. Calculate the equilibrium constant (Kc) for the reaction. Explain what the value of Kc indicates about the extent of the reaction.
+
+6.  **Quantum Numbers and Atomic Orbitals:** For an electron in a 3d orbital, list all the possible sets of four quantum numbers (n, l, ml, s). Briefly explain what each quantum number represents and its significance in describing the electron's state.
+
+7.  **Electromagnetic Radiation and Photoelectric Effect:** A photon has a wavelength of 400 nm. Calculate its energy (in Joules) and its frequency. Explain how the energy of a photon is related to its wavelength and frequency. (Planck's constant, h = 6.626 x 10<sup>-34</sup> Js; speed of light, c = 3 x 10<sup>8</sup> m/s).
+
+8.  **Stoichiometry and Percent Yield:** In a reaction, 10.0 g of reactant A is allowed to react with excess reactant B to produce product C. The theoretical yield of product C is 15.0 g. If the actual yield of product C is 12.0 g, calculate the percent yield of the reaction. Explain why the actual yield might be less than the theoretical yield.
+
+9.  **Laws of Chemical Combination:** Two oxides of a metal contain 27.6% and 30.0% oxygen respectively. If the formula of the first oxide is MO, find the formula of the second oxide. Which law of chemical combination does this example illustrate? Explain the law.
+
+10. **Uncertainty Principle:** An electron has a speed of 5.0 x 10<sup>5</sup> m/s accurate to 0.002%. Calculate the uncertainty in locating its position. (mass of an electron = 9.1 x 10<sup>-31</sup> kg and h = 6.626 x 10<sup>-34</sup>Js)
+
+                === Long Questions (10 marks each) ===
+                Okay, based on the subject content provided, here are three long-answer questions suitable for CBSE Class 11-12 chemistry students, each worth 10 marks:
+
+1.  **Question 1 (10 Marks):**
+
+    **(a)** Define *limiting reactant* and *empirical formula*. Explain, with suitable examples, how the concept of limiting reactants is crucial in determining the yield of a chemical reaction. (4 Marks)
+
+    **(b)** A compound is found to contain 54.5% carbon, 9.1% hydrogen, and 36.4% oxygen by mass. Its molar mass is determined to be 88 g/mol. Determine the empirical and molecular formulas of this compound. Show all your working clearly. (6 Marks)
+
+2.  **Question 2 (10 Marks):**
+
+    **(a)** Explain the significance of the equilibrium constant, K<sub>c</sub>, in predicting the extent of a reversible reaction. How does the value of K<sub>c</sub> influence the relative amounts of reactants and products at equilibrium? Illustrate your answer with examples. (4 Marks)
+
+    **(b)** Consider the following reversible reaction:
+
+    N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ⇌ 2NH<sub>3</sub>(g)
+
+    At a certain temperature, the equilibrium concentrations are found to be [N<sub>2</sub>] = 2.0 M, [H<sub>2</sub>] = 3.0 M, and [NH<sub>3</sub>] = 0.5 M. Calculate the equilibrium constant, K<sub>c</sub>, for this reaction. If the volume of the container is doubled, predict the shift in equilibrium (towards reactants or products) using Le Chatelier's principle and explain the effect on K<sub>c</sub>. (6 Marks)
+
+3.  **Question 3 (10 Marks):**
+
+    **(a)** Define pH. A lab assistant prepared two solutions, one with a pH of 2 and the other with a pH of 5. Explain the difference between the two solutions in terms of hydrogen ion concentration. Calculate the ratio of hydrogen ion concentrations \[H+] between the two solutions. (4 Marks)
+
+    **(b)** A weak acid, HA, has a Ka value of 1.8 x 10-5. Calculate the pH of a 0.1 M solution of this acid. Show all steps clearly, including any approximations you make. Explain why the pH of a weak acid is different from the pH of a strong acid of the same concentration. (6 Marks)
+                
+                === Short Questions (2 marks each) ===
+                Okay, here are 10 short-answer questions, each worth 2 marks, based on the provided NCERT subject content summary. They are designed to test key concepts, reasoning, and application skills suitable for Class 11-12 students:
+
+1.  Question 1: Explain the significance of using the limiting reactant in stoichiometric calculations. What happens if you don't identify it correctly?
+
+2.  Question 2: Define "empirical formula" and "molecular formula". A compound has an empirical formula of CH2O and a molar mass of 180 g/mol. Determine its molecular formula.
+
+3.  Question 3: How does the equilibrium constant (Kc) provide information about the extent to which a reversible reaction proceeds to completion? Explain with an example.
+
+4.  Question 4: Explain the meaning of pH and its relationship to acidity and basicity. Provide examples of a strong acid and a strong base, and indicate their approximate pH values.
+
+5.  Question 5: Differentiate between accuracy and precision in experimental measurements. Give a brief example to illustrate the difference.
+
+6.  Question 6: A photon has a wavelength of 500 nm. Calculate its frequency and energy (Planck's constant h = 6.626 x 10-34 Js, speed of light c = 3 x 108 m/s).
+
+7.  Question 7: State the Heisenberg Uncertainty Principle. What is the significance of this principle in describing the behaviour of microscopic particles?
+
+8.  Question 8: What are quantum numbers? Describe the information each quantum number (n, l, ml, ms) provides about an electron in an atom.
+
+9.  Question 9: Explain the difference between a homogeneous and a heterogeneous mixture. Give one example of each.
+
+10. Question 10: The solubility product (Ksp) of AgCl is 1.6 x 10-10 at 298K. Calculate the solubility of AgCl in water at this temperature.
+
+                === Focused Questions (5 marks each) ===
+                Okay, based on the provided context (numerical problem-solving in chemistry, covering topics like stoichiometry, atomic structure, equilibrium, acids and bases, significant figures, scientific notation, unit conversions, limiting reactants, empirical/molecular formulas, and electromagnetic radiation), here are 10 focused questions, each worth 5 marks, suitable for CBSE Class 11-12 Chemistry students:
+
+1.  **Question 1:** A compound contains 54.5% Carbon, 9.1% Hydrogen, and 36.4% Oxygen by mass. Its molar mass is determined to be 88 g/mol. Determine the empirical and molecular formulas of the compound. Show all steps of your calculation clearly and explain the reasoning behind each step.
+
+2.  **Question 2:** Consider the following reversible reaction: N2(g) + 3H2(g) ⇌ 2NH3(g). At a certain temperature, the equilibrium constant (Kc) for this reaction is 0.25. If the initial concentrations of N2 and H2 are 1.0 M and 3.0 M, respectively, calculate the equilibrium concentrations of all three gases. Explain how Le Chatelier's principle could be applied in this situation.
+
+3.  **Question 3:** Zinc reacts with hydrochloric acid according to the following equation: Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g). If 5.0 g of zinc is reacted with 100 mL of 2.0 M hydrochloric acid, determine the limiting reactant. Calculate the volume of hydrogen gas produced at standard temperature and pressure (STP).
+
+4.  **Question 4:** Calculate the wavelength of an electron moving with a velocity of 2.0 x 10^6 m/s. (Given: Planck's constant, h = 6.626 x 10^-34 Js, mass of electron, me = 9.1 x 10^-31 kg). Briefly explain the significance of the de Broglie wavelength concept.
+
+5.  **Question 5:** A solution of acetic acid (CH3COOH) has a pH of 3.0. If the Ka of acetic acid is 1.8 x 10^-5, calculate the initial concentration of the acetic acid solution. Explain what factors affect the pH of a solution.
+
+6.  **Question 6:** Convert the following: (a) 25 mm to picometers (pm) and express the answer in scientific notation with the correct number of significant figures. (b) 4 kg to nanograms (ng) and express the answer in scientific notation with the correct number of significant figures. Explain the rules for determining significant figures.
+
+7.  **Question 7:** The energy of a photon is 4.0 x 10^-19 J. Calculate the wavelength and frequency of the radiation. In what region of the electromagnetic spectrum does this radiation lie? (Given: Planck's constant, h = 6.626 x 10^-34 Js, speed of light, c = 3.0 x 10^8 m/s). Explain the relationship between wavelength, frequency, and energy of electromagnetic radiation.
+
+8.  **Question 8:** Consider the following reaction: 2SO2(g) + O2(g) ⇌ 2SO3(g). If the initial partial pressures of SO2 and O2 are 0.8 atm and 0.4 atm, respectively, and the equilibrium partial pressure of SO3 is 0.6 atm, calculate the equilibrium constant Kp for the reaction. Explain the relationship between Kp and Kc.
+
+9.  **Question 9:** Write the electronic configurations of the following ions: Fe2+, Cu+, and Cr3+. (Atomic numbers: Fe = 26, Cu = 29, Cr = 24). Explain Hund's rule and Pauli's exclusion principle and how they impact electronic configurations.
+
+10. **Question 10:** A monoprotic acid, HA, has a Ka value of 2.5 x 10^-4. Calculate the pH of a 0.10 M solution of HA. Also, calculate the degree of ionization of the acid in this solution. What factors influence the degree of ionization of a weak acid?
+
+                === Long Questions (10 marks each) ===
+                Okay, based on the provided summaries of NCERT content, here are three long-answer questions, each worth 10 marks, suitable for Class 11-12 Chemistry students:
+
+1.  **Question 1 (10 Marks):**
+
+    (a) Define the terms 'limiting reactant', 'empirical formula', and 'molecular formula'. Explain, with suitable examples, how the concept of limiting reactant is crucial in determining the yield of a chemical reaction. (4 marks)
+
+    (b) A compound is found to contain 60% carbon, 5% hydrogen, and 35% nitrogen by mass.
+        (i) Determine the empirical formula of the compound. (3 marks)
+        (ii) If the molar mass of the compound is determined to be 80 g/mol, what is its molecular formula? Show your working. (3 marks)
+
+2.  **Question 2 (10 Marks):**
+
+    (a) Briefly explain the law of multiple proportions with an example. (2 marks)
+
+    (b) Convert the following: (2 marks each)
+        (i) 250 nm to meters, expressing the answer in scientific notation with the correct number of significant figures.
+        (ii) 5.0 kg to milligrams, expressing the answer in scientific notation with the correct number of significant figures.
+        (iii) Calculate the number of molecules present in 5.6 litres of O2 at STP (Standard Temperature and Pressure). (4 marks)
+
+3.  **Question 3 (10 Marks):**
+
+    (a) Define pH. Describe how pH is used to classify solutions as acidic, basic, or neutral. (2 marks)
+
+    (b) For the reversible reaction N2(g) + 3H2(g) ⇌ 2NH3(g), the equilibrium constant, K<sub>c</sub>, is 4.0 at a certain temperature. If the initial concentrations are [N2] = 2.0 M and [H2] = 3.0 M, calculate the equilibrium concentration of NH3. Show your working. (5 marks)
+
+    (c) Briefly explain Hund's rule and Aufbau principle with respect to electronic configuration. (3 marks)
+                

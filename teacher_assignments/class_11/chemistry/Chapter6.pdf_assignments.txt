@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions for CBSE class 11-12, based on the provided NCERT chapter content focusing on acids, bases, equilibrium and pH:
+
+1.  Explain how the common ion effect influences the pH of a buffer solution. Use a specific example (other than the acetic acid example from the textbook) to illustrate your explanation. Furthermore, discuss why understanding this effect is crucial in biological systems.
+
+2.  Consider a scenario involving the dissolution of a gas (like NH3) in water. Describe the equilibrium that is established. Then, discuss how factors such as temperature and pressure will influence the solubility of the gas and subsequently affect the pH of the solution. Explain your reasoning with respect to Le Chatelier's principle.
+
+3.  A student attempts to determine the pH of a weak acid solution using only a universal indicator and a color chart. Discuss the limitations of this method compared to using a pH meter. Also, design a simple experiment to comparatively evaluate the buffer capacity of a solution containing a weak acid and its conjugate base versus a solution of strong acid with a similar pH. Outline the materials needed and the steps involved.

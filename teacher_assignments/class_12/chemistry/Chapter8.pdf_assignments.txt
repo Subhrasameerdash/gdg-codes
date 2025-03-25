@@ -1,0 +1,7 @@
+Okay, based on the provided chapter content on aldehydes, ketones, and carboxylic acids, here are three concise and original assignment questions suitable for CBSE class 11-12 students:
+
+1.  **Structure and Reactivity:** Compound X (molecular formula C5H10O) reacts with Tollens' reagent to give a silver mirror test, but does not give a positive iodoform test. Draw all possible structural isomers of Compound X, and explain which isomer is most likely to exhibit the observed reactivity. Justify your answer with reference to the electronic and steric properties of the carbonyl group.
+
+2.  **Acidity and Substituent Effects:** You are given three carboxylic acids: Acetic acid, Chloroacetic acid, and Propanoic acid. Predict the relative order of their acidity and explain your reasoning, clearly indicating the influence of the substituents on the stability of the corresponding carboxylate ions. Draw resonance structures to support your explanation.
+
+3.  **Reaction Mechanisms and Product Prediction:** Draw the complete reaction mechanism, including all intermediates and curved arrows showing electron flow, for the base-catalyzed aldol condensation of ethanal. Further, predict the structure and IUPAC name of the *major* organic product formed when the aldol product is heated in the presence of a strong acid. Explain why this product is favored.

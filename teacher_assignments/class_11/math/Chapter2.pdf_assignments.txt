@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter content on Relations and Functions:
+
+1.  **Conceptual Understanding of Functions:** Explain, with examples, why every function is a relation, but not every relation is a function. Use the concepts of domain and range in your explanation.
+
+2.  **Cartesian Product and Relations:** Given sets A, B, and C, describe a scenario where A × (B ∩ C) is significantly different from (A × B) ∩ (A × C). Explain the relationship between these two expressions using properties of Cartesian products and set intersection. Provide concrete examples of sets A, B, and C to support your answer.
+
+3.  **Real-Valued Functions and Their Properties:** A real-valued function f(x) is defined such that f(a+b) = f(a) + f(b) for all real numbers 'a' and 'b'. If f(1) = 5, determine the value of f(5) and justify your answer, referencing the properties of real-valued functions.

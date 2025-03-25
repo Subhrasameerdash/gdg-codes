@@ -1,0 +1,7 @@
+Okay, here are 3 concise, original assignment questions based on the provided NCERT chapter content, designed to test key concepts and understanding:
+
+1.  **The nervous system and endocrine system work together to maintain homeostasis. Compare and contrast the mechanisms by which each system achieves coordination, highlighting the advantages and disadvantages of each approach.** (This question assesses understanding of the roles of both systems and their relative speeds and specificities).
+
+2.  **Imagine a neurotoxin that selectively blocks voltage-gated sodium channels in neurons. Explain the effect of this toxin on the generation and propagation of action potentials. How would this affect the transmission of information in the nervous system?** (This question probes understanding of the action potential mechanism and its importance for neural signaling.)
+
+3.  **The cerebral cortex is often described as the "seat of higher functions." Describe three specific functions of the cerebral cortex and explain how damage to a particular area of the cortex could impair those functions.** (This question evaluates knowledge of brain regions and their associated functions).

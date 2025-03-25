@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided NCERT chapter content, suitable for CBSE class 11-12 students:
+
+1.  Given the statement "If a matrix A is invertible, then A is non-singular," explain why proving the contrapositive of this statement is a valid method to establish its truth. Illustrate with a brief example of a 2x2 matrix.
+
+2.  Construct a counterexample to disprove the statement: "For all real numbers *x*, if *x* > 0, then *x²* > *x*." Explain why your example serves as a counterexample.
+
+3.  Describe the differences in methodology and purpose between a direct proof and proof by contradiction. Provide a hypothetical mathematical statement and outline how you would approach proving it using *both* methods.

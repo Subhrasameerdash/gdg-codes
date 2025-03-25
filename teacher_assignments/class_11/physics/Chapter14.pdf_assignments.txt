@@ -1,0 +1,7 @@
+Okay, here are three assignment questions based on the chapter content, designed to test understanding and application of the concepts:
+
+1.  **Acoustic Guitar Design:** Explain how the concepts of wave speed, tension, and length are utilized in the design of an acoustic guitar to produce different musical notes. Specifically, discuss how changing the length or tension of a string affects the frequency of the sound produced.
+
+2.  **Superposition and Interference in Noise-Canceling Headphones:** Noise-canceling headphones utilize the principle of superposition to reduce ambient noise. Describe how these headphones work, focusing on how they create and use destructive interference. Explain the type of wave phenomenon being used.
+
+3.  **Wave Properties and Medium Density:** Two different strings, String A and String B, have the same length and tension, but String A has a higher linear mass density than String B. A wave pulse is generated on each string. On which string will the wave pulse travel faster? Explain your reasoning in terms of the relationship between wave speed, tension, and linear mass density. Furthermore, describe what would happen to the wavelengths of standing waves formed on each string at a fixed frequency.

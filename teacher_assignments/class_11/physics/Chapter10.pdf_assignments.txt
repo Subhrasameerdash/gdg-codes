@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter summary, designed for CBSE Class 11-12 level and avoiding direct text copying:
+
+1.  A metalworker needs to shrink-fit an iron ring onto a wooden wheel. Explain, using the principles of thermal expansion, the process the metalworker would employ. Further, discuss the factors that would determine the amount the ring's temperature needs to be changed to achieve a successful fit.
+
+2.  A thermally insulated container holds ice and water in equilibrium at 0°C. If a known amount of heat is added to the system, describe the processes that occur and how you would calculate the final composition of the mixture (i.e., the final masses of ice and water), assuming no heat is lost to the surroundings.
+
+3.  Consider a scenario where heat transfer is occurring from a hot object to its surroundings primarily through natural convection. Explain the mechanism of natural convection and describe the key factors that influence the rate of heat transfer in this situation. How would increasing the surface area of the hot object affect the rate of heat transfer, and why?

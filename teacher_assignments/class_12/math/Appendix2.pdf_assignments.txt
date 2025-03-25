@@ -1,0 +1,7 @@
+Here are 3 assignment questions designed to test understanding of mathematical modelling based on the provided chapter content:
+
+1.  **Scenario:** A local council is concerned about increasing traffic congestion during peak hours. They want to implement a system to optimise traffic flow using mathematical modelling. Describe the steps involved in creating such a model, including defining variables, parameters, and assumptions, and explaining how the model could be validated. Discuss potential limitations of the model and how they might impact the reliability of the results.
+
+2.  **Application:** You are tasked with creating a mathematical model to predict the spread of a seasonal flu in your school. Identify the key variables and assumptions you would consider. Describe the mathematical relationships you might use to represent the spread (e.g., exponential growth, logistic growth), and explain how you would determine the values of any parameters in your model. What real-world data would you need to collect and how would you validate the model's predictions?
+
+3.  **Critical Analysis:** Mathematical models are simplified representations of real-world systems. Discuss the inherent trade-offs between model complexity and accuracy. Provide specific examples of situations where a more complex model would be necessary and situations where a simpler model would be sufficient. What are the ethical considerations to keep in mind when developing and implementing mathematical models that impact public policy or individual decisions?

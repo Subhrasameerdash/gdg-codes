@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided chapter content, designed for CBSE class 11-12 level:
+
+1.  Explain the concept of mass defect in the context of nuclear physics. How does mass defect relate to the binding energy of a nucleus, and what fundamental principle does this relationship demonstrate?
+
+2.  A hypothetical nuclear reaction involves the transformation of element X into element Y. If the total mass of the reactants is slightly *greater* than the total mass of the products, predict whether this reaction will release or absorb energy. Justify your answer using Einstein's mass-energy equivalence principle.
+
+3.  Imagine you have a sample containing 'n' number of atomic mass units (amu). Describe a step-by-step process to calculate the total energy equivalent of this sample in Joules, given the energy equivalent of 1 amu.

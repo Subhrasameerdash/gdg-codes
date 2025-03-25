@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided NCERT chapter content, designed to test key concepts and understanding without directly copying the text:
+
+1.  A student claims that the binomial expansion of (4 + x)^(-1/2) is valid for all real values of *x*. Critically evaluate this claim, stating the necessary condition for the validity of such an expansion and determining the range of *x* for which the expansion holds true.
+
+2.  Consider two infinite geometric series, Series A and Series B. Series A has a first term of 10 and a common ratio of *x*. Series B has a first term of 5 and a common ratio of 2*x*. Determine the range of values for *x* for which both series converge to a finite sum. Further, if *x* = 0.2, find the difference between the sums to infinity of Series A and Series B.
+
+3.  The exponential series can be used to approximate values of e^x. Use the first four terms of the exponential series to estimate the value of e^(0.5). Compare this approximation to the actual value (using a calculator) and discuss the trade-off between accuracy and the number of terms used in the approximation.

@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided NCERT chapter content, designed to test key concepts and understanding:
+
+1.  **Charge Distribution and Force:** Three charges, +q, +q, and -q, are placed at the vertices of an equilateral triangle. Qualitatively describe how the net force on each charge would change if the charge -q was replaced with a charge of -2q. Explain your reasoning, considering the principles of electrostatic force.
+
+2.  **Electric Dipole and Field:** Two charges of equal magnitude but opposite sign are separated by a small distance, forming an electric dipole. Explain how the electric field due to this dipole changes as you move away from it along the dipole axis and along the perpendicular bisector of the dipole. How does this distance dependence compare to that of a single point charge?
+
+3.  **Gauss's Law and Flux:** Imagine a cube placed in a region with a non-uniform electric field. Describe how you would use Gauss's Law to determine the total charge enclosed within the cube. Detail the steps involved in calculating the electric flux through each face of the cube and relating it to the enclosed charge. Explain any assumptions you'd need to make about the electric field to simplify the calculation.

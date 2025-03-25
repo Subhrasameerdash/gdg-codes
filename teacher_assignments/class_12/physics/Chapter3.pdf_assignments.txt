@@ -1,0 +1,7 @@
+Here are three original assignment questions based on the provided NCERT chapter content, designed for CBSE class 11-12 students, focusing on key concepts and understanding of current electricity:
+
+1.  A copper wire carries a steady current. If the number density of free electrons in the wire is doubled, while maintaining the same current, explain how the average drift velocity of the electrons will change. Justify your answer using relevant equations.
+
+2.  A circuit contains a combination of resistors in a complex network, not easily reducible to simple series or parallel combinations. Outline a step-by-step procedure, utilizing Kirchhoff's laws, to determine the current flowing through each resistor in the network. Explain how you would verify that your solution satisfies the fundamental principles of charge and energy conservation.
+
+3.  A Wheatstone bridge is used to measure an unknown resistance. However, the galvanometer shows a deflection, indicating the bridge is not balanced. Describe two different methods by which you could achieve a balanced bridge, explaining the underlying principle behind each method. Furthermore, discuss how the accuracy of the resistance measurement can be affected by the internal resistance of the galvanometer.

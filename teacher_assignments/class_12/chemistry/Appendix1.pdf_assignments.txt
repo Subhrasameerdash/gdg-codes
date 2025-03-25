@@ -1,0 +1,7 @@
+Okay, here are 3 concise and original assignment questions based on the provided chapter content about logarithms, suitable for CBSE Class 11-12 students:
+
+1.  **Conceptual Application:** Explain how the characteristic of a logarithm directly relates to the magnitude (order of magnitude) of the original number. Provide examples of numbers with different characteristics (e.g., 0, 1, -1) and explain their corresponding magnitudes. Why is understanding this relationship crucial when using log tables for calculations?
+
+2.  **Error Analysis:** A student attempts to simplify the expression `(16.2 * 0.45) / (∛25)` using logarithms. They correctly find `log(16.2) = 1.21`, `log(0.45) = -0.35`, and `log(25) = 1.40`. However, their final answer is significantly off. Identify the most likely source of error in their calculation process, considering the properties of logarithms and operations involved (division, cube root). Show the correct steps to arrive at the solution using logarithms.
+
+3.  **Reverse Engineering:** Given that `antilog(3.6021) = 4000` (rounded to the nearest whole number), without using log or antilog tables, estimate the value of `(4000)^0.6 * (100)^0.2`. Explain your reasoning using the properties of logarithms and the information provided.

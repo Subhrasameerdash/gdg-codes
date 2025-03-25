@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content on linear inequalities, designed for CBSE Class 11-12 students:
+
+1.  A student needs an average of at least 60 marks on three tests to achieve a passing grade. They scored 52 and 68 on the first two tests. What range of scores on the third test will guarantee a passing grade? Express your answer as an inequality and represent the solution set on a number line.
+
+2.  A company produces two types of widgets, A and B. The cost of producing each widget A is ₹15 and each widget B is ₹20. The company has a total budget of ₹12,000. If they must produce at least 200 widgets in total, and the number of widget A produced is at least twice the number of widget B produced, formulate the constraints as a system of linear inequalities. Do not solve.
+
+3.  Solve the following compound inequality and graphically represent the solution on a number line: -10 < (2 - 3x)/4 ≤ 2.

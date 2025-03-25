@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter summary of Inverse Trigonometric Functions:
+
+1.  A student simplifies an expression to `cos(tan⁻¹(x))`. Determine a simplified algebraic expression equivalent to this trigonometric expression, clearly showing the steps involved in your derivation. What is the domain of the simplified expression?
+
+2.  Explain why restricting the domain of trigonometric functions is necessary to define their inverse functions. Use the example of the cosine function and its inverse, `cos⁻¹(x)`, to illustrate your explanation, specifically addressing the concepts of one-to-one functions and range.
+
+3.  Evaluate the expression: `sin⁻¹(sin(5π/6))`. Explain why the answer is not simply `5π/6` and determine the correct principal value.

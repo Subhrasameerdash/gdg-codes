@@ -1,0 +1,13 @@
+Here are 3 concise, original assignment questions based on the provided NCERT chapter summary:
+
+1.  **Dimensional Analysis & Conversion:** A student measures the radius of a sphere to be 2.1 cm using a standard ruler. They then calculate the volume of the sphere using the formula V = (4/3)πr³.
+    *   Express the calculated volume in SI units (m³). Show all conversion steps.
+    *   Determine the dimensional formula for the volume you've calculated, showing the units involved.
+
+2.  **Understanding SI Prefixes and Significant Figures:** A physics problem involves calculating the energy of a photon. The calculated energy is 3.25 x 10⁻¹⁹ Joules.
+    * Express the energy in electronvolts (eV) using the conversion factor 1 eV = 1.602 x 10⁻¹⁹ J, keeping the answer consistent with significant figures as in the values used for calculation.
+    * Then, express this energy in *nano*electronvolts (neV) using appropriate SI prefixes.
+
+3.  **Application of Physical Constants and Trigonometry:** A projectile is launched with an initial velocity *v₀* at an angle θ to the horizontal. The range (horizontal distance covered) is given by the formula R = (v₀² sin(2θ))/g, where *g* is the acceleration due to gravity.
+    * Using the approximate values *g* = 9.8 m/s² and *v₀* = 20 m/s, calculate the range R for θ = 30°.
+    * If *v₀* is in units of m/s, and θ is in degrees, explain using dimensional analysis why the constant *g* needs to be in m/s² for the calculation of R to be valid.

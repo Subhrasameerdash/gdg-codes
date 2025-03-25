@@ -1,0 +1,7 @@
+Here are 3 original assignment questions based on the provided NCERT chapter content, designed for CBSE Class 11-12 students, focusing on key concepts related to cells and electrochemistry:
+
+1.  A novel electrochemical cell is constructed using two hypothetical metal electrodes, 'A' and 'B'. The cell reaction is: A(s) + B<sup>2+</sup>(aq) ⇌ A<sup>2+</sup>(aq) + B(s).  Given that the standard reduction potential of A<sup>2+</sup>/A is -0.20V and the standard reduction potential of B<sup>2+</sup>/B is +0.50V, calculate the standard cell potential (E°<sub>cell</sub>). Furthermore, explain how the cell potential would change if the concentration of A<sup>2+</sup> ions is significantly increased while keeping the concentration of B<sup>2+</sup> ions constant. Justify your answer using electrochemical principles.
+
+2.  A weak electrolyte, HY, dissociates partially in aqueous solution. Design an experiment to determine the degree of dissociation (α) of HY at a specific concentration (c) and temperature. Clearly outline the experimental setup, the measurements required, and the calculations involved to determine α. Explain the relationship between α and the conductivity of the solution.
+
+3.  Explain the importance of "zero resistivity or infinite" in relation to superconductivity. Describe a real-world application where the property of superconductivity is critically important, detailing how this property enhances the application's functionality.

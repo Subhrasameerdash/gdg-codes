@@ -1,0 +1,7 @@
+Okay, here are 3 assignment questions designed to test understanding of sequences and series concepts, based on the provided NCERT chapter content:
+
+1.  **Pattern Recognition and General Terms:** A sequence is defined by the following pattern: 1, 11, 111, 1111, ... Determine a general formula (a<sub>n</sub>) for the nth term of this sequence. Furthermore, derive a simplified expression for the sum of the first 'n' terms of this sequence.
+
+2.  **Geometric Progression and its Applications:** A ball is dropped from a height of 8 meters. Each time it hits the ground, it bounces back to a height that is three-quarters of the height from which it fell. Find the total distance the ball travels before it comes to rest.
+
+3.  **Arithmetic and Geometric Means Relationship:** The arithmetic mean (A.M.) of two positive numbers exceeds their geometric mean (G.M.) by 2, and their harmonic mean (H.M.) is 3.2. Determine the two numbers.

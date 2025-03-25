@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter summary, designed to test understanding of probability concepts for CBSE Class 11-12 students:
+
+1.  **Event Probability and Sample Space:** A standard six-sided die is rolled twice. Define event A as "the sum of the two rolls is a prime number" and event B as "the first roll is greater than the second roll". Calculate the probability of event A occurring given that event B has already occurred. Explain your reasoning, clearly outlining the relevant sample space and probabilities.
+
+2.  **Axiomatic Probability and Set Theory:** Suppose events X, Y, and Z are associated with a random experiment. Given that P(X) = 0.4, P(Y) = 0.5, P(Z) = 0.3, P(X ∩ Y) = 0.2, P(Y ∩ Z) = 0.1, and P(X ∩ Z) = 0.15, and P(X ∩ Y ∩ Z) = 0.05, find the probability that at least one of the events X, Y, or Z occurs. Justify your answer using the principles of axiomatic probability.
+
+3.  **Conditional Probability in Real-World Scenarios:** A company has two factories that produce light bulbs. Factory A produces 60% of the bulbs, and Factory B produces 40%. 2% of the bulbs from Factory A are defective, while 3% of the bulbs from Factory B are defective. If a randomly selected bulb is found to be defective, what is the probability that it was produced by Factory A? Explain how you arrived at your answer using conditional probability.

@@ -1,0 +1,9 @@
+Okay, here are 3 concise, original assignment questions based on the provided NCERT chapter content on Electromagnetic Induction, designed for CBSE class 11-12 students:
+
+1.  **Conceptual Application:** A flexible conducting loop is placed in a uniform magnetic field directed into the page. Describe three distinct actions you could take to the loop itself (without changing the external magnetic field) that would induce a current within the loop. For each action, explain *why* it induces a current, relating your reasoning to Faraday's Law and Lenz's Law.
+
+2.  **Comparative Analysis:** Imagine two solenoids, A and B, placed close to each other. Solenoid A has a larger number of turns and a longer length compared to Solenoid B, but both have the same cross-sectional area and carry the same changing current.
+    *   Which solenoid would have a larger self-inductance? Explain your reasoning.
+    *   Which solenoid would induce a larger EMF in its neighbor? Explain your reasoning.
+
+3.  **Problem Solving and Design:** You are tasked with designing a simple AC generator for a classroom demonstration. You have a coil of wire with *N* turns, a strong permanent magnet, and the materials necessary to build a rotating mechanism. Outline the key design considerations, including how you would maximize the induced EMF and how the frequency of the generated AC voltage is related to the generator's physical parameters. Support your answers with relevant formulas.

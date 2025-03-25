@@ -1,0 +1,10 @@
+Here are 3 assignment questions based on the provided atomic structure chapter content, designed to assess understanding rather than direct recall:
+
+1.  **Conceptual Question:** Explain how the wave-particle duality of matter, specifically as it applies to electrons, fundamentally changed our understanding of atomic structure compared to earlier models like the Bohr model. Be sure to include the Heisenberg Uncertainty Principle.
+
+2.  **Application Question:** Imagine a newly discovered element, Element X, is found to have 7 electrons in its neutral atom.
+    *   Predict the element's ground-state electronic configuration.
+    *   Determine the number of unpaired electrons in Element X.
+    *   In what group would Element X likely be in the periodic table, and why?
+
+3.  **Comparative Analysis Question:** Compare and contrast the contributions and limitations of Thomson's plum pudding model and Rutherford's nuclear model of the atom. While both models advanced scientific understanding, what crucial experimental evidence led to the rejection of Thomson's model in favor of Rutherford's?

@@ -1,0 +1,7 @@
+Okay, based on the combined information about the NCERT Physics chapters, here are 3 concise, original assignment questions suitable for CBSE class 11-12 students:
+
+1.  **Elastic Potential Energy & Thermal Expansion:** A metal rod of length *L* and cross-sectional area *A* is fixed between two rigid supports. Its temperature is increased by Δ*T*. Given the Young's modulus *Y* and the coefficient of linear expansion *α* of the metal, derive an expression for the elastic potential energy stored in the rod due to this temperature increase. Briefly explain the physical significance of each term in your derived expression.
+
+2.  **Fluid Dynamics & Surface Tension:** A small spherical raindrop of radius *r* is falling through air with a constant terminal velocity *v*. If *η* is the coefficient of viscosity of air and *T* is the surface tension of water, explain how these two factors (viscosity and surface tension) affect the raindrop's motion. Qualitatively describe how the terminal velocity would change if the surface tension were significantly increased.
+
+3.  **Thermodynamics & Oscillations:** An ideal gas undergoes an adiabatic compression, reducing its volume to half its initial value. This compressed gas is then used as the working substance in a simple harmonic oscillator. How will the frequency of oscillation be affected by this compression, assuming the restoring force is proportional to the displacement and depends on the pressure of the gas? Justify your answer with relevant thermodynamic principles.

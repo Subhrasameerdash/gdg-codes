@@ -1,0 +1,7 @@
+Here are 3 original assignment questions suitable for CBSE Class 11-12 students, based on the provided NCERT chapter content, focusing on key concepts related to hormones:
+
+1.  Hormones are defined as non-nutrient chemicals that act as intercellular messengers. Explain why this definition, while accurate, might be considered incomplete given the discovery of new hormonal molecules. Provide examples of what might be missing from this original definition and why these omissions are important.
+
+2.  The hypothalamus plays a crucial role in hormone regulation through the release of hormones like Gonadotrophin-releasing hormone (GnRH). Describe the general mechanism by which hypothalamic hormones exert their influence, tracing the pathway from the hypothalamus to a target endocrine gland and explaining the potential downstream effects of the released hormone.
+
+3.  Considering the provided information regarding hormones as non-nutrient chemical messengers, discuss how disruptions in hormone signalling pathways can lead to various physiological disorders. Explain how changes in either hormone production or receptor sensitivity can affect these pathways, and give a specific (hypothetical) example to illustrate your explanation.

@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter content on plant respiration:
+
+1.  A scientist is studying two plant cells: Cell A and Cell B. Cell A is actively growing and producing lipids, while Cell B is undergoing seed germination, rapidly converting stored fats into sugars. Predict which cell will have a higher respiratory quotient (RQ) and explain your reasoning, linking it to the metabolic processes occurring within each cell.
+
+2.  Imagine a scenario where a plant is subjected to a period of prolonged flooding. Analyze the likely shift in its primary mode of respiration (from aerobic to anaerobic) and discuss the consequences of this shift on ATP production, the accumulation of specific metabolic byproducts, and the plant's overall ability to sustain growth and development.
+
+3.  The respiratory pathway is often described as "amphibolic." Elaborate on what this means in the context of plant metabolism. Provide specific examples of how intermediates from the respiratory pathway can be utilized in anabolic processes within the plant cell, demonstrating the pathway's role in both the breakdown and synthesis of crucial biomolecules.

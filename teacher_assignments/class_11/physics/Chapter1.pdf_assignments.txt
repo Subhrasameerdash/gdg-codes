@@ -1,0 +1,7 @@
+Here are 3 concise and original assignment questions based on the provided (limited) NCERT chapter content, suitable for CBSE class 11-12 students:
+
+1.  A student measures the side of a cube with a measuring instrument and records it as 3.00 x 10<sup>-3</sup> m. If the mass of the cube is known to be 2 g, calculate the density of the cube, paying close attention to significant figures in your final answer. Explain the rule applied for retaining significant figures during your calculation.
+
+2.  The kinetic energy (KE) of an object is given by KE = (1/2)mv<sup>2</sup>. Discuss the significance of this formula in relating mass (m) and velocity (v) to energy. Also, explain how this formula can be used to define the SI unit of energy.
+
+3.  Explain how the rules for significant figures in addition and subtraction differ from the rules for significant figures in multiplication and division, with examples.

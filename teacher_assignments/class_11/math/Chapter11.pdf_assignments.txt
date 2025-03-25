@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content for Class 11-12 mathematics, focusing on Three-Dimensional Geometry:
+
+1.  **Conceptual Understanding & Application:** A line segment AB in 3D space has its endpoints A on the XY-plane and B on the YZ-plane.  If the coordinates of the midpoint of AB are (2, -1, 3), determine the possible ranges of x, y, and z coordinates for points A and B. Explain your reasoning based on the properties of the coordinate planes.
+
+2.  **Problem Solving & Spatial Reasoning:** Imagine a cube with side length 'a' units, positioned such that one vertex coincides with the origin (0, 0, 0) and three edges extend along the positive x, y, and z axes. Determine the coordinates of all eight vertices of the cube. Then, calculate the distance between the vertex at the origin and the vertex farthest from the origin.
+
+3.  **Analytical & Proof-Based Question:** The points A(x,y,z), B(1,2,3) and C(-1,-2,-1) are collinear. Show that the ratio in which B divides AC is constant, irrespective of the value of x,y, and z. Find this ratio.

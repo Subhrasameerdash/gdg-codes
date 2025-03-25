@@ -1,0 +1,7 @@
+Okay, here are three assignment questions based on the provided NCERT chapter content on Measures of Dispersion, designed for CBSE Class 11-12 students:
+
+1.  **Comparative Analysis of Batting Consistency:** Two cricketers, Virat and Rohit, have the same average score over a series of innings. However, Virat's scores have a higher standard deviation than Rohit's. Explain what this difference in standard deviation implies about the consistency and reliability of each batsman's performance. Which batsman would be a safer choice for a crucial match, and why?
+
+2.  **Impact of Outliers on Dispersion:** A dataset of employee salaries in a company has a significantly high outlier due to the CEO's salary. Discuss how the range, mean deviation (about the mean), and standard deviation would be affected by the presence of this outlier. Which measure of dispersion would be least affected and provide the most accurate representation of salary dispersion among the majority of employees? Justify your answer.
+
+3.  **Applying Measures of Dispersion in Real-World Scenario:** A quality control engineer is analyzing the lifespan of two brands of light bulbs, Brand A and Brand B. After testing a sample of each brand, the engineer finds that Brand A has a lower mean lifespan but also a lower variance compared to Brand B. In terms of consumer satisfaction and warranty considerations, which brand would you recommend? Explain your reasoning, considering both the average lifespan and the variability in lifespan for each brand.

@@ -1,0 +1,9 @@
+Okay, here are three assignment questions based on the provided chapter content, designed to test understanding of key concepts without directly copying the text:
+
+1.  A student is experimenting with a convex lens and a candle. They observe that when the candle is placed 30 cm from the lens, a sharp, inverted image is formed on a screen also 30 cm from the lens on the other side.
+    *   (a) Determine the focal length of the convex lens.
+    *   (b) If the student then moves the candle to a position 10 cm from the lens, describe the nature of the image formed (real/virtual, erect/inverted, magnified/diminished) and explain your reasoning using the lens formula.
+
+2.  Explain how total internal reflection is used in optical fibers to transmit signals, and why optical fibers are preferred over traditional copper wires for long-distance communication. Discuss two practical applications of optical fibers beyond telecommunications.
+
+3.  A physics enthusiast wants to build a simple telescope using two lenses. They have a lens with a long focal length (Lens A) and a lens with a short focal length (Lens B). Explain which lens should be used as the objective and which as the eyepiece, providing justification based on the principles of how a telescope creates magnified images. Also, illustrate with a ray diagram how a parallel beam of light from a distant object is focused by the telescope, showing the role of each lens.

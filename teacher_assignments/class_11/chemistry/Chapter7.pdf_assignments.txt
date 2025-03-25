@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided Redox Reactions chapter summary, designed for CBSE class 11-12 students:
+
+1.  Explain, using specific examples, how the concept of electron transfer is central to defining both oxidation and reduction processes in a redox reaction. Also, elaborate on why identifying electron transfer is crucial in determining the oxidizing and reducing agents.
+
+2.  Considering the role of oxoacids and oxoanions in redox reactions, propose a balanced chemical equation for a reaction where dichromate ions (Cr2O7 2-) act as an oxidizing agent. Explain the changes in oxidation states of all relevant species involved, clearly identifying the species being oxidized and reduced.
+
+3.  Disproportionation reactions are a unique type of redox process. Define disproportionation and illustrate this concept with an original chemical equation (not directly from the NCERT example). Explain how you identified this reaction as a disproportionation reaction based on oxidation state changes.

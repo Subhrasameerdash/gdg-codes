@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter content related to Limits and Derivatives:
+
+1.  Explain, using a specific example, why the existence of a limit of a function at a point does not necessarily imply the function is defined at that point. Furthermore, describe a scenario where the limit exists but the function is discontinuous.
+
+2.  Suppose you are given two differentiable functions, f(x) and g(x), and a constant 'c'. Using only the definition of the derivative and the algebra of limits, prove the product rule:  d/dx [f(x)g(x)] = f'(x)g(x) + f(x)g'(x).
+
+3.  Consider the function f(x) = |x|. While this function is continuous everywhere, it is not differentiable at x=0. Using the first principle of derivatives, demonstrate why f'(0) does not exist. What does this imply about the relationship between continuity and differentiability?

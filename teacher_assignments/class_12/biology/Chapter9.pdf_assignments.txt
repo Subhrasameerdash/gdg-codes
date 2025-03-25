@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided Biotechnology chapter content, designed for CBSE Class 11-12 students:
+
+1.  A research lab is attempting to engineer a strain of bacteria capable of degrading a particularly persistent pollutant in soil. Outline the key steps involved in using recombinant DNA technology to achieve this, addressing the considerations in selecting appropriate enzymes and vectors. Furthermore, discuss the potential ethical concerns associated with releasing such a genetically modified organism into the environment.
+
+2.  Compare and contrast the roles of restriction enzymes and DNA ligases in the process of creating recombinant DNA. Explain how the specific properties of these enzymes are crucial for the successful insertion of a desired gene into a vector. Provide a hypothetical scenario where using the wrong type of restriction enzyme could prevent successful gene cloning.
+
+3.  You are tasked with designing a bioreactor system for the large-scale production of a therapeutic protein. Describe the essential components and parameters you would consider when setting up this system to ensure optimal cell growth and protein yield. How would you maintain sterility, control pH, and monitor nutrient levels within the bioreactor during the production process?

@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content, designed for CBSE class 11-12 students, focusing on key concepts without directly copying the text:
+
+1.  A weightlifter holds a heavy barbell stationary at a certain height. Although the weightlifter is exerting a significant force, are they doing any work on the barbell? Explain your answer based on the definition of work in physics. Further, describe a scenario where the weightlifter *would* be doing work on the barbell.
+
+2.  A car manufacturer uses crash test dummies to assess the safety of their vehicles in simulated accidents. Describe how the Work-Energy Theorem can be applied to analyze the impact and deformation of the car and the dummy during a collision. How would considering the potential energy (and its arbitrary zero point) be helpful in this analysis?
+
+3.  A neutron needs to be slowed down by colliding with a moderator. Explain how the concepts of kinetic energy and momentum transfer relate to selecting an ideal moderator material. Would a lighter or heavier moderator be more effective, and why? Support your answer with a conceptual explanation rather than a detailed calculation.

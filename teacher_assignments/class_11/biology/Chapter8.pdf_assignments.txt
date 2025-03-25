@@ -1,0 +1,7 @@
+Okay, here are 3 concise, original assignment questions based on the provided chapter content about the cell, designed for CBSE Class 11-12 students:
+
+1.  **Cellular Specialization & Evolutionary Advantage:** Multicellular organisms exhibit a division of labor, where different cells perform specific functions. Explain how cellular specialization provides an evolutionary advantage compared to unicellular organisms, considering both internal complexity and interaction with the environment.
+
+2.  **The Importance of Compartmentalization:** Eukaryotic cells are characterized by membrane-bound organelles. Discuss the importance of this compartmentalization for cellular processes. Provide two specific examples of how membrane-bound organelles contribute to the efficiency and regulation of cellular activities.
+
+3.  **Challenging the Cell Theory:** While the cell theory is a cornerstone of biology, are there any biological entities or phenomena that seemingly challenge or complicate its basic tenets? Explain one such example (e.g., viruses, syncytial tissues) and discuss how it can be reconciled with our understanding of the cell as the fundamental unit of life.

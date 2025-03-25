@@ -1,0 +1,9 @@
+Here are three original assignment questions based on the provided NCERT chapter content for CBSE classes 11-12, designed to test understanding of key concepts:
+
+1.  A pendulum swings through an angle of 30 degrees. If the length of the pendulum is 75 cm, find the total distance its tip travels after making 10 complete oscillations. Express your answer in terms of π.
+
+2.  Given that sin(θ) = p, where π/2 < θ < π, express all other trigonometric ratios in terms of *p*. Justify the sign of each ratio you determine.
+
+3.  Without using a calculator, prove the following trigonometric identity:
+
+    cos(π/4 + x) + cos(π/4 - x) = √2 cos(x)

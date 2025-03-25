@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided chapter content:
+
+1.  Explain how Rutherford's alpha-particle scattering experiment led to the rejection of Thomson's "plum pudding" model of the atom and the subsequent proposal of the nuclear model. Critically evaluate one limitation of Rutherford's model.
+
+2.  A hypothetical atom has only three energy levels: a ground state (E1), a first excited state (E2), and a second excited state (E3). If the wavelengths of photons emitted due to transitions from E3 to E2 and from E2 to E1 are λ1 and λ2 respectively, derive an expression for the wavelength of the photon emitted when the atom transitions directly from E3 to E1 in terms of λ1 and λ2.
+
+3.  De Broglie's hypothesis assigns wave-like properties to matter. Explain how this concept provides a justification for Bohr's quantization of angular momentum in the hydrogen atom. Why is it significant that this hypothesis links seemingly disparate phenomena like particle momentum and wavelength?

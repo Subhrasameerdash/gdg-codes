@@ -1,0 +1,50 @@
+
+                === Short Questions (2 marks each) ===
+                1.  Explain the significance of flowers in angiosperms. Briefly describe the events that occur within a flower leading to seed formation.
+
+2.  Differentiate between a Genetically Modified Organism (GMO) and an organism produced through traditional breeding methods. Give one advantage and one disadvantage of using GMOs in agriculture.
+
+3.  *Bacillus thuringiensis* (Bt) is widely used in biotechnology. Explain the mechanism by which Bt toxin protects plants from insect pests.
+
+4.  Explain the principle of RNA interference (RNAi) and how it is used to develop pest-resistant plants.
+
+5.  Describe the main goal of Gene Therapy. What are some of the challenges associated with using Gene Therapy to treat diseases?
+
+6.  What is biopiracy? Explain its potential negative consequences, giving a specific example of how it can affect traditional communities.
+
+7.  Distinguish between exponential and logistic population growth. Explain the factors that cause a population to shift from exponential to logistic growth.
+
+8.  Define carrying capacity (K). Explain how 'K' influences population growth and what happens when a population exceeds its carrying capacity.
+
+9.  Describe *two* different types of interspecific interactions, explaining the effects (+, -, 0) on each species involved. Provide a real-world example for each interaction.
+
+10. Explain how understanding ecological principles and population dynamics is crucial for effective conservation efforts. Give one specific example to illustrate your point.
+
+                === Focused Questions (5 marks each) ===
+                1.  **Question 1:** Flowers are modified shoots adapted for sexual reproduction. Elaborate on this statement by explaining the roles of different floral whorls (calyx, corolla, androecium, and gynoecium) in ensuring successful pollination and fertilization. Further, explain how double fertilization is the process, and the significance of its products.
+2.  **Question 2:** The size of the Amorphophallus flower is striking. How might this extreme size be an evolutionary advantage for this plant? Discuss the potential selective pressures that could have led to the development of such a large inflorescence. In your response, consider the plant's pollination strategy and its environment.
+3.  **Question 3:** Biotechnology offers solutions to several challenges faced by modern agriculture. Explain how the use of *Bacillus thuringiensis* (Bt) toxin in crop production reduces the reliance on chemical pesticides. Discuss the potential benefits and risks associated with using Bt crops.
+4.  **Question 4:**  Differentiate between tissue culture and somatic hybridization. Explain the importance of each technique in crop improvement, providing at least one specific example of a commercially important plant developed using each method. Which of these methods will produce genetically modified plants?
+5.  **Question 5:**  Gene therapy holds immense promise for treating genetic disorders. Describe the basic principles of gene therapy and the different approaches that can be used. What are some of the ethical considerations surrounding gene therapy, and how can these concerns be addressed?
+6.  **Question 6:**  Explain the concept of biopiracy with a specific example. What are the ethical and economic implications of biopiracy, particularly for developing countries? Suggest measures that can be taken to prevent biopiracy and protect indigenous knowledge.
+7.  **Question 7:** "Ecology is simply environmental science." Argue for or against this statement, clearly differentiating between ecology and environmental science in your reasoning. Discuss the importance of ecological principles in addressing current environmental challenges.
+8.  **Question 8:**  Distinguish between exponential and logistic population growth. Explain the factors that lead to each type of growth pattern and their representation on a graph. Provide a real-world example of a population that might exhibit each type of growth.
+9.  **Question 9:** The interactions between different species within a community can have significant impacts on population dynamics. Describe five different types of interspecific interactions (mutualism, competition, predation, parasitism, and commensalism) with a real-world example for each. Explain how these interactions contribute to the overall stability and diversity of the community.
+10. **Question 10:** A population of deer is introduced to an island with abundant resources. Initially, the population grows rapidly. However, after a few years, the growth rate slows down and eventually stabilizes. Explain the factors that contribute to the change in the population growth rate of the deer, with specific reference to carrying capacity. How might climate change influence the carrying capacity of the island for the deer population?
+
+                === Long Questions (10 marks each) ===
+                1.  **Question 1 (10 marks):**
+
+    *   **(a) Biotechnology in Agriculture (5 marks):** Discuss how biotechnology has revolutionized agricultural practices. Critically evaluate the benefits and potential risks associated with the widespread adoption of genetically modified (GM) crops, such as Bt cotton. Your answer should include specific examples and consider the ecological and economic implications.
+    *   **(b) Gene Therapy and Ethical Concerns (5 marks):** Explain the principle of gene therapy as a potential treatment for genetic disorders. Discuss the ethical considerations and challenges associated with gene therapy, including issues related to accessibility, safety, and the potential for genetic enhancement.
+
+2.  **Question 2 (10 marks):**
+
+    *   **(a) Population Growth Models (5 marks):** Describe and differentiate between exponential and logistic growth models, illustrating your answer with appropriate graphs. Explain the factors that cause a population to shift from exponential to logistic growth, and discuss the concept of carrying capacity. Provide a real-world example of a population that exhibits logistic growth and explain the factors that limit its growth.
+    *   **(b) Interspecific Interactions (5 marks):** Explain the different types of interspecific interactions (mutualism, competition, predation, parasitism, commensalism) with specific examples from natural ecosystems.  For each interaction, describe how it affects the population dynamics of the involved species and their roles in maintaining community stability.
+
+3.  **Question 3 (10 marks):**
+
+    *   **(a) Biotechnology and Pharmaceuticals (5 Marks):** Explain how biotechnology is used in the production of pharmaceuticals like insulin. Focus on the process involved in creating recombinant insulin. What are the advantages of biotechnologically produced insulin over the previously used methods of extraction from animal sources?
+    *   **(b) Biopiracy and Biodiversity Conservation (5 Marks):** Explain the concept of biopiracy. Discuss how it poses a threat to biodiversity and traditional knowledge. Suggest measures to prevent biopiracy and promote equitable sharing of benefits arising from the use of biological resources. How do international agreements such as the Nagoya Protocol help address the issue of biopiracy?
+                

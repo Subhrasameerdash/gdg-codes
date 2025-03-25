@@ -1,0 +1,10 @@
+Here are three concise, original assignment questions based on the provided cell cycle and cell division content, suitable for CBSE Class 11-12 students:
+
+1.  A scientist discovers a new chemical that disrupts the formation of the mitotic spindle.
+    *   a) How would this chemical affect karyokinesis? Explain your reasoning.
+    *   b) What would be the consequence of cells proceeding through the cell cycle in the presence of this chemical?
+    *   c) Would the compound be more effective to dividing cells or cells at G0 phase? Explain your answer.
+
+2.  Compare and contrast the significance of mitosis and meiosis in living organisms. Your answer should address the type of cells involved, the genetic outcome, and the roles of each process in growth, repair, and reproduction.
+
+3.  A researcher is studying a cell with a mutation that causes it to skip the G1 and G2 phases of interphase, proceeding directly from DNA replication (S phase) to M phase. Predict and explain the potential consequences of this mutation on the daughter cells produced during mitosis.

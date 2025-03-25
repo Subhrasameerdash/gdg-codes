@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content, designed for CBSE Class 11-12 students, testing understanding of unit conversions and basic problem-solving in physics:
+
+1.  A scientist measures the length of a newly discovered artifact to be 285 cm. Later, they need to present this length in a report that requires the measurement to be expressed in inches. Given that 1 inch = 2.54 cm, calculate the length of the artifact in inches, showing your working clearly with units.
+
+2.  Explain, using the concept of dimensional analysis, why it is crucial to handle units carefully in calculations. Illustrate your explanation with a hypothetical scenario where incorrect unit handling leads to a wrong conclusion.
+
+3.  A chemical reaction requires 1 mole of water (H₂O). You have a large container of water. If the reaction needs to run continuously for 2 full days, how many moles of water are required in total, expressed as moles per second? Show all conversion steps clearly.

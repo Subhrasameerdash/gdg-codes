@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided NCERT chapter content, designed for CBSE class 11-12 students:
+
+1.  **Falling Ball Rebound:** A ball is dropped from a height of 10 meters. After each bounce, it rebounds to a height that is two-thirds of the height of the previous bounce. Determine the total vertical distance the ball travels before coming to rest.
+
+2.  **Radioactive Decay:** A radioactive substance decays in such a way that after each year, only 90% of the substance remains. If you start with 100 grams of the substance, use logarithmic principles to estimate how many years it will take for the amount of the substance to fall below 50 grams. (Hint: you may leave your answer in terms of logarithms).
+
+3.  **Limit Manipulation:** Evaluate the limit: lim ₓ→₀ [e^(3x) - 1] / sin(2x). You must show all steps and justify the use of any standard limits.

@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided Ecology chapter content, designed to test key concepts and understanding:
+
+1.  Imagine a newly formed volcanic island. Describe the likely stages of ecological succession that would occur on this island, focusing on the changes in community structure and species diversity over time. Explain the roles of pioneer species and climax communities in this process.
+
+2.  A farmer decides to introduce a new, highly productive crop species to their land. Analyze the potential impacts of this introduction on the existing ecosystem, considering concepts such as interspecific competition, carrying capacity, and the potential for exponential growth of the new species. Discuss both positive and negative consequences.
+
+3.  Explain the difference between exponential and logistic population growth models. Under what environmental conditions would each model be most applicable? Give a real-world example of a population that might exhibit each type of growth, justifying your choice with specific environmental factors.

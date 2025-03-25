@@ -1,0 +1,7 @@
+Here are three original assignment questions designed for CBSE Class 11-12 students based on the provided Amines and Diazonium Salts chapter content:
+
+1.  **Amine Reactivity & Separation:** A laboratory technician has three unlabeled bottles, each containing one of the following: *n*-butylamine, di-*n*-butylamine, and tri-*n*-butylamine. Describe a simple chemical test (or a series of tests) that would allow the technician to identify the contents of each bottle. Explain the chemical basis for the observed differences in reactivity between the three amines.
+
+2.  **Diazonium Salt Synthesis & Application:** A student aims to synthesize *p*-bromophenol from benzene. Outline the necessary sequence of reactions, including specific reagents and conditions, highlighting the crucial role of a diazonium salt intermediate. Explain why the direct bromination of phenol is not a suitable method for obtaining *p*-bromophenol in good yield.
+
+3.  **Basicity Comparison & Explanation:** Arrange the following compounds in decreasing order of basicity: ammonia, aniline, *p*-methylaniline, and *p*-nitroaniline. Provide a detailed explanation for your chosen order, considering the electronic effects of the substituents on the nitrogen atom.

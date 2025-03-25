@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided chapter content:
+
+1.  The element selenium (Se) is used in solar cells. Based on its position in the periodic table and your understanding of periodic trends, predict and justify whether selenium is more likely to form an acidic or basic oxide. Explain how the electronic configuration of selenium contributes to this behavior.
+
+2.  Consider two hypothetical elements, X and Y. Element X has a significantly higher first ionization enthalpy but a much lower electronegativity compared to element Y. What can you infer about the probable chemical behavior of X and Y, including the types of compounds they are likely to form with other elements?
+
+3.  Mendeleev's periodic table had some limitations. How did the discovery of atomic numbers address one of the key problems present in Mendeleev's arrangement of elements? Give a specific example of how arranging elements by atomic number, rather than atomic mass, resolved an anomaly.

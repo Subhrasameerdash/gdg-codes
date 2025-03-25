@@ -1,0 +1,7 @@
+Okay, here are three concise, original assignment questions based on the provided NCERT chapter content on organic chemistry:
+
+1.  **Reaction Mechanisms & Stability:** Consider two reactions: (a) the addition of HBr to propene and (b) the substitution of chlorine for hydrogen in methane under UV light. Briefly outline the step-by-step mechanism for *each* reaction. Then, explain why the addition reaction (a) follows Markovnikov's rule, while the substitution reaction (b) yields a mixture of products. Relate your answer to the concepts of carbocation stability and free radical formation.
+
+2.  **IUPAC Nomenclature & Isomerism:** Draw all the structural isomers of an alcohol with the molecular formula C5H12O. Provide the IUPAC name for each isomer you draw. Finally, identify which of these isomers is/are capable of exhibiting optical isomerism and briefly explain why.
+
+3.  **Purification Techniques & Spectroscopic Analysis:** A student synthesizes benzoic acid in the lab, but the product is contaminated with a small amount of unreacted starting material (benzene) and a colored impurity. Describe a step-by-step procedure the student should follow to purify the benzoic acid to a high degree of purity. Justify your choice of each purification technique based on the properties of benzoic acid, benzene, and the colored impurity. Furthermore, explain how IR spectroscopy could be used to confirm the identity and purity of the final benzoic acid product.

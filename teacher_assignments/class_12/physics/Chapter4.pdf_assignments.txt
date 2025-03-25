@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided NCERT chapter content, designed for CBSE class 11-12 students:
+
+1.  The modern definition of the Ampere aims to eliminate effects. Explain why a purely theoretical definition proved insufficient, and what real-world considerations necessitate this effort to eliminate effects in defining the standard unit of current.
+
+2.  A charged particle moves in a helical path within a uniform magnetic field. Describe the factors that determine the radius and pitch (distance between consecutive turns) of this helix. How would altering the particle's initial velocity vector affect these parameters?
+
+3.  Imagine a scenario where a current-carrying circular loop is placed near a long straight wire carrying current. Describe the forces acting on the loop. How would the loop tend to rotate or translate depending on the relative direction and magnitudes of the currents in the loop and the wire, and their relative positions? Justify your answer using relevant concepts and principles.

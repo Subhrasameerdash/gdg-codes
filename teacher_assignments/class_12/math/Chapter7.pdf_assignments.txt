@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided chapter content on Integrals:
+
+1.  **Conceptual Understanding:** Explain the fundamental difference between an indefinite integral and a definite integral. In what situations would you use one over the other? Provide a simple example to illustrate your explanation.
+
+2.  **Application of Techniques:** A student is struggling to evaluate the integral ∫x√(x+1) dx. Guide them through the process by explaining which integration technique (substitution, integration by parts, partial fractions) is most appropriate and provide the initial steps. You do not need to completely solve the integral.
+
+3.  **Problem Solving:** Determine the area enclosed by the curve y = sin(x), the x-axis, and the lines x = 0 and x = π. Explain how the concept of definite integrals is used to calculate this area.

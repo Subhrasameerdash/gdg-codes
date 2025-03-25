@@ -1,0 +1,12 @@
+Okay, based on the provided information, here are three concise and original assignment questions designed for CBSE Class 11-12 students, focusing on testing key concepts rather than direct recall:
+
+1.  **Structure and Isomerism:** Acyclic hydrocarbon 'A' with the formula C5H10 reacts with HBr in the presence of peroxide to yield 2-bromopentane as the major product. Draw the structure of 'A', provide its IUPAC name, and draw all its possible structural isomers (excluding stereoisomers). Name the type of isomerism displayed between 'A' and one of the other structures you have drawn.
+
+2.  **Aromaticity and Reactivity:** Two organic compounds, benzene and naphthalene, exhibit aromatic character.
+    a) Explain in terms of their structures and the number of π-electrons, why both compounds are considered aromatic.
+
+    b) Compare and contrast the conditions required for bromination of Benzene and Naphthalene (with appropriate reagents), providing an explanation for any observed differences in reactivity, write chemical equations for each.
+
+3.  **Empirical Formula and Functional Groups:** An unknown organic compound contains only carbon, hydrogen, and oxygen. Complete combustion of 0.36 g of the compound produces 0.792 g of CO2 and 0.324 g of H2O. Further analysis reveals that the compound reacts with both sodium metal and Tollen's reagent.
+    a) Determine the empirical formula of the organic compound.
+    b) Based on the empirical formula and the reactions with sodium and Tollen's reagent, suggest two possible structural formulas for the compound and provide their IUPAC names.

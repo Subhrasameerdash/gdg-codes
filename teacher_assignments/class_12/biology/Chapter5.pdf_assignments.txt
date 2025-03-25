@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided NCERT chapter content, designed to test key concepts for CBSE class 11-12 students:
+
+1.  Explain the significance of sequence variations in a gene, linking your explanation to the concepts of alleles and the potential functional consequences in an organism.
+
+2.  Describe the processes of transcription and translation, highlighting the specific roles of enzymes like ribozymes in each process.
+
+3.  Imagine a DNA sequence. How would the insertion or deletion of a single nucleotide within a coding region during replication ultimately impact the protein produced and what is this type of mutation commonly referred to as?

@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided NCERT chapter content:
+
+1.  **Vector Decomposition and Application:** A force of 50N is applied to a crate at an angle of 30 degrees to the horizontal. Express this force as a sum of its horizontal and vertical components in vector form, using unit vectors **i** and **j**. Then, calculate the work done by the horizontal component if the crate moves 5 meters horizontally.
+
+2.  **Geometric Interpretation of Vector Operations:** Three points A, B, and C have position vectors **a**, **b**, and **c**, respectively. Given that **c** = (1-λ)**a** + λ**b**, where λ is a scalar, describe the geometric relationship between the points A, B, and C. Explain your reasoning, relating it to the concepts of scalar multiplication and vector addition. Furthermore, if A=(1,0,1), B=(0,1,1) and C=(1/2, 1/2, 1), find λ.
+
+3.  **Cross Product and Geometric Quantities:** Two adjacent sides of a parallelogram are represented by the vectors **u** = 2**i** - **j** + **k** and **v** = **i** + **j** - 2**k**. Determine a unit vector that is perpendicular to the plane containing the parallelogram. Then, calculate the area of the parallelogram using vector methods.

@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided chapter information on Alcohols, Phenols, and Ethers:
+
+1.  A student attempts to synthesize 2-ethoxy-2-methylpropane using Williamson ether synthesis. They react sodium ethoxide with 2-chloro-2-methylpropane. However, the major product obtained is not the desired ether, but an alkene. Explain why this outcome occurs, detailing the reaction mechanism involved and suggest an alternative approach for synthesizing the desired ether.
+
+2.  Compound A (molecular formula C7H8O) is insoluble in water but dissolves readily in aqueous NaOH. Treatment of Compound A with bromine water results in the formation of a white precipitate of Compound B (C7H5Br3O). Identify Compound A and Compound B, provide the reactions involved, and explain why Compound A exhibits acidic character.
+
+3.  You are provided with three unlabeled bottles, each containing one of the following compounds: butan-1-ol, butan-2-ol, and diethyl ether. Describe a series of simple chemical tests (using readily available reagents) that would allow you to distinguish between these three compounds. Explain the chemical basis for each test and the expected observations for each compound.

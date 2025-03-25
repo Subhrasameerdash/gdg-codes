@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided NCERT chapter content about d- and f-block elements, designed to test key concepts and understanding:
+
+1.  Explain how the electronic configurations of transition metals contribute to their ability to form alloys, and describe *two* properties of alloys that are often superior to those of their constituent pure metals. Use specific examples from the d-block to illustrate your answer.
+
+2.  The lanthanoid contraction has significant consequences for the chemistry of elements following the lanthanoids in the periodic table. Discuss *two* such consequences, explaining the underlying reasons for these effects. Provide specific examples of elements affected by the lanthanoid contraction and the resulting observed trends in their properties.
+
+3.  A first-row transition metal exhibits a magnetic moment of 3.87 BM in its +2 oxidation state. Identify the metal. Explain, with the help of appropriate electronic configurations, *why* transition metals exhibit variable oxidation states, and discuss *one* important application where the variable oxidation states of transition metals are utilized.

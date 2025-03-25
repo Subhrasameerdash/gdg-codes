@@ -1,0 +1,7 @@
+Okay, based on the provided information about indefinite integrals, substitution, integration by parts, and the general concepts, here are 3 assignment questions designed to test understanding and application:
+
+1.  **Conceptual Understanding & Application of Substitution:** The rate of change of a function *f(x)* is given by *3x√(x² + 4)*. Knowing that *f(0) = 1*, determine the function *f(x)*. Explain the role of the constant of integration in this specific problem.
+
+2.  **Integration by Parts & Problem-Solving:** A student attempts to evaluate ∫x² * e^(x/2)* dx using integration by parts but makes an error in choosing 'u' and 'dv'. Describe a strategy to guide them to choose suitable functions for 'u' and 'dv', and hence solve the integral completely.
+
+3.  **Connecting Concepts & Application:** A curve *y = f(x)* passes through the point (1, 2) and satisfies the differential equation *dy/dx = x*cos(x²)*. Find the equation of the curve. How does the initial condition *f(1) = 2* help in determining a specific solution from the family of solutions obtained by integration?

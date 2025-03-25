@@ -1,0 +1,7 @@
+Okay, here are three original assignment questions based on the provided NCERT chapter content, designed for CBSE Class 11-12 students:
+
+1.  **Isomer Analysis and Reactivity:** Compound **A**, with the molecular formula C4H8O, reacts with Tollens' reagent to form a silver mirror, but does not give a positive iodoform test. Compound **B**, also with the molecular formula C4H8O, gives a positive iodoform test but does not react with Tollens' reagent. Draw the structures of **A** and **B**, provide their IUPAC names, and explain the chemical basis for the observed differences in their reactivity with the given reagents.
+
+2.  **Acidity and Basicity Comparison:** Consider the following series of compounds: Ethanol, Phenol, Acetic Acid, and Ethylamine. Explain the factors influencing the relative acidity or basicity of each compound. Arrange these compounds in order of increasing acidity, justifying your arrangement with respect to resonance, inductive, and hydrogen bonding effects.
+
+3.  **Reaction Mechanism and Product Prediction:** Propose a detailed step-by-step mechanism for the base-catalyzed Aldol condensation between two molecules of propanal (CH3CH2CHO). Predict the major organic product, including its IUPAC name, and explain why that particular product is favored. Show all relevant intermediates, including charges and electron flow with arrows.

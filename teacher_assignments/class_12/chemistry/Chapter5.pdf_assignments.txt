@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided NCERT chapter content on coordination compounds, designed to test understanding of key concepts:
+
+1.  A coordination compound with the formula CoCl3.5NH3 exists as two isomers, A and B. Isomer A reacts with AgNO3 to produce 2 moles of AgCl per mole of the compound, while isomer B does not react with AgNO3. Determine the structural formulas of isomers A and B, providing IUPAC names for each. Explain the difference in their reactivity with AgNO3 based on the nature of the chloride ions in the complex.
+
+2.  Consider two complexes: [Fe(CN)6]4- and [Fe(H2O)6]2+. Explain why one is considered a homoleptic complex and the other a heteroleptic complex. Determine and compare the oxidation state of iron in each complex. Further, based on ligand properties, predict which complex will exhibit a higher crystal field splitting energy (Δo) and justify your reasoning.
+
+3.  A student performs an experiment with a coordination compound and observes the following: The compound has the empirical formula PtCl2.2NH3. The compound does not have any geometrical isomers. Draw the structure of the compound. What is the coordination number of platinum in this complex? What is the shape of this complex?

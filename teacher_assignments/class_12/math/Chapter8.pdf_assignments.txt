@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided chapter content on the Application of Integrals:
+
+1.  **Area Partitioning:** A curve defined by *y = √x* divides the area of the rectangle with vertices (0,0), (4,0), (4,2) and (0,2) into two regions. Determine the area of each region.
+
+2.  **Curve Intersection:** Find the area of the region enclosed between the parabola *y² = 4x* and the line *y = x*.
+
+3.  **Area with Absolute Value:** Calculate the area of the region bounded by the curve *y = |x - 1|*, the x-axis, and the lines *x = -1* and *x = 2*.

@@ -1,0 +1,7 @@
+Okay, based on the provided chapter summary, definitions, and solved examples, here are 3 concise and original assignment questions suitable for CBSE Class 11-12 students:
+
+1.  **Reaction Prediction & Mechanism:** A student attempts to convert 2-bromobutane to but-2-ene using alcoholic KOH. However, they also observe the formation of a significant amount of but-1-ene. Explain the mechanism for the formation of both products, clearly indicating which mechanism is favored and why. Furthermore, predict the major product if the same reaction were conducted using *tert*-butoxide as the base, providing your reasoning.
+
+2.  **SN1 vs SN2 Analysis:** Consider the reaction of methyl bromide and *tert*-butyl bromide with aqueous NaOH. Compare and contrast the rates and mechanisms of these two reactions. Discuss the factors that contribute to the observed differences in reactivity, including steric hindrance and the stability of any intermediate carbocations that may form.
+
+3.  **Grignard Application and Product Identification:** Show how you would use a Grignard reagent to synthesize 2-methylpentan-2-ol starting from appropriate haloalkanes and carbonyl compounds. Write out the reaction scheme clearly, identifying all reactants and intermediates. Also, what precaution should be taken in handling Grignard reagents and why?

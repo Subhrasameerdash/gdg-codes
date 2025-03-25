@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content, designed for CBSE Class 11-12 students:
+
+1.  **Metabolic Diversity and Significance:** Compare and contrast primary and secondary metabolites, providing specific examples of each and explaining their ecological and/or economic importance. How does the production of secondary metabolites contribute to the survival and adaptation of organisms?
+
+2.  **The Interplay of Structure and Function:** Discuss how the hierarchical structure of proteins (primary, secondary, tertiary, and quaternary) directly influences their diverse biological functions. Illustrate your answer with specific examples of proteins and their corresponding functions, explaining how structural alterations can impact their activity.
+
+3.  **Enzyme Action and Regulation:** Explain the mechanism of enzyme action, including the roles of the active site and cofactors. Describe three factors that can affect enzyme activity and discuss how cells regulate enzyme activity to maintain homeostasis.

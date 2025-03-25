@@ -1,0 +1,7 @@
+Here are 3 concise assignment questions based on the provided NCERT chapter content (mainly related to fluids), designed for CBSE class 11-12 students:
+
+1.  A hydraulic lift uses compressed air to exert force on a smaller piston, which then transmits the force to a larger piston to lift a car. If the diameters of the two pistons are in the ratio 1:5, and the car has a mass of 1500 kg, calculate the air pressure required to lift the car, neglecting friction. Explain briefly how the principle of "force per unit area" is crucial in the operation of such a lift.
+
+2.  Imagine a scenario where you are designing a deep-sea research submersible. Discuss how Bernoulli's principle and the concept of pressure variation with depth would be critical in ensuring the safe and efficient operation of the submersible at a depth of 500 meters. Specifically, address the measures you would take to counteract the increasing pressure at greater depths and maintain a stable flow of fluids within the submersible's systems. (Assume the density of seawater is 1025 kg/m3)
+
+3.  A small metal sphere is dropped into a viscous liquid. Describe the various forces acting on the sphere as it falls through the liquid. Explain how these forces contribute to the sphere eventually reaching its terminal velocity. Discuss how the size and density of the sphere, as well as the viscosity of the liquid, influence the magnitude of this terminal velocity.

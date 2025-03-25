@@ -1,0 +1,14 @@
+Here are 3 assignment questions based on the provided chapter content on Oscillations, designed for CBSE class 11-12 students:
+
+1.  **Conceptual Application:** A simple pendulum is set into oscillation. Describe how the period of oscillation changes (if at all) when:
+    *   The mass of the bob is doubled.
+    *   The length of the pendulum is quadrupled.
+    *   The entire setup is moved to a planet where the acceleration due to gravity is half that of Earth.
+    Explain your reasoning for each case, clearly referencing the relevant formula.
+
+2.  **Energy and SHM:** A block attached to a spring oscillates horizontally on a frictionless surface. At what displacement from the equilibrium position is the block's kinetic energy equal to its potential energy? Express your answer as a fraction or percentage of the amplitude of oscillation. Justify your answer using the principles of energy conservation in SHM.
+
+3.  **Graphical Analysis and SHM:** A student plots the displacement of an object undergoing Simple Harmonic Motion as a function of time. From the graph, they determine the amplitude to be 5 cm and the period to be 2 seconds.
+    *   Calculate the object's angular frequency.
+    *   Write the equation of motion for the object, assuming it starts at its equilibrium position.
+    *   Sketch a graph showing the object's velocity as a function of time over one complete period. Clearly label the axes and indicate the maximum and minimum velocities.

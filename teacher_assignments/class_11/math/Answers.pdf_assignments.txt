@@ -1,0 +1,7 @@
+Okay, here are 3 assignment questions based on the provided NCERT chapter content on Sets, designed to test understanding of key concepts without directly copying the text:
+
+1.  **Creative Set Representation:** Consider the set of all positive divisors of the number 36. Express this set in both roster form and set-builder form. Explain why the set is considered a finite set.
+
+2.  **Set Operations and Proof:** Let U be the universal set of all real numbers. If A is the set of all rational numbers and B is the set of all irrational numbers, prove whether the following statement is true or false using set operations and relevant definitions:  (A ∪ B)' = ∅. Justify your answer.
+
+3.  **Power Set Application:** Suppose a school offers three extracurricular activities: debate (D), music (M), and sports (S). A student can choose any combination of these activities, including none. If we consider the set of available activities to be {D, M, S}, what does the power set of this set represent in the context of student choices? List the elements of the power set and explain the meaning of two specific elements in terms of the activities a student might participate in.

@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content on Permutations and Combinations:
+
+1.  A coding system uses symbols chosen from a set of 6 distinct characters. A valid code consists of 5 symbols, where repetition of symbols is allowed, but two adjacent symbols must be different. Determine the total number of valid codes that can be generated using this system.
+
+2.  A school is organizing a debate team consisting of 6 students. From a pool of 8 boys and 5 girls, how many different debate teams can be formed if the team must have at least 2 girls and at least 3 boys?
+
+3.  Consider the word "MISSISSIPPI". Determine the number of distinct arrangements of the letters in this word. Additionally, calculate how many of these arrangements have all the 'S' characters appearing consecutively.

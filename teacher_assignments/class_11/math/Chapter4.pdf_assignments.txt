@@ -1,0 +1,7 @@
+Here are three concise assignment questions, designed for CBSE Class 11-12 students, based on complex numbers:
+
+1.  Given the complex number Z = (a + bi), where 'a' and 'b' are real numbers, determine the conditions under which Z * (conjugate of Z) will result in a real number. Explain your reasoning using properties of complex conjugates.
+
+2.  A student attempts to find the multiplicative inverse of a complex number. They correctly state the general method but make an error in algebraic manipulation during the simplification process. Construct a complex number (of your choosing) and demonstrate a *specific* incorrect step a student might take when finding its multiplicative inverse. Then, correctly calculate the multiplicative inverse.
+
+3.  A complex number is defined as the sum of two other complex numbers Z1 and Z2. Z1 and Z2 are defined as being equal to 2 + 4i and 10 - 20i respectively. Represent this complex number in the form of a + bi. Find the conjugate of the complex number and represent both complex numbers in the Argand plane.

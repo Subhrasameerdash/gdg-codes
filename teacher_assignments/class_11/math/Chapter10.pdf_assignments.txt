@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter summary and examples, designed for CBSE class 11-12 students, focusing on conic sections:
+
+1.  A satellite tracking dish is designed with a parabolic cross-section. The receiver is located at the focus, which is 8 meters from the vertex of the parabola. If the dish is 12 meters wide at its opening, determine the depth of the dish. Explain your reasoning, clearly linking the geometric properties of the parabola to the given dimensions.
+
+2.  An elliptical archway is designed to have a height of 6 meters and a width of 16 meters. A decorative keystone is to be placed at one of the foci of the ellipse. Determine the distance of the keystone from the center of the archway. Further, derive the equation of this ellipse in standard form, clearly stating your coordinate system.
+
+3.  A hyperbola has its foci at (±5, 0) and passes through the point (3, 0). Determine the equation of the hyperbola in standard form. Then, find the length of its latus rectum and explain the significance of the latus rectum in relation to the shape of the hyperbola.

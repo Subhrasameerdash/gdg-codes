@@ -1,0 +1,7 @@
+Here are three assignment questions based on the "Dual Nature of Radiation and Matter" chapter, designed to test understanding of key concepts:
+
+1.  Imagine a hypothetical metal with a work function of 3.0 eV is illuminated by light of two different wavelengths: 400 nm and 600 nm. Determine which wavelength, if either, will result in photoelectric emission. For the wavelength that causes emission, calculate the maximum kinetic energy of the emitted electrons in electron volts (eV). Explain your reasoning.
+
+2.  An electron and a proton are accelerated from rest through the same potential difference. Calculate the ratio of their de Broglie wavelengths. Explain how this ratio demonstrates the relationship between a particle's mass and its wave-like behavior.
+
+3.  Critically evaluate the statement: "The intensity of light is directly proportional to the kinetic energy of emitted photoelectrons in the photoelectric effect." Justify your answer using concepts from the chapter, including the roles of frequency, work function, and photons. Explain what *is* proportional to intensity.

@@ -1,0 +1,13 @@
+Here are 3 assignment questions based on the provided "Gravitation" chapter content:
+
+1.  A hypothetical planet has twice the radius of Earth but the same average density.
+    *   (a) Determine the acceleration due to gravity on the surface of this planet in terms of 'g', the acceleration due to gravity on Earth's surface.
+    *   (b) How would the escape velocity from this planet compare to the escape velocity from Earth? Explain your reasoning.
+
+2.  Imagine a binary star system where two stars of unequal masses (m1 and m2, where m1 > m2) orbit each other.
+    *   (a) Describe the geometry of their orbits, specifically addressing the location of the center of mass of the system.
+    *   (b) If the orbital period of the smaller star (m2) is T, derive an expression for the distance between the two stars in terms of G, m1, m2, and T.
+
+3.  A spacecraft is launched from Earth towards a distant planet.
+    *   (a) Explain how the gravitational potential energy of the spacecraft changes as it moves away from Earth and approaches the target planet.
+    *   (b) Discuss the factors that determine the minimum launch velocity required for the spacecraft to escape Earth's gravitational pull and reach the target planet. Consider the energy requirements for the journey.

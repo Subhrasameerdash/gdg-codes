@@ -1,0 +1,13 @@
+Here are 3 assignment questions based on the provided NCERT chapter summary, designed to test key concepts without directly copying the text:
+
+1.  A function *f(x)* is defined as follows: *f(x) = x + a* for *x ≤ 1*, and *f(x) = bx + 3* for *x > 1*. Determine the relationship between constants *a* and *b* such that *f(x)* is continuous at *x = 1*. Explain your reasoning using the definition of continuity.
+
+2.  Consider the function *g(x) = e^(sin(x))*
+
+    a) Determine the function's domain and range.
+    b) Is the function continuos for all x? Explain your resoning.
+
+3.  The displacement, *s*, of a particle at time *t* is given by *s = t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t*.
+    a) Find the velocity of the particle at time t.
+    b) Determine the acceleration of the particle at time t.
+    c) Find the rate of change of acceleration with respect to time.

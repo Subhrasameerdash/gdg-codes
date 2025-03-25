@@ -1,0 +1,7 @@
+Here are 3 original assignment questions based on the provided NCERT chapter content hints, designed for CBSE Class 11-12 level physics students:
+
+1.  A student argues that since average velocity is defined over a time interval, it's not a useful concept for describing motion at a specific instant. Critically evaluate this statement. In your response, explain why the concept of average velocity remains important in physics and provide a scenario where it offers valuable insight, even when instantaneous velocity is also known.
+
+2.  Describe an experiment to determine your own reaction time. Explain the physics principles involved in estimating the distance traveled during that reaction time, considering the motion is under constant acceleration (e.g., while driving and needing to brake). Discuss how factors such as fatigue or distraction could influence the accuracy of your measurement.
+
+3.  A ball is thrown vertically upwards with an initial velocity *v*. Derive expressions for: (a) the total time of flight; and (b) the maximum height reached. Next, consider a scenario where air resistance is non-negligible. Qualitatively explain how air resistance would impact both the total time of flight and the maximum height compared to the ideal scenario without air resistance. Justify your reasoning based on the principles of motion.

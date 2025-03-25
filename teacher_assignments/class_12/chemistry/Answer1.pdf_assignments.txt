@@ -1,0 +1,14 @@
+Okay, here are 3 concise, original assignment questions covering the topics from your chapter summary, suitable for CBSE Class 11-12 level:
+
+1.  **Kinetics & Electrochemistry Integration:** A voltaic cell is constructed using the following half-cells: Zn<sup>2+</sup>(aq)/Zn(s) and Ag<sup>+</sup>(aq)/Ag(s). The standard cell potential (E°<sub>cell</sub>) is known. If the cell is allowed to operate spontaneously, the decrease in cell potential over time can be related to a first-order decay process. Assuming the initial cell potential is E°<sub>cell</sub>, and the cell potential drops to half its initial value in 't' seconds, determine the rate constant for this decay process. Explain the link between the consumption of reactants in the electrochemical cell and the decrease in cell potential.
+
+2.  **Coordination Chemistry & d-block elements:** Compound *X* is a coordination compound of nickel(II) with the formula NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>. It exists as two isomers, A and B. Isomer A reacts with AgNO<sub>3</sub> to precipitate two moles of AgCl, while isomer B does not react with AgNO<sub>3</sub>.
+    *   Draw the structures of isomers A and B, naming them according to IUPAC nomenclature.
+    *   Explain the difference in their reactivity with AgNO<sub>3</sub> based on the nature of bonding within the complex.
+    *   Determine the type of isomerism exhibited by A and B.
+    *   Predict whether the given compound is diamagnetic or paramagnetic and discuss its hybridisation based on VBT.
+
+3.  **Solutions & Colligative Properties:** An aqueous solution is prepared by dissolving a specific amount of an unknown non-volatile, non-electrolyte solute in water.
+    *   Briefly describe a scenario how would you find molar mass of an unknown non-volatile, non-electrolyte solute in water with given properties (density etc..).
+    *   Describe what type of experiment is required to calculate molar mass.
+    *   Calculate molar mass of the given non-volatile, non-electrolyte solute with the given properties (Kb, Tb, density and mass).

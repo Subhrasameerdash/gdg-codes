@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content on Electrostatic Potential and Capacitance, designed for CBSE class 11-12 students:
+
+1.  **Conceptual Understanding of Equipotential Surfaces:** Explain why the work done in moving a charge along an equipotential surface is always zero. How does this relate to the direction of the electric field relative to the equipotential surface? Provide a real-world example where understanding equipotential surfaces is crucial in electrical applications.
+
+2.  **Potential Energy and System of Charges:** Three point charges, +q, -q, and +2q, are initially infinitely far apart. Calculate the total electrostatic potential energy required to bring these charges to the vertices of an equilateral triangle with side length 'a'. How would the potential energy of the system change if it were placed inside a dielectric medium with a dielectric constant K?
+
+3.  **Capacitors and Dielectrics:** A parallel plate capacitor with a certain separation between the plates is charged by a battery. After charging, the battery is disconnected. Now, a dielectric slab of dielectric constant 'K' and thickness equal to half the separation between the plates is inserted. Determine the ratio of the electric field and energy stored in the capacitor (a) before and (b) after inserting the dielectric slab. Explain your reasoning clearly.

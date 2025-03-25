@@ -1,0 +1,21 @@
+Here are 3 assignment questions based on the provided Chemical Kinetics chapter content, designed to test understanding of key concepts:
+
+1.  **Conceptual Application of Rate Laws and Reaction Order:** Consider a hypothetical reaction: 2A + B -> C. Experimentally, it's found that doubling the concentration of A increases the reaction rate by a factor of four, while doubling the concentration of B has no effect on the rate.
+
+    a)  Determine the rate law for this reaction. Explain your reasoning.
+    b)  What is the overall order of the reaction?
+    c)  Propose a possible elementary step for this reaction, justifying your choice based on the rate law. (Note: there may be more than one correct answer, focus on justification.)
+
+2.  **Activation Energy and Temperature Dependence:** Two different reactions, Reaction 1 and Reaction 2, have activation energies of 50 kJ/mol and 100 kJ/mol, respectively.
+
+    a) Which reaction is more sensitive to changes in temperature? Explain your answer using the Arrhenius equation and the concept of activation energy.
+    b) If both reactions have the same pre-exponential factor (A), at what temperature would Reaction 2 proceed approximately twice as fast as Reaction 1? (Assume the rate constant doubles, R = 8.314 J/mol·K) Show your calculations.
+
+3.  **Reaction Mechanisms and Rate Determining Step:** A complex reaction proceeds through the following proposed mechanism:
+
+    Step 1:  X + Y <=> Z (fast, equilibrium)
+    Step 2:  Z + X ->  W (slow)
+
+    a)  Write the overall balanced chemical equation for the reaction.
+    b)  Identify the rate-determining step and explain why it determines the overall reaction rate.
+    c)  Derive the rate law for the overall reaction, expressing it in terms of the reactants X and Y. Clearly show how the fast equilibrium step is used to eliminate the intermediate Z from the rate law.

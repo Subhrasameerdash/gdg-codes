@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided Wave Optics chapter content, suitable for CBSE Class 11-12:
+
+1.  Imagine you are designing a concert hall. Explain, using Huygens' principle, how you would strategically place sound reflectors to ensure even sound distribution throughout the hall, minimizing dead spots caused by destructive interference. Consider the challenges of achieving coherence in sound sources.
+
+2.  Two coherent light sources illuminate a screen, creating an interference pattern. If the wavelength of the light is doubled, and the distance between the two sources is halved, how will the fringe width of the interference pattern be affected? Explain your reasoning, showing how these changes impact the positions of constructive and destructive interference.
+
+3.  Explain the difference between unpolarized and polarized light. Describe a real-world scenario (other than using sunglasses) where the polarization of light is exploited to achieve a specific technological goal. Justify your answer with the principles of wave optics, particularly concerning the transverse nature of light.

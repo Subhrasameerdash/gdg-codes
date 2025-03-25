@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided chapter content, designed for CBSE class 11-12 students:
+
+1.  **Conceptual Application:** Explain, using the concepts of stress, strain, and elastic moduli, why bridges are often designed with trusses (lattice-like structures) rather than solid beams of the same material. Consider the different types of stress experienced by the bridge structure.
+
+2.  **Comparative Analysis:** Imagine you need to select a material for a cable in a crane designed to lift heavy loads. You have two options: steel with a high Young's modulus or a polymer with a lower Young's modulus but significantly higher elastic limit. Discuss the advantages and disadvantages of each material choice, considering both the material properties and the practical implications for the crane's performance and safety.
+
+3.  **Problem Solving with Extension:** A solid metal cube is submerged in a deep ocean. The cube has a side length of *x* meters, and the Bulk Modulus of the metal is *B*. If the density of seawater increases linearly with depth, derive an expression for the fractional change in the cube's volume at a depth *h* below the surface, assuming the pressure at the surface is atmospheric pressure *P₀*. Express your answer in terms of *B*, *h*, the density gradient of seawater *k* (where density = ρ₀ + kh, ρ₀ being the surface density), *x*, *g* (acceleration due to gravity), and *P₀*.

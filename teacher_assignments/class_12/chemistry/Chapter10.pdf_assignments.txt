@@ -1,0 +1,13 @@
+Okay, here are 3 assignment questions based on the provided NCERT chapter excerpt, designed to test understanding of biomolecules without directly copying the text:
+
+1.  **The Protein Puzzle:** A research scientist discovers a novel protein with an unusual amino acid composition, notably lacking several common amino acids.
+    (a) How might the absence of specific amino acids impact the protein's overall three-dimensional structure and function? Be specific about at least *two* types of interactions that could be affected.
+    (b) If this protein is an enzyme, predict a possible consequence of the altered structure on its catalytic activity. Explain your reasoning.
+
+2.  **Energy Needs and Molecular Choices:** An athlete is preparing for a marathon and needs to optimize their diet for sustained energy release.
+    (a) Compare and contrast the roles of carbohydrates and lipids as energy sources for prolonged physical activity. Specifically, address the *rate* of energy release and the *storage capacity* of each biomolecule.
+    (b) Describe how the athlete's body would utilize different types of carbohydrates (monosaccharides, oligosaccharides, and polysaccharides) at different stages of the marathon (e.g., initial burst of energy vs. sustained endurance).
+
+3.  **The Hormonal Cascade:** Explain how the properties of a hormone affect its mechanism of action within the body. Be sure to address:
+    (a) Explain how fat-soluble and water-soluble hormones differ in their mode of action.
+    (b) How the primary structure of a protein hormone, and its subsequent folding, affects its specificity for a target receptor. Explain the relationship between hormone-receptor binding and the downstream cellular effects.

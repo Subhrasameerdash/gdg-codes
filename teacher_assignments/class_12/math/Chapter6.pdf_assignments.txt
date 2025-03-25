@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter content, designed to test understanding of key concepts without directly copying text:
+
+1.  **Related Rates and Optimization:** A spherical balloon is being inflated at a constant rate. At the moment when the radius of the balloon is 10 cm, the surface area is increasing at a rate of 20 cm²/s. Determine the rate at which the volume of the balloon is increasing at that same instant. Explain how this relates to the concepts of related rates and optimization.
+
+2.  **Increasing/Decreasing Functions and Intervals:** Analyze the function *f(x) = x³ - 6x² + 5*. Determine the intervals on the real number line where the function is strictly increasing and strictly decreasing. Justify your answer using the concept of the first derivative and its sign. How would your answer change if the function was *f(x) = |x³ - 6x² + 5|*?
+
+3.  **Local Maxima/Minima and Applications:** A farmer wants to enclose a rectangular field bordering a straight river. He has 1000 meters of fencing. He needs no fencing along the river. Determine the dimensions of the field that will maximize the area enclosed. Justify your answer using derivatives to find the local maxima, and also explain why this local maxima is also the absolute maxima in this scenario.

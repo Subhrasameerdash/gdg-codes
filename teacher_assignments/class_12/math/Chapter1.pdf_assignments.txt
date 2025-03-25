@@ -1,0 +1,7 @@
+Here are three assignment questions based on the provided chapter content, designed to test key concepts related to relations and functions for CBSE class 11-12:
+
+1.  **Equivalence Relation Construction:** Given a set A = {a, b, c, d}, construct a relation R on A that is an equivalence relation such that 'a' is related to 'b', but 'c' is not related to 'd'. Explain why the relation you constructed satisfies the properties of an equivalence relation (reflexivity, symmetry, and transitivity) and why it fulfills the given constraints.
+
+2.  **Function Properties and Composition:** Define two functions, f: N -> N and g: N -> N (where N is the set of natural numbers). Function 'f' should be injective but not surjective, and function 'g' should be surjective but not injective. Determine the composition functions (g o f)(x) and (f o g)(x). Is either composite function injective or surjective? Justify your answer with appropriate examples.
+
+3.  **Invertibility and Conditions:** A function h: A -> B is defined as h(x) = x^2 + k, where A and B are subsets of real numbers. Determine the smallest possible set A containing the element x=2, and the corresponding set B such that *h* is bijective. Find the value of 'k' for which the inverse of h exists, and explicitly define h^-1(x).

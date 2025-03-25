@@ -1,0 +1,24 @@
+Okay, here are 3 original assignment questions based on the NCERT chapter content described, designed to test understanding of key concepts rather than just rote memorization:
+
+1.  **Conceptual Stoichiometry and Limiting Reactant:** A chemist mixes reactants A and B in a closed container. The reaction proceeds, forming product C. After the reaction is complete, the chemist observes that a significant amount of reactant B remains unreacted.
+
+    *   (a) Explain, in your own words, what this observation tells you about the roles of reactants A and B in this particular reaction. Which reactant is the limiting reactant, and why?
+    *   (b) If the chemist doubles the initial amount of reactant A while keeping the initial amount of reactant B the same, how would you expect the amount of product C formed to change (increase, decrease, or stay the same)? Justify your answer with a clear explanation.
+
+2.  **Empirical vs. Molecular Formula & Combustion Analysis:** A newly synthesized organic compound is subjected to combustion analysis. 1.00 gram of the compound is burned completely in excess oxygen, producing 2.20 grams of carbon dioxide (CO2) and 0.90 grams of water (H2O).
+
+    *   (a) Determine the empirical formula of the compound. Show all calculations.
+    *   (b) If the molar mass of the compound is determined to be 90 g/mol, what is the molecular formula of the compound? Explain how you arrived at your answer.
+    *   (c) Briefly explain why combustion analysis is a useful technique for determining the empirical formula of organic compounds.
+
+3.  **Equilibrium and Le Chatelier's Principle:** Consider the following reversible reaction in a closed container:
+
+    N2(g) + 3H2(g) ⇌ 2NH3(g)  ΔH = -92 kJ/mol
+
+    *   (a) Write the expression for the equilibrium constant, Kc, for this reaction.
+    *   (b) If the system is initially at equilibrium, predict the effect (shift right, shift left, or no change) on the equilibrium position if the following changes are made:
+        *   (i) The partial pressure of N2 is increased.
+        *   (ii) The temperature of the system is increased.
+        *   (iii) An inert gas (that does not react with any of the reactants or products) is added to the system at constant volume.
+        *   (iv) The volume of the container is decreased.
+    *   (c) Explain the principle (Le Chatelier's Principle) you used to make your predictions in part (b). Explain it in simple terms.

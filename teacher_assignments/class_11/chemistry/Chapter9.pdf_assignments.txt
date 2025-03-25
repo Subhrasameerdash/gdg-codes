@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the Hydrocarbons chapter content, designed to test key concepts without directly copying from the text:
+
+1.  **Reaction Prediction & Explanation:** Compound A (C6H12) reacts with hydrogen in the presence of a platinum catalyst to form hexane. Upon ozonolysis, compound A yields a single product, propanone. Draw the structure of compound A, name it using IUPAC nomenclature, and explain the reaction mechanism for its formation during the ozonolysis process.
+
+2.  **Aromaticity & Directing Effects:** You have been tasked with synthesizing *para*-bromonitrobenzene, starting from benzene. Outline a reaction scheme, clearly stating the reagents and conditions required for each step. Justify your chosen reaction sequence, explaining the directing effect of each substituent added to the benzene ring, and why the *para* product is favoured.
+
+3.  **Isomerism & Properties:** Draw all the structural isomers of pentane (C5H12). Predict, with justification based on intermolecular forces, which isomer would have the highest boiling point. Explain the relationship between branching in alkanes and their boiling points.

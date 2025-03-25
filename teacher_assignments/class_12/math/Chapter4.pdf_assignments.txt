@@ -1,0 +1,7 @@
+Here are three original assignment questions based on the provided NCERT chapter content, designed to test key concepts and understanding of determinants and matrices:
+
+1.  **Geometric Interpretation & Linear Dependence:** Three points in a plane, A(x, y), B(1, 2) and C(7, 5) are collinear. Use the concept of determinants to derive a relationship between x and y. Explain how the determinant relates to the area of the triangle formed by these points, and how this explains the condition for collinearity.
+
+2.  **Properties & Applications of Adjoint and Inverse:** Given a non-singular matrix A, prove that adj(A<sup>-1</sup>) = (adj A)<sup>-1</sup>. Further, explain how the adjoint of a matrix is crucial for finding the inverse, and discuss a scenario (e.g., cryptography, data analysis) where finding the inverse of a matrix is essential.
+
+3.  **System of Equations and Matrix Singularity:** A system of linear equations is represented in matrix form as AX = B.  If |A| = 0, what does this imply about the solutions to the system?  Describe the possible solution scenarios (no solution, infinitely many solutions) and provide a geometric interpretation for each scenario in the context of two linear equations in two variables. Explain how row operations can be used to analyze such systems.

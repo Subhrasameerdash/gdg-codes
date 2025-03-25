@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided NCERT chapter summary on Sets, designed to test understanding of key concepts:
+
+1.  **Defining Set Equality:** Consider two sets, *P* and *Q*. Set *P* is defined as all perfect squares less than 100 that are also even numbers. Set *Q* is defined as {4, 16, 36, 64}. Are sets *P* and *Q* equal? Justify your answer by clearly explaining the conditions required for set equality and demonstrating whether those conditions are met in this specific case.
+
+2.  **Subset Identification and Set Operations:** Let U = {x | x is a vowel in the English alphabet}, A = {a, e}, and B = {i, o, u}. First, determine if A is a subset of B, and if B is a subset of U. Explain your reasoning. Then, find A ∪ B and (A ∪ B)'.
+
+3.  **Applying Set Builder Notation and Set Complement:** A universal set, U, consists of all positive integers less than 20. Set A is defined as {x | x ∈ U and x is a multiple of 3}.  Set B is defined as {x | x ∈ U and x is a prime number}. Determine A', B', and A' ∩ B'. Express each of your resulting sets using the roster method.

@@ -1,0 +1,7 @@
+Here are 3 assignment questions for CBSE Class 11-12 Physics, based on the provided chapter summary, designed to test understanding and application of key concepts related to rotational motion and rigid body dynamics:
+
+1.  A thin, uniform rod of length *L* and mass *M* is initially at rest. A force *F* is applied perpendicularly at one end of the rod. Describe how the rod's translational and rotational motion will evolve over time. Specifically, determine an expression for the position of the center of mass and the angular displacement of the rod as a function of time.
+
+2.  Imagine designing a seesaw. You have two children of unequal masses, *m1* and *m2* (where *m1* > *m2*). The seesaw itself has a mass *M* and a length *L*, pivoting at its center. How would you strategically position the two children on either side of the pivot point to achieve perfect balance (i.e., maintain static equilibrium)? Clearly explain your reasoning and provide a mathematical solution for the distances from the pivot point.
+
+3.  A point mass *m* is moving with a constant velocity *v* along a straight line that does not pass through the origin. Without performing integration, explain how the angular momentum of the mass about the origin changes with time. Describe the vector direction and magnitude change, if any, of the angular momentum, providing a conceptual argument.

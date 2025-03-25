@@ -1,0 +1,7 @@
+Here are 3 assignment questions designed for CBSE class 11-12 students, inspired by the provided NCERT chapter content summary, focusing on key concepts rather than direct content reproduction:
+
+1.  Explain the relationship between internal energy change and heat transfer in a system undergoing an isothermal process. Support your explanation with a solved example relevant to the definition of calorie.
+
+2.  Consider a hypothetical process where a system's internal energy increases. Discuss two distinct scenarios, one involving heat and the other not, that could lead to this increase. Explain how the "calorie" concept applies to each scenario.
+
+3.  Using your understanding of the provided definitions and solved examples, critically evaluate the statement: "The value of a calorie is independent of the specific process by which it's measured." Justify your answer.

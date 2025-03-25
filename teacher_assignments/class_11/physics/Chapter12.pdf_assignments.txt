@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions for CBSE Class 11-12 physics, based on the provided NCERT chapter summary, definitions, solved examples, and exercises, designed to test key concepts and understanding:
+
+1.  A sealed container of fixed volume holds a mixture of two ideal gases, Gas A and Gas B. If the number of moles of Gas A is doubled while the total pressure remains constant, explain how the mean free path of Gas B changes. Justify your answer by relating it to the relevant molecular properties and the number of molecules present.
+
+2.  Water's density at a specific temperature is known. Using Avogadro's number and relevant assumptions about the liquid state, design a step-by-step method to estimate the average spacing between water molecules. Explain each step and state any assumptions made.
+
+3.  A sample of naturally occurring element X consists of two isotopes, X-235 and X-238, with different relative abundances. Given the atomic masses of each isotope and the overall atomic mass of element X, formulate an equation (or set of equations) to determine the percentage abundance of each isotope in the sample. Explain the physical significance of each term in your equation(s).

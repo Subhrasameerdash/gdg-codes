@@ -1,0 +1,7 @@
+Okay, here are 3 concise, original assignment questions based on the provided Semiconductor Electronics material, designed for CBSE Class 11-12 students:
+
+1.  **Conceptual Application:** Explain why doping is essential to semiconductor device design. Compare and contrast the effects of doping a semiconductor with a pentavalent impurity versus a trivalent impurity. How do these two types of doping lead to the creation of a p-n junction?
+
+2.  **Problem Solving & Analysis:** A germanium semiconductor has an intrinsic carrier concentration of 2.5 x 10^13 /cm^3. It is doped with a donor impurity at a concentration of 1 x 10^16 /cm^3 and an acceptor impurity at a concentration of 5 x 10^15 /cm^3. Calculate the electron and hole concentrations in the doped semiconductor. Determine whether the semiconductor is n-type or p-type. Justify your answer with clear reasoning.
+
+3.  **Critical Thinking & Synthesis:** Vacuum tubes and semiconductor diodes both can perform the function of rectification. Discuss three key advantages of using a semiconductor diode over a vacuum tube for this purpose. Also, briefly describe how the depletion region is created in an un-biased P-N junction and how its width changes under forward and reverse bias conditions. Explain how these width changes affect the current flow across the junction.

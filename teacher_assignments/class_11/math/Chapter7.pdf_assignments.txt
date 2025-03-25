@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the Binomial Theorem chapter, designed to test understanding and application of key concepts:
+
+1.  **Coefficient Conundrum:** Determine the coefficient of x<sup>5</sup> in the expansion of (2x<sup>2</sup> - 3/x)<sup>10</sup>. Explain the steps involved in arriving at your answer, clearly stating the term containing x<sup>5</sup> and how the coefficient is calculated.
+
+2.  **Approximation Application:** Use the Binomial Theorem to approximate the value of (1.02)<sup>8</sup> to three decimal places. Justify your choice of terms to include in the approximation and explain why higher-order terms can be neglected.
+
+3.  **Divisibility Dilemma:** Using the Binomial Theorem, prove that for any positive integer 'n', the expression 3<sup>2n</sup> - 8n - 1 is always divisible by 64.

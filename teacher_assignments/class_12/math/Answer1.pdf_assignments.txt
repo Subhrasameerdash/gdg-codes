@@ -1,0 +1,15 @@
+Okay, here are 3 original assignment questions designed for CBSE Class 11-12 based on the provided chapter content, aiming to test understanding rather than just recall:
+
+1.  **Function Analysis:**  A function *f* is defined on the set of real numbers as *f(x) = x<sup>3</sup> + kx*, where *k* is a real constant.
+    *   (a) Determine the range of values for *k* for which *f(x)* is a strictly increasing function for all real numbers *x*.
+    *   (b) For *k = 0*, determine if the function has inverse. Justify your answer.
+
+2.  **Relation and Matrix Application:** A binary relation *R* is defined on the set of 2x2 matrices with real entries, such that matrix *A* is related to matrix *B* (A *R* B) if and only if *det(A) = det(B)*.
+    *   (a) Prove that *R* is an equivalence relation.
+    *   (b) Provide an example for 2 different matrices A and B where *A R B*.
+    *   (c) Give example of a matrix that belongs to the equivalent class of matrix with the following properties: invertible and not invertible.
+
+3.  **Inverse Trigonometry and Calculus:**
+    *   (a) Determine the domain for which the inverse trigonometric function *f(x) = cos<sup>-1</sup>(2x - 1)* is defined.
+    *   (b) Find *df/dx*.
+    *   (c) Given your answer to (b), what can you conclude about the nature of this function in terms of it being increasing or decreasing?

@@ -1,0 +1,7 @@
+Okay, here are 3 concise, original assignment questions for CBSE class 11-12, designed to test understanding of the provided NCERT appendix information, avoiding direct copying:
+
+1.  **Conceptual Application:** A chemist is designing a novel battery using a redox couple not listed in standard reduction potential tables. Explain how they could experimentally determine the standard reduction potential (E°) of this new half-cell and why knowing this value is crucial for predicting the battery's overall voltage and feasibility.
+
+2.  **Thermodynamic Reasoning:** Two compounds, A and B, have similar molar masses, but compound A has a significantly higher standard entropy (S°) than compound B. Describe three possible structural or physical differences between A and B that could explain this difference in entropy. Justify your reasoning based on the relationship between entropy and molecular properties.
+
+3.  **Problem-Solving with Unit Conversions and Enthalpy:** A student measures the heat released during the combustion of a small sample of ethanol (C2H5OH) in a calorimeter. The student records the heat released in calories (cal) and the mass of ethanol burned in milligrams (mg). Outline the steps the student needs to take to convert their experimental data into a standard enthalpy of combustion (ΔH°combustion) in kJ/mol, clearly stating the necessary conversion factors and the equations used.

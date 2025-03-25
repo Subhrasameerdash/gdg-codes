@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided NCERT chapter content, designed to test key concepts of straight lines:
+
+1.  A triangle is formed by the x-axis and two lines with inclinations θ and 2θ, where tan θ = 1/3. Determine the area of this triangle if the line with inclination θ passes through the point (0,2).
+
+2.  Line L1 has a slope of 'm' and passes through point A(1,5). Line L2 is perpendicular to L1 and intersects the x-axis at x=3. Find the value of 'm' and the equation of L1.
+
+3.  A point P moves in a plane such that the sum of the absolute distances from P to the lines x + y = 0 and x - y = 0 is always equal to 4. Describe the geometrical shape formed by the path of point P, and provide its defining equation(s).

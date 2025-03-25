@@ -1,0 +1,13 @@
+Here are 3 original assignment questions based on the provided Thermodynamics chapter content, designed to test key concepts for CBSE Class 11-12 students:
+
+1.  **Conceptual Understanding of Spontaneity:** Explain, in your own words, why a process with a negative enthalpy change (ΔH < 0) is not always spontaneous. Use the concepts of entropy and Gibbs Free Energy to support your explanation. Provide a real-world example to illustrate your point.
+
+2.  **Applying Hess's Law:** Given the following thermochemical equations:
+
+    *   A(s) + B(g) → C(g)   ΔH1 = -100 kJ
+    *   C(g) → D(g) + E(g)   ΔH2 = +50 kJ
+    *   E(g) → 2B(g)   ΔH3 = -25 kJ
+
+    Calculate the enthalpy change for the reaction: A(s) → D(g) + B(g). Clearly show the steps involved and explain how Hess's Law justifies your calculation.
+
+3.  **Relating Thermodynamic Properties to Equilibrium:** A reaction is at equilibrium under standard conditions at a specific temperature. If, at this temperature, the change in enthalpy (ΔH°) for the reaction is positive, what can you infer about the change in entropy (ΔS°) for this reaction? Explain your reasoning using the relationship between ΔG°, ΔH°, ΔS°, and the equilibrium state.

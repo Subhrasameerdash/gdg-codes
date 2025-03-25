@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided NCERT chapter content, designed for CBSE class 11-12 students:
+
+1.  A block rests on an inclined plane. Describe how the forces acting on the block change as the angle of the incline is gradually increased. Include a discussion of static friction, kinetic friction (if motion occurs), and the conditions required for the block to begin sliding.
+
+2.  Two objects of different masses collide head-on. One object is initially at rest. Describe how you would determine the final velocities of each object after the collision, assuming the collision is perfectly elastic. Explain the role of the conservation of momentum and kinetic energy in your calculation.
+
+3.  A car travels around a banked circular track at a constant speed. Explain how the banking angle of the track contributes to the centripetal force required for the car to maintain its circular path. How does the optimal banking angle change as the speed of the car increases, and what happens if the car's speed deviates significantly from the designed speed for the banking?

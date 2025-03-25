@@ -1,0 +1,7 @@
+Here are 3 concise, original assignment questions based on the provided chapter content:
+
+1.  Imagine a scenario where a person ascends to a high altitude. Explain how the body adapts to the lower partial pressure of oxygen (pO2) in the air, focusing on the roles of hemoglobin and changes in breathing rate. How might this adaptation be represented on the oxygen dissociation curve?
+
+2.  The human respiratory system relies on a pressure gradient to facilitate breathing. Describe the coordinated action of the diaphragm and intercostal muscles during both inspiration and expiration. Explain how these actions create the necessary pressure differences within the thoracic cavity, and what would happen if one of them does not work well.
+
+3.  Compare and contrast the mechanisms of oxygen and carbon dioxide transport in the blood. Consider their solubility in plasma, their binding to hemoglobin (or lack thereof), and the forms in which they are primarily transported. Justify why different mechanisms are employed for each gas.

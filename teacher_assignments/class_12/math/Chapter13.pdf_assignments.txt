@@ -1,0 +1,7 @@
+Here are 3 assignment questions based on the provided chapter content, designed to test key concepts related to conditional probability and independence:
+
+1.  **A biased coin, where the probability of getting heads is twice the probability of getting tails, is tossed. If the result is heads, a ball is drawn from Bag A, which contains 3 red and 5 black balls. If the result is tails, a ball is drawn from Bag B, which contains 7 red and 1 black ball. If a red ball is drawn, what is the probability that the coin toss resulted in heads?** (This question tests Bayes' Theorem and understanding of conditional probability combined with a prior probability.)
+
+2.  **Two events, X and Y, are associated with a random experiment. Given that P(X) = 0.5, determine the value of P(Y) if X and Y are independent and P(X∪Y) = 0.8.** (This question tests the understanding of independence, union of events, and how to apply the formula P(X∪Y) = P(X) + P(Y) - P(X∩Y).)
+
+3.  **A quality control inspector selects two items at random, *without replacement*, from a batch of 20 items, of which 5 are defective. Let A be the event that the first item selected is defective and B be the event that the second item selected is defective. Are events A and B independent? Justify your answer using probability calculations.** (This question examines the concept of independence when sampling without replacement and requires students to show their work to explain why the events are or aren't independent.)

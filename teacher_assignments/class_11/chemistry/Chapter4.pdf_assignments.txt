@@ -1,0 +1,7 @@
+Okay, here are three assignment questions based on the provided chapter content, designed to assess understanding of key concepts in chemical bonding:
+
+1.  **Molecular Geometry and Polarity:** Compare and contrast the molecular geometries of BeCl2 and H2O. Explain why BeCl2 is non-polar despite having polar bonds, while H2O is polar. Relate your explanation to VSEPR theory and the concept of dipole moments.
+
+2.  **Resonance and Bond Order:** Draw all possible resonance structures for the ozone molecule (O3). Based on these resonance structures, predict the bond order of the oxygen-oxygen bonds in ozone and explain how this bond order relates to the actual bond length compared to a typical single or double O-O bond.
+
+3.  **Hybridization and Bonding:** Describe the hybridization of the central atom in methane (CH4) and ethene (C2H4). Explain how the difference in hybridization leads to different molecular shapes and bond angles in these two molecules. How does hybridization affect the sigma and pi bonding in ethene?

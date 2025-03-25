@@ -1,0 +1,79 @@
+
+                === Short Questions (2 marks each) ===
+                Okay, here are 10 short assignment questions on Sets, suitable for CBSE Class 11-12 students, each worth 2 marks:
+
+1.  **Question 1:** Define a "set" in your own words. Give two examples of collections that are sets and two examples of collections that are *not* sets, explaining why.
+
+2.  **Question 2:** Write the following set in roster form:  A = {x : x is an integer and -3 ≤ x < 4}. Also, state whether this set is finite or infinite.
+
+3.  **Question 3:** Write the following set in set-builder form: B = {1, 4, 9, 16, 25}.
+
+4.  **Question 4:** If A = {1, 2, 3} and B = {2, 3, 4}, find A ∪ B and A ∩ B.
+
+5.  **Question 5:** Let U = {1, 2, 3, 4, 5, 6, 7, 8} be the universal set and A = {2, 4, 6}. Find A'. What does A' represent?
+
+6.  **Question 6:** If A = {a, b} , write down all the possible subsets of A. What is the power set of A?
+
+7.  **Question 7:** Using Venn diagrams, illustrate the relationship between sets A, B, and C if A ⊆ B and B ⊆ C.
+
+8.  **Question 8:** If A and B are two sets such that A ⊆ B, then what is A ∪ B? Justify your answer.
+
+9.  **Question 9:** Given A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A - B and B - A. What do these operations represent?
+
+10. **Question 10:** Are the sets A = {x : x is a letter in the word "FOLLOW"} and B = {x : x is a letter in the word "WOLF"} equal? Justify your answer.
+
+                === Focused Questions (5 marks each) ===
+                Okay, here are 10 focused assignment questions on Sets, suitable for Class 11-12 students and worth 5 marks each, based on the provided NCERT content. These questions aim to test understanding, reasoning, and application of concepts.
+
+1.  **Question 1:** Define a set. Explain the difference between roster form and set-builder form with suitable examples. For each representation, provide an example of a set with at least 4 elements.
+
+2.  **Question 2:** Given the universal set U = {x : x ∈ N and x ≤ 12}, A = {2, 4, 6, 8, 10}, and B = {3, 6, 9, 12}. Find A', B', A ∪ B, and A ∩ B. Verify that (A ∪ B)' = A' ∩ B'. Explain the significance of this result.
+
+3.  **Question 3:** What is a power set? If a set A has *n* elements, how many elements are in its power set? Justify your answer. Give an example of a set with 3 elements and write down its power set.
+
+4.  **Question 4:** Using Venn diagrams, prove that A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C). Explain each step of your proof clearly with labeled Venn diagrams illustrating the sets involved.
+
+5.  **Question 5:** In a survey of 100 students, 45 read mathematics, 52 read physics, and 15 read both mathematics and physics. Find how many students read (i) mathematics only, (ii) physics only, (iii) none of the subjects. Use set theory notation and formulas to solve the problem.
+
+6.  **Question 6:** Define subset. If A and B are two sets such that A ⊆ B, what can you say about (i) A ∪ B and (ii) A ∩ B? Justify your answer with examples. Also, explain when two sets are considered equal.
+
+7.  **Question 7:** Let A = {1, 2, {3, 4}, 5}. Determine which of the following statements are true or false: (i) {3, 4} ∈ A (ii) {3, 4} ⊆ A (iii) {{3, 4}} ⊆ A (iv) 1 ∈ A (v) {1} ⊆ A. Explain your reasoning for each answer.
+
+8.  **Question 8:** Let R be the set of real numbers and Q be the set of rational numbers. Describe the set R - Q. What is this set commonly known as? Provide three examples of elements belonging to R-Q.
+
+9.  **Question 9:** Using set-builder notation, represent the following sets: (i) The set of all multiples of 5 less than 50 (ii) The set of all perfect squares less than 100 (iii) The set of all prime numbers between 20 and 50. Explain why set-builder notation is useful for representing infinite sets.
+
+10. **Question 10:** If A and B are two disjoint sets, what is the relationship between A and B? What is the value of A ∩ B in this case? Provide a real-world example of two disjoint sets. Using a Venn diagram, represent two overlapping sets and two disjoint sets, highlighting the key differences.
+
+                === Long Questions (10 marks each) ===
+                Okay, great! Here are three long assignment questions on Sets, suitable for CBSE Class 11-12 students, each worth 10 marks:
+
+1.  **Question 1:**
+
+    (a) Define a set. Explain the difference between roster form and set-builder form with suitable examples. Provide two examples of each form. (4 marks)
+    (b) Given the universal set U = {x : x is a natural number less than or equal to 20}, A = {x : x is a multiple of 2}, and B = {x : x is a multiple of 3}. Find:
+        (i) A ∪ B
+        (ii) A ∩ B
+        (iii) A - B
+        (iv) B - A
+        (v) A' (6 marks)
+
+2.  **Question 2:**
+
+    (a) Explain the concepts of subsets and power sets. If a set A has 'n' elements, what is the total number of subsets and the total number of proper subsets of A? Justify your answer. (4 marks)
+    (b) Using Venn diagrams, prove the following:
+        (i) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)
+        (ii) (A ∪ B)' = A' ∩ B' (De Morgan's Law) (6 marks)
+
+3.  **Question 3:**
+
+    (a) Define the following with examples:
+        (i) Empty Set
+        (ii) Finite Set
+        (iii) Infinite Set
+        (iv) Equivalent Sets (4 marks)
+    (b) In a survey of 100 students, it was found that 40 students read newspaper A, 50 read newspaper B, and 20 read both newspapers.
+        (i) How many students read neither newspaper A nor newspaper B?
+        (ii) How many students read only newspaper A?
+        (iii) How many students read only newspaper B? (6 marks)
+                

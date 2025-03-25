@@ -1,0 +1,7 @@
+Okay, based on the electromagnetic waves content you provided, here are three concise and original assignment questions designed for CBSE Class 11-12 students, testing key concepts without directly copying the text:
+
+1.  **Maxwell's Bridge:** Explain how Maxwell's introduction of the concept of displacement current resolved an inconsistency in Ampere's Law when applied to a charging capacitor. Illustrate your explanation with a diagram showing the capacitor and the relevant current paths. Furthermore, why was this "correction" such a pivotal insight that led to the prediction of electromagnetic waves?
+
+2.  **Spectrum Sleuth:** Imagine you have discovered a new type of electromagnetic radiation. Design an experiment to determine its frequency and wavelength. Describe the principles behind your method and how you would classify this radiation within the electromagnetic spectrum based on your findings, comparing it to a known EM wave.
+
+3.  **Capacitor Conundrum:** A parallel-plate capacitor with square plates of side length 'a' and separation 'd' is being charged by a time-varying voltage V(t) = V₀sin(ωt). Derive an expression for the displacement current flowing between the plates in terms of a, d, V₀, ω, and the permittivity of free space, ε₀. Explain how this displacement current contributes to the magnetic field between the capacitor plates.

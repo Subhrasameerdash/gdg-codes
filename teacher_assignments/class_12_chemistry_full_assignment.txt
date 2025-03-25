@@ -1,0 +1,80 @@
+
+                === Short Questions (2 marks each) ===
+                Here are 10 short assignment questions based on the provided content, suitable for CBSE Class 11-12 students and worth 2 marks each:
+
+1.  Define molarity. A solution contains 20g of NaOH in 500 mL of solution. Calculate the molarity of the solution.
+
+2.  Explain the difference between molarity and molality. Why is molality preferred over molarity in expressing the concentration of a solution when temperature changes?
+
+3.  State Raoult's law for a solution containing volatile liquids. The vapor pressure of pure benzene and toluene at 298 K are 12.8 kPa and 3.85 kPa, respectively. Calculate the vapor pressure of a solution containing equal moles of benzene and toluene.
+
+4.  What are colligative properties? Give two examples. Why are colligative properties useful in determining the molar masses of substances?
+
+5.  Define electrode potential and cell potential. Write the Nernst equation for the cell reaction:  Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)
+
+6.  State Faraday's first law of electrolysis. How many grams of copper will be deposited when a current of 0.5 amperes is passed through a CuSO4 solution for 1 hour? (Given: Molar mass of Cu = 63.5 g/mol, F = 96500 C/mol)
+
+7.  Define rate law and order of a reaction. For a reaction A + B -> C, the rate law is given by rate = k[A][B]2. What is the order of the reaction?
+
+8.  What is activation energy? Explain the effect of temperature on the rate of a reaction using the Arrhenius equation.
+
+9.  Why do transition metals exhibit variable oxidation states? Give two examples of transition metals that exhibit more than two oxidation states and write their electronic configurations.
+
+10. Define coordination compounds. Give IUPAC names for the following coordination compounds: (a) K4[Fe(CN)6] (b) [Co(NH3)5Cl]Cl2
+
+                === Focused Questions (5 marks each) ===
+                Okay, here are 10 focused assignment questions, each worth 5 marks, based on the provided NCERT subject-wide content. They are designed to test key concepts, reasoning, and application skills suitable for Class 11-12 students.
+
+1.  **Solutions:** A solution is prepared by dissolving 10g of glucose (C6H12O6) in 180g of water. Calculate (a) the mole fraction of glucose and water in the solution, and (b) the molality of the solution. Explain how the molality of a solution remains unaffected by changes in temperature, unlike molarity.
+
+2.  **Electrochemistry:** The standard electrode potential (E°) for the Zn2+/Zn half-cell is -0.76V and for the Cu2+/Cu half-cell is +0.34V. (a) Write the cell reaction for the combination of these two half-cells. (b) Calculate the standard cell potential (E°cell). (c) Calculate the Gibbs free energy change (ΔG°) for the reaction.
+
+3.  **Chemical Kinetics:** The rate constant for a first-order reaction is found to be 2.3 x 10-5 s-1. If the initial concentration of the reactant is 0.1 M, how long will it take for the concentration to be reduced to 0.01 M? Explain the concept of half-life for first order reactions.
+
+4.  **d- and f-Block Elements:** Explain why transition metals exhibit variable oxidation states. Give examples of two transition metals that show a wide range of oxidation states, and discuss the factors that influence the stability of different oxidation states.
+
+5.  **Coordination Compounds:** (a) Define the terms "ligand" and "coordination number" in the context of coordination compounds. (b) Give the IUPAC names of the following coordination compounds: [Co(NH3)5Cl]Cl2 and K4[Fe(CN)6]. (c) Draw the structures of geometrical isomers of [Pt(NH3)2Cl2].
+
+6.  **Solutions:** The vapor pressure of pure water at 298 K is 23.8 mm Hg. 50g of urea (NH2CONH2) is dissolved in 850g of water. Calculate the vapor pressure of the solution. Explain why the vapor pressure is lower in the solution, compared to pure water.
+
+7.  **Electrochemistry:** The conductivity of 0.001 M acetic acid is 4.95 × 10-5 S cm-1. Calculate its molar conductivity (Λm). If Λ°m for acetic acid is 390.5 S cm2 mol-1, what is its degree of dissociation (α)?
+
+8.  **Chemical Kinetics:** A reaction 2A + B → C + D follows the rate law: Rate = k[A][B]2. How will the rate of reaction be affected if (a) the concentration of B is doubled? (b) the concentration of A is halved? (c) the concentration of A and B both are doubled? Explain the effect of catalyst on rate of reaction with a graph.
+
+9.  **d- and f-Block Elements:** Describe the general trends in atomic and ionic radii of d-block elements across a period. Why do the atomic radii of the 4d and 5d series elements become nearly the same after a certain point?
+
+10. **Coordination Compounds:** Using Valence Bond Theory, explain the hybridization, geometry, and magnetic properties of [Ni(CN)4]2-. (Atomic number of Ni = 28). CN- is a strong field ligand.
+
+                === Long Questions (10 marks each) ===
+                Okay, here are three long-answer questions, each worth 10 marks, based on the provided subject content and targeted towards CBSE Class 11-12 students. The questions are designed to test understanding, application, and reasoning skills.
+
+1.  **Question 1**
+
+**(Solutions & Electrochemistry - 10 Marks)**
+
+(a) Define Raoult's Law and explain its significance in understanding the behavior of ideal solutions. (2 marks)
+(b) A solution is prepared by dissolving 10g of a non-volatile solute (molar mass = 200 g/mol) in 100g of water. The vapor pressure of pure water at 298 K is 23.8 mm Hg. Calculate:
+
+(i)  The vapor pressure of the solution. (3 marks)
+(ii) The boiling point elevation (Kb for water = 0.52 K kg/mol). (3 marks)
+
+(c) Explain how you will determine the standard electrode potential of the  `Zn^(2+)/Zn` electrode using a hydrogen electrode. (2 marks)
+
+2.  **Question 2**
+
+**(Chemical Kinetics & d- and f-Block Elements - 10 Marks)**
+
+(a) The rate constant for a first-order reaction is found to be 2.303 x 10^-3 s^-1.
+(i) What is the half-life of the reaction? (2 marks)
+(ii) How much time will it take for 60% completion of the reaction? (3 marks)
+(b) Explain the terms "lanthanoid contraction" and its consequences on the properties of the 4d and 5d series of transition elements. (3 marks)
+(c) Why do transition metals exhibit variable oxidation states? Explain with suitable examples. (2 marks)
+
+3.  **Question 3**
+
+**(Coordination Compounds - 10 Marks)**
+
+(a) Using Valence Bond Theory (VBT), explain the geometry, hybridization, and magnetic behavior of `[Ni(CN)4]^2-`. (Atomic number of Ni = 28). (4 marks)
+(b) What are the different types of isomerism exhibited by coordination compounds? Explain with examples. (4 marks)
+(c) Explain crystal field splitting in tetrahedral complexes.(2 marks)
+                

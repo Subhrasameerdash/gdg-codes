@@ -1,0 +1,68 @@
+
+                === Short Questions (2 marks each) ===
+                Okay, here are 10 short assignment questions, each worth 2 marks, based on the provided NCERT content, suitable for class 11-12 students. The questions are designed to test key concepts, reasoning, and application skills, and are aligned with a 2-mark distribution.
+
+1.  **Question 1:** Differentiate between accuracy and precision in a measurement. Give a real-world example where high precision is necessary even if accuracy is slightly compromised.
+
+2.  **Question 2:**  A student measures the diameter of a sphere using a Vernier caliper and obtains readings with significant errors. List two possible sources of systematic errors in this experiment and explain how they affect the final result.
+
+3.  **Question 3:**  A car travels half of its journey with a constant speed of *v1* and the remaining half with a constant speed of *v2*. Calculate the average speed of the car for the entire journey. Show your working.
+
+4.  **Question 4:** A projectile is launched at an angle θ with an initial velocity *u*. Neglecting air resistance, at what angle will the range of the projectile be maximum? Briefly explain your reasoning.
+
+5.  **Question 5:** State Newton's First Law of Motion. Explain why it is also known as the Law of Inertia. Give a real-life example illustrating inertia.
+
+6.  **Question 6:** Define the terms 'work' and 'power' in physics. Give their SI units and write the relation between them.
+
+7.  **Question 7:** Two bodies of masses *m1* and *m2* are moving with velocities *v1* and *v2* respectively. If they collide elastically, what physical quantities are conserved during the collision? Write down the conservation laws mathematically.
+
+8.  **Question 8:** Define the term 'torque'. Explain how it is related to angular momentum. Provide one example of torque in everyday life.
+
+9.  **Question 9:** State Kepler's Law of Periods. How does this law relate to Newton's Law of Gravitation?
+
+10. **Question 10:** What are scalar and vector quantities? Give two examples of each and explain the key difference between how they are added.
+
+                === Focused Questions (5 marks each) ===
+                Okay, based on the content overview (Units and Measurements, Kinematics, Laws of Motion, Work/Energy/Power, Rotational Motion, Gravitation), here are 10 focused assignment questions suitable for Class 11-12 CBSE students, each worth 5 marks:
+
+1.  **Question 1:** The period of oscillation of a simple pendulum is given by  T = 2π√(L/g), where L is about 100 cm and is known to 1 mm accuracy, and g is about 9.8 m/s². The time for 100 oscillations is measured using a stopwatch of 1 s resolution. What is the percentage error in the determination of g? Discuss the factors contributing most significantly to the uncertainty. (Units and Measurement, Error Analysis)
+
+2.  **Question 2:** A projectile is fired with an initial velocity of *v₀* at an angle *θ* with the horizontal. Neglecting air resistance, derive expressions for: (a) the maximum height reached by the projectile, and (b) the horizontal range of the projectile.  Also, determine the angle *θ* for which the range is maximum. (Kinematics, Projectile Motion)
+
+3.  **Question 3:** A block of mass *m* is placed on a rough inclined plane. The angle of inclination, *θ*, is gradually increased until the block just begins to slide. (a) Derive an expression for the coefficient of static friction, *μs*, in terms of *θ*. (b) Once the block begins to slide, the angle is reduced to *θ'*, such that the block moves with constant velocity. Derive an expression for the coefficient of kinetic friction, *μk*, in terms of *θ'*. (Laws of Motion, Friction)
+
+4.  **Question 4:** A pump is required to lift 800 kg of water per minute from a well 10 m deep and to eject it with a speed of 20 m/s. (a) How much work is done per minute in lifting the water? (b) How much work is done in imparting kinetic energy to the water? (c) What is the power of the pump in horsepower? (Work, Energy, and Power)
+
+5.  **Question 5:** A uniform rod of length *L* and mass *M* is hinged at one end and is free to rotate in a vertical plane. (a) Calculate the moment of inertia of the rod about the hinge. (b) If the rod is released from a horizontal position, what is the angular speed of the rod when it passes through the vertical position? (Rotational Motion, Moment of Inertia, Conservation of Energy)
+
+6.  **Question 6:** State Kepler's laws of planetary motion.  Using Newton's law of gravitation, derive Kepler's third law, relating the period of revolution of a planet to the radius of its orbit. (Gravitation, Kepler's Laws)
+
+7.  **Question 7:** A car of mass *m* is moving on a level circular path of radius *r*. The coefficient of static friction between the tires and the road is *μs*. (a) What is the maximum speed with which the car can move without skidding? (b) What is the angle of banking required for the same speed if there is no friction? (Laws of Motion, Circular Motion, Friction)
+
+8.  **Question 8:** Two bodies of masses *m1* and *m2* are connected by a light inextensible string which passes over a frictionless pulley. Calculate the acceleration of the masses and the tension in the string. Discuss the special case when *m1* = *m2*. (Laws of Motion, Newton's Laws)
+
+9.  **Question 9:** A solid sphere of mass M and radius R rolls without slipping down an inclined plane of inclination θ. (a) Calculate the acceleration of the sphere. (b) Calculate the frictional force acting on the sphere. (Rotational Motion, Laws of Motion)
+
+10. **Question 10:** Define gravitational potential energy. Derive an expression for the gravitational potential energy of a body of mass *m* at a height *h* from the surface of the Earth (assuming *h* << radius of Earth). How does gravitational potential energy changes with distance from the earth. (Gravitation, Gravitational Potential Energy)
+
+                === Long Questions (10 marks each) ===
+                Okay, based on the provided context (NCERT Physics Class 11, covering Units and Measurements, Kinematics, Laws of Motion, Work, Energy, and Power, Rotational Motion, and Gravitation), here are 3 long-answer questions, each worth 10 marks:
+
+1.  **Question 1: Dimensional Analysis and Error Propagation (10 marks)**
+
+    (a) Define dimensional analysis and explain its significance in verifying the correctness of physical equations. (3 marks)
+
+    (b) The period of oscillation *T* of a simple pendulum is given by the formula *T* = 2π√(L/g), where *L* is the length of the pendulum and *g* is the acceleration due to gravity. If *L* is measured to be 20.0 cm with an accuracy of 1 mm, and *T* is measured to be 0.90 s with a resolution of 0.01 s, determine the percentage error in the determination of *g*. Explain the steps involved in calculating the error. (7 marks)
+
+2.  **Question 2: Projectile Motion and Work-Energy Theorem (10 marks)**
+
+    (a) Derive an expression for the range and maximum height of a projectile fired with an initial velocity *v₀* at an angle *θ* with the horizontal. Neglect air resistance. (4 marks)
+
+    (b) A block of mass *m* = 2 kg slides down an inclined plane of height *h* = 5 m. The coefficient of kinetic friction between the block and the plane is *μ* = 0.2. Using the work-energy theorem, determine the velocity of the block at the bottom of the incline. Assume the block starts from rest. Clearly state all the forces acting on the block and the work done by each force. (6 marks)
+
+3.  **Question 3: Rotational Motion and Gravitation (10 marks)**
+
+    (a) Define the terms 'torque' and 'moment of inertia'. Explain how the torque acting on a rigid body is related to its angular acceleration. Derive the relationship. (4 marks)
+
+    (b)  A satellite of mass *m* orbits the Earth (mass *M*) in a circular orbit of radius *r*. Derive expressions for: (i) the orbital speed of the satellite, and (ii) the total energy of the satellite (potential energy + kinetic energy). Explain how the total energy is related to the stability of the orbit. What happens to the orbital speed if the radius of orbit is increased. (6 marks)
+                
