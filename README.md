@@ -142,4 +142,3 @@ See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-✅ **This `README.md`** provides a detailed overview of your project, including setup, usage, and references to your GitHub Releases.🚀
