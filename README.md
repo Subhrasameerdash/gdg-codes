@@ -1,10 +1,15 @@
 
 ### 🛠️ **Edu Feedback AI – Automated Grading & Feedback System**
 
-![GitHub Release](https://img.shields.io/github/release/Subhrasameerdash/gdg-codes.svg)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Subhrasameerdash/gdg-codes)  
-![GitHub repo size](https://img.shields.io/github/repo-size/Subhrasameerdash/gdg-codes)  
-![GitHub](https://img.shields.io/github/license/Subhrasameerdash/gdg-codes)
+![GitHub Release](https://img.shields.io/github/release/Subhrasameerdash/gdg-codes.svg)		![GitHub last commit](https://img.shields.io/github/last-commit/Subhrasameerdash/gdg-codes)		![GitHub repo size](https://img.shields.io/github/repo-size/Subhrasameerdash/gdg-codes) 		![GitHub](https://img.shields.io/github/license/Subhrasameerdash/gdg-codes)  
+
+
+
+### 🛡️ **License**
+
+![GitHub](https://img.shields.io/github/license/Subhrasameerdash/gdg-codes)  
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
 
 ---
 
