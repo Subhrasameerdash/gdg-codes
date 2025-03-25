@@ -1,0 +1,14 @@
+runtime: python39
+
+entrypoint: gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+
+env_variables:
+  GOOGLE_CLOUD_PROJECT: "gen-lang-client-0914915233"  # Your project ID
+  BUCKET_NAME: "edu-feedback-model-bucket"            # Your GCS bucket name
+  PORT: "8080"
+
+handlers:
+  - url: /.*
+    script: auto
+    secure: always
+    redirect_http_response_code: 301

@@ -1,0 +1,10 @@
+flask
+flask-cors
+torch
+transformers
+pytorch-lightning
+gunicorn
+uvicorn
+google-cloud-storage
+flask
+functions-framework
