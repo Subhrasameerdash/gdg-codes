@@ -1,0 +1,398 @@
+Okay, here are sample student answers to the provided assignment questions, aiming for clarity, accuracy, and appropriate detail for the allocated marks.
+
+**=== Short Questions (2 marks each) ===**
+
+1.  **Define a reflexive relation. Give an example of a relation that is reflexive on the set of integers.**
+
+    *Answer:* A reflexive relation on a set A is a relation where every element of A is related to itself. In other words, for all 'a' in A, (a, a) must be in the relation.
+    *Example:* The relation "is equal to" on the set of integers is reflexive because any integer is equal to itself (e.g., 5 = 5). So the relation could be written as R = {(x,y) | x = y, where x and y are integers}.
+
+2.  **Explain the difference between an injective and a surjective function. Give an example of a function f: R -> R that is injective but not surjective.**
+
+    *Answer:* An injective (one-to-one) function ensures that each element in the domain maps to a unique element in the codomain.  A surjective (onto) function ensures that every element in the codomain has a pre-image in the domain.
+    *Example:* f(x) = e<sup>x</sup>, where f: R -> R, is injective because the exponential function is always increasing (different inputs always give different outputs). However, it's not surjective because the range of e<sup>x</sup> is (0, ∞), meaning no real number maps to a negative number. The codomain includes negative numbers which do not get mapped to by any element of the domain.
+
+3.  **Determine whether the relation R = {(1,2), (2,1), (1,1), (2,2)} on the set A = {1, 2} is an equivalence relation. Justify your answer.**
+
+    *Answer:* To be an equivalence relation, R must be reflexive, symmetric, and transitive.
+    *Reflexive:*  Since (1,1) and (2,2) are in R, R is reflexive.
+    *Symmetric:*  Since (1,2) is in R and (2,1) is also in R, R is symmetric.
+    *Transitive:*  If (1,2) and (2,1) are in R, for transitivity we would need (1,1) to be in R, which it is. If (2,1) and (1,2) are in R, for transitivity we would need (2,2) to be in R, which it is. Hence, R is transitive.
+
+    Therefore, R is an equivalence relation.
+
+4.  **Find the principal value of sin<sup>-1</sup>(1/√2) + cos<sup>-1</sup>(1/√2).**
+
+    *Answer:* We know that sin<sup>-1</sup>(1/√2) = π/4 because sin(π/4) = 1/√2.  Also, cos<sup>-1</sup>(1/√2) = π/4 because cos(π/4) = 1/√2.
+    Therefore, sin<sup>-1</sup>(1/√2) + cos<sup>-1</sup>(1/√2) = π/4 + π/4 = π/2.
+
+5.  **If A =  \[ 1  2 ], find A<sup>2</sup> - 2A + I, where I is the identity matrix. \[ 3  4 ]**
+
+    *Answer:*
+    A<sup>2</sup> = \[ 1  2 ] \[ 1  2 ] = \[ (1\*1 + 2\*3) (1\*2 + 2\*4) ] = \[ 7  10 ]
+            \[ 3  4 ] \[ 3  4 ]   \[ (3\*1 + 4\*3) (3\*2 + 4\*4) ]   \[ 15 22 ]
+
+    2A = 2 \[ 1  2 ] = \[ 2  4 ]
+            \[ 3  4 ]   \[ 6  8 ]
+
+    I = \[ 1  0 ]
+        \[ 0  1 ]
+
+    A<sup>2</sup> - 2A + I = \[ 7  10 ] - \[ 2  4 ] + \[ 1  0 ] = \[ 7-2+1  10-4+0 ] = \[ 6  6 ]
+                     \[ 15 22 ]   \[ 6  8 ]   \[ 0  1 ]   \[ 15-6+0 22-8+1 ]   \[ 9 15 ]
+
+    Therefore, A<sup>2</sup> - 2A + I = \[ 6  6 ]
+                                 \[ 9 15 ]
+
+6.  **For what value of 'k' is the function f(x) = { kx + 1, if x ≤ 5; 3x - 5, if x > 5 } continuous at x = 5?**
+
+    *Answer:* For f(x) to be continuous at x = 5, the left-hand limit (LHL) must equal the right-hand limit (RHL) and the value of the function at x = 5.
+
+    LHL = lim (x->5-) (kx + 1) = 5k + 1
+    RHL = lim (x->5+) (3x - 5) = 3(5) - 5 = 10
+    f(5) = k(5) + 1 = 5k + 1
+
+    For continuity, 5k + 1 = 10.  Therefore, 5k = 9, and k = 9/5.
+
+7.  **Differentiate y = sin(x<sup>2</sup>) with respect to x. Show all steps clearly.**
+
+    *Answer:*  We will use the chain rule: dy/dx = dy/du * du/dx, where u = x<sup>2</sup>.
+
+    y = sin(u) => dy/du = cos(u)
+    u = x<sup>2</sup> => du/dx = 2x
+
+    Therefore, dy/dx = cos(u) * 2x = cos(x<sup>2</sup>) * 2x = 2x cos(x<sup>2</sup>).
+
+8.  **Given that y = log(cos x), prove that d<sup>2</sup>y/dx<sup>2</sup> = -sec<sup>2</sup>x.**
+
+    *Answer:*  First, find dy/dx:
+    dy/dx = (1/cos x) * (-sin x) = -sin x / cos x = -tan x
+
+    Now, find d<sup>2</sup>y/dx<sup>2</sup>:
+    d<sup>2</sup>y/dx<sup>2</sup> = d/dx (-tan x) = -sec<sup>2</sup>x
+
+    Therefore, d<sup>2</sup>y/dx<sup>2</sup> = -sec<sup>2</sup>x.
+
+9.  **Find the intervals in which the function f(x) = x<sup>2</sup> - 4x + 3 is increasing.**
+
+    *Answer:*  First, find the derivative: f'(x) = 2x - 4.
+
+    To find the critical points, set f'(x) = 0:  2x - 4 = 0 => x = 2.
+
+    Now, test intervals around x = 2:
+    *   For x < 2 (e.g., x = 0), f'(0) = -4, which is negative, so f(x) is decreasing.
+    *   For x > 2 (e.g., x = 3), f'(3) = 2, which is positive, so f(x) is increasing.
+
+    Therefore, f(x) is increasing in the interval (2, ∞).
+
+10. **A stone is dropped into a quiet lake, and waves move in circles at a speed of 4 cm/s. At the instant when the radius of the circular wave is 10 cm, how fast is the enclosed area increasing?**
+
+    *Answer:*  Let r be the radius and A be the area. We are given dr/dt = 4 cm/s and r = 10 cm. We want to find dA/dt.
+
+    A = πr<sup>2</sup>
+    dA/dt = 2πr (dr/dt)
+
+    Substitute r = 10 cm and dr/dt = 4 cm/s:
+    dA/dt = 2π(10)(4) = 80π cm<sup>2</sup>/s
+
+    Therefore, the enclosed area is increasing at a rate of 80π cm<sup>2</sup>/s.
+
+**=== Focused Questions (5 marks each) ===**
+
+1.  **Relations:** Let R be a relation defined on the set A = {1, 2, 3} as R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 3)}. Determine whether the relation R is reflexive, symmetric, or transitive. Justify your answer with clear explanations for each property. Is it an equivalence relation? Explain.
+
+    *Answer:*
+    *   **Reflexive:** R is reflexive because (1, 1), (2, 2), and (3, 3) are all in R. Every element in A is related to itself. (1 mark)
+    *   **Symmetric:** R is *not* symmetric. While (1, 2) is in R, (2, 1) is not. For R to be symmetric, whenever (a, b) is in R, (b, a) must also be in R. This condition is not met. (2 marks)
+    *   **Transitive:** R is *not* transitive. (1,2) is in R and (2,3) is in R, but (1,3) is not in R. For R to be transitive, whenever (a, b) and (b, c) are in R, (a, c) must also be in R. (1 mark)
+    *   **Equivalence Relation:** R is not an equivalence relation because it is not symmetric and not transitive. An equivalence relation must be reflexive, symmetric, and transitive.
+
+2.  **Functions - Injectivity & Surjectivity:** Consider the function f: R → R defined by f(x) = x<sup>3</sup> + 2. Prove whether f is injective (one-to-one) and surjective (onto). Based on your findings, determine if the inverse of f exists. If it does, find the expression for f<sup>-1</sup>(x).
+
+    *Answer:*
+    *   **Injective (One-to-One):** To prove injectivity, assume f(x<sub>1</sub>) = f(x<sub>2</sub>).  Then x<sub>1</sub><sup>3</sup> + 2 = x<sub>2</sub><sup>3</sup> + 2.  Subtracting 2 from both sides, we get x<sub>1</sub><sup>3</sup> = x<sub>2</sub><sup>3</sup>. Taking the cube root of both sides, we get x<sub>1</sub> = x<sub>2</sub>. Since f(x<sub>1</sub>) = f(x<sub>2</sub>) implies x<sub>1</sub> = x<sub>2</sub>, the function is injective. (2 marks)
+
+    *   **Surjective (Onto):** To prove surjectivity, let y ∈ R (the codomain).  We need to find an x ∈ R (the domain) such that f(x) = y.  So, we want to solve y = x<sup>3</sup> + 2 for x. This gives x<sup>3</sup> = y - 2, and x = (y - 2)<sup>1/3</sup>.  Since the cube root of any real number is a real number, for every y in R, there exists an x = (y-2)<sup>1/3</sup> in R such that f(x) = y. Therefore, the function is surjective. (2 marks)
+
+    *   **Inverse:** Since f is both injective and surjective (bijective), its inverse exists.  To find the inverse, we let y = x<sup>3</sup> + 2 and solve for x.  We already did this above: x = (y - 2)<sup>1/3</sup>.  Therefore, f<sup>-1</sup>(x) = (x - 2)<sup>1/3</sup>. (1 mark)
+
+3.  **Inverse Trigonometric Functions - Principal Values:** Find the principal values of the following: (a) sin<sup>-1</sup>(-√3/2) (b) cos<sup>-1</sup>(-1/2) (c) tan<sup>-1</sup>(-1). Explain why you chose those specific values, considering the principal value branches for each function.
+
+    *Answer:*
+
+    *(a) sin<sup>-1</sup>(-√3/2):* The principal value branch for sin<sup>-1</sup>(x) is [-π/2, π/2].  Since sin(-π/3) = -√3/2, the principal value of sin<sup>-1</sup>(-√3/2) is -π/3.  This value lies within the principal value branch. (1.5 marks)
+
+    *(b) cos<sup>-1</sup>(-1/2):* The principal value branch for cos<sup>-1</sup>(x) is [0, π]. Since cos(2π/3) = -1/2, the principal value of cos<sup>-1</sup>(-1/2) is 2π/3. This value lies within the principal value branch. (1.5 marks)
+
+    *(c) tan<sup>-1</sup>(-1):* The principal value branch for tan<sup>-1</sup>(x) is (-π/2, π/2). Since tan(-π/4) = -1, the principal value of tan<sup>-1</sup>(-1) is -π/4. This value lies within the principal value branch. (2 marks)
+
+4.  **Matrices - Operations & Properties:** Given matrices A = \[1 2] \[-1 3] and B = \[2 -1] \[0 1], verify that (AB)<sup>T</sup> = B<sup>T</sup>A<sup>T</sup>. Explain the properties of matrix transposition that make this identity hold true in general.
+
+    *Answer:*
+
+    First, calculate AB:
+    AB = \[1 2] \[2 -1] = \[ (1\*2 + 2\*0) (1\*-1 + 2\*1) ] = \[ 2  1 ]
+         \[-1 3] \[0 1]   \[ (-1\*2 + 3\*0) (-1\*-1 + 3\*1) ]   \[-2  4 ]
+    (AB)<sup>T</sup> = \[ 2 -2 ]
+               \[ 1  4 ]  (1 mark)
+
+    Now, find A<sup>T</sup> and B<sup>T</sup>:
+    A<sup>T</sup> = \[ 1 -1 ]
+               \[ 2  3 ]
+    B<sup>T</sup> = \[ 2  0 ]
+               \[-1  1 ]
+
+    Calculate B<sup>T</sup>A<sup>T</sup>:
+    B<sup>T</sup>A<sup>T</sup> = \[ 2  0 ] \[ 1 -1 ] = \[ (2\*1 + 0\*2) (2\*-1 + 0\*3) ] = \[ 2 -2 ]
+               \[-1  1 ] \[ 2  3 ]   \[ (-1\*1 + 1\*2) (-1\*-1 + 1\*3) ]   \[ 1  4 ]  (3 marks)
+
+    Therefore, (AB)<sup>T</sup> = B<sup>T</sup>A<sup>T</sup> is verified.
+
+    *Properties of Transposition:* This identity holds true because transposition reverses the order of operations in matrix multiplication.  When you take the transpose of a product of matrices, you are essentially swapping rows and columns. Because matrix multiplication is row by column operation, this swap means you need to reverse the order of the matrices as well to get the correct result.  Specifically: (1 mark)
+
+    *   (A<sup>T</sup>)<sup>T</sup> = A  (Transposing a matrix twice returns the original matrix.)
+    *   (cA)<sup>T</sup> = cA<sup>T</sup>  (The transpose of a scalar multiplied by a matrix is the scalar multiplied by the transpose of the matrix.)
+    *   (A + B)<sup>T</sup> = A<sup>T</sup> + B<sup>T</sup> (The transpose of a sum is the sum of the transposes.)
+
+5.  **Determinants - Evaluating & Properties:** Evaluate the determinant of the matrix A = \[1 2 3] \[0 1 4] \[5 6 0]. Using properties of determinants, explain how the value of the determinant would change if you (a) swapped the first and third rows, and (b) multiplied the second row by a scalar 'k'.
+
+    *Answer:*
+
+    Determinant of A:
+    det(A) = 1 \* (1\*0 - 4\*6) - 2 \* (0\*0 - 4\*5) + 3 \* (0\*6 - 1\*5)
+           = 1 \* (-24) - 2 \* (-20) + 3 \* (-5)
+           = -24 + 40 - 15 = 1 (2 marks)
+
+    (a) Swapping the first and third rows:  If we swap any two rows of a determinant, the sign of the determinant changes. Therefore, the new determinant would be -1. (1 mark)
+
+    (b) Multiplying the second row by a scalar 'k':  If we multiply any row (or column) of a determinant by a scalar 'k', the value of the determinant is multiplied by 'k'.  Therefore, the new determinant would be k * 1 = k. (2 marks)
+
+6.  **Matrices - Invertibility:** Determine whether the matrix A = \[2 3] \[4 6] is invertible. If it is, find its inverse using the adjoint method. Explain why some square matrices do not have inverses, linking your answer to the determinant.
+
+    *Answer:*
+    To determine if A is invertible, we calculate its determinant:
+    det(A) = (2\*6) - (3\*4) = 12 - 12 = 0 (1 mark)
+
+    Since the determinant of A is 0, the matrix A is not invertible. (1 mark)
+
+    *Explanation:* A square matrix does not have an inverse if its determinant is zero. The determinant being zero indicates that the matrix represents a linear transformation that collapses space onto a lower dimension.  This means there is no unique transformation that can "undo" this collapsing, and thus no inverse matrix exists. The inverse of a matrix A involves dividing by the determinant of A. If the determinant is 0, this division is undefined. (3 marks)
+
+7.  **Continuity:** Examine the continuity of the function f(x) = {(x<sup>2</sup> - 4)/(x - 2), if x ≠ 2; 4, if x = 2} at x = 2. State the conditions for a function to be continuous at a point and show whether these conditions are satisfied for the given function.
+
+    *Answer:*
+
+    *Conditions for continuity at a point x = a:*
+        1.  f(a) must be defined (the function must exist at that point). (0.5 marks)
+        2.  lim (x->a) f(x) must exist (the limit must exist). (0.5 marks)
+        3.  lim (x->a) f(x) = f(a) (the limit must equal the function value). (0.5 marks)
+
+    *Checking the conditions for f(x) at x = 2:*
+
+        1.  f(2) = 4, so f(2) is defined. (0.5 marks)
+
+        2.  lim (x->2) f(x) = lim (x->2) (x<sup>2</sup> - 4)/(x - 2) = lim (x->2) (x - 2)(x + 2)/(x - 2) = lim (x->2) (x + 2) = 2 + 2 = 4. The limit exists. (1.5 marks)
+
+        3.  lim (x->2) f(x) = 4, and f(2) = 4, so lim (x->2) f(x) = f(2). (0.5 marks)
+
+    Since all three conditions are satisfied, the function f(x) is continuous at x = 2. (0.5 marks)
+
+8.  **Differentiability - Chain Rule & Implicit Differentiation:** Find dy/dx if y = sin(x<sup>2</sup> + 1). Also, if x<sup>2</sup> + y<sup>2</sup> = 25, find dy/dx using implicit differentiation. Explain the difference in the approaches used in both cases and why implicit differentiation is necessary for the second equation.
+
+    *Answer:*
+
+    *y = sin(x<sup>2</sup> + 1):* Using the chain rule:
+    dy/dx = cos(x<sup>2</sup> + 1) * (2x) = 2x cos(x<sup>2</sup> + 1) (1.5 marks)
+
+    *x<sup>2</sup> + y<sup>2</sup> = 25:* Using implicit differentiation:
+    2x + 2y (dy/dx) = 0
+    2y (dy/dx) = -2x
+    dy/dx = -2x / 2y = -x/y (1.5 marks)
+
+    *Explanation:*
+
+    The first equation, y = sin(x<sup>2</sup> + 1), is an *explicit* function, where y is directly defined in terms of x.  Therefore, we can directly apply differentiation rules like the chain rule to find dy/dx. (1 mark)
+
+    The second equation, x<sup>2</sup> + y<sup>2</sup> = 25, is an *implicit* function, where y is not explicitly defined in terms of x.  It represents a relation between x and y.  We cannot easily isolate y to write it as a function of x.  Implicit differentiation allows us to find dy/dx without needing to explicitly solve for y. We differentiate both sides of the equation with respect to x, treating y as a function of x and using the chain rule whenever we differentiate a term involving y. (1 mark)
+
+9.  **Applications of Derivatives - Increasing/Decreasing Functions:** Determine the intervals in which the function f(x) = x<sup>3</sup> - 3x<sup>2</sup> + 4 is increasing or decreasing. Show your working clearly. How does the sign of the first derivative relate to the increasing/decreasing nature of the function?
+
+    *Answer:*
+
+    1.  Find the first derivative: f'(x) = 3x<sup>2</sup> - 6x (1 mark)
+
+    2.  Find the critical points by setting f'(x) = 0:
+        3x<sup>2</sup> - 6x = 0
+        3x(x - 2) = 0
+        x = 0 or x = 2  (1 mark)
+
+    3.  Create a number line and test intervals:
+
+        *   Interval (-∞, 0):  Choose x = -1. f'(-1) = 3(-1)<sup>2</sup> - 6(-1) = 3 + 6 = 9 > 0. Therefore, f(x) is increasing on (-∞, 0).  (0.5 marks)
+        *   Interval (0, 2): Choose x = 1. f'(1) = 3(1)<sup>2</sup> - 6(1) = 3 - 6 = -3 < 0. Therefore, f(x) is decreasing on (0, 2).  (0.5 marks)
+        *   Interval (2, ∞):  Choose x = 3. f'(3) = 3(3)<sup>2</sup> - 6(3) = 27 - 18 = 9 > 0. Therefore, f(x) is increasing on (2, ∞).  (1 mark)
+
+    *Therefore:*
+        *   f(x) is increasing on (-∞, 0) and (2, ∞).
+        *   f(x) is decreasing on (0, 2).
+
+    *Relationship between f'(x) and increasing/decreasing:* If f'(x) > 0 on an interval, then f(x) is increasing on that interval. If f'(x) < 0 on an interval, then f(x) is decreasing on that interval. If f'(x) = 0 at a point, then f(x) has a horizontal tangent at that point, which could be a local maximum, local minimum, or a saddle point. (1 mark)
+
+10. **Applications of Derivatives - Maxima & Minima:** Find the absolute maximum and absolute minimum values of the function f(x) = x<sup>3</sup> - 3x in the interval [-2, 3]. Explain the steps involved in finding absolute extrema, including identifying critical points and checking the endpoints of the interval.
+
+    *Answer:*
+
+    *Steps to find absolute extrema:*
+        1.  Find the critical points of f(x) in the given interval. (0.5 marks)
+        2.  Evaluate f(x) at the critical points. (0.5 marks)
+        3.  Evaluate f(x) at the endpoints of the interval. (0.5 marks)
+        4.  Compare the values obtained in steps 2 and 3. The largest value is the absolute maximum, and the smallest value is the absolute minimum. (0.5 marks)
+
+    1.  Find the first derivative: f'(x) = 3x<sup>2</sup> - 3 (0.5 marks)
+
+    2.  Find the critical points:  Set f'(x) = 0:
+        3x<sup>2</sup> - 3 = 0
+        3x<sup>2</sup> = 3
+        x<sup>2</sup> = 1
+        x = ±1 (1 mark)
+        Both critical points, x = -1 and x = 1, lie within the interval [-2, 3].
+
+    3.  Evaluate f(x) at the critical points and endpoints:
+        *   f(-2) = (-2)<sup>3</sup> - 3(-2) = -8 + 6 = -2 (0.5 marks)
+        *   f(-1) = (-1)<sup>3</sup> - 3(-1) = -1 + 3 = 2 (0.5 marks)
+        *   f(1) = (1)<sup>3</sup> - 3(1) = 1 - 3 = -2 (0.5 marks)
+        *   f(3) = (3)<sup>3</sup> - 3(3) = 27 - 9 = 18 (0.5 marks)
+
+    4.  Compare the values:
+
+        *   The largest value is 18, so the absolute maximum is 18 at x = 3.
+        *   The smallest value is -2, so the absolute minimum is -2 at x = -2 and x= 1.
+
+    *Therefore:*
+        *   Absolute Maximum: 18 at x = 3
+        *   Absolute Minimum: -2 at x = -2 and x = 1
+
+**=== Long Questions (10 marks each) ===**
+
+1.  **Question 1 (10 marks): Relations, Functions, and Invertibility**
+
+    (a) Define reflexive, symmetric, and transitive relations. Give an example of a relation on the set A = {1, 2, 3} that is reflexive and symmetric but not transitive. Justify your answer. (3 marks)
+
+    *Answer:*
+
+    *   **Reflexive Relation:** A relation R on a set A is reflexive if every element of A is related to itself. Formally, for all a ∈ A, (a, a) ∈ R. (0.5 mark)
+
+    *   **Symmetric Relation:** A relation R on a set A is symmetric if whenever (a, b) ∈ R, then (b, a) ∈ R. (0.5 mark)
+
+    *   **Transitive Relation:** A relation R on a set A is transitive if whenever (a, b) ∈ R and (b, c) ∈ R, then (a, c) ∈ R. (0.5 mark)
+
+    *   **Example:** Consider the relation R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 1)} on the set A = {1, 2, 3}. (0.5 mark)
+
+        *   **Reflexive:** R is reflexive because (1, 1), (2, 2), and (3, 3) are in R.
+        *   **Symmetric:** R is symmetric because (1, 2) and (2, 1) are both in R.
+        *   **Not Transitive:** R is not transitive. (1, 2) ∈ R and (2, 1) ∈ R, but (1, 1) ∈ R. However, If (1,2) is in R and (2,2) is in R then (1,2) should be in R, which it is. If (2,1) is in R and (1,1) is in R then (2,1) should be in R, which it is. If (2,1) is in R and (1,2) is in R then (2,2) should be in R, which it is. Thus, we must add the ordered pairs (1,1), (2,2) and (3,3). These elements exist already, thus R is an equivalence relation, and thus it must be transitive.
+
+    (b) Consider the function f: R -> R defined by f(x) = x<sup>3</sup> + 5.
+
+    (i) Prove whether f(x) is one-to-one (injective). (3 marks)
+
+    *Answer:* To prove f(x) is injective, we need to show that if f(x<sub>1</sub>) = f(x<sub>2</sub>), then x<sub>1</sub> = x<sub>2</sub>.
+
+        Let f(x<sub>1</sub>) = f(x<sub>2</sub>).  Then x<sub>1</sub><sup>3</sup> + 5 = x<sub>2</sub><sup>3</sup> + 5.
+        Subtracting 5 from both sides, we get x<sub>1</sub><sup>3</sup> = x<sub>2</sub><sup>3</sup>.
+        Taking the cube root of both sides, we get x<sub>1</sub> = x<sub>2</sub>.
+        Therefore, f(x) is one-to-one (injective).
+
+    (ii) Determine whether f(x) is onto (surjective). If not, redefine the codomain to make it surjective. (2 marks)
+
+    *Answer:* To prove f(x) is surjective, we need to show that for any y in the codomain (R), there exists an x in the domain (R) such that f(x) = y.
+
+        Let y ∈ R. We want to find x such that f(x) = y.
+        So, y = x<sup>3</sup> + 5.
+        Solving for x, we get x<sup>3</sup> = y - 5, and x = (y - 5)<sup>1/3</sup>.
+
+        Since the cube root of any real number is a real number, for every y in R, there exists an x = (y - 5)<sup>1/3</sup> in R such that f(x) = y.
+        Therefore, f(x) is onto (surjective).
+
+    (iii) Find the inverse function f<sup>-1</sup>(x), if it exists. (2 marks)
+
+    *Answer:* Since f(x) is both injective and surjective, its inverse exists.
+
+        To find the inverse, let y = f(x) = x<sup>3</sup> + 5.  We solve for x in terms of y.
+        y = x<sup>3</sup> + 5
+        x<sup>3</sup> = y - 5
+        x = (y - 5)<sup>1/3</sup>
+
+        Therefore, the inverse function is f<sup>-1</sup>(x) = (x - 5)<sup>1/3</sup>.
+
+2.  **Question 2 (10 marks): Matrices, Determinants, and System of Equations**
+
+    (a) Given the matrices:
+       A = | 1 2 |
+           | 3 4 |
+
+       B = | 2 0 |
+           | 1 1 |
+
+    (i) Calculate AB and BA. Are AB and BA equal? What does this imply about matrix multiplication? (3 marks)
+
+    *Answer:*
+    AB = \[ 1 2 ] \[ 2 0 ] = \[ (1\*2 + 2\*1) (1\*0 + 2\*1) ] = \[ 4  2 ]
+         \[ 3 4 ] \[ 1 1 ]   \[ (3\*2 + 4\*1) (3\*0 + 4\*1) ]   \[ 10 4 ]
+
+    BA = \[ 2 0 ] \[ 1 2 ] = \[ (2\*1 + 0\*3) (2\*2 + 0\*4) ] = \[ 2  4 ]
+         \[ 1 1 ] \[ 3 4 ]   \[ (1\*1 + 1\*3) (1\*2 + 1\*4) ]   \[ 4  6 ]
+
+    AB ≠ BA.  This implies that matrix multiplication is generally not commutative.  The order in which matrices are multiplied matters, and changing the order will usually result in a different product.
+
+    (ii) Find the determinant of matrix A. Is matrix A invertible? Explain why or why not. (2 marks)
+
+    *Answer:*
+    det(A) = (1\*4) - (2\*3) = 4 - 6 = -2.
+
+    Since the determinant of A is non-zero (-2 ≠ 0), matrix A is invertible. A matrix is invertible if and only if its determinant is non-zero. A zero determinant implies linear dependence between rows (or columns), meaning the matrix does not have full rank and cannot be inverted.
+
+    (iii) Calculate the inverse of matrix A, if it exists. Show all steps clearly. (3 marks)
+
+    *Answer:*
+    Since det(A) = -2, A is invertible.
+
+    1.  Find the adjoint of A:  Swap the diagonal elements and change the sign of the off-diagonal elements:
+        adj(A) = \[ 4 -2 ]
+                 \[-3  1 ]
+
+    2.  Calculate the inverse: A<sup>-1</sup> = (1/det(A)) * adj(A) = (1/-2) \[ 4 -2 ] = \[ -2 1 ]
+                                                                     \[-3  1 ]   \[ 3/2 -1/2 ]
+
+    Therefore, A<sup>-1</sup> = \[ -2 1 ]
+                            \[ 3/2 -1/2 ]
+
+    (b) Solve the following system of linear equations using matrix methods (either using the inverse or Cramer's rule):
+
+        x + 2y = 5
+        3x + 4y = 11
+    (2 marks)
+
+    *Answer:* We'll use the inverse matrix method.
+
+    The system can be represented as AX = B, where:
+
+    A = \[ 1 2 ] , X = \[ x ] , B = \[ 5 ]
+        \[ 3 4 ]       \[ y ]       \[11 ]
+
+    X = A<sup>-1</sup>B
+
+    We already found A<sup>-1</sup> in part (a)(iii): A<sup>-1</sup> = \[ -2 1 ]
+                                                    \[ 3/2 -1/2 ]
+
+    X = \[ -2 1 ] \[ 5 ] = \[ (-2\*5 + 1\*11) ] = \[ 1 ]
+        \[ 3/2 -1/2 ] \[11 ]   \[ (3/2\*5 - 1/2\*11) ]   \[ 2 ]
+
+    Therefore, x = 1 and y = 2.
+
+3.  **Question 3 (10 marks): Continuity, Differentiability, and Applications of Derivatives**
+
+    (a) Discuss the concepts of continuity and differentiability. Explain with examples how a function can be continuous at a point but not differentiable at that point. (3 marks)
+
+    *Answer:*
+
+    *Continuity:* A function f(x) is continuous at a point x =

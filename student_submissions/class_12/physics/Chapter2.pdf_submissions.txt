@@ -1,0 +1,143 @@
+1.  **Conceptual Understanding of Equipotential Surfaces:** Explain why the work done in moving a charge along an equipotential surface is always zero. How does this relate to the direction of the electric field relative to the equipotential surface? Provide a real-world example where understanding equipotential surfaces is crucial in electrical applications.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+The work done in moving a charge along an equipotential surface is always zero because of the fundamental relationship between electric potential and work. An equipotential surface is defined as a surface where the electric potential is constant at every point.
+
+Recall that the work done in moving a charge (q) between two points with a potential difference (ΔV) is given by:
+
+W = qΔV
+
+Since, by definition, the potential difference (ΔV) between any two points on an equipotential surface is zero (because the potential is constant), the work done (W) is also zero:
+
+W = q * 0 = 0
+
+This directly implies that no work is required to move a charge along such a surface.
+
+**Relationship to Electric Field:**
+
+The electric field is always perpendicular to an equipotential surface. This is because the electric field represents the direction of the force that would be exerted on a positive charge. If the electric field had a component *along* the equipotential surface, then moving a charge along that surface *would* require work, contradicting the definition of an equipotential surface. Therefore, the electric field must be entirely perpendicular.
+
+Think of it this way: the electric field lines represent the direction of the steepest change in potential. Since an equipotential surface has *no* change in potential along its surface, the direction of the steepest change (i.e., the electric field) must be perpendicular.
+
+**Real-World Example: Shielding in Electronics**
+
+Understanding equipotential surfaces is crucial in electrical shielding. In sensitive electronic equipment, it's often necessary to protect components from external electric fields. A Faraday cage, which is a conductive enclosure, is used for this purpose. The metal enclosure of the Faraday cage acts as an equipotential surface.
+
+*   When an external electric field is applied to the cage, the charges in the metal redistribute themselves in such a way that the electric field inside the cage becomes zero.
+*   Because the cage is conductive, the entire surface of the cage becomes an equipotential surface. Since the electric field is always perpendicular to the equipotential surface, no electric field can exist inside the cage.
+*   Sensitive electronic components placed inside the Faraday cage are thus shielded from external electric fields, preventing interference and ensuring accurate operation. This principle is used extensively in instruments like oscilloscopes, MRI machines and in shielding cables carrying sensitive signals.
+
+2.  **Potential Energy and System of Charges:** Three point charges, +q, -q, and +2q, are initially infinitely far apart. Calculate the total electrostatic potential energy required to bring these charges to the vertices of an equilateral triangle with side length 'a'. How would the potential energy of the system change if it were placed inside a dielectric medium with a dielectric constant K?
+Sample Answer:
+Okay, here's a sample answer to the provided assignment question, tailored for a CBSE Class 11-12 student, based on the NCERT chapter content you provided.
+
+**Answer:**
+
+**2. Potential Energy and System of Charges:**
+
+**(a) Calculating the Total Electrostatic Potential Energy in Vacuum:**
+
+To find the total electrostatic potential energy (U) required to assemble the three charges (+q, -q, +2q) at the vertices of an equilateral triangle of side 'a', we need to calculate the potential energy associated with each pair of charges and then sum them up.  We use the formula for the potential energy between two point charges:
+
+U = (1 / 4πε₀) * (q₁q₂ / r)
+
+where:
+
+*   ε₀ is the permittivity of free space.
+*   q₁ and q₂ are the magnitudes of the two charges.
+*   r is the distance between the two charges.
+
+In our case, we have three pairs of charges:
+
+1.  **Pair 1: +q and -q:**  U₁ = (1 / 4πε₀) * (+q)(-q) / a = -q² / (4πε₀a)
+2.  **Pair 2: +q and +2q:** U₂ = (1 / 4πε₀) * (+q)(+2q) / a = 2q² / (4πε₀a)
+3.  **Pair 3: -q and +2q:** U₃ = (1 / 4πε₀) * (-q)(+2q) / a = -2q² / (4πε₀a)
+
+The total electrostatic potential energy (U) is the sum of these individual potential energies:
+
+U = U₁ + U₂ + U₃
+U =  -q² / (4πε₀a) + 2q² / (4πε₀a) - 2q² / (4πε₀a)
+U = (-q²)/(4πε₀a)
+
+Therefore, the total electrostatic potential energy required to assemble the charges is -q² / (4πε₀a). The negative sign indicates that the system is more stable than when the charges are infinitely far apart, meaning that energy is released when the charges are brought together.
+
+**(b) Effect of Dielectric Medium:**
+
+When the system of charges is placed inside a dielectric medium with a dielectric constant K, the electric field between the charges is reduced by a factor of K. This affects the electrostatic potential energy.  The permittivity of the medium becomes Kε₀ instead of ε₀. Therefore, the new total electrostatic potential energy (U') is:
+
+U' = (-q²)/(4π(Kε₀)a)
+
+U' = U/K
+
+Thus, the potential energy of the system *decreases* by a factor of K when placed inside a dielectric medium.  This is because the dielectric material reduces the electric field strength and allows for greater charge separation.
+
+3.  **Capacitors and Dielectrics:** A parallel plate capacitor with a certain separation between the plates is charged by a battery. After charging, the battery is disconnected. Now, a dielectric slab of dielectric constant 'K' and thickness equal to half the separation between the plates is inserted. Determine the ratio of the electric field and energy stored in the capacitor (a) before and (b) after inserting the dielectric slab. Explain your reasoning clearly.
+Sample Answer:
+Okay, here's a sample answer for the assignment question, suitable for CBSE Class 11-12 students, based on the provided NCERT chapter content:
+
+**Answer:**
+
+**(a) Ratio of Electric Fields (Before and After Insertion)**
+
+*   **Before Insertion:** Let the initial electric field between the plates be *E₀*.  This is given by *E₀* = *V/d*, where *V* is the initial potential difference (voltage) across the capacitor and *d* is the separation between the plates.
+
+*   **After Insertion:** When the dielectric slab of thickness *d/2* and dielectric constant *K* is inserted, the potential difference across the capacitor *changes*. Since the battery is disconnected, the charge *Q* on the capacitor plates *remains constant*.
+
+    Let the new electric field in the space *filled by the dielectric* be *E₁* and the electric field in the remaining space (which is of thickness *d/2*) be *E₂*.
+
+    *   The electric field *inside* the dielectric is reduced by a factor of *K*:  *E₁* = *E₀/K*.  This is a fundamental property of dielectrics.
+
+    *   Because the battery is disconnected and the charge is constant, the electric field in the remaining space must stay the same. Thus, *E₂* = *E₀*.
+
+    The new potential difference, *V'*, across the capacitor is the sum of the potential differences across the dielectric and the air gap:
+
+    *V'* = *E₁*( *d/2* ) + *E₂*( *d/2* )
+    *V'* = (*E₀/K*)*( *d/2* ) + *E₀*( *d/2* )
+    *V'* = *E₀d/2* (1/*K* + 1)
+    *V'* = *V/2* (1/*K* + 1)
+
+    The new electric field in the remaining space (E₂) can also be expressed as *V'/(d/2 + d/(2K)) = E₀*.
+
+    Therefore, the ratio of the initial electric field (E₀) to the new electric field (E₂) is:
+
+    *E₀ / E₂* = 1.
+
+    Similarly, the ratio of the initial electric field (E₀) to the new electric field in dielectric (E₁) is:
+
+    *E₀ / E₁* = K.
+
+**(b) Ratio of Energy Stored (Before and After Insertion)**
+
+*   **Before Insertion:** The initial energy stored in the capacitor, *U₀*, is given by:
+    *U₀* = (1/2) * *C₀V²*, where *C₀* is the initial capacitance.  Since *C₀* = ε₀*A/d*, we can also write  *U₀* = (1/2) (ε₀*A/d)*V²
+
+*   **After Insertion:** The new energy stored in the capacitor, *U'*, can be calculated in two ways
+
+    Since charge remains constant, use *U'* = (1/2)*Q²/C'*.
+
+    The new capacitance, *C'*, of the capacitor with the dielectric is given by:
+
+    1/*C'* = ( *d/2* / (Kε₀A)) + ( *d/2* / (ε₀A))
+    1/*C'* = ( *d* / (2ε₀A)) * (1/K + 1)
+    *C'* = (2ε₀A*K) / (*d* (*K* + 1))
+
+    So, *U'* = (1/2)*Q²/C'*. = (1/2)*C₀²V²/C'* = (1/2)*(ε₀*A/d)²V² / (2ε₀A*K) / (*d* (*K* + 1))
+    *U'* = (1/4) * (ε₀A * (*K* + 1) * V²) / (*dK*)
+
+    Thus, the ratio of the initial energy *U₀* to the final energy *U'* is:
+
+    *U₀ / U'* = ((1/2) (ε₀*A/d)*V²) / ((1/4) * (ε₀A * (*K* + 1) * V²) / (*dK*))
+    *U₀ / U'* = *2K* / (*K* + 1)
+
+**Explanation:**
+
+*   **Electric Field:**  The key concept here is that inserting a dielectric reduces the electric field *within* the dielectric material by a factor of *K*. Because the battery is disconnected, the *charge* on the capacitor remains constant.
+
+*   **Energy Stored:** The energy stored is affected by the change in capacitance and potential difference. Since the charge is constant, using the formula  U = (1/2)Q²/C  is most convenient.  The presence of the dielectric *increases* the capacitance (because it allows more charge to be stored at the same voltage, or equivalently, maintains the same charge at a lower voltage). Since energy stored is inversely proportional to capacitance, the energy decreases.
+
+*   **Important Note:**  It's crucial to remember that the formulas and relationships used here are based on the understanding of electrostatics and capacitance developed in the NCERT chapter.  The concepts of dielectric constant, electric field reduction, and energy storage are all intertwined.
+
+This answer provides a step-by-step solution with clear explanations, making it easy for students to understand the reasoning behind each step. It also highlights the key concepts from the NCERT chapter that are relevant to the problem.

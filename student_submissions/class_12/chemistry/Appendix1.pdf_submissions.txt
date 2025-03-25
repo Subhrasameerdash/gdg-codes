@@ -1,0 +1,161 @@
+1.  **Conceptual Application:** Explain how the characteristic of a logarithm directly relates to the magnitude (order of magnitude) of the original number. Provide examples of numbers with different characteristics (e.g., 0, 1, -1) and explain their corresponding magnitudes. Why is understanding this relationship crucial when using log tables for calculations?
+Sample Answer:
+Here's a sample answer suitable for CBSE Class 11-12 students, explaining the relationship between the characteristic of a logarithm and the magnitude of a number:
+
+**Answer:**
+
+The characteristic of a common logarithm (base 10) provides a direct indication of the magnitude, or order of magnitude, of the original number.  In simpler terms, it tells us what power of 10 the number is closest to. The mantissa, on the other hand, tells us the precise value within that order of magnitude.
+
+**Here's how the characteristic relates to the magnitude:**
+
+*   **Positive Characteristic:**  If the characteristic is a positive integer 'n', it means the number is greater than or equal to 1 and less than 10<sup>n+1</sup>.  The number has 'n+1' digits before the decimal point.
+*   **Characteristic of 0:** A characteristic of 0 means the number is greater than or equal to 1 and less than 10 (i.e., between 1 and 10).  The number has one digit before the decimal point.
+*   **Negative Characteristic:** A negative characteristic, usually represented as a bar over the number (e.g., $\bar{1}$.xxxx), indicates that the number is less than 1. The absolute value of the characteristic represents the number of zeros immediately after the decimal point before the first non-zero digit.  For example, a characteristic of -1 (or $\bar{1}$) means the number is between 0.1 and 1.
+
+**Examples:**
+
+1.  **Number: 567.89**
+    *   log(567.89) ≈ 2.7542
+    *   Characteristic = 2
+    *   Magnitude: The number is between 10<sup>2</sup> (100) and 10<sup>3</sup> (1000).  It has 3 digits before the decimal point.
+
+2.  **Number: 8.32**
+    *   log(8.32) ≈ 0.9201
+    *   Characteristic = 0
+    *   Magnitude: The number is between 10<sup>0</sup> (1) and 10<sup>1</sup> (10).  It has 1 digit before the decimal point.
+
+3.  **Number: 0.045**
+    *   log(0.045) ≈ -1.3468 which is represented in log tables as $\bar{2}.6532$
+    *   Characteristic = -2 (represented as $\bar{2}$)
+    *   Magnitude: The number is between 10<sup>-2</sup> (0.01) and 10<sup>-1</sup> (0.1). There is 1 zero immediately after the decimal point.
+
+4.  **Number: 0.6**
+    *   log(0.6) ≈ -0.2218 which is represented in log tables as $\bar{1}.7782$
+    *   Characteristic = -1 (represented as $\bar{1}$)
+    *   Magnitude: The number is between 10<sup>-1</sup> (0.1) and 10<sup>0</sup> (1). There are no zeros immediately after the decimal point.
+
+**Why is this understanding crucial when using log tables?**
+
+Understanding the relationship between the characteristic and the magnitude is crucial for several reasons:
+
+*   **Correctly Interpreting Log Tables:** Log tables only provide the mantissa. You *must* determine the characteristic yourself based on the number you're working with.
+*   **Avoiding Errors in Antilogarithm Calculations:** When finding the antilogarithm, you need to correctly place the decimal point. The characteristic of the logarithm tells you where to place the decimal point in the antilogarithm (the result of your calculation). A mistake in determining the characteristic will lead to a result that is off by a factor of 10 (or some power of 10).
+*   **Estimating Results:**  Before even using log tables, a quick check of the characteristic can give you a rough estimate of the answer, helping you identify if your final answer (after using the tables) is reasonable.  This is important for error checking.
+*   **Significant Figures:** The characteristic also helps in understanding the number of significant figures in your calculations and results.
+
+In summary, the characteristic is not just a number; it's your guide to understanding the size of the number and ensuring accuracy when using logarithms for calculations. Failing to grasp this concept can lead to significant errors.
+
+2.  **Error Analysis:** A student attempts to simplify the expression `(16.2 * 0.45) / (∛25)` using logarithms. They correctly find `log(16.2) = 1.21`, `log(0.45) = -0.35`, and `log(25) = 1.40`. However, their final answer is significantly off. Identify the most likely source of error in their calculation process, considering the properties of logarithms and operations involved (division, cube root). Show the correct steps to arrive at the solution using logarithms.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student addressing the error analysis question:
+
+**Answer:**
+
+The most likely source of error in the student's calculation is failing to correctly apply the properties of logarithms, *specifically when dealing with the cube root (∛25)*. Cube roots involve fractional exponents, and these exponents must be handled properly when using logarithms. The student likely forgot to divide the logarithm of 25 by 3 before proceeding with the rest of the calculation.
+
+Here's a breakdown of the correct steps and a clear explanation:
+
+1.  **Define the Expression:**
+
+    Let  `x = (16.2 * 0.45) / (∛25)`
+
+2.  **Take the Logarithm (base 10) of both sides:**
+
+    `log(x) = log[(16.2 * 0.45) / (∛25)]`
+
+3.  **Apply the Laws of Logarithms:**
+
+    *   Product Rule: `log(a * b) = log(a) + log(b)`
+    *   Quotient Rule: `log(a / b) = log(a) - log(b)`
+    *   Power Rule: `log(a<sup>n</sup>) = n * log(a)`  (Crucial for the cube root!)
+    *   Rewrite the cube root as a fractional exponent: ∛25 = 25<sup>(1/3)</sup>
+
+    Therefore:
+
+    `log(x) = log(16.2) + log(0.45) - log(25<sup>(1/3)</sup>)`
+    `log(x) = log(16.2) + log(0.45) - (1/3) * log(25)`
+
+4.  **Substitute the Given Logarithm Values:**
+
+    We are given:
+    *   `log(16.2) = 1.21`
+    *   `log(0.45) = -0.35`
+    *   `log(25) = 1.40`
+
+    Substitute these values into the equation:
+
+    `log(x) = 1.21 + (-0.35) - (1/3) * (1.40)`
+    `log(x) = 1.21 - 0.35 - (1.40 / 3)`
+    `log(x) = 0.86 - 0.4667` (approximately)
+    `log(x) = 0.3933` (approximately)
+
+5.  **Find the Antilogarithm:**
+
+    `x = antilog(0.3933)`
+
+    Using antilog tables, we find that the antilog of 0.3933 is approximately 2.473.
+
+6.  **Therefore:**
+
+    `(16.2 * 0.45) / (∛25) ≈ 2.473`
+
+**Explanation of the Error:**
+
+The student likely calculated  `log(16.2) + log(0.45) - log(25)` which is incorrect because it treats the cube root as a simple division by 25 instead of a fractional exponent. The correct approach involves dividing the logarithm of 25 by 3 (due to the cube root) *before* subtracting it from the sum of the other logarithms.  The power rule of logarithms is essential for handling roots and exponents correctly in logarithmic calculations.
+
+3.  **Reverse Engineering:** Given that `antilog(3.6021) = 4000` (rounded to the nearest whole number), without using log or antilog tables, estimate the value of `(4000)^0.6 * (100)^0.2`. Explain your reasoning using the properties of logarithms and the information provided.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the assignment question.
+
+**Answer:**
+
+To estimate the value of (4000)<sup>0.6</sup> * (100)<sup>0.2</sup> without directly using log or antilog tables, we'll leverage the properties of logarithms and the given information that antilog(3.6021) ≈ 4000. This implies log(4000) ≈ 3.6021 (where the base of the logarithm is 10, unless otherwise specified).
+
+Here's the breakdown:
+
+1.  **Take the logarithm of the expression:**
+
+    Let `y = (4000)^0.6 * (100)^0.2`
+
+    Then, `log(y) = log[(4000)^0.6 * (100)^0.2]`
+
+2.  **Apply the properties of logarithms (product and power rules):**
+
+    `log(y) = log(4000)^0.6 + log(100)^0.2`
+
+    `log(y) = 0.6 * log(4000) + 0.2 * log(100)`
+
+3.  **Substitute the known value of log(4000) and log(100):**
+
+    We know that `log(4000) ≈ 3.6021` and `log(100) = log(10^2) = 2`.  Substituting these values:
+
+    `log(y) ≈ 0.6 * (3.6021) + 0.2 * (2)`
+
+4.  **Calculate the numerical value:**
+
+    `log(y) ≈ 2.16126 + 0.4`
+
+    `log(y) ≈ 2.56126`
+
+5.  **Find the approximate value of y by taking the antilogarithm:**
+
+    `y ≈ antilog(2.56126)`
+
+6.  **Estimate the antilogarithm:**
+
+    We need to find the number whose logarithm is approximately 2.56126.  We can rewrite 2.56126 as 2 + 0.56126.  Since the characteristic is 2, we know the number will be in the form of something times 10<sup>2</sup>, i.e., something times 100.
+
+    We don't have a log table, so we need to make an informed estimate. The mantissa 0.56126 is between log(3) = 0.4771 and log(4) = 0.6021.  Since 0.56126 is closer to log(4) than log(3), the antilog of the mantissa will be closer to 4 than 3.  Let's estimate it to be around 3.6.
+    Therefore, `antilog(2.56126)` will be `3.6 * 10^2 = 3.6 * 100 = 360`.
+    `y ≈ 360`
+
+**Therefore, (4000)<sup>0.6</sup> * (100)<sup>0.2</sup> ≈ 360.**
+
+**Explanation of Reasoning:**
+
+*   **Logarithm Properties:** The key to solving this problem without tables is using the properties of logarithms to break down the complex expression into simpler terms. The product rule `log(a*b) = log(a) + log(b)` and the power rule `log(a^b) = b*log(a)` are crucial.
+*   **Given Information:** The problem provides the essential piece of information: `antilog(3.6021) ≈ 4000`. This allows us to work backward and approximate the required value.
+*   **Characteristic and Mantissa:** Understanding that the characteristic of a logarithm relates to the power of 10 in the number is vital for estimating the antilogarithm. We decompose the result `2.56126` into the characteristic `2` and the mantissa `0.56126`. The characteristic of 2 tells us the number will be in the 100s.
+*   **Estimation:** Since we are instructed not to use log table, estimation is very important. In this case, the estimation is based on the numbers around the result that are known.
+
+This approach demonstrates an understanding of logarithms beyond simply looking up values in a table. It shows the ability to manipulate logarithmic expressions and use provided data to make reasonable estimations.

@@ -1,0 +1,109 @@
+1.  **Defining Set Equality:** Consider two sets, *P* and *Q*. Set *P* is defined as all perfect squares less than 100 that are also even numbers. Set *Q* is defined as {4, 16, 36, 64}. Are sets *P* and *Q* equal? Justify your answer by clearly explaining the conditions required for set equality and demonstrating whether those conditions are met in this specific case.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student:
+
+To determine if sets *P* and *Q* are equal, we need to understand the condition for set equality: Two sets are equal if and only if they contain exactly the same elements. This means every element in *P* must also be in *Q*, and every element in *Q* must also be in *P*.
+
+Let's first define set *P*: *P* is the set of all perfect squares less than 100 that are also even numbers.  We need to list out the perfect squares less than 100:
+
+1, 4, 9, 16, 25, 36, 49, 64, 81
+
+Now, we identify which of these are even numbers:
+
+4, 16, 36, 64
+
+Therefore, set *P* = {4, 16, 36, 64}.
+
+Set *Q* is given as {4, 16, 36, 64}.
+
+Comparing the two sets:
+
+*   Set *P* contains the elements 4, 16, 36, and 64.
+*   Set *Q* contains the elements 4, 16, 36, and 64.
+
+Since both sets contain exactly the same elements, we can conclude that set *P* is equal to set *Q*.
+
+**Therefore, P = Q.**
+
+2.  **Subset Identification and Set Operations:** Let U = {x | x is a vowel in the English alphabet}, A = {a, e}, and B = {i, o, u}. First, determine if A is a subset of B, and if B is a subset of U. Explain your reasoning. Then, find A ∪ B and (A ∪ B)'.
+Sample Answer:
+Here's a sample answer suitable for CBSE Class 11-12 students based on the provided NCERT chapter content.
+
+**Answer:**
+
+**1. Subset Identification:**
+
+*   **Is A a subset of B?** No.  A = {a, e} and B = {i, o, u}.  For A to be a subset of B, every element of A must also be an element of B.  Since 'a' and 'e' are in A but not in B, A is not a subset of B. We can denote this as A ⊈ B.
+
+*   **Is B a subset of U?** Yes.  U = {a, e, i, o, u} (the set of all vowels), and B = {i, o, u}.  Every element of B (i, o, and u) is also an element of U. Therefore, B is a subset of U. We can denote this as B ⊆ U.
+
+**2. Set Operations:**
+
+*   **A ∪ B (Union of A and B):** The union of two sets A and B is a set containing all the elements that are in A, or in B, or in both.
+    A = {a, e} and B = {i, o, u}.
+    Therefore, A ∪ B = {a, e, i, o, u}.
+
+*   **(A ∪ B)' (Complement of A ∪ B):** The complement of a set (A ∪ B) is the set of all elements in the universal set U that are *not* in (A ∪ B).  In this case, U = {a, e, i, o, u}.
+    Since A ∪ B = {a, e, i, o, u}, and U = {a, e, i, o, u}, there are no elements in U that are not in A ∪ B.
+    Therefore, (A ∪ B)' = {} or φ (the empty set).
+
+**In summary:**
+
+*   A is not a subset of B (A ⊈ B).
+*   B is a subset of U (B ⊆ U).
+*   A ∪ B = {a, e, i, o, u}
+*   (A ∪ B)' = {} or φ
+
+3.  **Applying Set Builder Notation and Set Complement:** A universal set, U, consists of all positive integers less than 20. Set A is defined as {x | x ∈ U and x is a multiple of 3}.  Set B is defined as {x | x ∈ U and x is a prime number}. Determine A', B', and A' ∩ B'. Express each of your resulting sets using the roster method.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content.
+
+**Answer:**
+
+**Understanding the Question**
+
+The question requires us to work with set builder notation, a universal set, multiples, prime numbers, set complements, and the intersection of sets. We need to express the final answers in roster form.
+
+**Step-by-Step Solution**
+
+1.  **Define the Universal Set (U):**
+
+    The universal set U is the set of all positive integers less than 20.  Therefore, in roster form:
+
+    U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}
+
+2.  **Define Set A:**
+
+    Set A is defined as {x | x ∈ U and x is a multiple of 3}. This means A contains all elements from U that are multiples of 3. Therefore:
+
+    A = {3, 6, 9, 12, 15, 18}
+
+3.  **Define Set B:**
+
+    Set B is defined as {x | x ∈ U and x is a prime number}. This means B contains all elements from U that are prime numbers.  Remember, a prime number is a number greater than 1 that has only two factors: 1 and itself. Therefore:
+
+    B = {2, 3, 5, 7, 11, 13, 17, 19}
+
+4.  **Determine A' (Complement of A):**
+
+    The complement of A (A') is the set of all elements in U that are *not* in A.
+
+    A' = {1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19}
+
+5.  **Determine B' (Complement of B):**
+
+    The complement of B (B') is the set of all elements in U that are *not* in B.
+
+    B' = {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18}
+
+6.  **Determine A' ∩ B' (Intersection of A' and B'):**
+
+    The intersection of A' and B' (A' ∩ B') is the set of all elements that are *common* to both A' and B'.
+
+    A' ∩ B' = {1, 4, 8, 10, 14, 16}
+
+**Final Answers:**
+
+*   A' = {1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19}
+*   B' = {1, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18}
+*   A' ∩ B' = {1, 4, 8, 10, 14, 16}

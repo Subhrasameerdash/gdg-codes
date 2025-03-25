@@ -1,0 +1,166 @@
+1.  **Area Partitioning:** A curve defined by *y = √x* divides the area of the rectangle with vertices (0,0), (4,0), (4,2) and (0,2) into two regions. Determine the area of each region.
+Sample Answer:
+Okay, here's a complete solution to the assignment question, tailored for a CBSE Class 11-12 student:
+
+**Question 1: Area Partitioning**
+
+A curve defined by *y = √x* divides the area of the rectangle with vertices (0,0), (4,0), (4,2), and (0,2) into two regions. Determine the area of each region.
+
+**Solution:**
+
+1. **Visualize the Problem:**
+
+   Imagine a rectangle with corners at the origin (0,0), (4,0), (4,2), and (0,2). The curve *y = √x* starts at the origin and curves upwards as *x* increases. This curve cuts the rectangle into two distinct areas. Our goal is to find the area of each of these two regions.
+
+2. **Area of the Rectangle:**
+
+   The area of the rectangle is simply its length times its width:
+
+   Area of rectangle = (4 - 0) * (2 - 0) = 4 * 2 = 8 square units.
+
+3. **Area of Region 1 (Under the Curve):**
+
+   This is the area bounded by the curve *y = √x*, the x-axis, and the vertical lines *x = 0* and *x = 4*. We can find this area using integration:
+
+   Area 1 = ∫[from 0 to 4] *√x dx*  = ∫[from 0 to 4] *x<sup>1/2</sup> dx*
+
+   Now, let's evaluate the integral:
+
+   * The antiderivative of *x<sup>1/2</sup>* is (2/3) * x<sup>3/2</sup>
+   * Evaluate the antiderivative at the limits:
+      * At *x = 4*: (2/3) * (4)<sup>3/2</sup> = (2/3) * (2<sup>2</sup>)<sup>3/2</sup> = (2/3) * 2<sup>3</sup> = (2/3) * 8 = 16/3
+      * At *x = 0*: (2/3) * (0)<sup>3/2</sup> = 0
+
+   Area 1 = (16/3) - 0 = 16/3 square units.
+
+4. **Area of Region 2 (Above the Curve):**
+
+   We know that the area of the entire rectangle is 8 square units. Region 1 (the area under the curve) is 16/3 square units.  Therefore, Region 2 (the area above the curve) is the difference between the rectangle's area and Region 1's area:
+
+   Area 2 = Area of rectangle - Area 1
+   Area 2 = 8 - (16/3)
+   Area 2 = (24/3) - (16/3)
+   Area 2 = 8/3 square units.
+
+**Answer:**
+
+*   The area of the region under the curve *y = √x* (Region 1) is **16/3 square units**.
+*   The area of the region above the curve *y = √x* (Region 2) is **8/3 square units**.
+
+**Important Notes for Students:**
+
+*   **Visualization is Key:** Always try to sketch the graph. It helps you understand what you're calculating.
+*   **Understanding the Integral:** Remember that the definite integral represents the area under a curve.
+*   **Check your work:** Does the sum of the two areas equal the area of the rectangle? (16/3 + 8/3 = 24/3 = 8. Yes!) This helps verify your answer.
+*   **Units:** Always include the units (square units) when expressing area.
+*   **Alternative Method for Area 2:** You *could* also calculate Area 2 by integrating with respect to *y*.  You would need to express *x* as a function of *y* (i.e., *x = y<sup>2</sup>*) and integrate from *y = 0* to *y = 2*, and then subtract from *4*2. The rectangle would become 4*2 as x goes from 0 to 4 and y goes from 0 to 2.
+The integral would then be int(4 dy -y^2 dy) from 0 to 2 and you would get the same value as calculated above of 8/3.
+
+2.  **Curve Intersection:** Find the area of the region enclosed between the parabola *y² = 4x* and the line *y = x*.
+Sample Answer:
+Here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student:
+
+**Question:** Find the area of the region enclosed between the parabola *y² = 4x* and the line *y = x*.
+
+**Answer:**
+
+To find the area of the region enclosed between the parabola *y² = 4x* and the line *y = x*, we need to follow these steps:
+
+1.  **Find the points of intersection:**  We need to determine where the parabola and the line intersect.  To do this, we solve the equations simultaneously.  Since *y = x*, we can substitute *x* for *y* in the equation of the parabola:
+
+    *   *x² = 4x*
+    *   *x² - 4x = 0*
+    *   *x(x - 4) = 0*
+
+    This gives us two solutions for *x*:  *x = 0* and *x = 4*.  Now we find the corresponding *y* values using *y = x*:
+
+    *   When *x = 0*, *y = 0*.  So, the point of intersection is (0, 0).
+    *   When *x = 4*, *y = 4*.  So, the point of intersection is (4, 4).
+
+    Therefore, the parabola and the line intersect at the points (0, 0) and (4, 4).
+
+2.  **Express *x* in terms of *y*:**  Since the parabola is given as *y² = 4x*, we can rewrite it as *x = y²/4*. The line is already in terms of y,  *x = y*.
+
+3.  **Set up the integral:**  We will integrate with respect to *y*.  The limits of integration will be the *y*-coordinates of the points of intersection, which are 0 and 4.  We need to integrate the difference between the *x*-values of the two curves.  Since the line *x = y* is to the right of the parabola *x = y²/4* in the region of interest, we subtract the parabola's *x*-value from the line's *x*-value:
+
+    Area = ∫\[0 to 4] *(y - y²/4) dy*
+
+4.  **Evaluate the integral:**
+
+    *   Find the antiderivative of *(y - y²/4)*:  *(y²/2) - (y³/12)*
+    *   Evaluate the antiderivative at the upper and lower limits of integration:
+        *   At *y = 4*:  (4²/2) - (4³/12) = (16/2) - (64/12) = 8 - 16/3 = 24/3 - 16/3 = 8/3
+        *   At *y = 0*:  (0²/2) - (0³/12) = 0
+
+5.  **Subtract the values:**
+
+    Area = (8/3) - 0 = 8/3
+
+**Answer:** The area of the region enclosed between the parabola *y² = 4x* and the line *y = x* is 8/3 square units.
+
+**Explanation of Key Steps:**
+
+*   **Finding Intersection Points:** Crucial to determine the integration limits.
+*   **Expressing *x* in terms of *y*:** This choice simplifies the integration as the region is more easily defined by horizontal strips in this case.
+*   **Setting up the Correct Integral:**  Subtract the *x*-value of the "left" curve from the *x*-value of the "right" curve when integrating with respect to *y*.  Visualizing the region helps determine which curve is on the right.  Always remember to use the proper limits of integration!
+*   **Units:**  Remember to include "square units" in your final answer when calculating area.
+
+3.  **Area with Absolute Value:** Calculate the area of the region bounded by the curve *y = |x - 1|*, the x-axis, and the lines *x = -1* and *x = 2*.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for CBSE Class 11-12 students, based on the provided chapter content and my earlier detailed elaboration:
+
+**Question:** Calculate the area of the region bounded by the curve *y = |x - 1|*, the x-axis, and the lines *x = -1* and *x = 2*.
+
+**Answer:**
+
+To find the area bounded by *y = |x - 1|*, the x-axis, and the lines *x = -1* and *x = 2*, we need to consider the absolute value function. The absolute value function changes its behavior at *x = 1*. Therefore, we need to split the integral into two parts:
+
+**1. Understanding the Absolute Value Function:**
+
+The function *y = |x - 1|* can be defined piecewise as follows:
+
+*   *y = -(x - 1) = 1 - x*,  when *x < 1*
+*   *y = (x - 1)*, when *x ≥ 1*
+
+This means that to the left of *x = 1*, the graph is a line with a negative slope, and to the right of *x = 1*, it's a line with a positive slope. The vertex (or corner) of the 'V' shape is at *(1, 0)*.
+
+**2. Splitting the Integral:**
+
+Since the function's definition changes at *x = 1*, we split the area calculation into two integrals:
+
+*   **Area 1:**  The area between *x = -1* and *x = 1*.  In this region, *y = 1 - x*.
+*   **Area 2:** The area between *x = 1* and *x = 2*.  In this region, *y = x - 1*.
+
+**3. Setting up the Integrals:**
+
+*   **Area 1:**  ∫\[-1 to 1] *(1 - x) dx*
+*   **Area 2:**  ∫\[1 to 2] *(x - 1) dx*
+
+**4. Evaluating the Integrals:**
+
+*   **Area 1:**
+    *   Find the antiderivative of *(1 - x)*:  *x - (x²/2)*
+    *   Evaluate at *x = 1*:  *(1 - (1²/2)) = 1 - 1/2 = 1/2*
+    *   Evaluate at *x = -1*: *(-1 - ((-1)²/2)) = -1 - 1/2 = -3/2*
+    *   Subtract: *(1/2) - (-3/2) = 1/2 + 3/2 = 4/2 = 2*
+
+*   **Area 2:**
+    *   Find the antiderivative of *(x - 1)*: *(x²/2) - x*
+    *   Evaluate at *x = 2*: *((2²)/2 - 2) = 4/2 - 2 = 2 - 2 = 0*
+    *   Evaluate at *x = 1*: *((1²)/2 - 1) = 1/2 - 1 = -1/2*
+    *   Subtract: *0 - (-1/2) = 1/2*
+
+**5. Adding the Areas:**
+
+The total area is the sum of Area 1 and Area 2:
+
+Total Area = Area 1 + Area 2 = 2 + 1/2 = 5/2
+
+**Answer:**  The area of the region bounded by the curve *y = |x - 1|*, the x-axis, and the lines *x = -1* and *x = 2* is 5/2 square units.
+
+**Key Points for Class 11-12 Students:**
+
+*   **Absolute Value Functions:**  Remember to split the integral at the point where the expression inside the absolute value changes sign.
+*   **Visualizing the Area:**  A quick sketch of the graph can really help you understand the problem and ensure you're setting up the integrals correctly.
+*   **Careful Evaluation:**  Pay close attention to the signs when evaluating the antiderivatives at the limits of integration.
+*   **Units:** Always include the units (square units) in your final answer when calculating area.

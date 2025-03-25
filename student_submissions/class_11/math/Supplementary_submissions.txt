@@ -1,0 +1,193 @@
+1.  **Falling Ball Rebound:** A ball is dropped from a height of 10 meters. After each bounce, it rebounds to a height that is two-thirds of the height of the previous bounce. Determine the total vertical distance the ball travels before coming to rest.
+Sample Answer:
+Okay, here's a sample answer to the "Falling Ball Rebound" question, designed for a CBSE Class 11-12 student:
+
+**Answer:**
+
+To determine the total vertical distance traveled by the ball, we need to consider both the distances it falls and the distances it rebounds. This problem can be elegantly solved using the concept of an infinite geometric progression.
+
+**1. Distance Fallen:**
+
+*   The ball initially falls 10 meters.
+*   After the first bounce, it falls again from a height of (2/3) * 10 meters.
+*   After the second bounce, it falls from a height of (2/3)<sup>2</sup> * 10 meters, and so on.
+
+This forms an infinite geometric progression: 10, (2/3)*10, (2/3)<sup>2</sup>*10, ...
+
+Here, the first term, *a* = 10, and the common ratio, *r* = 2/3.  Since |r| = 2/3 < 1, we can find the sum to infinity.
+
+The total distance the ball falls is given by:
+
+S<sub>∞(down)</sub> = a / (1 - r) = 10 / (1 - 2/3) = 10 / (1/3) = 30 meters.
+
+**2. Distance Rebounded:**
+
+*   The ball first rebounds to a height of (2/3) * 10 meters.
+*   Then it rebounds to a height of (2/3)<sup>2</sup> * 10 meters, and so on.
+
+This *also* forms an infinite geometric progression: (2/3)*10, (2/3)<sup>2</sup>*10, (2/3)<sup>3</sup>*10, ...
+
+Here, the first term, *a* = (2/3) * 10 = 20/3, and the common ratio, *r* = 2/3.  Again, |r| < 1.
+
+The total distance the ball rebounds is given by:
+
+S<sub>∞(up)</sub> = a / (1 - r) = (20/3) / (1 - 2/3) = (20/3) / (1/3) = 20 meters.
+
+**3. Total Distance Traveled:**
+
+The total vertical distance is the sum of the distance fallen and the distance rebounded:
+
+Total Distance = S<sub>∞(down)</sub> + S<sub>∞(up)</sub> = 30 meters + 20 meters = 50 meters.
+
+**Therefore, the total vertical distance the ball travels before coming to rest is 50 meters.**
+
+**Explanation of Concepts Used:**
+
+*   **Geometric Progression (G.P.):** We identified that the distances fallen and rebounded formed a geometric progression, where each term is obtained by multiplying the previous term by a constant ratio.
+*   **Infinite Geometric Progression:** Since the ball continues to bounce indefinitely (theoretically), we dealt with an infinite G.P.
+*   **Sum to Infinity:** We used the formula for the sum to infinity (S<sub>∞</sub> = a / (1 - r)) because the common ratio (2/3) had an absolute value less than 1, ensuring that the sum converges to a finite value.
+*   **Breaking Down the Problem:** We separated the problem into two parts (distance fallen and distance rebounded) to make it easier to apply the G.P. formula. This is a common problem-solving strategy.
+
+2.  **Radioactive Decay:** A radioactive substance decays in such a way that after each year, only 90% of the substance remains. If you start with 100 grams of the substance, use logarithmic principles to estimate how many years it will take for the amount of the substance to fall below 50 grams. (Hint: you may leave your answer in terms of logarithms).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content and tailored to address the radioactive decay problem. It includes explanations and focuses on clarity.
+
+**Answer:**
+
+**Understanding the Problem:**
+
+We're dealing with radioactive decay, where the amount of a substance decreases exponentially over time.  We know that each year, only 90% of the substance remains. This means we can model the amount of the substance remaining after *t* years using an exponential function. Our goal is to find the time (*t*) when the amount falls below 50 grams, starting from 100 grams. We'll use logarithms to solve for *t*.
+
+**Setting up the Equation:**
+
+Let A(t) be the amount of the radioactive substance remaining after *t* years. We can express A(t) as:
+
+A(t) = A<sub>0</sub> * (0.90)<sup>t</sup>
+
+Where:
+
+*   A(t) is the amount remaining after *t* years
+*   A<sub>0</sub> is the initial amount (100 grams in this case)
+*   0.90 is the decay factor (since 90% remains each year)
+*   t is the time in years
+
+We want to find the value of *t* when A(t) < 50 grams. So, we set up the inequality:
+
+50 > 100 * (0.90)<sup>t</sup>
+
+**Solving the Inequality:**
+
+1.  **Divide both sides by 100:**
+
+    0.  5 > (0.90)<sup>t</sup>
+
+2.  **Take the natural logarithm (ln) of both sides:**
+
+    ln(0.5) > ln((0.90)<sup>t</sup>)
+
+    *Important Note:* We use the natural logarithm (ln) because it's closely related to exponential functions, as mentioned in the NCERT material. Taking the logarithm of both sides allows us to bring the exponent down.
+
+3.  **Use the logarithm power rule (ln(a<sup>b</sup>) = b * ln(a)):**
+
+    ln(0.5) > t * ln(0.90)
+
+4.  **Isolate *t* by dividing both sides by ln(0.90):**
+
+    t < ln(0.5) / ln(0.90)
+
+    *Important Note:* Since ln(0.90) is negative (because 0.90 is less than 1), we need to *flip* the inequality sign when dividing:
+    t > ln(0.5) / ln(0.90)
+
+**Final Answer:**
+
+Therefore, it will take *t* > ln(0.5) / ln(0.90) years for the amount of the substance to fall below 50 grams. You can leave the answer in this form, as requested in the prompt.
+
+**Explanation of Key Steps and Connections to NCERT Content:**
+
+*   **Exponential Decay Model:** The equation A(t) = A<sub>0</sub> * (0.90)<sup>t</sup> represents exponential decay, which is a direct application of exponential functions discussed in the NCERT chapter.
+*   **Using Logarithms:** We use logarithms to solve for *t* because *t* is in the exponent. This is a standard technique when dealing with exponential equations and connects directly to the logarithmic function concepts and their properties described in the NCERT material.
+*   **Natural Logarithm (ln):** While other logarithms could be used, the natural logarithm (ln) is often preferred in calculus and sciences due to its direct relationship with the exponential function *e*<sup>x</sup>.  The chapter emphasizes *e*<sup>x</sup> and ln(x), making it a natural choice.
+*   **Inequality Sign Flip:** It's crucial to remember to flip the inequality sign when dividing by a negative number (ln(0.90) is negative).  This is a fundamental rule of inequalities.
+*   **Leaving the Answer in Terms of Logarithms:** The problem instruction allows for the answer to be left in terms of logartihms which makes it easier.
+
+This answer provides a clear, step-by-step solution to the problem, connects it to the relevant concepts covered in the NCERT chapter (exponential and logarithmic functions), and includes explanations to enhance understanding. The student can further evaluate the expression ln(0.5) / ln(0.90) using a calculator to get an approximate numerical value for *t* (which would be approximately 6.58 years).
+
+3.  **Limit Manipulation:** Evaluate the limit: lim ₓ→₀ [e^(3x) - 1] / sin(2x). You must show all steps and justify the use of any standard limits.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the limit problem:
+
+**Question:** Evaluate the limit: lim ₓ→₀ [e^(3x) - 1] / sin(2x). You must show all steps and justify the use of any standard limits.
+
+**Answer:**
+
+To evaluate the limit lim ₓ→₀ [e^(3x) - 1] / sin(2x), we'll use algebraic manipulation and known standard limits related to exponential and trigonometric functions.
+
+**Step 1: Recognize the need for standard limits**
+
+The expression contains an exponential term (e^(3x)) and a trigonometric term (sin(2x)). We should aim to rewrite the expression to resemble the standard limits:
+
+*   lim<sub>x→0</sub> (e<sup>x</sup> - 1) / x = 1
+*   lim<sub>x→0</sub> sin(x) / x = 1   (This can also be written as lim<sub>x→0</sub> x / sin(x) = 1)
+
+**Step 2: Manipulate the expression**
+
+Our goal is to get terms like (e^(3x) - 1) / (3x) and sin(2x) / (2x) to appear in the expression.  To do this, we multiply and divide by appropriate factors:
+
+```
+lim ₓ→₀ [e^(3x) - 1] / sin(2x)  =  lim ₓ→₀  [ (e^(3x) - 1) / sin(2x) ] * [ (3x) / (3x) ] * [ (2x) / (2x) ]
+```
+
+Rearranging the terms:
+
+```
+=  lim ₓ→₀  [ (e^(3x) - 1) / (3x) ]  *  [ (2x) / sin(2x) ] * [ (3x) / (2x) ]
+```
+
+**Step 3: Separate the limit and apply standard limits**
+
+We can separate the limit of the product into the product of the limits (provided each limit exists):
+
+```
+=  [ lim ₓ→₀ (e^(3x) - 1) / (3x) ]  *  [ lim ₓ→₀ (2x) / sin(2x) ]  *  [ lim ₓ→₀ (3x) / (2x) ]
+```
+
+Now, let's evaluate each limit:
+
+*   **Limit 1:**  lim ₓ→₀ (e^(3x) - 1) / (3x)
+
+    Let y = 3x.  As x approaches 0, y also approaches 0.  So we can rewrite this as:
+
+    lim <sub>y→₀</sub> (e<sup>y</sup> - 1) / y = 1  (Using the standard limit)
+
+*   **Limit 2:** lim ₓ→₀ (2x) / sin(2x)
+
+    Let z = 2x. As x approaches 0, z also approaches 0.  So we can rewrite this as:
+
+    lim <sub>z→₀</sub> z / sin(z) = 1 (Using the standard limit).
+
+*   **Limit 3:** lim ₓ→₀ (3x) / (2x)
+
+    This is a simple algebraic simplification:
+
+    lim ₓ→₀ (3x) / (2x) = lim ₓ→₀ 3/2 = 3/2
+
+**Step 4: Combine the results**
+
+Substituting the values of the individual limits back into the expression:
+
+```
+=  [1] * [1] * [3/2]  =  3/2
+```
+
+**Conclusion:**
+
+Therefore, lim ₓ→₀ [e^(3x) - 1] / sin(2x) = 3/2.
+
+**Key points highlighted in the answer:**
+
+*   **Recognition of Standard Limits:** Clearly identifies the relevant standard limits that will be used.
+*   **Substitution (where appropriate):** Shows the substitution to align the given limit *exactly* with the standard limit.  This clarifies the application of the standard limit.
+*   **Step-by-step Manipulation:** Demonstrates the algebraic steps involved in transforming the expression into a form where standard limits can be applied.
+*   **Justification:** Explicitly states the use of the standard limits and justifies the variable substitutions, ensuring clarity and rigor.
+*   **Clear Conclusion:** States the final answer clearly.
+*   **Appropriate Language:** Uses mathematical language and notation suitable for the intended audience.

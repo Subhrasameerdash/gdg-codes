@@ -1,0 +1,121 @@
+1.  A copper wire carries a steady current. If the number density of free electrons in the wire is doubled, while maintaining the same current, explain how the average drift velocity of the electrons will change. Justify your answer using relevant equations.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, designed for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+When a copper wire carries a steady current, the relationship between current (I), number density of free electrons (n), charge of an electron (e), cross-sectional area of the wire (A), and the average drift velocity (vd) of the electrons is given by the following equation:
+
+I = n * e * A * vd
+
+From this equation, we can express the drift velocity as:
+
+vd = I / (n * e * A)
+
+Now, let's analyze what happens when the number density of free electrons (n) is doubled, while the current (I) is kept constant. Let the new number density be n' = 2n, and the new drift velocity be vd'.  We can write:
+
+vd' = I / (n' * e * A)
+vd' = I / (2n * e * A)
+
+Now, let's relate vd' to vd:
+
+vd' = (1/2) * [I / (n * e * A)]
+vd' = (1/2) * vd
+
+Therefore, if the number density of free electrons in the copper wire is doubled while maintaining the same current, the average drift velocity of the electrons will be halved.  This is because the drift velocity is inversely proportional to the number density of free electrons (vd ∝ 1/n), as evident from the equation. With twice as many electrons carrying the same total current, each electron needs to drift at only half the speed.
+
+2.  A circuit contains a combination of resistors in a complex network, not easily reducible to simple series or parallel combinations. Outline a step-by-step procedure, utilizing Kirchhoff's laws, to determine the current flowing through each resistor in the network. Explain how you would verify that your solution satisfies the fundamental principles of charge and energy conservation.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling a complex resistor network problem using Kirchhoff's Laws:
+
+**Answer:**
+
+To determine the current flowing through each resistor in a complex network that cannot be simplified into simple series or parallel combinations, we can systematically apply Kirchhoff's Laws. Here's a step-by-step procedure:
+
+**1. Assign Currents:**
+
+*   **Draw the circuit diagram clearly.**
+*   **Assign a current to each branch of the network.** A branch is a path between two junctions.  It's crucial to assign a unique current variable (e.g., I1, I2, I3...) to *each* branch.  The direction you choose for the current is arbitrary. If your initial guess is wrong, the calculated current value will simply be negative, indicating the actual current flows in the opposite direction. Be consistent in your diagram.
+
+**2. Identify Junctions (Nodes):**
+
+*   **Locate all the junctions (nodes) in the circuit.** A junction is a point where three or more circuit elements (wires, resistors, etc.) connect.
+
+**3. Apply Kirchhoff's Current Law (KCL) - Junction Rule:**
+
+*   **At each junction, apply KCL.** KCL states that the algebraic sum of currents entering a junction must equal the algebraic sum of currents leaving the junction. This is based on the principle of charge conservation.
+*   **Write KCL equations for as many junctions as possible.** The number of independent KCL equations you can obtain is one less than the total number of junctions. Writing equations for all the junctions will result in a redundant equation.
+*   **Example:** If at a junction, currents I1 and I2 are entering, and I3 is leaving, the KCL equation would be:  I1 + I2 = I3
+
+**4. Identify Loops:**
+
+*   **Identify closed loops in the circuit.** A loop is any closed path that can be traced through the circuit.
+
+**5. Apply Kirchhoff's Voltage Law (KVL) - Loop Rule:**
+
+*   **Choose a direction (clockwise or counter-clockwise) to traverse each loop.** Be consistent for each loop.
+*   **Apply KVL to each loop.** KVL states that the algebraic sum of the potential differences (voltages) around any closed loop must equal zero. This is based on the principle of energy conservation.
+*   **Write KVL equations for each loop:**
+    *   **Resistors:** When traversing a resistor *in the direction of the assigned current*, the potential difference is -IR (voltage drop). When traversing a resistor *against the direction of the assigned current*, the potential difference is +IR (voltage gain).
+    *   **Voltage Sources:** When traversing a voltage source from the negative (-) terminal to the positive (+) terminal, the potential difference is +V (voltage gain). When traversing from the positive (+) terminal to the negative (-) terminal, the potential difference is -V (voltage drop).
+
+**6. Solve the System of Equations:**
+
+*   **You now have a system of linear equations from the KCL and KVL applications.** Make sure you have as many independent equations as there are unknown currents.
+*   **Solve the system of equations for the unknown currents.** This can be done using various methods, such as:
+    *   Substitution
+    *   Elimination
+    *   Matrix methods (if you're comfortable with linear algebra)
+    *   Calculators with equation-solving capabilities
+
+**7. Determine the Current Through Each Resistor:**
+
+*   **Once you have the values of I1, I2, I3... you know the current in each branch.**
+
+**Verifying the Solution and Conservation Principles:**
+
+To verify that your solution is correct and satisfies the fundamental principles of charge and energy conservation, perform the following checks:
+
+*   **Charge Conservation (KCL):**  Substitute the calculated current values back into the KCL equations you wrote for each junction.  Ensure that the sum of currents entering each junction equals the sum of currents leaving.  If these equations hold true, it confirms that charge is being conserved at each node.
+
+*   **Energy Conservation (KVL):** Substitute the calculated current values back into the KVL equations you wrote for each loop. Ensure that the algebraic sum of the potential differences around each loop equals zero (or is very close to zero, allowing for minor rounding errors). If these equations hold true, it confirms that energy is being conserved around each closed path.
+
+*   **Power Balance:** Calculate the power dissipated by each resistor (P = I<sup>2</sup>R). Calculate the power supplied by each voltage source (P = IV).  The sum of the power dissipated by the resistors should equal the sum of the power supplied by the voltage sources.  If these values are equal (or very close), this provides strong evidence that your solution is correct and consistent with the law of conservation of energy.
+* **Reasonable Values:** Check if your current values make sense based on the voltage and resistance values. Extremely high or low current values compared to the rest of the circuit should be re-examined.
+
+By meticulously following this procedure and verifying the results, you can confidently determine the current flowing through each resistor in even the most complex networks while ensuring that your solution adheres to the fundamental principles of charge and energy conservation.
+
+3.  A Wheatstone bridge is used to measure an unknown resistance. However, the galvanometer shows a deflection, indicating the bridge is not balanced. Describe two different methods by which you could achieve a balanced bridge, explaining the underlying principle behind each method. Furthermore, discuss how the accuracy of the resistance measurement can be affected by the internal resistance of the galvanometer.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content about current electricity:
+
+**Answer:**
+
+A Wheatstone bridge is a circuit used to precisely measure an unknown resistance (let's call it Rx) by balancing two legs of a bridge circuit, one leg of which includes the unknown resistance. When the galvanometer shows a deflection, it means the bridge is unbalanced, and the potential difference across the galvanometer is not zero. To achieve a balanced bridge (no galvanometer deflection), we need to adjust the resistances in the other arms until the potential at the two points (B and D in Fig. 3.19, which we are assuming is the standard Wheatstone bridge diagram) connected to the galvanometer are equal. Here are two methods to achieve a balanced bridge:
+
+**Method 1: Adjusting Known Resistances (Ratio Arms)**
+
+*   **Principle:** The Wheatstone bridge is balanced when the ratio of the resistances in one arm is equal to the ratio of the resistances in the adjacent arm. That is, if we have resistances P, Q, R, and Rx (the unknown) arranged in a bridge configuration, balance is achieved when P/Q = R/Rx.
+
+*   **Procedure:**  In this method, we keep the unknown resistance Rx and one of the other resistances (say, P) fixed. We then have variable resistors for Q and R. By carefully adjusting the values of Q and R, we aim to nullify the galvanometer deflection. The adjustment continues until the galvanometer shows no current flow (i.e., the bridge is balanced). At balance, we record the values of P, Q, and R. The unknown resistance Rx can then be calculated using the formula:
+
+    Rx = (Q/P) * R
+
+    By ensuring that we adjust Q and R systematically, we are effectively changing the potential at points B and D until they are equal.
+
+**Method 2: Using a Slide Wire Bridge (Metre Bridge)**
+
+*   **Principle:** The metre bridge is a practical implementation of the Wheatstone bridge principle. It utilizes a uniform resistance wire of 1 meter length stretched along a scale. A sliding contact divides the wire into two segments, whose lengths represent the ratio of resistances in two arms of the bridge.
+
+*   **Procedure:** In this method, a known resistance R and the unknown resistance Rx are connected in two arms of the bridge. A sliding jockey is moved along the metre bridge wire (PQ) until the galvanometer shows no deflection. The lengths of the wire segments to the left (l1) and right (l2) of the jockey represent the ratio arms. At balance, the condition is:
+
+     Rx/R = l2/l1
+     Rx= R * l2/l1
+    Therefore the unknown resistance is determined by known R and l1,l2.
+
+**Impact of Galvanometer's Internal Resistance on Accuracy:**
+
+The internal resistance (Rg) of the galvanometer *does not directly affect the accuracy of the resistance measurement * **when the bridge is perfectly balanced.** This is because, at balance, there is no current flowing through the galvanometer. Since I=0, the voltage drop across the internal resistance (IRg = 0). So the accuracy in measurement does not depend on Rg.
+However, The galvanometer's internal resistance affects the sensitivity of the bridge. A galvanometer with high internal resistance would require a larger potential difference to produce a detectable deflection. In other words, the bridge becomes less sensitive to small imbalances. It becomes harder to achieve *precise balance* because the galvanometer is less responsive. Although the overall accuracy of the Rx value would be the same, the range of values where you could call the bridge 'balanced' would increase, and this could effect precision.
+
+In summary, while the internal resistance of the galvanometer doesn't directly influence the *calculated* value of Rx *at perfect balance*, it *does* influence the sensitivity of the bridge. A more sensitive galvanometer (often with lower internal resistance) allows for a more precise determination of the balance point, leading to a potentially more accurate measurement in practice (better precision).

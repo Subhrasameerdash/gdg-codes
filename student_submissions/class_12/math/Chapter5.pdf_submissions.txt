@@ -1,0 +1,130 @@
+1.  A function *f(x)* is defined as follows: *f(x) = x + a* for *x ≤ 1*, and *f(x) = bx + 3* for *x > 1*. Determine the relationship between constants *a* and *b* such that *f(x)* is continuous at *x = 1*. Explain your reasoning using the definition of continuity.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the continuity of the piecewise function:
+
+**Answer:**
+
+To determine the relationship between constants *a* and *b* that makes the function *f(x)* continuous at *x = 1*, we need to apply the definition of continuity.  A function *f(x)* is continuous at a point *x = c* if the following three conditions are met:
+
+1.  *f(c)* is defined.
+2.  lim *f(x)* exists as *x* approaches *c*.
+3.  lim *f(x)* = *f(c)* as *x* approaches *c*.
+
+In our case, *c = 1*, and the function is defined as:
+
+*   *f(x) = x + a* for *x ≤ 1*
+*   *f(x) = bx + 3* for *x > 1*
+
+Let's examine each condition:
+
+1.  ***f(1) is defined:***
+
+    Since *f(x) = x + a* for *x ≤ 1*, we can evaluate *f(1)*:
+
+    *f(1) = 1 + a*
+
+    So, *f(1)* is defined.
+
+2.  **lim *f(x)* exists as *x* approaches 1:**
+
+    For the limit to exist as *x* approaches 1, the left-hand limit (LHL) and the right-hand limit (RHL) must exist and be equal.
+
+    *   **Left-Hand Limit (LHL):** This is the limit as *x* approaches 1 from values less than 1 (i.e., *x < 1*).  We use the definition *f(x) = x + a*:
+
+        LHL = lim  *f(x)* = lim (*x + a*) = 1 + *a*
+              x→1-            x→1-
+
+    *   **Right-Hand Limit (RHL):** This is the limit as *x* approaches 1 from values greater than 1 (i.e., *x > 1*).  We use the definition *f(x) = bx + 3*:
+
+        RHL = lim  *f(x)* = lim (*bx + 3*) = *b* + 3
+              x→1+            x→1+
+
+    For the limit to exist, LHL = RHL:
+
+    1 + *a* = *b* + 3
+
+3.  **lim *f(x)* = *f(1)* as *x* approaches 1:**
+
+    For continuity, the limit (which we found by equating LHL and RHL) must be equal to *f(1)*.  We already know *f(1) = 1 + a*.  Therefore:
+
+    1 + *a* = *b* + 3
+
+    This condition is already satisfied if the LHL and RHL are equal (as we established in step 2) and *f(1)* equals the LHL.
+
+**Conclusion:**
+
+For the function *f(x)* to be continuous at *x = 1*, the left-hand limit and the right-hand limit must be equal.  This gives us the following relationship between *a* and *b*:
+
+1 + *a* = *b* + 3
+
+Solving for *a*, we get:
+
+*a* = *b* + 2
+
+Therefore, the function *f(x)* is continuous at *x = 1* if and only if *a = b + 2*. This is the required relationship between the constants *a* and *b*.
+
+2.  Consider the function *g(x) = e^(sin(x))*
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the continuity of the function  *g(x) = e^(sin(x))*.
+
+**Answer:**
+
+To determine the continuity of the function *g(x) = e^(sin(x))*, we need to consider the continuity of its component functions and how they are combined.
+
+*   **Component Functions:**
+    *   *sin(x)*:  The sine function, *sin(x)*, is a trigonometric function that is continuous for all real numbers *x*. This is a standard result that can be proven using the definition of continuity and trigonometric identities (as suggested by the NCERT content regarding continuity of sine function).
+    *   *e^(x)* (or, in this case, *e^u* where *u = sin(x)*): The exponential function *e^(x)* is continuous for all real numbers *x*.  This is also a standard result.
+
+*   **Composition of Continuous Functions:**  A crucial theorem states that if a function *f(x)* is continuous at a point *x = c*, and another function *g(u)* is continuous at *u = f(c)*, then the composite function *g(f(x))* is continuous at *x = c*.
+
+*   **Applying the Theorem to *g(x)*:**
+    *   Let *f(x) = sin(x)* and *h(u) = e^(u)*.  Then *g(x) = h(f(x)) = e^(sin(x))*.
+    *   Since *f(x) = sin(x)* is continuous for all real *x*, and *h(u) = e^(u)* is continuous for all real *u*, we can conclude that their composition, *g(x) = e^(sin(x))*, is continuous for all real *x*.
+
+**Conclusion:**
+
+The function *g(x) = e^(sin(x))* is continuous for all real numbers. This is because it is a composite function formed by the continuous functions *sin(x)* and *e^(x)*, and the composition of continuous functions is continuous.
+
+3.  The displacement, *s*, of a particle at time *t* is given by *s = t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t*.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content on continuity and derivatives. This answer connects the concept of displacement with continuity and differentiability:
+
+**Answer:**
+
+The displacement of a particle, *s*, is given by the function *s(t) = t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t*. We can analyze this function in terms of its continuity and differentiability.
+
+**1. Continuity:**
+
+The function *s(t) = t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t* is a polynomial function.  According to the NCERT textbook, "every polynomial function is continuous."
+
+*   **Explanation:** Polynomial functions are continuous everywhere because they are formed by sums and products of powers of *t*, and these operations preserve continuity.  There are no points where the function is undefined or has any breaks. The limit as *t* approaches any value *c* is simply *s(c)*.
+
+Therefore, the displacement function *s(t)* is continuous for all values of time *t*.  This means that the particle's position changes smoothly over time without any instantaneous jumps.
+
+**2. Differentiability:**
+
+Since *s(t)* is a polynomial, it is also differentiable everywhere. This means we can find the instantaneous rate of change of displacement with respect to time, which is the velocity.
+
+*   **Finding the Velocity:** The velocity, *v(t)*, is the first derivative of the displacement function *s(t)* with respect to time *t*. Using the power rule of differentiation:
+
+    *v(t) = ds/dt = d/dt (t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t*) = 3t*<sup>2</sup> *+ 4t – 5*
+
+*   **Explanation:** The power rule states that d/dx(x<sup>n</sup>) = nx<sup>n-1</sup>. Applying this rule to each term in *s(t)* yields the velocity function *v(t)*.
+
+The velocity function, *v(t) = 3t*<sup>2</sup> *+ 4t – 5*, is also a polynomial, hence continuous. This means the particle's velocity changes smoothly over time.
+
+**3. Higher Order Derivatives (Acceleration):**
+
+We can further differentiate the velocity function to find the acceleration, *a(t)*, which is the rate of change of velocity with respect to time:
+
+*   **Finding the Acceleration:**
+
+    *a(t) = dv/dt = d/dt (3t*<sup>2</sup> *+ 4t – 5) = 6t + 4*
+
+*   **Explanation:** Again, applying the power rule to the velocity function gives us the acceleration.
+
+The acceleration function, *a(t) = 6t + 4*, is also a polynomial and therefore continuous.
+
+**Conclusion:**
+
+The displacement function *s(t) = t*<sup>3</sup> *+ 2t*<sup>2</sup> *– 5t* is continuous and differentiable for all values of *t*. This implies that the particle's motion is smooth, with well-defined velocity and acceleration at any given time.  The velocity and acceleration are also continuous functions of time.

@@ -1,0 +1,119 @@
+1.  A student attempts to synthesize 2-ethoxy-2-methylpropane using Williamson ether synthesis. They react sodium ethoxide with 2-chloro-2-methylpropane. However, the major product obtained is not the desired ether, but an alkene. Explain why this outcome occurs, detailing the reaction mechanism involved and suggest an alternative approach for synthesizing the desired ether.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling the Williamson ether synthesis problem:
+
+**Answer:**
+
+The attempted synthesis of 2-ethoxy-2-methylpropane using sodium ethoxide and 2-chloro-2-methylpropane via Williamson ether synthesis primarily yields an alkene (elimination product) instead of the desired ether (substitution product) due to the nature of the alkyl halide used.
+
+**Explanation:**
+
+*   **The Problem: Steric Hindrance and Elimination (E2) Reactions** 2-chloro-2-methylpropane is a *tertiary alkyl halide*. Tertiary alkyl halides are sterically hindered. This means the carbon atom bonded to the chlorine is surrounded by bulky methyl groups, making it difficult for the ethoxide ion (a bulky nucleophile itself) to effectively attack the carbon atom in an SN2 (substitution, bimolecular) reaction.
+    The ethoxide ion (C2H5O-) is a strong base and a nucleophile.  When it encounters a sterically hindered alkyl halide like 2-chloro-2-methylpropane, it preferentially acts as a base, abstracting a proton from a carbon adjacent to the carbon bearing the halogen. This leads to an elimination reaction (specifically, an E2 reaction) rather than a substitution reaction.
+
+*   **E2 Mechanism:** The E2 mechanism is a one-step process. The ethoxide ion removes a beta-hydrogen (a hydrogen on a carbon adjacent to the carbon with the chlorine). Simultaneously, the carbon-hydrogen bond breaks, a pi bond forms between the alpha and beta carbons, and the chloride ion departs as a leaving group.  This results in the formation of 2-methylpropene (an alkene).
+
+    Here's a simplified representation of the E2 mechanism in this case:
+
+    (CH3)3C-Cl  +  C2H5O-  -->  (CH3)2C=CH2  +  C2H5OH  + Cl-
+    (2-chloro-2-methylpropane) + (ethoxide) --> (2-methylpropene) + (ethanol) + (chloride)
+
+*   **Why E2 is Favored:** The E2 reaction is favored in this case because:
+    *   **Steric Hindrance:** The bulky ethoxide has difficulty accessing the carbon for SN2.
+    *   **Tertiary Alkyl Halide:** Tertiary alkyl halides are more prone to elimination reactions.
+    *   **Strong Base:** Ethoxide is a strong base, readily abstracting protons.
+
+**Alternative Approach (SN2 Favored):**
+
+To synthesize 2-ethoxy-2-methylpropane in good yield, the Williamson ether synthesis needs to be modified to *avoid* using a tertiary alkyl halide. The key is to use a **tertiary alkoxide** and a **primary alkyl halide.**
+
+The correct reaction should be:
+
+*   React 2-methylpropan-2-ol (a tertiary alcohol) with a strong base like sodium metal (Na) or potassium tert-butoxide (KOC(CH3)3) to form the *tertiary alkoxide* (sodium 2-methylpropan-2-oxide).
+*   Then, react the sodium 2-methylpropan-2-oxide with *iodoethane* (ethyl iodide). Iodoethane is a primary alkyl halide and is very susceptible to SN2 attack because it is unhindered and iodide is a good leaving group.
+
+    (CH3)3C-O-Na + CH3CH2-I --> (CH3)3C-O-CH2CH3 + NaI
+    (sodium 2-methylpropan-2-oxide) + (iodoethane) --> (2-ethoxy-2-methylpropane) + (sodium iodide)
+
+In this alternative route, the SN2 reaction is favored because the primary alkyl halide (iodoethane) is not sterically hindered. The bulky tert-butoxide is now doing the nucleophilic attack so it is free to attach to the unhindered primary carbon.
+
+2.  Compound A (molecular formula C7H8O) is insoluble in water but dissolves readily in aqueous NaOH. Treatment of Compound A with bromine water results in the formation of a white precipitate of Compound B (C7H5Br3O). Identify Compound A and Compound B, provide the reactions involved, and explain why Compound A exhibits acidic character.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the question based on the provided NCERT chapter content on Alcohols, Phenols, and Ethers:
+
+**Answer:**
+
+**(a) Identification of Compound A and Compound B:**
+
+*   **Compound A:** Given its molecular formula (C7H8O), insolubility in water, and solubility in aqueous NaOH, Compound A is likely a **phenol**. The presence of the oxygen atom and the reactivity with NaOH (a base) strongly suggests a phenolic -OH group. A suitable structure is **Phenol with a methyl group attached to the benzene ring (Cresol)**. Considering the formation of a tribromo derivative, the methyl group is likely in the *para* position to the -OH group to maximize the substitution at *ortho* positions, making **4-Methylphenol (p-Cresol)** the most probable structure.
+
+*   **Compound B:** The reaction of Compound A with bromine water produces a white precipitate, which is characteristic of the bromination of phenols. Given the molecular formula of Compound B (C7H5Br3O), it is a **tribrominated derivative of Compound A**. Thus, Compound B is **2,6-dibromo-4-methylphenol.** The bromine atoms have substituted the two *ortho* positions relative to the -OH group.
+
+**(b) Reactions Involved:**
+
+*   **Reaction of Compound A (4-Methylphenol) with Aqueous NaOH:**
+
+    4-CH3C6H4OH(s) + NaOH(aq) → 4-CH3C6H4ONa(aq) + H2O(l)
+
+    (4-Methylphenol) + (Sodium Hydroxide) → (Sodium 4-methylphenoxide) + (Water)
+
+    In this reaction, the acidic proton of the phenolic -OH group is abstracted by the strong base (NaOH) to form a water-soluble sodium phenoxide salt.
+
+*   **Reaction of Compound A (4-Methylphenol) with Bromine Water:**
+
+    4-CH3C6H4OH(aq) + 3Br2(aq) → 2,6-Br2-4-CH3C6H2OH(s) + 3HBr(aq)
+
+    (4-Methylphenol) + (Bromine water) → (2,6-dibromo-4-methylphenol) + (Hydrogen Bromide)
+
+    The -OH group attached to the benzene ring is strongly activating and *ortho/para*-directing. Bromine substitutes at the two *ortho* positions, leading to the formation of the tribromo derivative, which precipitates out of the solution.
+
+**(c) Explanation of Acidic Character of Compound A (4-Methylphenol):**
+
+Phenols, including 4-Methylphenol, exhibit acidic character due to the following reasons:
+
+1.  **Resonance Stabilization of the Phenoxide Ion:** When a phenol loses a proton (H+), it forms a phenoxide ion. The negative charge on the oxygen atom of the phenoxide ion is delocalized into the benzene ring through resonance. This delocalization stabilizes the phenoxide ion, making the release of a proton more favorable. The contributing resonance structures effectively spread the negative charge over the ring, reducing its intensity on the oxygen atom.
+
+2.  **sp2 Hybridized Carbon:** The carbon atom to which the -OH group is attached in phenol is sp2 hybridized. This makes it more electronegative than an sp3 hybridized carbon (as in alcohols). As a result, the sp2 carbon pulls electron density away from the oxygen atom, making the O-H bond more polar and the hydrogen more easily released as a proton.
+
+3.  **Comparison to Alcohols:** Alcohols also lose protons, but the resulting alkoxide ions are less stable than phenoxide ions. The negative charge in an alkoxide ion is localized on the oxygen atom, with no resonance stabilization. Therefore, phenols are significantly more acidic than alcohols.
+
+In summary, the acidic character of 4-Methylphenol arises from the stability of the phenoxide ion formed after deprotonation, which is attributed to resonance delocalization, the higher electronegativity of the sp2 carbon, and the absence of such stabilization in corresponding alkoxide ions.
+
+3.  You are provided with three unlabeled bottles, each containing one of the following compounds: butan-1-ol, butan-2-ol, and diethyl ether. Describe a series of simple chemical tests (using readily available reagents) that would allow you to distinguish between these three compounds. Explain the chemical basis for each test and the expected observations for each compound.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, designed to address the assignment question using the provided chapter content:
+
+**Answer:**
+
+To distinguish between butan-1-ol, butan-2-ol, and diethyl ether, we can use a combination of solubility tests and oxidation reactions. Here's a step-by-step procedure:
+
+**Step 1: Solubility Test**
+
+*   **Reagent:** Water
+*   **Procedure:** Add equal volumes of water to separate test tubes containing equal volumes of each unknown compound. Observe the miscibility (whether they mix).
+*   **Expected Observations and Explanation:**
+
+    *   **Butan-1-ol and Butan-2-ol:** Both will show some degree of solubility in water due to the polar -OH group, which can form hydrogen bonds with water molecules. Butan-1-ol will be slightly *more* soluble than Butan-2-ol due to less steric hindrance around the -OH group, making hydrogen bonding easier. However, this difference might be subtle and not a definitive test on its own.
+    *   **Diethyl Ether:** Diethyl ether will be significantly *less* soluble in water. While it has an oxygen atom that can accept hydrogen bonds, it is mostly nonpolar due to the two ethyl groups. The nonpolar character dominates, leading to limited miscibility with water. You'll likely observe two distinct layers forming.
+
+**Step 2: Oxidation Test (Using Acidified Potassium Dichromate)**
+
+*   **Reagent:** Acidified Potassium Dichromate (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> / H<sub>2</sub>SO<sub>4</sub>) - *Handle with caution, as it is corrosive.*
+*   **Procedure:** Add a few drops of acidified potassium dichromate solution to separate test tubes containing each of the unknown compounds. Gently warm the test tubes in a water bath. Observe any color changes.
+*   **Expected Observations and Explanation:**
+
+    *   **Butan-1-ol:** Acidified potassium dichromate is a strong oxidizing agent. Primary alcohols like butan-1-ol are oxidized first to aldehydes and then further to carboxylic acids. The dichromate ion (Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>) is reduced to Cr<sup>3+</sup> ions.  The color change will be from orange (Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>) to green (Cr<sup>3+</sup>).
+    *   **Butan-2-ol:** Secondary alcohols like butan-2-ol are oxidized to ketones. Again, the dichromate ion is reduced, and the color will change from orange to green. However, the reaction rate might be slower than with butan-1-ol because ketones are not easily further oxidized.
+    *   **Diethyl Ether:** Ethers are generally resistant to oxidation under mild conditions. No significant color change will be observed. The solution will remain orange.
+
+**Summary Table:**
+
+| Compound       | Solubility in Water | Reaction with Acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>/H<sub>2</sub>SO<sub>4</sub> |
+| :------------- | :------------------- | :--------------------------------------------------------------------- |
+| Butan-1-ol     | Slightly soluble     | Orange to green color change (relatively fast)                       |
+| Butan-2-ol     | Slightly soluble     | Orange to green color change (slower than butan-1-ol)                |
+| Diethyl Ether  | Insoluble            | No color change (remains orange)                                    |
+
+**Conclusion:**
+
+By performing these two simple tests and observing the differences in solubility and reactivity towards acidified potassium dichromate, you can effectively distinguish between butan-1-ol, butan-2-ol, and diethyl ether. The key is understanding the structural differences between the compounds (primary alcohol, secondary alcohol, and ether) and how these differences affect their physical properties (solubility) and chemical reactivity (oxidation).

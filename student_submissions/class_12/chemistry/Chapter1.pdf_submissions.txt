@@ -1,0 +1,116 @@
+1.  **Scenario-Based Application of Solubility:** A research lab is developing a new drug. Initial tests show the drug is most effective when delivered in an aqueous solution with a specific concentration. However, the drug is only sparingly soluble in water at room temperature. Propose and justify three different strategies (based on the principles discussed in the chapter) the researchers could use to increase the solubility of the drug in water to achieve the desired concentration. Explain the underlying principle behind each strategy.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling this assignment question:
+
+**Answer:**
+
+To increase the solubility of a sparingly soluble drug in water to achieve the desired concentration, researchers can employ several strategies based on the principles discussed in the chapter on solutions. Here are three potential approaches, along with justifications:
+
+**1. Temperature Adjustment (Heating the Solvent):**
+
+*   **Strategy:** Increase the temperature of the water used as the solvent.
+*   **Justification:**  For most solid solutes, increasing the temperature of the solvent increases solubility. This is because the process of dissolving often requires energy to break the solute-solute interactions in the solid. Heating the water provides this energy, allowing more drug molecules to overcome their intermolecular forces and disperse among the water molecules.  Think of it like this: heat makes the water molecules move faster and collide more forcefully with the drug crystals, helping to break them apart and dissolve them.  This is consistent with Le Chatelier's principle, which states that if a system at equilibrium is subjected to a change in temperature, it will adjust itself to counteract the change. If dissolving the drug is an endothermic process (absorbs heat), increasing the temperature will favor the forward reaction (dissolving) and increase solubility. It's important to note that some substances exhibit decreased solubility with increasing temperature, but for most drugs, solubility increases with temperature. Careful experimentation is required to establish this.
+
+**2.  Salting In:**
+
+*   **Strategy:** Add a highly soluble salt to the solution
+*   **Justification:** This method increases the solubility of the non-polar molecule by the addition of a salt. The salt increases the polarity of the solution and therefore increases the solubility of the drug.
+
+**3.  pH Adjustment (If the Drug is Acidic or Basic):**
+
+*   **Strategy:** If the drug contains acidic or basic functional groups, adjust the pH of the aqueous solution.
+*   **Justification:** Many drugs are organic acids or bases.  Their solubility in water can be dramatically affected by pH.
+    *   **For an acidic drug (HA):**  Adding a base (increasing the pH) will cause the acid to deprotonate (HA  ⇌  H+ + A-), forming its conjugate base (A-).  The charged conjugate base is typically much more soluble in water than the neutral acid form (HA) because it can interact more strongly with polar water molecules via ion-dipole interactions.
+    *   **For a basic drug (B):** Adding an acid (decreasing the pH) will cause the base to protonate (B + H+ ⇌ BH+), forming its conjugate acid (BH+). The charged conjugate acid is generally more soluble than the neutral base (B) for the same reason as above.
+    *   **Example:** If the drug is a carboxylic acid, adding a small amount of sodium hydroxide (NaOH) can deprotonate it, forming a more soluble salt.
+
+**Important Considerations:**
+
+*   **Drug Stability:**  When considering temperature adjustments or pH adjustments, it is essential to ensure that the drug remains stable and does not degrade under the chosen conditions.  High temperatures or extreme pH values can sometimes lead to drug decomposition.
+*   **Toxicity:** Any additives must be tested for toxicity and compatibility.
+*   **Formulation:** The chosen method must be compatible with the final formulation of the drug. For example, a drug intended for intravenous injection must be formulated in a sterile and pyrogen-free manner.
+*   **Experimentation:** It's crucial to perform controlled experiments to determine the optimal conditions (temperature, pH) for achieving the desired drug concentration while maintaining its stability and efficacy.  Solubility studies are essential in drug development.
+
+By carefully considering these strategies and conducting thorough experimental work, the researchers can improve the solubility of the drug and create an effective aqueous solution for drug delivery.
+
+2.  **Analyzing Non-Ideal Behavior:** Two liquids, A and B, when mixed, exhibit a significant negative deviation from Raoult's Law.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student based on the provided NCERT content, addressing the question about non-ideal solutions showing negative deviations from Raoult's Law.
+
+**Question:** Two liquids, A and B, when mixed, exhibit a significant negative deviation from Raoult's Law.  Explain this behavior, including the intermolecular interactions involved.
+
+**Answer:**
+
+When two liquids, A and B, exhibit a significant negative deviation from Raoult's Law upon mixing, it indicates that the interactions between the molecules of A and B are *stronger* than the interactions between A molecules themselves (A-A) and between B molecules themselves (B-B).  Let's break down why this leads to a negative deviation:
+
+*   **Raoult's Law and Ideal Solutions:** Raoult's Law states that the partial vapor pressure of each component of an ideal solution is directly proportional to its mole fraction in the solution and the vapor pressure of the pure component.  Ideal solutions assume that the intermolecular forces between all components are essentially the same. This means A-A, B-B, and A-B interactions are similar.
+
+*   **Negative Deviation:** A negative deviation from Raoult's Law means that the vapor pressure of the solution is *lower* than what would be predicted by Raoult's Law.  In other words, the components are less likely to escape into the vapor phase from the solution compared to when they are in their pure liquid states.
+
+*   **Intermolecular Interactions:**  The key to understanding negative deviations lies in the strength of intermolecular forces.
+
+    *   **Stronger A-B Interactions:** The fact that there is a negative deviation implies that the attractive forces between A and B molecules (A-B) are stronger than the A-A and B-B attractive forces. This "holds" the molecules together more strongly in the liquid mixture. The escaping tendency of A and B is reduced, lowering the vapor pressure.
+
+*   **Example and Explanation:** A classic example of this behavior is a mixture of phenol and aniline. In this case:
+    *   **Pure Phenol and Aniline:** Individually, phenol and aniline have their own respective intermolecular forces (e.g., hydrogen bonding in phenol, dipole-dipole and London dispersion forces in aniline).
+    *   **Mixture of Phenol and Aniline:** When mixed, phenol and aniline form *stronger* intermolecular hydrogen bonds *between* the phenol's -OH group and the aniline's -NH2 group. This strong association effectively reduces the vapor pressure of both components because more energy is required to overcome these stronger attractive forces and allow the molecules to escape into the vapor phase.
+
+*   **Enthalpy Change:** The mixing process for a solution with a negative deviation is usually exothermic (releases heat). This is because the formation of stronger A-B bonds releases energy, making the enthalpy change of mixing (ΔH<sub>mix</sub>) negative.
+
+**In summary:** A negative deviation from Raoult's Law occurs when the attractive forces between the solute and solvent molecules are stronger than the attractive forces within the pure solute and pure solvent. This stronger attraction reduces the escaping tendency of the molecules, leading to a lower vapor pressure than predicted by Raoult's Law, and is usually accompanied by a negative enthalpy of mixing (exothermic process).
+
+3.  **Colligative Property and Molar Mass Determination with Modification:** A student dissolves an unknown ionic compound, *XY<sub>2</sub>*, in water and observes a significant freezing point depression. The student calculates the molar mass of *XY<sub>2</sub>* using the freezing point depression formula, but the result is significantly lower than the actual molar mass. Explain why the calculated molar mass is incorrect, and describe how the Van't Hoff factor can be used to obtain a more accurate determination of the molar mass. Provide a step-by-step explanation of how to calculate the corrected molar mass if the experimental freezing point depression is ΔT<sub>f</sub>, the cryoscopic constant of water is K<sub>f</sub>, and the mass of the ionic compound is *m* grams dissolved in *V* mL of water (assume the density of water is 1 g/mL).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student addressing the provided assignment question. It breaks down the concepts and provides a clear, step-by-step calculation.
+
+**Answer:**
+
+The student's calculated molar mass is incorrect because ionic compounds like *XY<sub>2</sub>* undergo dissociation when dissolved in water. Dissociation means that the compound breaks apart into its constituent ions. In this case, *XY<sub>2</sub>*(s) dissociates into X<sup>2+</sup>(aq) + 2Y<sup>-</sup>(aq). The colligative properties, such as freezing point depression, depend on the *number* of solute particles in the solution, not on their chemical identity. Because *XY<sub>2</sub>* produces three ions (one X<sup>2+</sup> ion and two Y<sup>-</sup> ions) for every one formula unit that dissolves, the *effective* number of solute particles is higher than the number of moles of *XY<sub>2</sub>* initially dissolved. This leads to a greater freezing point depression than expected if the compound did not dissociate. Consequently, using the standard freezing point depression formula without accounting for dissociation will result in an *underestimation* of the molar mass.
+
+To obtain a more accurate determination of the molar mass, we need to use the Van't Hoff factor, *i*. The Van't Hoff factor represents the ratio of the actual number of particles in solution after dissociation to the number of formula units initially dissolved.  For a strong electrolyte like *XY<sub>2</sub>* that dissociates completely into three ions, the theoretical value of *i* would be 3.  However, in reality, *i* may be slightly less than 3 due to ion-ion interactions in solution (especially at higher concentrations). We will assume complete dissociation here for simplicity.
+
+Here's a step-by-step explanation of how to calculate the corrected molar mass:
+
+**1. Freezing Point Depression Formula with Van't Hoff Factor:**
+
+The freezing point depression equation needs to be modified to include the Van't Hoff factor:
+
+   ΔT<sub>f</sub> = *i* K<sub>f</sub> * *m*
+
+   where:
+   *   ΔT<sub>f</sub> is the experimental freezing point depression.
+   *   *i* is the Van't Hoff factor (ideally 3 for *XY<sub>2</sub>*, but could be determined experimentally).
+   *   K<sub>f</sub> is the cryoscopic constant of water.
+   *   *m* is the molality of the solution.
+
+**2. Calculate the Molality (m):**
+
+We can rearrange the modified freezing point depression equation to solve for the molality:
+
+   *m* = ΔT<sub>f</sub> / (*i* K<sub>f</sub>)
+
+**3.  Express Molality in Terms of Molar Mass:**
+
+Molality is defined as moles of solute per kilogram of solvent.  We are given the mass of the solute (*m* grams) and the volume of the solvent (water, *V* mL). Assuming the density of water is 1 g/mL, the mass of water is *V* grams, or *V*/1000 kg.  Let M<sub>2</sub> represent the molar mass of the solute *XY<sub>2</sub>*.
+
+Therefore, molality (*m*) can also be expressed as:
+
+   *m* = (moles of solute) / (mass of solvent in kg)  =  ( *m* grams / M<sub>2</sub> g/mol) / ( *V*/1000 kg)  = ( *m* * 1000) / (M<sub>2</sub> * *V*)
+
+**4.  Equate the Two Expressions for Molality and Solve for Molar Mass (M<sub>2</sub>):**
+
+Now we have two expressions for molality. We can set them equal to each other:
+
+   ΔT<sub>f</sub> / (*i* K<sub>f</sub>)  =  ( *m* * 1000) / (M<sub>2</sub> * *V*)
+
+Now, solve for M<sub>2</sub> (the corrected molar mass):
+
+   M<sub>2</sub> = (*i* K<sub>f</sub> * *m* * 1000) / (ΔT<sub>f</sub> * *V*)
+
+**5.  Substitute the given values**
+
+To get a numerical value, substitute the experimental  ΔT<sub>f</sub>, given K<sub>f</sub>, mass of *XY<sub>2</sub>*, *m* grams, volume of water V mL and  *i* = 3 (assuming complete dissociation) into the above formula.
+
+**Conclusion:**
+
+By incorporating the Van't Hoff factor into the freezing point depression equation, the student can account for the dissociation of the ionic compound and obtain a much more accurate estimate of the molar mass of *XY<sub>2</sub>*. Failing to account for the dissociation leads to a significant underestimation of the molar mass. Remember that the *i* value may need to be determined experimentally for more accurate work as it may not always match the theoretical value.

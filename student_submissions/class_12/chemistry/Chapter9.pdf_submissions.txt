@@ -1,0 +1,157 @@
+1.  **Amine Reactivity & Separation:** A laboratory technician has three unlabeled bottles, each containing one of the following: *n*-butylamine, di-*n*-butylamine, and tri-*n*-butylamine. Describe a simple chemical test (or a series of tests) that would allow the technician to identify the contents of each bottle. Explain the chemical basis for the observed differences in reactivity between the three amines.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling the amine identification problem:
+
+**Question:** A laboratory technician has three unlabeled bottles, each containing one of the following: *n*-butylamine, di-*n*-butylamine, and tri-*n*-butylamine. Describe a simple chemical test (or a series of tests) that would allow the technician to identify the contents of each bottle. Explain the chemical basis for the observed differences in reactivity between the three amines.
+
+**Answer:**
+
+To identify the *n*-butylamine, di-*n*-butylamine, and tri-*n*-butylamine in the unlabeled bottles, we can use the Hinsberg's test. This test leverages the varying reactivity of primary, secondary, and tertiary amines with Hinsberg's reagent (benzene sulfonyl chloride, C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl) and their subsequent solubility in aqueous alkali.
+
+**Procedure:**
+
+1.  **Reaction with Hinsberg's Reagent:** In three separate test tubes, add a small amount of each unknown amine to a solution of benzene sulfonyl chloride in aqueous sodium hydroxide (NaOH). Shake the mixture well and observe the results.
+
+    *   **Bottle A:** Amine + C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl + NaOH  ->  Observe result
+    *   **Bottle B:** Amine + C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl + NaOH  ->  Observe result
+    *   **Bottle C:** Amine + C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl + NaOH  ->  Observe result
+
+2.  **Observations and Interpretations:**
+
+    *   **Primary Amine (*n*-butylamine):** The primary amine will react with benzene sulfonyl chloride to form an *N*-alkyl benzene sulfonamide. This sulfonamide will have an acidic hydrogen attached to the nitrogen (R-NH-SO<sub>2</sub>C<sub>6</sub>H<sub>5</sub>) and hence will be *soluble* in the aqueous NaOH solution initially. Upon acidification with dilute HCl, the sulfonamide will precipitate out of the solution.
+
+        ```
+        C4H9NH2 + C6H5SO2Cl + NaOH  -> C4H9NHSO2C6H5 (soluble in NaOH) + NaCl + H2O
+        C4H9NHSO2C6H5 + HCl -> C4H9NHSO2C6H5 (precipitate) + HCL
+        ```
+        Observation: Clear solution initially, precipitate forms upon acidification.
+    *   **Secondary Amine (di-*n*-butylamine):** The secondary amine will react to form an *N*, *N*-dialkyl benzene sulfonamide. This sulfonamide will *not* have an acidic hydrogen on the nitrogen (R<sub>2</sub>N-SO<sub>2</sub>C<sub>6</sub>H<sub>5</sub>) and will therefore be *insoluble* in the aqueous NaOH solution and forms a precipitate. Adding dilute HCl will have no effect - the precipitate remains.
+
+        ```
+        (C4H9)2NH + C6H5SO2Cl + NaOH -> (C4H9)2NSO2C6H5 (insoluble in NaOH) + NaCl + H2O
+        ```
+        Observation: Immediate precipitate forms, remains after acidification.
+    *   **Tertiary Amine (tri-*n*-butylamine):** Tertiary amines do *not* react with Hinsberg's reagent because they lack a replaceable hydrogen atom on the nitrogen. The mixture will appear cloudy or unchanged, and will remain unchanged after acidification.
+
+        ```
+        (C4H9)3N + C6H5SO2Cl + NaOH -> No Reaction
+        ```
+        Observation: No immediate reaction or precipitate; no change upon acidification.
+
+**Summary Table:**
+
+| Amine             | Reaction with Hinsberg's Reagent and NaOH | Effect of Acidification (HCl) | Identification      |
+|--------------------|--------------------------------------------|--------------------------------|----------------------|
+| *n*-butylamine    | Forms a clear solution                     | Precipitate forms                | Primary (1°)          |
+| di-*n*-butylamine | Forms a precipitate                       | Precipitate remains           | Secondary (2°)        |
+| tri-*n*-butylamine| No reaction                               | No change                      | Tertiary (3°)         |
+
+**Chemical Basis for Reactivity Differences:**
+
+The differences in reactivity arise from the degree of substitution on the nitrogen atom:
+
+*   **Steric Hindrance:** As the number of alkyl groups attached to the nitrogen increases (from primary to secondary to tertiary), the steric hindrance around the nitrogen atom also increases. This makes it more difficult for the bulky benzene sulfonyl chloride to approach and react with the nitrogen in secondary and especially tertiary amines.
+*   **Availability of Hydrogen:** Primary and secondary amines have one or two hydrogen atoms, respectively, bonded to the nitrogen. These hydrogen atoms can be replaced by the sulfonyl group from Hinsberg's reagent. Tertiary amines have no hydrogen atoms bonded to the nitrogen, so they cannot undergo this reaction.
+*   **Solubility Differences:** The key to the test lies in whether the *product* of the reaction with Hinsberg's reagent is soluble in the initial alkaline solution. The N-substituted sulfonamide from the primary amine has an acidic proton that allows it to dissolve as a salt. The N,N-disubstituted sulfonamide from the secondary amine lacks that acidic proton, making it insoluble.
+
+2.  **Diazonium Salt Synthesis & Application:** A student aims to synthesize *p*-bromophenol from benzene. Outline the necessary sequence of reactions, including specific reagents and conditions, highlighting the crucial role of a diazonium salt intermediate. Explain why the direct bromination of phenol is not a suitable method for obtaining *p*-bromophenol in good yield.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the synthesis of *p*-bromophenol from benzene, emphasizing the role of diazonium salts and the limitations of direct bromination:
+
+**Answer:**
+
+**Synthesis of *p*-Bromophenol from Benzene via a Diazonium Salt Intermediate**
+
+The synthesis of *p*-bromophenol from benzene requires a multi-step process involving a diazonium salt intermediate. This approach allows for the controlled introduction of the bromine atom at the *para* position. Here's the outline:
+
+**Step 1: Nitration of Benzene**
+
+*   **Reagents and Conditions:** Concentrated HNO3 (nitric acid) and concentrated H2SO4 (sulfuric acid), heat (around 50-55°C). Sulfuric acid acts as a catalyst.
+*   **Reaction:** Benzene reacts with the nitrating mixture to form nitrobenzene.
+    ```
+    C6H6 + HNO3  --(H2SO4, heat)--> C6H5NO2 + H2O
+    Benzene                     Nitrobenzene
+    ```
+*   **Explanation:** Electrophilic aromatic substitution. The nitronium ion (NO2+) is the electrophile.
+
+**Step 2: Reduction of Nitrobenzene to Aniline**
+
+*   **Reagents and Conditions:** Tin (Sn) or Iron (Fe) and concentrated HCl (hydrochloric acid), followed by treatment with NaOH to neutralize the solution and liberate free aniline.
+*   **Reaction:** Nitrobenzene is reduced to aniline (phenylamine).
+    ```
+    C6H5NO2 + 6[H] --(Sn/HCl or Fe/HCl)--> C6H5NH2 + 2H2O
+    Nitrobenzene                   Aniline
+    ```
+*   **Explanation:** The metal (Sn or Fe) reduces the nitro group to an amino group.
+
+**Step 3: Diazotization of Aniline**
+
+*   **Reagents and Conditions:** NaNO2 (sodium nitrite) and HCl (hydrochloric acid) at low temperature (0-5°C).
+*   **Reaction:** Aniline reacts with nitrous acid (HNO2, generated *in situ* from NaNO2 and HCl) to form benzenediazonium chloride.
+    ```
+    C6H5NH2 + NaNO2 + 2HCl --(0-5°C)--> C6H5N2+Cl- + NaCl + 2H2O
+    Aniline                     Benzenediazonium chloride
+    ```
+*   **Explanation:** This is a crucial step. The low temperature is essential to prevent decomposition of the diazonium salt.
+
+**Step 4: Replacement of the Diazonium Group with a Hydroxyl Group**
+
+*   **Reagents and Conditions:** Warm water or dilute acid.
+*   **Reaction:** The diazonium salt is hydrolyzed to form phenol.
+    ```
+    C6H5N2+Cl- + H2O --(Warm)--> C6H5OH + N2 + HCl
+    Benzenediazonium chloride     Phenol
+    ```
+*   **Explanation:** The diazonium group is a very good leaving group, and it's readily replaced by a hydroxyl group upon warming with water.
+
+**Step 5: Bromination of Phenol**
+
+*   **Reagents and Conditions:** Bromine (Br2) in a solvent like carbon disulfide (CS2) or chloroform (CHCl3) at low temperature.
+*   **Reaction:** Phenol undergoes electrophilic aromatic substitution with bromine, primarily at the *para* position.
+    ```
+    C6H5OH + Br2 --(CS2 or CHCl3, low temp)--> p-BrC6H4OH + HBr
+    Phenol                         p-Bromophenol
+    ```
+*   **Explanation:**  Since the OH group is strongly activating and *ortho/para*-directing, and since the *para* position is less sterically hindered, the *para* product predominates when the reaction is carried out under controlled conditions.
+
+**Why Direct Bromination of Phenol is Not Suitable for Obtaining *p*-Bromophenol in Good Yield**
+
+Direct bromination of phenol with bromine water (Br2/H2O) leads to polybromination (e.g., 2,4,6-tribromophenol) because the hydroxyl group is strongly activating. This makes the benzene ring highly susceptible to electrophilic attack at all *ortho* and *para* positions. It's very difficult to stop the reaction at the mono-brominated stage, and even harder to selectively obtain the *para* isomer.
+
+Using Br2 in a less polar solvent like CS2 or CHCl3 and keeping the temperature low helps to slow down the reaction and favor mono-bromination. However, even under these conditions, some *ortho*-bromophenol will also be formed, and separation of the *ortho* and *para* isomers can be challenging. Therefore, the diazonium salt route provides a more controlled way to introduce the bromine atom specifically at the *para* position after creating the hydroxyl group.
+
+3.  **Basicity Comparison & Explanation:** Arrange the following compounds in decreasing order of basicity: ammonia, aniline, *p*-methylaniline, and *p*-nitroaniline. Provide a detailed explanation for your chosen order, considering the electronic effects of the substituents on the nitrogen atom.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the basicity comparison of the given compounds:
+
+**Answer:**
+
+The compounds arranged in decreasing order of basicity are:
+
+*p*-methylaniline > ammonia > aniline > *p*-nitroaniline
+
+Now, let's delve into the explanation:
+
+**Understanding Basicity:**
+
+Basicity, in the context of amines, refers to the ability of the nitrogen atom's lone pair of electrons to accept a proton (H+).  A stronger base has a greater tendency to accept a proton, meaning the lone pair is more readily available. Several factors influence the availability of this lone pair, primarily electronic effects.
+
+**Factors Affecting Basicity:**
+
+1.  **+Inductive Effect (+I effect):** Alkyl groups are electron-donating groups, which exhibit a +I effect. They increase the electron density on the nitrogen atom, making the lone pair more available for protonation and thus increasing the basicity.
+
+2.  **-Inductive Effect (-I effect):** Electron-withdrawing groups decrease the electron density on the nitrogen atom, making the lone pair less available for protonation and thus decreasing the basicity.
+
+3.  **Resonance Effect (+R or -R effect):**  Resonance (also called mesomeric) effects can either increase (+R) or decrease (-R) the electron density on the nitrogen atom through delocalization of the lone pair into or away from the aromatic ring.
+
+**Explanation for the Order:**
+
+*   ***p*-methylaniline:** The methyl group (-CH3) is an electron-donating group (+I effect). When attached to the *para* position of aniline, it increases the electron density on the benzene ring and, consequently, on the nitrogen atom of the amine group. This makes the lone pair on nitrogen more available for protonation, making *p*-methylaniline the most basic among the given compounds.
+
+*   **Ammonia (NH3):** Ammonia serves as a reference point. It doesn't have any alkyl or aryl groups attached, so its basicity is determined solely by the availability of the lone pair on the nitrogen atom.
+
+*   **Aniline (C6H5NH2):** In aniline, the lone pair of electrons on the nitrogen atom is delocalized into the benzene ring through resonance (+R effect). This delocalization decreases the electron density on the nitrogen atom, making the lone pair less available for protonation compared to ammonia. As a result, aniline is less basic than ammonia.
+
+*   ***p*-nitroaniline:** The nitro group (-NO2) is a strong electron-withdrawing group (-I and -R effects). When attached to the *para* position of aniline, it significantly decreases the electron density on the nitrogen atom due to resonance and inductive effects. The nitro group pulls electron density away from the ring and, consequently, from the nitrogen. This makes the lone pair on nitrogen *least* available for protonation, making *p*-nitroaniline the least basic among the given compounds.
+
+**In summary:** The basicity order is determined by the interplay of electron-donating and electron-withdrawing effects of the substituents on the aromatic ring. Electron-donating groups increase basicity, while electron-withdrawing groups decrease it. The resonance effect in aniline and the strong electron-withdrawing nature of the nitro group in *p*-nitroaniline are the dominant factors leading to their lower basicity compared to *p*-methylaniline and ammonia.

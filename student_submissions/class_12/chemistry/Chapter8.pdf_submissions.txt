@@ -1,0 +1,160 @@
+1.  **Structure and Reactivity:** Compound X (molecular formula C5H10O) reacts with Tollens' reagent to give a silver mirror test, but does not give a positive iodoform test. Draw all possible structural isomers of Compound X, and explain which isomer is most likely to exhibit the observed reactivity. Justify your answer with reference to the electronic and steric properties of the carbonyl group.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student and based on the provided NCERT chapter content:
+
+**Answer:**
+
+**1. Identifying Possible Isomers:**
+
+Compound X has the molecular formula C5H10O.  Since it contains a carbonyl group (indicated by the reactions), we're looking for aldehydes and ketones with five carbon atoms. Here are the possible structural isomers:
+
+*   **Aldehydes:**
+    *   Pentanal (CH3CH2CH2CH2CHO)
+    *   2-Methylbutanal (CH3CH2CH(CH3)CHO)
+    *   3-Methylbutanal ((CH3)2CHCH2CHO)
+    *   2,2-Dimethylpropanal ((CH3)3CCHO)
+
+*   **Ketones:**
+    *   Pentan-2-one (CH3COCH2CH2CH3)
+    *   Pentan-3-one (CH3CH2COCH2CH3)
+    *   3-Methylbutan-2-one (CH3COCH(CH3)CH3)
+
+**2. Analyzing the Reactivity Data:**
+
+*   **Positive Tollens' Test:** A positive Tollens' test indicates the presence of an *aldehyde* group (-CHO).  Tollens' reagent (ammoniacal silver nitrate solution) oxidizes aldehydes to carboxylic acids, while silver ions are reduced to metallic silver, forming the characteristic "silver mirror." Ketones generally do *not* react with Tollens' reagent under normal conditions.
+
+*   **Negative Iodoform Test:** The iodoform test is positive for methyl ketones (R-CO-CH3) and compounds that can be oxidized to methyl ketones.  Since Compound X gives a *negative* iodoform test, it means it *cannot* be a methyl ketone or oxidized to one. Also, ethanol or compounds containing CH3CH(OH)- group also gives a positive iodoform test, which is not the case here.
+
+**3. Determining the Most Likely Isomer:**
+
+Based on the reactivity data:
+
+*   Compound X *must* be an aldehyde (positive Tollens' test). This eliminates all the ketone isomers.
+*   Compound X *cannot* be oxidized to a methyl ketone or be a compound containing CH3CH(OH)- group (negative iodoform test). This eliminates 2-Methylbutanal ((CH3CH2CH(CH3)CHO) because it has a methyl group on the carbon next to the carbonyl group so it can be oxidized to methyl ketone. This also eliminates 2,2-Dimethylpropanal ((CH3)3CCHO) because it cannot react with I2/NaOH to give a positive iodoform test.
+
+Therefore, the most likely isomer of Compound X is either:
+
+*   Pentanal (CH3CH2CH2CH2CHO)
+*   3-Methylbutanal ((CH3)2CHCH2CHO)
+
+Because the question asks for *the* most likely isomer, a more thorough justification is needed.  Let's consider the structure of 3-Methylbutanal ((CH3)2CHCH2CHO). This compound has branching further away from the carbonyl group.  This branching introduces steric hindrance. While it does not completely prevent reaction with Tollens' reagent, it *might* slightly slow down the reaction compared to pentanal. As such, based on the principle that reaction will proceed that creates most stable product, **Pentanal (CH3CH2CH2CH2CHO) is the most likely isomer of Compound X.**
+
+**4. Justification Based on Electronic and Steric Properties:**
+
+*   **Electronic Properties:** The carbonyl carbon (C=O) in aldehydes is electrophilic due to the electronegativity difference between carbon and oxygen.  The oxygen atom pulls electron density away from the carbon, making it susceptible to nucleophilic attack. This electrophilicity is crucial for the Tollens' test, where the aldehyde is oxidized. The electronic properties are similar in all aldehyde isomers, but not similar enough to eliminate electronic properties as a possible justification.
+
+*   **Steric Properties:** Steric hindrance refers to the spatial bulk around the reaction site (the carbonyl carbon in this case).  Aldehydes are generally *more* reactive than ketones in nucleophilic addition reactions because they experience less steric hindrance.  The presence of bulky alkyl groups near the carbonyl group can hinder the approach of the nucleophile (in Tollens' reagent, the hydroxide ion). Pentanal has a straight chain, minimizing steric hindrance at the carbonyl carbon. 3-Methylbutanal has a methyl branch further away from the carbonyl carbon. In 2-Methylbutanal, the methyl branch is closest to the carbonyl group. Therefore, Pentanal is the most likely isomer.
+
+**In conclusion, while both pentanal and 3-methylbutanal could theoretically react with Tollens' reagent and give a negative iodoform test, the least sterically hindered structure, pentanal, is the most likely isomer to exhibit the described reactivity.**
+
+2.  **Acidity and Substituent Effects:** You are given three carboxylic acids: Acetic acid, Chloroacetic acid, and Propanoic acid. Predict the relative order of their acidity and explain your reasoning, clearly indicating the influence of the substituents on the stability of the corresponding carboxylate ions. Draw resonance structures to support your explanation.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+The relative acidity of the given carboxylic acids is:
+
+Chloroacetic acid > Acetic acid > Propanoic acid
+
+**Explanation:**
+
+Carboxylic acids are acidic because they can donate a proton (H+) from the carboxyl group (-COOH). The acidity is determined by the stability of the resulting carboxylate ion (RCOO-). The more stable the carboxylate ion, the stronger the acid. This stability is significantly influenced by the substituents attached to the carbon chain.
+
+1.  **Acetic Acid (CH3COOH):** This is the baseline compound. The methyl group (CH3) is an electron-donating group (EDG). Electron-donating groups *destabilize* the carboxylate ion by intensifying the negative charge. This makes it harder for acetic acid to lose a proton and therefore reduces its acidity.
+
+2.  **Chloroacetic Acid (ClCH2COOH):** The chlorine atom is a strong electron-withdrawing group (EWG) due to its high electronegativity. Electron-withdrawing groups *stabilize* the carboxylate ion by dispersing the negative charge. The inductive effect of the chlorine atom pulls electron density away from the carboxylate group, making the negative charge less concentrated and more stable. This makes it easier for chloroacetic acid to lose a proton, thus increasing its acidity.
+
+3.  **Propanoic Acid (CH3CH2COOH):** The ethyl group (CH3CH2) is a larger electron-donating group compared to the methyl group in acetic acid. Therefore, it destabilizes the carboxylate ion to a greater extent than the methyl group. This makes propanoic acid slightly less acidic than acetic acid.
+
+**Resonance Structures:**
+
+All three acids, upon deprotonation, form carboxylate ions that are stabilized by resonance. Here's the general structure demonstrating resonance, using acetic acid as an example:
+
+```
+     O                      O
+     ||                     | -
+ R - C - O - H  <-->   R - C - O
+     |                      ||
+     OH                     O
+  (Acid Form)         (Resonance Structures of Carboxylate Ion)
+
+```
+
+Where R is CH3 (for acetic acid), ClCH2 (for chloroacetic acid), or CH3CH2 (for propanoic acid).
+
+The two resonance structures show that the negative charge is delocalized over the two oxygen atoms, which contributes to the stability of the carboxylate ion.
+
+**Influence of Substituents:**
+
+*   **Electron-Withdrawing Groups (EWG):** The chlorine atom in chloroacetic acid is an EWG. It stabilizes the carboxylate ion by inductive effect, withdrawing electron density and delocalizing the negative charge more effectively than resonance alone.
+
+*   **Electron-Donating Groups (EDG):** The alkyl groups (methyl and ethyl) are EDGs. They destabilize the carboxylate ion by intensifying the negative charge. The ethyl group in propanoic acid has a greater destabilizing effect than the methyl group in acetic acid.
+
+**In summary:** The acidity is directly related to the stability of the conjugate base (carboxylate ion). Electron-withdrawing groups stabilize the carboxylate ion, increasing acidity, while electron-donating groups destabilize it, decreasing acidity. Chloroacetic acid is the strongest acid because of the electron-withdrawing chlorine atom. Propanoic acid is the weakest because of the electron-donating ethyl group. Acetic acid falls in between.
+
+3.  **Reaction Mechanisms and Product Prediction:** Draw the complete reaction mechanism, including all intermediates and curved arrows showing electron flow, for the base-catalyzed aldol condensation of ethanal. Further, predict the structure and IUPAC name of the *major* organic product formed when the aldol product is heated in the presence of a strong acid. Explain why this product is favored.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the aldol condensation of ethanal and subsequent dehydration:
+
+**Answer:**
+
+**1. Base-Catalyzed Aldol Condensation of Ethanal (Acetaldehyde):**
+
+The aldol condensation of ethanal involves two main steps: (1) formation of the enolate ion and (2) nucleophilic attack of the enolate on another ethanal molecule.
+
+**Mechanism:**
+
+*   **Step 1: Formation of the Enolate Ion:** A strong base (e.g., hydroxide ion, OH-) abstracts an alpha-hydrogen (H on the carbon adjacent to the carbonyl group) from ethanal.  This generates the enolate ion, a resonance-stabilized carbanion.
+
+    ```
+    CH3CHO  +  OH-  <-->  [CH2=CH-O-]  +  H2O
+    (Ethanal)        (Enolate Ion)
+         Resonance structures for enolate ion:  -:CH2-CH=O  <--> CH2=CH-O:-
+    ```
+
+    *Curved arrows show the movement of electrons: The base takes the proton, the electrons from the C-H bond move to form a C=C bond, and the pi electrons of the C=O can move onto oxygen.*
+
+*   **Step 2: Nucleophilic Attack:** The enolate ion, acting as a nucleophile (electron-rich species), attacks the electrophilic (electron-deficient) carbonyl carbon of another molecule of ethanal.
+
+    ```
+    [CH2=CH-O-]  +  CH3CHO  -->  CH3CH(O-)CH2CHO
+    (Enolate Ion)   (Ethanal)       (Alkoxide Intermediate)
+    ```
+
+    *The curved arrow shows the enolate attacking the carbonyl carbon.*
+
+*   **Step 3: Protonation:** The alkoxide intermediate is protonated by water (formed in the first step) to yield the aldol product, 3-hydroxybutanal.
+
+    ```
+    CH3CH(O-)CH2CHO  +  H2O  -->  CH3CH(OH)CH2CHO  +  OH-
+    (Alkoxide)           (3-Hydroxybutanal)
+    ```
+
+    *Water acts as an acid and donates a proton to the alkoxide intermediate.*
+
+**2. Dehydration of the Aldol Product (3-Hydroxybutanal) in the Presence of a Strong Acid and Heat:**
+
+When 3-hydroxybutanal is heated in the presence of a strong acid, it undergoes dehydration (loss of water) to form an α,β-unsaturated aldehyde.
+
+**Mechanism:**
+
+*   **Step 1: Protonation of the Hydroxyl Group:** The strong acid (e.g., H2SO4) protonates the hydroxyl group (-OH) on the beta-carbon, making it a good leaving group (H2O).
+
+    ```
+    CH3CH(OH)CH2CHO + H+  <--> CH3CH(OH2+)CH2CHO
+    ```
+
+*   **Step 2: Elimination (E1 Mechanism):** The protonated hydroxyl group (H2O) leaves, and a proton from the alpha-carbon is removed (typically by a base present in the solution or the conjugate base of the acid).  This forms a double bond between the alpha and beta carbons.
+
+    ```
+    CH3CH(OH2+)CH2CHO --> CH3CH=CHCHO + H2O
+    ```
+
+**Structure and IUPAC Name of the Major Product:**
+
+The major product formed is **but-2-enal**.
+
+**Explanation for the Favored Product:**
+
+But-2-enal is the major product due to the **stability of the conjugated system**.  The double bond is conjugated with the carbonyl group (C=O), meaning they are separated by a single bond. This conjugation allows for delocalization of electrons, leading to resonance stabilization of the product. This increased stability makes but-2-enal the thermodynamically favored product. While but-1-enal is theoretically possible, it would not be conjugated and therefore less stable. The more stable alkene is generally formed via Zaitsev's rule (more substituted alkene is favoured).

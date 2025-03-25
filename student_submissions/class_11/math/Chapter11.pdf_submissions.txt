@@ -1,0 +1,250 @@
+1.  **Conceptual Understanding & Application:** A line segment AB in 3D space has its endpoints A on the XY-plane and B on the YZ-plane.  If the coordinates of the midpoint of AB are (2, -1, 3), determine the possible ranges of x, y, and z coordinates for points A and B. Explain your reasoning based on the properties of the coordinate planes.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the given assignment question:
+
+**Answer:**
+
+**Understanding the Problem:**
+
+The problem describes a line segment AB in 3D space. Point A lies on the XY-plane, meaning its z-coordinate is 0. Point B lies on the YZ-plane, meaning its x-coordinate is 0. We are given the midpoint of AB and need to deduce information about the possible coordinates of A and B.
+
+**Key Concepts:**
+
+*   **XY-plane:** Defined by z = 0. Any point on this plane has coordinates (x, y, 0).
+*   **YZ-plane:** Defined by x = 0. Any point on this plane has coordinates (0, y, z).
+*   **Midpoint Formula:**  The coordinates of the midpoint of a line segment joining points (x₁, y₁, z₁) and (x₂, y₂, z₂) are  ((x₁ + x₂)/2, (y₁ + y₂)/2, (z₁ + z₂)/2).
+
+**Solution:**
+
+Let the coordinates of point A be (x₁, y₁, 0) and the coordinates of point B be (0, y₂, z₂).  We are given that the midpoint of AB is (2, -1, 3). Using the midpoint formula:
+
+((x₁ + 0)/2, (y₁ + y₂)/2, (0 + z₂)/2) = (2, -1, 3)
+
+This gives us three equations:
+
+1.  x₁/2 = 2  =>  x₁ = 4
+2.  (y₁ + y₂)/2 = -1 => y₁ + y₂ = -2
+3.  z₂/2 = 3  => z₂ = 6
+
+**Determining the Ranges:**
+
+*   **x-coordinate:**
+    *   Since x₁ = 4, the x-coordinate of point A is fixed at 4.  Therefore, the range of x for point A is simply x = 4.
+    *   The x-coordinate of point B is fixed at 0 (because it lies on the YZ-plane). Therefore, the range of x for point B is x = 0.
+
+*   **y-coordinate:**
+    *   We know that y₁ + y₂ = -2.  This means that y₁ = -2 - y₂.
+    *   There are no explicit restrictions on the values of y₁ and y₂.  They can be any real numbers as long as their sum is -2.
+    *   Therefore, the range of y for both point A and point B is all real numbers, subject to the condition that  y₁ + y₂ = -2. We can express this by saying:  y for point A can be any real number, and y for point B is -2 minus the y-coordinate of Point A.
+
+*   **z-coordinate:**
+    *   The z-coordinate of point A is fixed at 0 (because it lies on the XY-plane). Therefore, the range of z for point A is simply z = 0.
+    *   Since z₂ = 6, the z-coordinate of point B is fixed at 6. Therefore, the range of z for point B is z = 6.
+
+**Summary of Ranges:**
+
+*   **Point A (x, y, z):**
+    *   x = 4
+    *   y: All real numbers.
+    *   z = 0
+*   **Point B (x, y, z):**
+    *   x = 0
+    *   y: All real numbers, where y = -2 - (y-coordinate of Point A)
+    *   z = 6
+
+**Conclusion:**
+
+The x and z coordinates of points A and B are fixed due to the constraints of lying on the XY and YZ planes, respectively, and the given midpoint. The y-coordinates can take on any real values, as long as their sum equals -2. This demonstrates how the properties of coordinate planes and the midpoint formula can be used to deduce information about the possible locations of points in 3D space.
+
+2.  **Problem Solving & Spatial Reasoning:** Imagine a cube with side length 'a' units, positioned such that one vertex coincides with the origin (0, 0, 0) and three edges extend along the positive x, y, and z axes. Determine the coordinates of all eight vertices of the cube. Then, calculate the distance between the vertex at the origin and the vertex farthest from the origin.
+Sample Answer:
+Here's a solution to the cube problem, suitable for a CBSE Class 11-12 student:
+
+**Understanding the Problem:**
+
+We have a cube placed in the 3D coordinate system. One corner is at the origin (0,0,0), and the cube's edges align with the positive x, y, and z axes. We need to find the coordinates of all the corners (vertices) and the distance between the origin and the opposite corner.
+
+**Solution:**
+
+1.  **Identifying the Vertices:**
+
+    Since the cube has a side length of 'a' and is aligned with the axes, we can systematically determine the coordinates of each vertex:
+
+    *   **Origin:** (0, 0, 0)
+    *   **Along x-axis:** (a, 0, 0)
+    *   **Along y-axis:** (0, a, 0)
+    *   **Along z-axis:** (0, 0, a)
+    *   **In the xy-plane:** (a, a, 0)
+    *   **In the xz-plane:** (a, 0, a)
+    *   **In the yz-plane:** (0, a, a)
+    *   **Farthest from the origin:** (a, a, a)
+
+2.  **Calculating the Distance:**
+
+    We need to find the distance between the origin (0, 0, 0) and the vertex farthest from it, which is (a, a, a). We use the distance formula:
+
+    Distance = √[(x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²]
+
+    Substituting the coordinates:
+
+    Distance = √[(a - 0)² + (a - 0)² + (a - 0)²]
+    Distance = √(a² + a² + a²)
+    Distance = √(3a²)
+    Distance = a√3
+
+**Answer:**
+
+The coordinates of the eight vertices of the cube are:
+
+*   (0, 0, 0)
+*   (a, 0, 0)
+*   (0, a, 0)
+*   (0, 0, a)
+*   (a, a, 0)
+*   (a, 0, a)
+*   (0, a, a)
+*   (a, a, a)
+
+The distance between the origin and the vertex farthest from the origin is **a√3 units**.
+
+3.  **Analytical & Proof-Based Question:** The points A(x,y,z), B(1,2,3) and C(-1,-2,-1) are collinear. Show that the ratio in which B divides AC is constant, irrespective of the value of x,y, and z. Find this ratio.
+Sample Answer:
+Here's a solution to the problem, suitable for a Class 11-12 student:
+
+**Understanding Collinearity and Section Formula**
+
+First, let's remember what it means for points to be collinear: they lie on the same straight line.  If B divides AC in some ratio, we can use the section formula to express the coordinates of B in terms of the coordinates of A and C, and the ratio. Our goal is to show that this ratio is constant, meaning it doesn't depend on the specific location of point A (represented by the variables x, y, and z).
+
+**Applying the Section Formula**
+
+Let's assume that B divides AC in the ratio *k:1*.  This means that for every *k* units of distance from A to B, there is 1 unit of distance from B to C. Using the section formula for 3D coordinates:
+
+Coordinates of B =  [ (k * Coordinates of C + 1 * Coordinates of A) / (k + 1) ]
+
+Applying this to each coordinate:
+
+*   x-coordinate of B:  1 = (k * (-1) + 1 * x) / (k + 1)
+*   y-coordinate of B:  2 = (k * (-2) + 1 * y) / (k + 1)
+*   z-coordinate of B:  3 = (k * (-1) + 1 * z) / (k + 1)
+
+**Solving for *k***
+
+Now, let's solve each equation for *k*:
+
+*   From the x-coordinate equation:
+    1 = (-k + x) / (k + 1)
+    k + 1 = -k + x
+    2k = x - 1
+    k = (x - 1) / 2
+
+*   From the y-coordinate equation:
+    2 = (-2k + y) / (k + 1)
+    2k + 2 = -2k + y
+    4k = y - 2
+    k = (y - 2) / 4
+
+*   From the z-coordinate equation:
+    3 = (-k + z) / (k + 1)
+    3k + 3 = -k + z
+    4k = z - 3
+    k = (z - 3) / 4
+
+**Establishing the Constant Ratio**
+
+Since all three equations must hold true simultaneously for the same value of *k*, we can equate any two of them to eliminate *k* and see what relationship exists between x, y, and z. However, notice something crucial: *we don't need to!*
+
+Because A, B, and C are collinear, there can only be one valid k that defines their relative position.
+
+Instead, observe that :
+k = (y - 2) / 4
+2k = (y-2)/2
+Solving for y;
+2k = (y-2)/2
+4k = y-2
+y = 4k + 2
+
+Similarly:
+k = (z - 3) / 4
+4k = z-3
+z = 4k+3
+
+We can substitute these into the x equation to solve for k.
+
+k = (x-1)/2
+2k = x-1
+x = 2k+1
+
+This shows that regardless of the value of x,y, or z, the ratio k is constant.
+
+To Find it:
+
+We have B(1,2,3)
+x = 1
+y = 2
+z = 3
+
+Substitute any of these into the formulas for k above.
+For example:
+k = (x-1)/2 = (1-1)/2 = 0
+
+*Important Caveat*
+When k = 0, this means that B and A are the same point.
+
+However, it is also equally valid to approach this from the other direction and compare to C to see what the value should be.
+
+AC/CB = k
+So CB/AC = 1/k
+
+Thus, CB =  [ (k * Coordinates of A + 1 * Coordinates of C) / (k + 1) ]
+
+Coordinates of B =  [ (k * (x,y,z) + 1 * (-1,-2,-1) ) / (k + 1) ]
+x-coordinate of B:  1 = (k * (x) + 1 * (-1) ) / (k + 1)
+y-coordinate of B:  2 = (k * (y) + 1 * (-2)) / (k + 1)
+z-coordinate of B:  3 = (k * (z) + 1 * (-1) ) / (k + 1)
+
+*   From the x-coordinate equation:
+    1 = (kx - 1) / (k + 1)
+    k + 1 = kx -1
+    2 = kx-k
+    2 = k(x-1)
+    k = 2/(x-1)
+
+*   From the y-coordinate equation:
+    2 = (ky - 2) / (k + 1)
+    2k + 2 = ky -2
+    4 = ky-2k
+    4 = k(y-2)
+    k = 4/(y-2)
+
+*   From the z-coordinate equation:
+    3 = (kz - 1) / (k + 1)
+    3k + 3 = kz - 1
+    4 + 3k = kz
+    4 = kz-3k
+    4 = k(z-3)
+    k = 4/(z-3)
+
+Since k is constant, it means that  2/(x-1) = 4/(y-2) =  4/(z-3)
+
+From the previous equations above we stated:
+x = 2k+1
+y = 4k+2
+z = 4k+3
+
+Substituting these new equations to confirm will produce the same ratios.
+k = 2/(x-1)
+k = 2/(2k+1 -1)
+k = 2/2k
+k^2 = 1
+k = 1
+
+Therefore the final answer is:
+
+The ratio in which B divides AC is constant, irrespective of the value of x,y, and z, and that ratio is 1. B is thus the midpoint of A and C.
+
+**Key Points**
+
+*   The section formula is crucial for solving this type of problem.
+*   The concept of collinearity implies a consistent relationship between the coordinates of the points.
+*   While solving for *k*, be mindful of potential divisions by zero (which would imply that A and B, or B and C, coincide).
+*   Express the final answer in a clear and concise manner.

@@ -1,0 +1,95 @@
+1.  The element selenium (Se) is used in solar cells. Based on its position in the periodic table and your understanding of periodic trends, predict and justify whether selenium is more likely to form an acidic or basic oxide. Explain how the electronic configuration of selenium contributes to this behavior.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, designed for CBSE class 11-12 students, based on the provided NCERT content.
+
+**Answer:**
+
+Selenium (Se) is located in Group 16 (also known as the chalcogens) and Period 4 of the periodic table. Elements in Group 16 are known for forming oxides with varying acidic or amphoteric character, depending on their electronegativity. To predict whether selenium will form an acidic or basic oxide, we need to consider its position relative to other elements in the group and period, and its electronic configuration.
+
+**Prediction and Justification:**
+
+Selenium is likely to form an **acidic oxide**. Here's the justification:
+
+1.  **Electronegativity Trend:** Electronegativity generally *increases* across a period (from left to right) and *decreases* down a group. Selenium is more electronegative than elements below it in Group 16 (like tellurium and polonium) and less electronegative than elements above it (like oxygen and sulfur).
+
+2.  **Nature of Oxides:**
+    *   Oxides of highly electronegative nonmetals (like oxygen and chlorine) tend to be acidic. This is because the electronegative nonmetal strongly pulls electron density away from the oxygen atom in the oxide. When these oxides react with water, they form oxoacids. For example, SO<sub>2</sub> reacts with water to form H<sub>2</sub>SO<sub>3</sub> (sulfurous acid).
+    *   Oxides of electropositive metals (like sodium and magnesium) tend to be basic. The metal donates electron density to the oxygen, making it more prone to react with H+ ions, when these oxides react with water they form bases. For example, Na<sub>2</sub>O reacts with water to form NaOH (sodium hydroxide).
+    *   Oxides of elements with intermediate electronegativity (often metalloids) tend to be amphoteric (reacting with both acids and bases).
+
+3.  **Selenium's Position:** Selenium occupies an intermediate position in terms of electronegativity. However, it is still significantly more electronegative than typical metals. Compared to sulfur, which forms acidic oxides like SO<sub>2</sub> and SO<sub>3</sub>, selenium is less electronegative. Therefore, we can expect it to form oxides with slightly weaker acidic character than sulfur oxides. Although selenium dioxide (SeO2) is amphoteric, it leans towards acidity due to Se having a higher electronegativity than metallic elements. It dissolves in water to produce selenious acid (H2SeO3) proving it's more towards acidic nature.
+
+    *   SeO<sub>2</sub>(s) + H<sub>2</sub>O(l) ⇌ H<sub>2</sub>SeO<sub>3</sub>(aq)
+
+4.  **Formation of Acidic Solutions:** When selenium dioxide (SeO<sub>2</sub>) dissolves in water, it forms selenious acid (H<sub>2</sub>SeO<sub>3</sub>), which is a weak acid. This behavior is characteristic of acidic oxides.
+
+**Electronic Configuration and its Contribution:**
+
+The electronic configuration of selenium is [Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>.
+
+*   The 4s<sup>2</sup> 4p<sup>4</sup> configuration means that selenium has 6 valence electrons. To achieve a stable octet configuration, selenium tends to *gain* two electrons or *share* electrons through covalent bonding.
+*   When selenium forms an oxide (SeO<sub>2</sub> or SeO<sub>3</sub>), it shares electrons with oxygen atoms. The electronegativity difference between selenium and oxygen causes the shared electrons to be pulled more towards the oxygen atoms, creating a polar covalent bond. This electron density shift makes the selenium atom slightly positive and the oxygen atoms slightly negative.
+*   The polarization of the Se-O bonds contributes to the acidic character of the oxide. The selenium atom, being relatively electron-deficient, can accept electron density from hydroxide ions (OH-) in a reaction with water, promoting the formation of selenious acid.
+
+**In Summary:**
+
+Selenium's position in the periodic table, its intermediate electronegativity, and its electronic configuration ([Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>4</sup>), all suggest that it will form an oxide (primarily SeO<sub>2</sub>) with acidic character. While SeO<sub>2</sub> may exhibit some amphoteric properties, its predominant behavior is acidic, demonstrated by its ability to form selenious acid (H<sub>2</sub>SeO<sub>3</sub>) when dissolved in water.
+
+2.  Consider two hypothetical elements, X and Y. Element X has a significantly higher first ionization enthalpy but a much lower electronegativity compared to element Y. What can you infer about the probable chemical behavior of X and Y, including the types of compounds they are likely to form with other elements?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content and the given assignment question:
+
+**Answer:**
+
+Let's analyze the probable chemical behavior of hypothetical elements X and Y, based on the given information about their ionization enthalpy and electronegativity.
+
+*   **Element X: High Ionization Enthalpy, Low Electronegativity**
+
+    *   **High Ionization Enthalpy:** A high ionization enthalpy indicates that it requires a significant amount of energy to remove an electron from element X. This suggests that element X *holds onto its electrons very tightly* and is therefore unlikely to lose electrons easily to form positive ions (cations).
+    *   **Low Electronegativity:** Low electronegativity indicates that element X has a relatively weak tendency to attract shared electrons in a chemical bond. This reinforces the idea that X is not a strong electron-grabber.
+
+    *   **Probable Chemical Behavior of X:**
+        *   X is *unlikely to form ionic compounds* by losing electrons.
+        *   X is more likely to form *covalent compounds* where it shares electrons with other elements. Because of its low electronegativity, these covalent bonds are likely to be nonpolar or weakly polar.
+        *   X might even behave as a reluctant participant in covalent bonding, preferring to remain in its elemental state if possible.
+        *   Based on these properties, element X is likely to be a non-metal with a tendency to form covalent compounds through sharing of electrons rather than losing them.
+
+*   **Element Y: Lower Ionization Enthalpy, Higher Electronegativity**
+
+    *   **Lower Ionization Enthalpy:** A lower ionization enthalpy compared to X implies that it is *easier to remove an electron* from element Y. This suggests that element Y is more likely to form positive ions (cations) by losing electrons.
+    *   **High Electronegativity:** High electronegativity indicates that element Y has a *strong tendency to attract shared electrons* in a chemical bond.
+
+    *   **Probable Chemical Behavior of Y:**
+        *   Y is likely to form *ionic compounds* with elements that have low electronegativity (i.e., metals). Y would gain electrons from the metal, forming a negative ion (anion).
+        *   Y can also form *polar covalent bonds* with other non-metals. In these bonds, the shared electrons will be drawn more strongly towards Y, giving it a partial negative charge (δ-).
+        *   Based on these properties, element Y is likely to be a reactive non-metal.
+
+*   **Compounds Formed Between X and Y:**
+
+    Given the properties of X and Y, if they were to react, the resulting compound would likely be a **polar covalent** compound. Y, being more electronegative, would attract the shared electrons more strongly, resulting in a partial negative charge on Y and a partial positive charge on X. However, because X has a lower electronegativity, the polarity of the bond will be moderate.
+
+**In summary:**
+
+Element X behaves more like a non-metallic element with a preference for forming covalent bonds, while element Y behaves like a more reactive non-metal that can form both ionic and polar covalent bonds. The difference in their ionization enthalpies and electronegativities dictates their contrasting tendencies to lose or gain electrons, and thus influences the type of compounds they form.
+
+3.  Mendeleev's periodic table had some limitations. How did the discovery of atomic numbers address one of the key problems present in Mendeleev's arrangement of elements? Give a specific example of how arranging elements by atomic number, rather than atomic mass, resolved an anomaly.
+Sample Answer:
+Mendeleev's periodic table, while a groundbreaking achievement, arranged elements primarily by increasing atomic mass. This led to some inconsistencies because the properties of elements don't *perfectly* correlate with atomic mass. The discovery of atomic numbers by Henry Moseley provided a more fundamental basis for organizing the elements, resolving one of the major limitations of Mendeleev's table.
+
+**The Problem with Atomic Mass:**
+
+Mendeleev placed elements with similar properties in the same group, even if it meant occasionally reversing the order of elements based on atomic mass. This was done to maintain the periodic recurrence of properties, but it lacked a clear, underlying scientific reason.
+
+**How Atomic Number Solved the Problem:**
+
+Moseley's work showed that the atomic number (the number of protons in the nucleus) is the fundamental property that determines an element's chemical behavior. Arranging elements by atomic number, rather than atomic mass, placed elements with similar properties in the correct groups *without* the need for arbitrary reversals based on maintaining similar chemical properties..
+
+**Specific Example: Tellurium (Te) and Iodine (I)**
+
+*   In Mendeleev's table, Tellurium (Te) with an atomic mass of approximately 127.6 amu was placed *before* Iodine (I), which has an atomic mass of approximately 126.9 amu.
+*   This was done because Iodine's properties were much more similar to those of the halogens (Group 17), while Tellurium's properties were more similar to those of Group 16 elements (like Oxygen and Sulfur). Placing them in order of atomic mass would have put iodine in the wrong group based on its chemical properties. This appeared to be a limitation in periodicity based on mass.
+*   However, the atomic number of Tellurium is 52, and the atomic number of Iodine is 53. When arranged by atomic number, Iodine correctly follows Tellurium, placing each element in the group that matches their chemical properties.
+
+**In conclusion:**
+
+The arrangement by atomic number provided a logical and experimentally verifiable basis for the periodic table. It explained *why* elements with similar properties fell into the same groups and eliminated the inconsistencies arising from arranging elements solely by atomic mass. The case of Tellurium and Iodine clearly demonstrates how the atomic number resolved a fundamental anomaly in Mendeleev's original periodic table, solidifying the modern periodic law.

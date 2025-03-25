@@ -1,0 +1,175 @@
+1.  **Isomer Analysis and Reactivity:** Compound **A**, with the molecular formula C4H8O, reacts with Tollens' reagent to form a silver mirror, but does not give a positive iodoform test. Compound **B**, also with the molecular formula C4H8O, gives a positive iodoform test but does not react with Tollens' reagent. Draw the structures of **A** and **B**, provide their IUPAC names, and explain the chemical basis for the observed differences in their reactivity with the given reagents.
+Sample Answer:
+Okay, here's a complete answer suitable for a CBSE Class 11-12 student, addressing the provided assignment question using the information from the NCERT excerpts:
+
+**Answer:**
+
+**1. Identifying the Compounds (A and B):**
+
+*   **Understanding the Reactions:** We need to use the information about the Tollens' test and the iodoform test to deduce the structures of compounds A and B.
+
+    *   **Tollens' Reagent:** Tollens' reagent is a mild oxidizing agent that specifically oxidizes aldehydes to carboxylic acids. A positive Tollens' test, indicated by the formation of a silver mirror, means the compound is an aldehyde.
+
+    *   **Iodoform Test:** The iodoform test detects the presence of a *methyl ketone* (R-CO-CH3) or a secondary alcohol of the form R-CH(OH)-CH3. A positive iodoform test results in the formation of a yellow precipitate of iodoform (CHI3).
+
+*   **Compound A (C4H8O): Reacts with Tollens' but not Iodoform:** This means A is an aldehyde but *doesn't* have a methyl group directly attached to the carbonyl carbon. The only aldehyde that fits the formula C4H8O is **Butanal**.
+
+    *   **Structure of A:** CH3-CH2-CH2-CHO
+    *   **IUPAC Name of A:** Butanal
+
+*   **Compound B (C4H8O): Reacts with Iodoform but not Tollens':** This means B is *either* a methyl ketone *or* a secondary alcohol that can be oxidized to a methyl ketone. Since it does not react with Tollens' reagent it cannot be an aldehyde, and therefore it is a ketone. The ketone with molecular formula C4H8O that has a methyl group directly attached to the carbonyl carbon is **Butan-2-one**.
+
+    *   **Structure of B:** CH3-CO-CH2-CH3
+    *   **IUPAC Name of B:** Butan-2-one
+
+**2. Explaining the Differences in Reactivity:**
+
+The differences in reactivity arise from the differing functional groups present in compounds A and B:
+
+*   **Reaction with Tollens' Reagent (Oxidation):**
+
+    *   Butanal (A) readily reacts with Tollens' reagent because aldehydes are easily oxidized to carboxylic acids. The silver ions (Ag+) in Tollens' reagent act as the oxidizing agent, getting reduced to metallic silver (Ag), which forms the observed silver mirror. The reaction is:
+
+        R-CHO + 2[Ag(NH3)2]+ + 3OH-  --> R-COO- + 2Ag(s) + 4NH3 + 2H2O
+
+    *   Butan-2-one (B) *does not* react with Tollens' reagent under normal conditions. Ketones are generally more resistant to oxidation than aldehydes. Stronger oxidizing agents are required to break the C-C bond adjacent to the carbonyl group in ketones. Tollens' reagent is not strong enough to cause this cleavage.
+
+*   **Reaction with Iodoform Reagent:**
+
+    *   Butan-2-one (B) reacts with the iodoform reagent (I2/NaOH) to give a positive iodoform test. The reaction proceeds in two steps. First, the base-catalyzed halogenation of the methyl ketone gives triiodomethyl ketone. This intermediate undergoes cleavage with the base to give iodoform (CHI3) and a carboxylate salt:
+
+        R-CO-CH3  + 3I2 + 4NaOH --> R-COO-Na+ + CHI3(s) + 3NaI + 3H2O
+
+    *   Butanal (A) *does not* give a positive iodoform test. It does not have a methyl group directly attached to the carbonyl carbon; therefore, it cannot undergo the series of reactions necessary to form iodoform.
+
+**3. Summary:**
+
+In summary, the differing reactivities of compounds A (Butanal) and B (Butan-2-one) with Tollens' and iodoform reagents are directly attributable to the presence of aldehyde functional group in Butanal and methyl ketone group in Butan-2-one, respectively. This highlights how functional groups dictate the characteristic chemical behavior of organic molecules. The reactions clearly differentiate between aldehydes and ketones with specific structural features.
+
+2.  **Acidity and Basicity Comparison:** Consider the following series of compounds: Ethanol, Phenol, Acetic Acid, and Ethylamine. Explain the factors influencing the relative acidity or basicity of each compound. Arrange these compounds in order of increasing acidity, justifying your arrangement with respect to resonance, inductive, and hydrogen bonding effects.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for CBSE Class 11-12 students, based on the provided NCERT content.
+
+**Answer:**
+
+To compare the acidity and basicity of Ethanol, Phenol, Acetic Acid, and Ethylamine, we need to consider the factors that influence the stability of their conjugate bases or acids after deprotonation (for acids) or protonation (for bases). These factors include resonance, inductive effects, and hydrogen bonding.
+
+**1. Ethanol (CH3CH2OH):**
+
+*   **Nature:** Ethanol is an alcohol.
+*   **Acidity:** Ethanol is weakly acidic. When it loses a proton (H+), it forms the ethoxide ion (CH3CH2O-).
+*   **Factors:**
+    *   **Inductive Effect:** The ethyl group (+I effect) slightly destabilizes the negative charge on the oxygen atom of the ethoxide ion, making it a relatively strong base and ethanol a weak acid.
+    *   **Hydrogen Bonding:** Ethanol can form hydrogen bonds, but this primarily affects its physical properties (like boiling point) and has a minimal impact on its acidity.
+
+**2. Phenol (C6H5OH):**
+
+*   **Nature:** Phenol is an aromatic alcohol.
+*   **Acidity:** Phenol is more acidic than ethanol but less acidic than carboxylic acids. When it loses a proton, it forms the phenoxide ion (C6H5O-).
+*   **Factors:**
+    *   **Resonance:** The phenoxide ion is stabilized by resonance. The negative charge on the oxygen atom is delocalized into the benzene ring, making the phenoxide ion more stable than the ethoxide ion. This increased stability of the conjugate base makes phenol a stronger acid than ethanol.
+    *   **Inductive Effect:** The benzene ring is an electron-withdrawing group (-I effect), which also helps stabilize the negative charge on the oxygen of the phenoxide ion, though less significantly than resonance.
+    *   **Hydrogen Bonding:** Similar to ethanol, hydrogen bonding doesn't significantly contribute to the *acidity* of phenol, but it affects its solubility.
+
+**3. Acetic Acid (CH3COOH):**
+
+*   **Nature:** Acetic acid is a carboxylic acid.
+*   **Acidity:** Acetic acid is significantly more acidic than both ethanol and phenol. When it loses a proton, it forms the acetate ion (CH3COO-).
+*   **Factors:**
+    *   **Resonance:** The acetate ion is highly stabilized by resonance. The negative charge is delocalized equally over *two* oxygen atoms, making it more stable than the phenoxide ion (where the charge is delocalized over the ring carbons and the oxygen). This enhanced resonance stabilization results in acetic acid being a much stronger acid.
+    *   **Inductive Effect:** The carbonyl group (C=O) is strongly electron-withdrawing (-I effect), further stabilizing the negative charge on the acetate ion.
+    *   **Hydrogen Bonding:** Hydrogen bonding does contribute to the overall stability of the molecule and its interaction with the solvent, influencing acidity to some extent.
+
+**4. Ethylamine (CH3CH2NH2):**
+
+*   **Nature:** Ethylamine is an amine.
+*   **Basicity:** Ethylamine is a base. It accepts a proton (H+) to form the ethylammonium ion (CH3CH2NH3+).
+*   **Factors:**
+    *   **Inductive Effect:** The ethyl group (+I effect) is an electron-releasing group, which increases the electron density on the nitrogen atom. This makes the nitrogen more available to accept a proton (H+), increasing the basicity of ethylamine compared to ammonia.
+    *   **Solvation:** Solvation effects can influence the basicity. In aqueous solution, the ethylammonium ion is stabilized by hydrogen bonding with water molecules.
+    *   **Comparison to other compounds:**  Ethylamine's *basicity* means it is *least* acidic of the compounds listed.
+
+**Order of Increasing Acidity:**
+
+Based on the above explanations, the compounds, arranged in order of increasing acidity, are:
+
+**Ethylamine < Ethanol < Phenol < Acetic Acid**
+
+**Justification:**
+
+*   **Ethylamine** is a base, so it's the *least* acidic.
+*   **Ethanol** is a very weak acid due to the destabilizing inductive effect of the ethyl group on the ethoxide ion.
+*   **Phenol** is more acidic than ethanol because the phenoxide ion is stabilized by resonance delocalization of the negative charge into the benzene ring.
+*   **Acetic Acid** is the most acidic because the acetate ion is stabilized by resonance delocalization of the negative charge over two oxygen atoms and the electron-withdrawing effect of the carbonyl group.
+
+3.  **Reaction Mechanism and Product Prediction:** Propose a detailed step-by-step mechanism for the base-catalyzed Aldol condensation between two molecules of propanal (CH3CH2CHO). Predict the major organic product, including its IUPAC name, and explain why that particular product is favored. Show all relevant intermediates, including charges and electron flow with arrows.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the provided assignment question about the base-catalyzed Aldol condensation of propanal.
+
+**Answer:**
+
+The Aldol condensation is a carbon-carbon bond-forming reaction that's crucial in organic synthesis.  Here's the step-by-step mechanism for the base-catalyzed Aldol condensation of two molecules of propanal (CH3CH2CHO), prediction of the major product, and the reasoning behind its formation.
+
+**1. Step 1: Formation of the Enolate Ion**
+
+*   A base (usually hydroxide, OH<sup>-</sup>) abstracts an alpha-hydrogen (a hydrogen atom on the carbon atom adjacent to the carbonyl group) from one molecule of propanal.  This is the *rate-determining step* of the reaction.
+
+```
+CH3CH2CHO + OH-  <-->  CH3CH-CHO  +  H2O
+                     |
+                     (-)
+```
+
+*   **Explanation:** The alpha-hydrogens are acidic due to the electron-withdrawing effect of the carbonyl group, which stabilizes the resulting carbanion (the enolate ion) through resonance. The equilibrium favors the reactants, which is why a strong base is often used. We show the carbanion localized, but remember it is stabilized by resonance.
+
+**2. Step 2: Nucleophilic Attack of the Enolate Ion on the Carbonyl Carbon**
+
+*   The enolate ion (a strong nucleophile) attacks the electrophilic carbonyl carbon of a second molecule of propanal. This forms a new carbon-carbon bond.
+
+```
+      CH3CH-CHO      +   CH3CH2CHO   -->   CH3CH-CH(OH)CH2CH3
+         |                      |
+         (-)                    CHO
+```
+
+*   **Explanation:**  The negatively charged carbon of the enolate attacks the partially positive carbon of the carbonyl group, breaking the pi bond of the carbonyl and forming a new sigma bond. This generates an alkoxide intermediate.
+
+**3. Step 3: Protonation of the Alkoxide Intermediate**
+
+*   The alkoxide intermediate is protonated by water (formed in the first step) to regenerate the hydroxide catalyst and form the Aldol product (a β-hydroxyaldehyde).
+
+```
+ CH3CH-CH(OH)CH2CH3   +   H2O   -->  CH3CH2CH(OH)CH(CHO)CH2CH3 + OH-
+   |
+   CHO
+```
+
+*   **Explanation:** Water acts as an acid to protonate the alkoxide, resulting in the β-hydroxyaldehyde product and regenerating the hydroxide catalyst, so the reaction can proceed again.
+
+**4. Step 4: Dehydration (Elimination of Water) - Formation of the α,β-Unsaturated Aldehyde**
+
+*   The β-hydroxyaldehyde can undergo dehydration (loss of water) in the presence of base (or acid) to form an α,β-unsaturated aldehyde. The hydroxide removes a hydrogen atom from the alpha carbon, and the hydroxyl group on the beta carbon is lost as water, forming a double bond between the alpha and beta carbons.
+
+```
+CH3CH2CH(OH)CH(CHO)CH2CH3 + OH- --> CH3CH2CH=C(CHO)CH2CH3 + H2O
+```
+
+*   **Explanation:** This step involves the removal of water to form a conjugated system. The double bond is conjugated with the carbonyl group, which makes the product more stable due to resonance delocalization of electrons.
+
+**Major Product Prediction and IUPAC Name:**
+
+The major product of this Aldol condensation is **2-methylpent-2-enal.**
+
+**Why this product is favored:**
+
+The α,β-unsaturated aldehyde is the major product because the double bond is conjugated with the carbonyl group. This conjugation provides extra stability to the molecule due to the delocalization of electrons through resonance.  The conjugated system (C=C-C=O) is significantly more stable than the unconjugated β-hydroxyaldehyde, making the dehydration step essentially irreversible under these reaction conditions. Furthermore, trans isomers tend to be favored for steric reasons in similar elimination reactions.
+Therefore, the molecule that results from this mechanism is:
+2-methylpent-2-enal.
+
+**Important Notes:**
+
+*   **Electron Flow Arrows:** Make sure to draw curved arrows to show the movement of electrons in each step of the mechanism.  Arrows originate from a source of electrons (lone pair or bond) and point to where the electrons are going.
+*   **Reversibility:** The initial steps (enolate formation and nucleophilic attack) are often reversible. The dehydration step is usually irreversible under these conditions, driving the reaction to completion.
+*   **Stereochemistry:** In more complex Aldol condensations, stereochemistry at the newly formed chiral centers can be important.
+
+This detailed answer provides a comprehensive explanation of the Aldol condensation mechanism, addressing all aspects of the assignment question and demonstrating a clear understanding of the underlying chemical principles. Remember to practice drawing mechanisms to become comfortable with the process!

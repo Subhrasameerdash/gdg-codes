@@ -1,0 +1,157 @@
+1.  **Coefficient Conundrum:** Determine the coefficient of x<sup>5</sup> in the expansion of (2x<sup>2</sup> - 3/x)<sup>10</sup>. Explain the steps involved in arriving at your answer, clearly stating the term containing x<sup>5</sup> and how the coefficient is calculated.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+To find the coefficient of x<sup>5</sup> in the expansion of (2x<sup>2</sup> - 3/x)<sup>10</sup>, we'll use the Binomial Theorem. The general term in the binomial expansion of (a + b)<sup>n</sup> is given by:
+
+T<sub>r+1</sub> = <sup>n</sup>C<sub>r</sub> * a<sup>n-r</sup> * b<sup>r</sup>
+
+In our case, a = 2x<sup>2</sup>, b = -3/x, and n = 10. So, the (r+1)<sup>th</sup> term is:
+
+T<sub>r+1</sub> = <sup>10</sup>C<sub>r</sub> * (2x<sup>2</sup>)<sup>10-r</sup> * (-3/x)<sup>r</sup>
+
+Now, we simplify this term to find the power of x:
+
+T<sub>r+1</sub> = <sup>10</sup>C<sub>r</sub> * 2<sup>10-r</sup> * x<sup>2(10-r)</sup> * (-3)<sup>r</sup> * x<sup>-r</sup>
+
+T<sub>r+1</sub> = <sup>10</sup>C<sub>r</sub> * 2<sup>10-r</sup> * (-3)<sup>r</sup> * x<sup>20-2r-r</sup>
+
+T<sub>r+1</sub> = <sup>10</sup>C<sub>r</sub> * 2<sup>10-r</sup> * (-3)<sup>r</sup> * x<sup>20-3r</sup>
+
+We want to find the coefficient of x<sup>5</sup>.  Therefore, we need to find the value of 'r' for which the power of x is 5:
+
+20 - 3r = 5
+
+3r = 15
+
+r = 5
+
+Now that we have found the value of r = 5, we can substitute it back into the general term to find the specific term containing x<sup>5</sup>:
+
+T<sub>5+1</sub> = T<sub>6</sub> = <sup>10</sup>C<sub>5</sub> * 2<sup>10-5</sup> * (-3)<sup>5</sup> * x<sup>5</sup>
+
+T<sub>6</sub> = <sup>10</sup>C<sub>5</sub> * 2<sup>5</sup> * (-3)<sup>5</sup> * x<sup>5</sup>
+
+Now, we calculate the binomial coefficient <sup>10</sup>C<sub>5</sub>:
+
+<sup>10</sup>C<sub>5</sub> = 10! / (5! * 5!) = (10 * 9 * 8 * 7 * 6) / (5 * 4 * 3 * 2 * 1) = 252
+
+Substitute this value back into the term:
+
+T<sub>6</sub> = 252 * 32 * (-243) * x<sup>5</sup>
+
+T<sub>6</sub> = -1959552 * x<sup>5</sup>
+
+Therefore, the coefficient of x<sup>5</sup> in the expansion of (2x<sup>2</sup> - 3/x)<sup>10</sup> is -1959552.
+
+**In summary:**
+
+1.  **General Term:** We used the general term formula from the Binomial Theorem.
+2.  **Power of x:**  We determined the power of x in the general term and set it equal to 5 (since we want the coefficient of x<sup>5</sup>).
+3.  **Solve for r:** We solved for 'r' to find which term in the expansion contains x<sup>5</sup>.
+4.  **Substitute r:** We substituted the value of 'r' back into the general term.
+5.  **Calculate:** We calculated the binomial coefficient and simplified the expression to find the coefficient of x<sup>5</sup>. The term containing x<sup>5</sup> is -1959552x<sup>5</sup>, and thus the coefficient of x<sup>5</sup> is -1959552.
+
+2.  **Approximation Application:** Use the Binomial Theorem to approximate the value of (1.02)<sup>8</sup> to three decimal places. Justify your choice of terms to include in the approximation and explain why higher-order terms can be neglected.
+Sample Answer:
+Here's a sample answer to the given assignment question, suitable for CBSE class 11-12 students, based on the provided NCERT chapter content:
+
+**Question:** Use the Binomial Theorem to approximate the value of (1.02)<sup>8</sup> to three decimal places. Justify your choice of terms to include in the approximation and explain why higher-order terms can be neglected.
+
+**Answer:**
+
+We want to approximate (1.02)<sup>8</sup> using the Binomial Theorem. We can rewrite 1.02 as (1 + 0.02). Now we can apply the Binomial Theorem:
+
+(1 + x)<sup>n</sup> = <sup>n</sup>C<sub>0</sub>(1)<sup>n</sup> + <sup>n</sup>C<sub>1</sub>(1)<sup>n-1</sup>(x) + <sup>n</sup>C<sub>2</sub>(1)<sup>n-2</sup>(x)<sup>2</sup> + <sup>n</sup>C<sub>3</sub>(1)<sup>n-3</sup>(x)<sup>3</sup> + ... + <sup>n</sup>C<sub>n</sub>(x)<sup>n</sup>
+
+In our case, x = 0.02 and n = 8.  Let's calculate the first few terms of the expansion:
+
+*   **Term 1:** <sup>8</sup>C<sub>0</sub>(1)<sup>8</sup> = 1 * 1 = 1
+*   **Term 2:** <sup>8</sup>C<sub>1</sub>(1)<sup>7</sup>(0.02) = 8 * 1 * 0.02 = 0.16
+*   **Term 3:** <sup>8</sup>C<sub>2</sub>(1)<sup>6</sup>(0.02)<sup>2</sup> = 28 * 1 * 0.0004 = 0.0112
+*   **Term 4:** <sup>8</sup>C<sub>3</sub>(1)<sup>5</sup>(0.02)<sup>3</sup> = 56 * 1 * 0.000008 = 0.000448
+*   **Term 5:** <sup>8</sup>C<sub>4</sub>(1)<sup>4</sup>(0.02)<sup>4</sup> = 70 * 1 * 0.00000016 = 0.0000112
+
+Now let's add these terms:
+
+1 + 0.16 + 0.0112 + 0.000448 + 0.0000112 = 1.1716592
+
+To approximate to three decimal places, we need to consider the magnitude of the terms. Notice that each subsequent term becomes significantly smaller due to the increasing power of 0.02.
+
+*   Term 1: 1
+*   Term 2: 0.16
+*   Term 3: 0.011
+*   Term 4: 0.000
+*   Term 5: 0.000
+
+**Justification:**
+
+We can neglect higher-order terms because they become increasingly insignificant as 'r' increases in the binomial expansion. This is because 'x' (0.02 in our case) is a small value (much less than 1).  When a small number is raised to higher powers, the resulting value rapidly approaches zero.  Therefore, the contribution of these higher-order terms to the final sum is negligible when we are approximating to a specific number of decimal places.
+
+In this case, Term 4 is 0.000448 and Term 5 is 0.0000112.
+
+Therefore, after the third term i.e. 0.0112, all the terms will have no contribution to the 3rd decimal place and hence can be neglected
+
+**Approximation:**
+
+Therefore, (1.02)<sup>8</sup> ≈ 1 + 0.16 + 0.0112 = 1.1712. Rounding this to three decimal places, we get:
+
+(1.02)<sup>8</sup> ≈ 1.171
+
+**Final Answer:**
+
+The approximate value of (1.02)<sup>8</sup> to three decimal places is 1.171. We included the first three terms of the binomial expansion and neglected higher-order terms because their contribution is insignificant when approximating to three decimal places, due to the small value of x = 0.02 raised to higher powers.
+
+3.  **Divisibility Dilemma:** Using the Binomial Theorem, prove that for any positive integer 'n', the expression 3<sup>2n</sup> - 8n - 1 is always divisible by 64.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content and explanations.
+
+**Question:** Using the Binomial Theorem, prove that for any positive integer 'n', the expression 3<sup>2n</sup> - 8n - 1 is always divisible by 64.
+
+**Answer:**
+
+To prove that 3<sup>2n</sup> - 8n - 1 is divisible by 64 for all positive integers 'n', we will use the Binomial Theorem.  The key idea is to rewrite 3<sup>2n</sup> in a form suitable for applying the theorem.
+
+1.  **Rewrite the expression:**
+
+    First, notice that 3<sup>2n</sup> can be rewritten as (3<sup>2</sup>)<sup>n</sup>, which is equal to 9<sup>n</sup>.  Now, we can express 9 as (1 + 8).  Therefore, we have:
+
+    3<sup>2n</sup> = 9<sup>n</sup> = (1 + 8)<sup>n</sup>
+
+2.  **Apply the Binomial Theorem:**
+
+    Using the Binomial Theorem to expand (1 + 8)<sup>n</sup>, we get:
+
+    (1 + 8)<sup>n</sup> = <sup>n</sup>C<sub>0</sub>(1)<sup>n</sup> + <sup>n</sup>C<sub>1</sub>(1)<sup>n-1</sup>(8) + <sup>n</sup>C<sub>2</sub>(1)<sup>n-2</sup>(8)<sup>2</sup> + <sup>n</sup>C<sub>3</sub>(1)<sup>n-3</sup>(8)<sup>3</sup> + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup>
+
+3.  **Simplify the expansion:**
+
+    Recall that <sup>n</sup>C<sub>0</sub> = 1 and <sup>n</sup>C<sub>1</sub> = n.  Also, any power of 1 is simply 1.  Therefore, the expansion simplifies to:
+
+    (1 + 8)<sup>n</sup> = 1 + n(8) + <sup>n</sup>C<sub>2</sub>(8)<sup>2</sup> + <sup>n</sup>C<sub>3</sub>(8)<sup>3</sup> + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup>
+
+    (1 + 8)<sup>n</sup> = 1 + 8n + <sup>n</sup>C<sub>2</sub>(64) + <sup>n</sup>C<sub>3</sub>(512) + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup>
+
+4.  **Substitute back into the original expression:**
+
+    Now, substitute this expansion of (1 + 8)<sup>n</sup>  back into the original expression:
+
+    3<sup>2n</sup> - 8n - 1 = (1 + 8n + <sup>n</sup>C<sub>2</sub>(64) + <sup>n</sup>C<sub>3</sub>(512) + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup>) - 8n - 1
+
+    3<sup>2n</sup> - 8n - 1 = 1 + 8n + <sup>n</sup>C<sub>2</sub>(64) + <sup>n</sup>C<sub>3</sub>(512) + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup> - 8n - 1
+
+5.  **Observe the terms:**
+
+    Notice that the '1' and '8n' terms cancel out:
+
+    3<sup>2n</sup> - 8n - 1 = <sup>n</sup>C<sub>2</sub>(64) + <sup>n</sup>C<sub>3</sub>(512) + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n</sup>
+
+    3<sup>2n</sup> - 8n - 1 =  64(<sup>n</sup>C<sub>2</sub> + <sup>n</sup>C<sub>3</sub>(8) + ... + <sup>n</sup>C<sub>n</sub>(8)<sup>n-2</sup>)
+
+6.  **Conclusion:**
+
+    From the simplified expression, we can see that every term contains a factor of 64.  Therefore, the entire expression 3<sup>2n</sup> - 8n - 1 is a multiple of 64.  This means that 3<sup>2n</sup> - 8n - 1 is always divisible by 64 for any positive integer 'n'.
+
+**Therefore, we have proved that 3<sup>2n</sup> - 8n - 1 is divisible by 64 using the Binomial Theorem.**

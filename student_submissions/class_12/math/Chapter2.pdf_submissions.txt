@@ -1,0 +1,102 @@
+1.  A student simplifies an expression to `cos(tan⁻¹(x))`. Determine a simplified algebraic expression equivalent to this trigonometric expression, clearly showing the steps involved in your derivation. What is the domain of the simplified expression?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student based on the provided NCERT chapter summary, definition and solved examples related to inverse trigonometric functions. This answer aims to be clear, concise, and provides step-by-step reasoning.
+
+**Answer:**
+
+Let's determine a simplified algebraic expression for  `cos(tan⁻¹(x))` and find the domain of the resulting expression.
+
+**Step 1: Introduce a Variable**
+
+Let  `θ = tan⁻¹(x)`.  This means  `tan(θ) = x`.
+
+**Step 2: Visualize with a Right-Angled Triangle**
+
+Since `tan(θ) = x = x/1`, we can think of `θ` as an angle in a right-angled triangle where:
+
+*   The opposite side to angle θ has length `x`.
+*   The adjacent side to angle θ has length `1`.
+
+**Step 3: Find the Hypotenuse**
+
+Using the Pythagorean theorem, the length of the hypotenuse (h) is:
+
+`h = √(x² + 1)`
+
+**Step 4: Express cos(θ) in Terms of x**
+
+Now, we want to find `cos(θ)`.  From our right-angled triangle, we know:
+
+`cos(θ) = Adjacent / Hypotenuse = 1 / √(x² + 1)`
+
+**Step 5: Substitute Back**
+
+Since `θ = tan⁻¹(x)`, we can substitute back to get:
+
+`cos(tan⁻¹(x)) = 1 / √(x² + 1)`
+
+**Therefore, the simplified algebraic expression for  `cos(tan⁻¹(x))` is `1 / √(x² + 1)`.**
+
+**Domain of the Simplified Expression**
+
+Now, let's determine the domain of `1 / √(x² + 1)`.
+
+*   **Square Root:** The expression under the square root, `x² + 1`, must be greater than or equal to 0.  However, since the square root is in the denominator, it must be strictly greater than 0.
+*   `x² + 1 > 0`  for all real numbers *x*.  This is because x² is always non-negative (≥0), and adding 1 makes it always positive (>0).
+*   **Denominator:**  Since `x² + 1 > 0`,  `√(x² + 1)` is always a positive real number. Therefore, the denominator is never zero.
+
+**Conclusion:**
+
+Since `x² + 1 > 0` for all real numbers *x*, the domain of the simplified expression `1 / √(x² + 1)` is all real numbers.
+
+**Domain:  (-∞, ∞) or ℝ**
+
+2.  Explain why restricting the domain of trigonometric functions is necessary to define their inverse functions. Use the example of the cosine function and its inverse, `cos⁻¹(x)`, to illustrate your explanation, specifically addressing the concepts of one-to-one functions and range.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the assignment question and drawing from the provided NCERT chapter content:
+
+**Answer:**
+
+To define the inverse of a function, the original function must be *one-to-one* (also known as injective). A function is one-to-one if each element in its range corresponds to only one element in its domain.  Trigonometric functions, like sine, cosine, tangent, etc., are periodic.  This means they repeat their values over regular intervals, and therefore, are *not* one-to-one over their entire natural domains.
+
+Consider the cosine function, *cos(x)*.  If we look at its entire domain (all real numbers), we see that many different values of *x* produce the same value of *cos(x)*. For example, *cos(0) = 1*, *cos(2π) = 1*, *cos(-2π) = 1*, and so on. Because multiple *x* values map to the same *y* value, the cosine function is not one-to-one over its entire domain.
+
+Because the cosine function is not one-to-one over all real numbers, it does not have an inverse over all real numbers.
+
+To define an inverse cosine function, denoted as *cos⁻¹(x)*, we must *restrict* the domain of the original cosine function to an interval where it *is* one-to-one. The standard accepted restricted domain for cosine is [0, π]. Within this interval, the cosine function is strictly decreasing, meaning each value of *x* maps to a unique value of *cos(x)*.  Therefore, *cos(x)* is one-to-one on the interval [0, π].
+
+When we define *cos⁻¹(x)*, the range of *cos⁻¹(x)* becomes [0, π]. This range is called the *principal value branch* of the inverse cosine function. So, *cos⁻¹(x)* gives us the *unique* angle between 0 and π whose cosine is *x*. The domain of  *cos⁻¹(x)* is [-1, 1], which is the range of *cos(x)* on the restricted domain [0, π].
+
+In summary, restricting the domain of the cosine function to [0, π] ensures that it is one-to-one, which is a necessary condition for defining its inverse, *cos⁻¹(x)*. This restriction also defines the range (principal value branch) of *cos⁻¹(x)* to be [0, π], ensuring that for any *x* in the domain [-1, 1], *cos⁻¹(x)* gives a unique angle within the specified interval. The same principle applies to defining the inverses of other trigonometric functions – we restrict their domains to intervals where they are one-to-one.
+
+3.  Evaluate the expression: `sin⁻¹(sin(5π/6))`. Explain why the answer is not simply `5π/6` and determine the correct principal value.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student regarding the evaluation of `sin⁻¹(sin(5π/6))`, explaining the concept of principal values:
+
+**Answer:**
+
+The expression we need to evaluate is `sin⁻¹(sin(5π/6))`.
+
+It's tempting to directly say the answer is `5π/6`, but this is incorrect.  We need to remember the concept of the principal value range for the inverse sine function, `sin⁻¹(x)`.
+
+**Key Concept: Principal Value Branch**
+
+The principal value branch of `sin⁻¹(x)` is `[-π/2, π/2]`.  This means that the output of `sin⁻¹(x)` *must* lie within this interval.
+
+**Why 5π/6 is Incorrect**
+
+The angle `5π/6` is in the second quadrant and its value is greater than π/2 (90 degrees). Therefore, it falls outside the principal value range of `sin⁻¹(x)`.
+
+**Finding the Correct Principal Value**
+
+1.  **Evaluate sin(5π/6):** We know that `sin(5π/6) = sin(π - π/6)`.  Using the identity `sin(π - θ) = sin(θ)`, we have:
+    `sin(5π/6) = sin(π/6) = 1/2`
+
+2.  **Evaluate sin⁻¹(1/2):** Now we need to find the angle within the interval `[-π/2, π/2]` whose sine is `1/2`. We know that:
+    `sin(π/6) = 1/2`
+
+3.  **Therefore:** `sin⁻¹(sin(5π/6)) = sin⁻¹(1/2) = π/6`
+
+**Conclusion:**
+
+The correct principal value of `sin⁻¹(sin(5π/6))` is `π/6`.  We had to find an angle *within* the principal value range of `sin⁻¹(x)` that has the same sine value as `5π/6`. The principal value range ensures the inverse trigonometric functions are well-defined and have a unique output for each input.

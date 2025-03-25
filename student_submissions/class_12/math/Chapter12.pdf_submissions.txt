@@ -1,0 +1,183 @@
+1.  A clothing manufacturer produces two types of shirts: formal and casual. Formal shirts require 2 hours of cutting and 6 hours of sewing, while casual shirts require 5 hours of cutting and 4 hours of sewing. The manufacturer has a maximum of 40 hours available for cutting and 60 hours for sewing. If the profit on a formal shirt is $8 and the profit on a casual shirt is $6, formulate the linear programming problem to determine the number of each type of shirt to produce to maximize profit. Clearly define the objective function and all constraints. (This tests formulation and understanding of real-world applications).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling a Linear Programming problem formulation:
+
+**Answer:**
+
+To formulate the linear programming problem for the clothing manufacturer, we need to define the decision variables, the objective function, and the constraints based on the given information.
+
+**1. Define Decision Variables:**
+
+*   Let `x` represent the number of formal shirts produced.
+*   Let `y` represent the number of casual shirts produced.
+
+**2. Define the Objective Function:**
+
+The objective is to maximize profit. The profit from formal shirts is $8 per shirt, and the profit from casual shirts is $6 per shirt. Therefore, the objective function (Z) representing the total profit can be written as:
+
+Maximize `Z = 8x + 6y`
+
+Where:
+* `Z` is the total profit
+* `8x` is the profit from producing `x` formal shirts
+* `6y` is the profit from producing `y` casual shirts
+
+**3. Define the Constraints:**
+
+The constraints are the limitations imposed by the available resources (cutting and sewing hours).
+
+*   **Cutting Constraint:** Formal shirts require 2 hours of cutting, and casual shirts require 5 hours of cutting. The manufacturer has a maximum of 40 hours available for cutting.  This can be expressed as:
+
+    `2x + 5y ≤ 40`
+
+*   **Sewing Constraint:** Formal shirts require 6 hours of sewing, and casual shirts require 4 hours of sewing. The manufacturer has a maximum of 60 hours available for sewing. This can be expressed as:
+
+    `6x + 4y ≤ 60`
+
+*   **Non-Negativity Constraints:** The number of shirts produced cannot be negative. Therefore, we have:
+
+    `x ≥ 0`
+    `y ≥ 0`
+
+**4. Complete Formulation of the Linear Programming Problem:**
+
+The complete linear programming problem can be summarized as follows:
+
+Maximize: `Z = 8x + 6y`  (Objective Function - Maximize Profit)
+
+Subject to the following constraints:
+
+*   `2x + 5y ≤ 40`   (Cutting Constraint)
+*   `6x + 4y ≤ 60`   (Sewing Constraint)
+*   `x ≥ 0`           (Non-Negativity Constraint for Formal Shirts)
+*   `y ≥ 0`           (Non-Negativity Constraint for Casual Shirts)
+
+**Explanation:**
+
+*   The objective function `Z = 8x + 6y` represents the total profit we want to maximize.
+*   The constraints `2x + 5y ≤ 40` and `6x + 4y ≤ 60` represent the limitations on the available cutting and sewing hours, respectively. We use "less than or equal to" (≤) because the manufacturer cannot exceed the available hours.
+*   The constraints `x ≥ 0` and `y ≥ 0` are essential because the manufacturer cannot produce a negative number of shirts.  These are called non-negativity constraints.
+
+This formulation now provides a mathematical representation of the manufacturer's problem, which can be solved using graphical or algebraic methods to determine the optimal number of formal and casual shirts to produce in order to maximize profit.
+
+2.  Explain the significance of the feasible region in a linear programming problem. How does the nature of the feasible region (bounded vs. unbounded) influence the existence of an optimal solution? Provide an example of a scenario where an unbounded feasible region might not have a maximum value for the objective function. (This tests conceptual understanding and ability to apply knowledge).
+Sample Answer:
+Here's a sample answer suitable for a CBSE class 11-12 student, based on the provided NCERT content:
+
+**The Significance of the Feasible Region in Linear Programming**
+
+The feasible region in a linear programming problem is crucial because it represents the set of all possible solutions that satisfy all the constraints of the problem *simultaneously*. In simpler terms, it's the area on a graph where every point represents a combination of variable values (like the number of products to produce, or the amount of resources to allocate) that adheres to all the limitations and restrictions specified in the problem. Think of it as the "playground" where we are allowed to search for the best possible outcome. Without the feasible region, we would be considering solutions that are either impossible or violate the given conditions, rendering the entire process meaningless.
+
+**Bounded vs. Unbounded Feasible Regions and Optimal Solutions**
+
+The *nature* of the feasible region – whether it's bounded or unbounded – significantly impacts whether an optimal solution (a maximum or minimum value for the objective function) exists.
+
+*   **Bounded Feasible Region:** A bounded feasible region is one that can be completely enclosed within a circle.  In this case, a fundamental theorem of linear programming guarantees that an optimal solution *will* exist, assuming the objective function is also linear. Furthermore, the optimal solution will always occur at one of the *corner points* (vertices) of the feasible region. This simplifies the solution process because we only need to evaluate the objective function at a finite number of corner points to find the optimum.
+
+*   **Unbounded Feasible Region:** An unbounded feasible region extends infinitely in at least one direction. In this case, the existence of an optimal solution is *not* guaranteed.
+
+    *   **Minimum Value:** If the objective function coefficients are positive and the region is unbounded, a minimum may exist at a corner point nearest to the origin.
+    *   **Maximum Value:** In some cases, there might be a maximum value, but in many other cases, the objective function can increase indefinitely as we move further and further out in the unbounded region. This means there's no upper limit, and therefore, no maximum value.
+
+**Example of an Unbounded Feasible Region with No Maximum Value**
+
+Let's consider a problem with the following:
+
+*   **Objective Function:** Maximize `Z = x + y`
+*   **Constraints:**
+    *   `x ≥ 3`
+    *   `y ≥ 2`
+    *   `x + y ≥ 5`
+    *   `x ≥ 0, y ≥ 0` (These are technically redundant given the other two constraints, but we include them for completeness)
+
+If you were to graph these inequalities, you'd find that the feasible region extends infinitely upwards and to the right.  It's unbounded.
+
+Now, consider what happens to the value of `Z = x + y` as we pick points further and further out in this region.  For example:
+
+*   (3, 2): Z = 3 + 2 = 5
+*   (4, 2): Z = 4 + 2 = 6
+*   (3, 3): Z = 3 + 3 = 6
+*   (10, 10): Z = 10 + 10 = 20
+*   (100, 100): Z = 100 + 100 = 200
+
+As you can see, we can always find points (x, y) in the feasible region that give us a larger and larger value for Z.  Therefore, there is *no maximum* value for the objective function in this case. We can always find a point that gives us a bigger Z.
+
+3.  Consider the following constraints for a linear programming problem:  `x + y ≤ 5`, `2x + y ≤ 8`, `x ≥ 0`, `y ≥ 0`. Graphically determine the feasible region. Then, without being given an objective function, describe how you would find the *minimum* and *maximum* values of a generic objective function `Z = ax + by` within that feasible region, given different positive values for 'a' and 'b'. (This tests graphical solution skills and generalization of the corner point method).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the assignment question about Linear Programming:
+
+**Answer:**
+
+**1. Graphing the Feasible Region:**
+
+First, we need to graph the constraints to identify the feasible region.
+
+*   **Constraint 1: `x + y ≤ 5`**
+    *   To graph this, we first treat it as an equality: `x + y = 5`. This is a straight line.
+    *   Find two points on the line:  If `x = 0`, then `y = 5`. If `y = 0`, then `x = 5`.  So, we have the points (0, 5) and (5, 0).
+    *   Draw the line connecting these points.
+    *   Since the inequality is `x + y ≤ 5`, we need to determine which side of the line represents the solution set.  We can test the point (0, 0):  `0 + 0 ≤ 5` is true.  Therefore, the region *below* the line `x + y = 5`, including the line itself, is part of the feasible region.
+
+*   **Constraint 2: `2x + y ≤ 8`**
+    *   Treat it as an equality: `2x + y = 8`.
+    *   Find two points on the line: If `x = 0`, then `y = 8`. If `y = 0`, then `x = 4`.  So, we have the points (0, 8) and (4, 0).
+    *   Draw the line connecting these points.
+    *   Test the point (0, 0): `2(0) + 0 ≤ 8` is true.  Therefore, the region *below* the line `2x + y = 8`, including the line itself, is part of the feasible region.
+
+*   **Constraints 3 and 4: `x ≥ 0` and `y ≥ 0`**
+    *   These are the non-negativity constraints. They mean that the feasible region is restricted to the first quadrant (where both x and y are positive or zero).
+
+**The Feasible Region:**
+
+The feasible region is the area on the graph where *all* four constraints are satisfied simultaneously. It will be a polygon in the first quadrant, bounded by the x-axis, the y-axis, and the two lines `x + y = 5` and `2x + y = 8`. To accurately draw it, you'll need to plot the lines and shade the appropriate area.  The corner points of the feasible region are (0,0), (4,0), (0,5), and the intersection of the two lines.
+
+**Finding the Intersection Point:**
+
+To find the intersection of `x + y = 5` and `2x + y = 8`, we can solve the system of equations. Subtracting the first equation from the second, we get:
+
+`(2x + y) - (x + y) = 8 - 5`
+`x = 3`
+
+Substituting `x = 3` into `x + y = 5`, we get:
+
+`3 + y = 5`
+`y = 2`
+
+So, the intersection point is (3, 2).
+
+Therefore, the corner points of the feasible region are: (0, 0), (4, 0), (0, 5), and (3, 2).
+
+**2. Finding the Minimum and Maximum Values of `Z = ax + by`:**
+
+Even without specific values for 'a' and 'b', we can describe the process based on the Corner Point Method:
+
+*   **The Corner Point Theorem:**  The optimal (minimum or maximum) value of the objective function `Z = ax + by` will *always* occur at one of the corner points of the feasible region (assuming the feasible region is bounded, which it is in this case).
+
+*   **Procedure:**
+
+    1.  **Identify Corner Points:** We've already found the corner points: (0, 0), (4, 0), (0, 5), and (3, 2).
+
+    2.  **Evaluate Z at Each Corner Point:**  Substitute the x and y coordinates of each corner point into the objective function `Z = ax + by` and calculate the value of Z.  This will give you four values of Z:
+
+        *   At (0, 0): `Z = a(0) + b(0) = 0`
+        *   At (4, 0): `Z = a(4) + b(0) = 4a`
+        *   At (0, 5): `Z = a(0) + b(5) = 5b`
+        *   At (3, 2): `Z = a(3) + b(2) = 3a + 2b`
+
+    3.  **Compare the Values of Z:**  Compare the four values you calculated in the previous step: `0`, `4a`, `5b`, and `3a + 2b`.
+
+    4.  **Determine Minimum and Maximum:**
+
+        *   **Minimum Value:** The smallest of the four values is the minimum value of Z. Since `a` and `b` are positive, 0 will always be the minimum.
+
+        *   **Maximum Value:** The largest of the four values is the maximum value of Z.  *However*, without knowing the specific values of `a` and `b`, we *cannot* definitively say which of `4a`, `5b`, or `3a + 2b` is the largest. The maximum depends on the relative magnitudes of `a` and `b`.
+
+**Example to Illustrate Dependence on a and b:**
+
+*   **If a = 1 and b = 1:** The values of Z are 0, 4, 5, and 5. The maximum is 5, occurring at (0,5) and (3,2) since they are adjacent points.
+
+*   **If a = 2 and b = 1:** The values of Z are 0, 8, 5, and 8. The maximum is 8, occurring at (4,0) and (3,2) since they are adjacent points.
+
+**Conclusion:**
+
+By graphing the constraints, we can find the feasible region and its corner points. To find the minimum and maximum values of the objective function `Z = ax + by`, we evaluate Z at each corner point. The smallest value is the minimum (which is always 0 at (0,0) in this case), and the largest value is the maximum. However, the location of the maximum *depends on the specific values of 'a' and 'b'*. We can only determine the maximum *after* knowing the values of `a` and `b`. The optimal point may not be unique and may have multiple solutions.

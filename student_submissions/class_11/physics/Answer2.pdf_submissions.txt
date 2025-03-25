@@ -1,0 +1,187 @@
+1.  **Elastic Potential Energy & Thermal Expansion:** A metal rod of length *L* and cross-sectional area *A* is fixed between two rigid supports. Its temperature is increased by Δ*T*. Given the Young's modulus *Y* and the coefficient of linear expansion *α* of the metal, derive an expression for the elastic potential energy stored in the rod due to this temperature increase. Briefly explain the physical significance of each term in your derived expression.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 physics student:
+
+**Answer:**
+
+**1. Derivation of the Expression for Elastic Potential Energy:**
+
+When the temperature of the metal rod is increased, it tends to expand. However, since the rod is fixed between two rigid supports, it cannot freely expand. This constraint causes a compressive stress to develop within the rod. This stress, in turn, leads to strain and the storage of elastic potential energy. Let's derive an expression for this energy.
+
+*   **Thermal Strain:** The increase in temperature, Δ*T*, would cause the rod to expand by an amount Δ*L* if it were free. The change in length due to thermal expansion is given by:
+
+    Δ*L* = *L* *α* *ΔT*
+where α is the coefficient of linear expansion.
+
+Since the rod is fixed, this expansion is prevented, leading to a compressive strain. The thermal strain (*ε<sub>th</sub>*) is given by:
+
+    *ε<sub>th</sub>* = Δ*L*/ *L* = *α* *ΔT*
+
+*   **Stress Developed:** Due to the constraint, a compressive stress (*σ*) develops in the rod. We can relate stress and strain using Young's modulus (*Y*):
+
+    *σ* = *Y* *ε*
+
+In this case, the strain *ε* is equal in magnitude to the thermal strain *ε<sub>th</sub>* (since the rod is compressed by the same amount it would have expanded freely):
+    *σ* = *Y* *α* *ΔT*
+
+*   **Force Exerted:** The compressive force (*F*) acting on the rod's cross-sectional area *A* is:
+
+    *F* = *σ* *A* = *Y* *A* *α* *ΔT*
+
+*   **Elastic Potential Energy:** The elastic potential energy (*U*) stored in the rod is equal to the work done in compressing the rod. We can express it as:
+
+    *U* = (1/2) * *F* *ΔL*
+
+Substituting *F* = *Y* *A* *α* *ΔT* and *ΔL* = *L* *α* *ΔT*, we get:
+
+    *U* = (1/2) * (*Y* *A* *α* *ΔT*) * (*L* *α* *ΔT*)
+
+    *U* = (1/2) * *Y* *A* *L* *α<sup>2</sup>* *ΔT<sup>2</sup>*
+
+Therefore, the elastic potential energy stored in the rod is:
+
+    ** *U* = (1/2) * *Y* *A* *L* *α<sup>2</sup>* *ΔT<sup>2</sup>**
+
+**2. Physical Significance of Each Term:**
+
+Let's break down the significance of each term in the derived expression:
+
+*   **(1/2):** This factor arises from the fact that the force increases linearly with the displacement (compression) of the rod.  It reflects the average force acting during the compression.
+*   ***Y* (Young's Modulus):** Young's modulus is a material property that quantifies the stiffness of the metal. A higher *Y* indicates a stiffer material, meaning it requires more stress to produce a given strain. Therefore, a larger *Y* results in a higher potential energy stored for the same temperature change.
+*   ***A* (Cross-sectional Area):** The cross-sectional area represents the amount of material resisting the compression. A larger area means more material is being compressed, and thus, more energy is stored.
+*   ***L* (Length):** The original length of the rod influences the overall potential energy. A longer rod will experience a greater absolute change in length (Δ*L*) due to thermal expansion, leading to a larger strain and more stored energy.
+*   ***α* (Coefficient of Linear Expansion):** This material property indicates how much the metal expands per degree Celsius (or Kelvin) increase in temperature. A larger *α* means the material expands more for the same temperature change, leading to a greater compressive force and higher potential energy.
+*   ***ΔT* (Change in Temperature):** The change in temperature is the driving force behind the thermal expansion. The greater the temperature increase, the larger the expansion that is prevented, and the more significant the stress and stored elastic potential energy.  Note that the potential energy is proportional to the *square* of the temperature change, meaning even small increases in temperature can lead to substantial increases in the stored energy.
+
+**In Summary:**
+
+The derived expression highlights how the elastic potential energy stored in the constrained metal rod depends on the material properties (*Y*, *α*), the geometry of the rod (*A*, *L*), and the external influence (Δ*T*).  It demonstrates the interplay between thermal expansion and elasticity in determining the energy stored within the material.
+
+2.  **Fluid Dynamics & Surface Tension:** A small spherical raindrop of radius *r* is falling through air with a constant terminal velocity *v*. If *η* is the coefficient of viscosity of air and *T* is the surface tension of water, explain how these two factors (viscosity and surface tension) affect the raindrop's motion. Qualitatively describe how the terminal velocity would change if the surface tension were significantly increased.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student, addressing the assignment question about the effects of viscosity and surface tension on a raindrop's motion:
+
+**Answer:**
+
+The motion of a raindrop falling through the air is governed by a balance of forces, including gravity, viscous drag, and to a lesser extent, surface tension. Viscosity and surface tension play distinct roles in influencing the raindrop's terminal velocity.
+
+**1. Role of Viscosity (η):**
+
+*   **Viscous Drag:** As the raindrop falls, it encounters air resistance. Viscosity (η), the coefficient of viscosity of air, quantifies this resistance.  The more viscous the air, the greater the drag force acting on the raindrop.
+*   **Stokes' Law:** For a small spherical object moving through a viscous fluid at a low Reynolds number (which is generally the case for raindrops), the viscous drag force (F<sub>v</sub>) is given by Stokes' Law:
+
+    F<sub>v</sub> = 6πηrv
+
+    where:
+    *   η is the coefficient of viscosity of the air
+    *   r is the radius of the raindrop
+    *   v is the velocity of the raindrop
+
+*   **Effect on Motion:** This viscous drag force opposes the force of gravity acting on the raindrop. Initially, the raindrop accelerates downwards. However, as its velocity increases, the viscous drag force also increases.  Eventually, the viscous drag force balances the gravitational force (minus any buoyant force, which is usually negligible for raindrops), and the raindrop reaches a constant velocity called the **terminal velocity (v<sub>t</sub>)**.
+
+**2. Role of Surface Tension (T):**
+
+*   **Minimizing Surface Area:** Surface tension (T) is a property of liquids that causes the surface to behave like a stretched elastic membrane. It arises from the cohesive forces between liquid molecules. Surface tension tries to minimize the surface area of the liquid.
+*   **Shape Maintenance:** While the raindrop is falling, surface tension helps to maintain its (nearly) spherical shape, especially for smaller raindrops.  It resists the tendency of the raindrop to deform due to air resistance. The pressure difference across the curved surface of the raindrop, known as the Laplace pressure, is related to the surface tension and radius: ΔP = 2T/r.
+*   **Effect on Motion (Relatively Minor Compared to Viscosity):** The direct effect of surface tension on the *terminal velocity* is typically small for water raindrops in air. However, surface tension has a more significant influence on smaller droplets.
+
+**3. Qualitative Description of Terminal Velocity with Significantly Increased Surface Tension:**
+
+If the surface tension (T) of water were to increase *significantly*, the terminal velocity (v<sub>t</sub>) would be affected in the following way:
+
+*   **Increased Resistance to Deformation:**  A much higher surface tension would make the raindrop even *more* resistant to deformation.  It would remain more perfectly spherical as it falls.
+*   **Slight Decrease in Drag Force (Possibly):**  If the raindrop is more spherical it will have less surface area for the air to touch, thus reducing air friction.
+*   **Change in Terminal Velocity:** if surface tension increases drastically, the shape is more spherical, thus creating less friction. So, the terminal velocity will slightly increase.
+
+**In Summary:**
+
+*   **Viscosity** is the primary factor determining the terminal velocity of a raindrop by providing a drag force that opposes gravity.
+*   **Surface tension** mainly affects the shape of the raindrop and has a lesser, secondary effect on the terminal velocity.  A significantly increased surface tension would likely lead to a more spherical raindrop and a slight increase in the terminal velocity, although viscosity remains the dominant factor.
+
+3.  **Thermodynamics & Oscillations:** An ideal gas undergoes an adiabatic compression, reducing its volume to half its initial value. This compressed gas is then used as the working substance in a simple harmonic oscillator. How will the frequency of oscillation be affected by this compression, assuming the restoring force is proportional to the displacement and depends on the pressure of the gas? Justify your answer with relevant thermodynamic principles.
+Sample Answer:
+Here's a sample answer to the assignment question, tailored for CBSE class 11-12 students:
+
+**Answer:**
+
+Let's break down this problem into two parts: the adiabatic compression of the ideal gas and its subsequent use in a simple harmonic oscillator (SHO).
+
+**Part 1: Adiabatic Compression of the Ideal Gas**
+
+An adiabatic process is one where no heat is exchanged with the surroundings (Q = 0). For an ideal gas undergoing an adiabatic process, the following relationship holds:
+
+P₁V₁<sup>γ</sup> = P₂V₂<sup>γ</sup>
+
+Where:
+*   P₁ and V₁ are the initial pressure and volume, respectively.
+*   P₂ and V₂ are the final pressure and volume, respectively.
+*   γ (gamma) is the adiabatic index, defined as C<sub>p</sub>/C<sub>v</sub> (the ratio of specific heat at constant pressure to specific heat at constant volume). γ is always greater than 1.
+
+We are given that the volume is reduced to half its initial value: V₂ = V₁/2.  Substituting this into the adiabatic equation:
+
+P₁V₁<sup>γ</sup> = P₂(V₁/2)<sup>γ</sup>
+
+P₁V₁<sup>γ</sup> = P₂V₁<sup>γ</sup> / 2<sup>γ</sup>
+
+Solving for P₂:
+
+P₂ = P₁ * 2<sup>γ</sup>
+
+This tells us that the pressure of the gas *increases* by a factor of 2<sup>γ</sup> due to the adiabatic compression. Since γ > 1, the pressure more than doubles.
+
+**Part 2: Simple Harmonic Oscillator (SHO) with Gas Pressure Dependence**
+
+Now, consider the compressed gas as the working substance in a SHO. We are told that the restoring force (F) is proportional to the displacement (x) and depends on the pressure (P) of the gas.  Let's express this mathematically:
+
+F = -k'Px
+
+Where:
+*   F is the restoring force.
+*   x is the displacement from equilibrium.
+*   P is the pressure of the gas.
+*   k' is a proportionality constant that encapsulates the geometry and other physical properties of the oscillator.  It is assumed to remain constant.
+
+For a simple harmonic oscillator, the restoring force is generally given by:
+
+F = -kx
+
+Where k is the spring constant (or an equivalent constant for other types of oscillators).
+
+Comparing our equation (F = -k'Px) with the standard SHO equation (F = -kx), we can see that the effective "spring constant" for our system is:
+
+k = k'P
+
+This shows that the effective spring constant *depends* on the pressure of the gas.
+
+The frequency (f) of a SHO is given by:
+
+f = (1/2π)√(k/m)
+
+Where:
+*   f is the frequency of oscillation.
+*   k is the spring constant (or effective spring constant).
+*   m is the mass of the oscillating object.  We will assume that the mass remains constant.
+
+Substituting our expression for k (k = k'P) into the frequency equation:
+
+f = (1/2π)√(k'P/m)
+
+Now, let's find the ratio of the final frequency (f₂) after compression to the initial frequency (f₁):
+
+f₂ / f₁ =  [(1/2π)√(k'P₂/m)] / [(1/2π)√(k'P₁/m)]
+
+f₂ / f₁ = √(P₂/P₁)
+
+We know that P₂ = P₁ * 2<sup>γ</sup>. Substituting this:
+
+f₂ / f₁ = √(P₁ * 2<sup>γ</sup> / P₁)
+
+f₂ / f₁ = √(2<sup>γ</sup>)
+
+f₂ / f₁ = 2<sup>γ/2</sup>
+
+Therefore,  f₂ = f₁ * 2<sup>γ/2</sup>
+
+**Conclusion:**
+
+The frequency of oscillation will *increase* due to the adiabatic compression. Specifically, the final frequency (f₂) will be 2<sup>γ/2</sup> times the initial frequency (f₁). Since γ > 1, 2<sup>γ/2</sup> will be greater than 1, indicating an increase in frequency.  The greater the value of γ (meaning the gas is less prone to heat exchange internally during compression/expansion), the greater the increase in frequency. The adiabatic compression increases the pressure of the gas, which effectively increases the restoring force constant of the oscillator, leading to a higher frequency of oscillation.

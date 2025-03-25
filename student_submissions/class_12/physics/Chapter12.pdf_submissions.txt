@@ -1,0 +1,129 @@
+1.  Explain how Rutherford's alpha-particle scattering experiment led to the rejection of Thomson's "plum pudding" model of the atom and the subsequent proposal of the nuclear model. Critically evaluate one limitation of Rutherford's model.
+Sample Answer:
+Okay, here's a sample answer appropriate for a CBSE Class 11-12 student addressing the assignment question, based on the provided NCERT chapter content:
+
+**Answer:**
+
+Rutherford's alpha-particle scattering experiment provided crucial evidence that led to the downfall of Thomson's "plum pudding" model and paved the way for the nuclear model of the atom.
+
+**Rejection of Thomson's Model:**
+
+Thomson's plum pudding model envisioned the atom as a sphere of uniformly distributed positive charge with electrons embedded within it, like plums in a pudding. If this model were accurate, Rutherford reasoned that positively charged alpha particles fired at a thin gold foil would experience only minor deflections due to the weak, uniform positive charge.
+
+However, the experimental results were dramatically different. While most alpha particles did pass straight through the gold foil or were deflected by small angles, a small but significant fraction of alpha particles were deflected at large angles, some even bouncing back in the direction from which they came. This observation was completely inconsistent with Thomson's model. Rutherford himself famously said it was "as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you."
+
+**Proposal of the Nuclear Model:**
+
+To explain the unexpected scattering results, Rutherford proposed the nuclear model of the atom. This model posited that:
+
+*   **Most of the atom's mass and all of its positive charge are concentrated in a very small, dense region at the center called the nucleus.** This explained the large-angle deflections, as the alpha particles occasionally came very close to the concentrated positive charge of the nucleus and experienced a strong repulsive force.
+*   **Electrons orbit the nucleus like planets around the sun.** This explained why most alpha particles passed through undeflected, as the atom was mostly empty space.
+
+**Limitation of Rutherford's Model:**
+
+While Rutherford's nuclear model was a significant step forward, it had a critical limitation: its instability according to classical electromagnetic theory.
+
+According to classical physics, an accelerating charged particle (like an electron orbiting the nucleus) should continuously radiate electromagnetic energy. As the electron radiates energy, it would lose energy and spiral into the nucleus, causing the atom to collapse. This implies that atoms based on Rutherford's model should be inherently unstable and unable to exist for any reasonable length of time, contradicting the observed stability of matter.
+
+This limitation highlighted the need for a new model of the atom that could explain both the experimental observations of Rutherford and the stability of atoms. This eventually led to the development of Bohr's model, which incorporated quantum ideas to resolve this issue.
+
+2.  A hypothetical atom has only three energy levels: a ground state (E1), a first excited state (E2), and a second excited state (E3). If the wavelengths of photons emitted due to transitions from E3 to E2 and from E2 to E1 are λ1 and λ2 respectively, derive an expression for the wavelength of the photon emitted when the atom transitions directly from E3 to E1 in terms of λ1 and λ2.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+Let's analyze the energy transitions in this hypothetical atom to determine the wavelength of the photon emitted during the direct transition from E3 to E1.
+
+We know that the energy of a photon is related to its wavelength by the equation:
+
+E = hc/λ
+
+where:
+*   E is the energy of the photon
+*   h is Planck's constant
+*   c is the speed of light
+*   λ is the wavelength of the photon
+
+Let's denote the energy difference between the levels as follows:
+
+*   ΔE32 = E3 - E2  (Energy difference between E3 and E2)
+*   ΔE21 = E2 - E1  (Energy difference between E2 and E1)
+*   ΔE31 = E3 - E1  (Energy difference between E3 and E1)
+
+We are given the wavelengths of the photons emitted during the following transitions:
+
+*   E3 to E2: λ1. Therefore, ΔE32 = hc/λ1
+*   E2 to E1: λ2. Therefore, ΔE21 = hc/λ2
+
+We want to find the wavelength (let's call it λ3) of the photon emitted during the direct transition from E3 to E1. This means we want to find λ3 where ΔE31 = hc/λ3
+
+Now, notice a crucial relationship:  The total energy difference between E3 and E1 is simply the sum of the energy differences between E3 and E2, and E2 and E1.
+
+Therefore:
+
+ΔE31 = ΔE32 + ΔE21
+
+Substituting the expressions in terms of wavelengths:
+
+hc/λ3 = hc/λ1 + hc/λ2
+
+We can divide both sides of the equation by *hc* (since it's a common factor and non-zero):
+
+1/λ3 = 1/λ1 + 1/λ2
+
+Now, we want to solve for λ3.  To do this, we first find a common denominator on the right side:
+
+1/λ3 = (λ2 + λ1) / (λ1 * λ2)
+
+Finally, we take the reciprocal of both sides to solve for λ3:
+
+λ3 = (λ1 * λ2) / (λ1 + λ2)
+
+**Therefore, the wavelength of the photon emitted when the atom transitions directly from E3 to E1 is given by:**
+
+**λ3 = (λ1 * λ2) / (λ1 + λ2)**
+
+**Explanation:**
+
+This derivation uses the principle of energy conservation. When an electron transitions from a higher energy level to a lower energy level, the energy difference is released as a photon. The energy of the photon is directly related to its wavelength. The total energy change for a direct transition between two levels must be equal to the sum of the energy changes for any indirect path between those same two levels. By expressing these energy changes in terms of the given wavelengths and then using algebraic manipulation, we were able to find the desired wavelength, λ3, in terms of λ1 and λ2.
+
+3.  De Broglie's hypothesis assigns wave-like properties to matter. Explain how this concept provides a justification for Bohr's quantization of angular momentum in the hydrogen atom. Why is it significant that this hypothesis links seemingly disparate phenomena like particle momentum and wavelength?
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student:
+
+**Answer:**
+
+De Broglie's hypothesis, which states that matter exhibits wave-like properties with a wavelength inversely proportional to its momentum (λ = h/p), provides a compelling justification for Bohr's quantization condition of angular momentum in the hydrogen atom. Bohr's second postulate stated that the angular momentum (L) of an electron orbiting the nucleus is quantized, meaning it can only take on specific, discrete values: L = nh/2π, where n is an integer (1, 2, 3, ...), and h is Planck's constant.
+
+De Broglie's hypothesis explains *why* only these specific values of angular momentum are allowed. If we consider the electron as a wave, then for it to exist in a stable orbit around the nucleus, it must form a *standing wave*. A standing wave is a wave that doesn't travel but oscillates in place. This occurs when the circumference of the electron's orbit is an integer multiple of the electron's wavelength (λ). Mathematically:
+
+2πr = nλ  (where r is the radius of the orbit and n = 1, 2, 3, ...)
+
+Now, we can substitute de Broglie's wavelength equation (λ = h/p) into the above equation:
+
+2πr = n(h/p)
+
+Rearranging this equation, we get:
+
+pr = nh/2π
+
+Since momentum (p) is mass (m) times velocity (v), and angular momentum (L) is defined as r × p = mvr (for circular orbits), we can write:
+
+L = nh/2π
+
+This is precisely Bohr's quantization condition for angular momentum!
+
+Therefore, de Broglie's hypothesis provides a physical explanation for Bohr's postulate. It suggests that the quantization of angular momentum arises naturally from the wave nature of the electron and the requirement that it forms a stable standing wave in its orbit. Only orbits that accommodate an integer number of electron wavelengths are allowed; otherwise, the wave would interfere destructively with itself, and the electron could not maintain a stable orbit.
+
+**Significance:**
+
+The significance of de Broglie's hypothesis lies in its unification of seemingly disparate concepts: particle momentum and wavelength.
+
+*   **Wave-Particle Duality:** Before de Broglie, wave and particle behavior were considered mutually exclusive. Light was thought to be a wave, and matter was thought to be composed of particles. De Broglie's hypothesis shattered this classical view by proposing that *all* matter exhibits wave-like properties, and conversely, waves can exhibit particle-like properties (as seen in the photoelectric effect). This concept is known as wave-particle duality, a cornerstone of quantum mechanics.
+
+*   **Bridging Classical and Quantum Physics:** It provided a bridge between classical mechanics (which describes the motion of macroscopic objects) and quantum mechanics (which describes the behavior of microscopic particles). By linking momentum (a classical concept) to wavelength (a wave property), de Broglie's hypothesis demonstrated that the laws governing the microscopic world are fundamentally different from, but related to, those governing the macroscopic world.
+
+*   **Foundation for Quantum Mechanics:** De Broglie's work laid the foundation for the development of modern quantum mechanics, which is based on the idea that matter behaves as both a wave and a particle. This has profound implications for our understanding of the atom, the nature of light, and the universe as a whole. It explained atomic structure beyond just postulates.
+
+In summary, de Broglie's hypothesis provides a physical basis for Bohr's quantization of angular momentum by invoking the wave nature of electrons. Its significance lies in its unification of wave and particle behavior, bridging classical and quantum physics, and laying the foundation for modern quantum mechanics. It highlighted that the quantum world is fundamentally different from the classical world.

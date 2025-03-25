@@ -1,0 +1,120 @@
+1.  **A small insect is stuck on the edge of a spinning vinyl record. The record completes one revolution every 2 seconds. If the insect then moves inwards towards the center of the record at a constant radial speed while the record keeps spinning, describe how the insect's overall velocity (magnitude and direction) changes over time.** (This question tests understanding of circular motion, vector addition of velocities, and how radial and tangential components combine.)
+Sample Answer:
+Okay, here's a sample answer appropriate for a CBSE Class 11-12 student, given the provided chapter content (which seems to be heavily based on solved examples):
+
+**Answer:**
+
+The insect's overall velocity is a vector sum of its tangential velocity (due to the record's rotation) and its radial velocity (due to the insect moving inwards). Let's break down how each component changes and then discuss the combined effect:
+
+*   **Tangential Velocity (vt):**
+
+    *   **Magnitude:** The tangential velocity is given by *vt = rω*, where *r* is the distance from the center of the record (the radius) and *ω* is the angular velocity. Since the insect is moving *inwards*, the radius *r* is decreasing. The record's angular velocity *ω* is constant because it completes one revolution every 2 seconds (ω = 2π/2 = π rad/s).  Therefore, as *r* decreases, the magnitude of the tangential velocity, *vt*, *also decreases*.
+    *   **Direction:** The direction of the tangential velocity is always tangent to the circular path at the insect's location. As the record spins, this direction is constantly changing.
+
+*   **Radial Velocity (vr):**
+
+    *   **Magnitude:** The problem states the insect moves inwards at a *constant radial speed*. So, the magnitude of the radial velocity, *vr*, remains constant.
+    *   **Direction:** The direction of the radial velocity is always directly inwards, towards the center of the record.
+
+*   **Overall Velocity (v):**
+
+    *   **Magnitude:** The overall velocity is the vector sum of the tangential and radial velocities.  Since these velocities are perpendicular to each other, the magnitude of the overall velocity can be found using the Pythagorean theorem:  *v = √(vt² + vr²)*. Since *vt* is decreasing and *vr* is constant, the magnitude of the overall velocity *v* will *decrease* over time.
+    *   **Direction:** The direction of the overall velocity is given by the angle *θ* it makes with the radial direction (or tangential direction). We can say tan θ = vt/vr. Because vt is decreasing over time and vr is constant, θ will decrease over time, meaning the insect's overall direction of motion will become more and more aligned with the radial direction, pointing closer and closer to the center of the record.
+
+**In summary:**
+
+As the insect moves inwards:
+
+*   The magnitude of its **tangential velocity decreases**.
+*   The magnitude of its **radial velocity remains constant**.
+*   The **magnitude of its overall velocity decreases**.
+*   The **direction of its overall velocity changes**, becoming more and more directed towards the center of the record.
+
+2.  **Imagine a motorboat capable of a certain speed in still water, attempts to cross a wide river with a consistent current flowing perpendicularly to the boat's intended path. If the boat operator wants to reach a point directly across the river, explain the relationship between the boat's speed, the river's current, and the angle at which the boat must be steered. Derive an expression for the time taken to cross the river in this scenario.** (This question tests understanding of relative velocity, vector components, and problem-solving in two dimensions.)
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the motorboat problem, based on the limited chapter content provided (assuming it covers basic vector concepts):
+
+**Answer:**
+
+To reach a point directly across a river with a current, the motorboat operator must steer the boat at an angle *upstream* to counteract the effect of the current. This is because the boat's velocity relative to the ground is the vector sum of its velocity in still water and the river's current velocity.  The boat needs to navigate the resultant vector towards the target location to counteract the flow of the river.
+
+Here's how the speeds, the current, and the angle relate, along with the time taken to cross the river:
+
+**1. Understanding the Vector Components:**
+
+*   Let  `v_b` be the magnitude of the boat's velocity in still water (a constant).
+*   Let `v_r` be the magnitude of the river's current velocity (also constant).
+*   Let `θ` be the angle (upstream) at which the boat is steered relative to the line directly across the river.
+*   We want the boat's resultant velocity (velocity relative to the ground), `v_res`, to be directed straight across the river.
+
+**2. Vector Diagram and Velocity Components:**
+
+Imagine a right-angled triangle where:
+
+*   The hypotenuse represents the boat's velocity in still water, `v_b`.
+*   The angle between the hypotenuse and the line directly across the river is `θ`.
+*   The horizontal component of the boat's velocity `v_b cos(θ)` represents the boat's velocity component directly across the river.
+*   The vertical component of the boat's velocity `v_b sin(θ)` represents the boat's velocity component directed upstream, opposing the river's current.
+
+**3. Balancing the Velocities:**
+
+To move directly across the river, the upstream component of the boat's velocity must exactly cancel out the river's current velocity.  Therefore:
+
+```
+v_b * sin(θ) = v_r
+```
+
+From this equation, we can determine the required steering angle:
+
+```
+sin(θ) = v_r / v_b
+θ = arcsin(v_r / v_b)
+```
+*Note: If `v_r > v_b`, then `sin(θ) > 1`, which is impossible. This means the boat's speed is insufficient to counteract the current, and the boat cannot reach a point directly across the river.*
+
+**4. Time to Cross the River:**
+
+*   Let `d` be the width of the river.
+*   The effective velocity with which the boat is moving directly across the river is the horizontal component of the boat's velocity in still water: `v_b * cos(θ)`.
+*   The time `t` taken to cross the river is:
+
+```
+t = d / (v_b * cos(θ))
+```
+
+We can also express `cos(θ)` in terms of `v_r` and `v_b` using the trigonometric identity `cos²(θ) + sin²(θ) = 1`:
+
+Since `sin(θ) = v_r / v_b`, then `sin²(θ) = (v_r / v_b)²`.
+
+Therefore, `cos²(θ) = 1 - (v_r / v_b)²`  and  `cos(θ) = √(1 - (v_r / v_b)²) `
+
+Substituting this into the time equation:
+
+```
+t = d / (v_b * √(1 - (v_r / v_b)²))
+t = d / √(v_b² - v_r²)
+```
+
+**In summary:**
+
+To reach a point directly across the river, the boat must be steered at an angle `θ = arcsin(v_r / v_b)` upstream. The time taken to cross the river in this scenario is `t = d / √(v_b² - v_r²)`.  This solution highlights the importance of vector addition and resolving vectors into their components to solve problems involving relative motion.  The boat's speed in still water must be greater than the river's current; otherwise, it cannot reach a point directly across the river.
+
+3.  **A projectile is launched from the top of a cliff at an angle to the horizontal. Qualitatively describe how Galileo's observations about projectile motion (as mentioned in "Two New...") help us understand the projectile's range, maximum height, and time of flight. Specifically address how the horizontal and vertical components of the motion are treated independently, and how this simplifies the analysis. Assume negligible air resistance.** (This question assesses understanding of projectile motion principles, the superposition of horizontal and vertical motion, and connecting theoretical concepts to Galileo's historical contributions.)
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content (and assuming a general understanding of projectile motion, as the content provides only a brief mention of Galileo):
+
+**Answer:**
+
+Galileo's observations on projectile motion, outlined in his book "Two New...", revolutionized our understanding of how objects move when projected into the air. His key insight, vital for analyzing projectile range, maximum height, and time of flight, was that projectile motion can be broken down into two independent components: horizontal and vertical motion.
+
+Here's how Galileo's ideas help us understand each aspect:
+
+*   **Independence of Motion:** Galileo recognized that the horizontal and vertical motions of a projectile are independent of each other (assuming negligible air resistance). The horizontal motion is uniform, meaning the projectile moves with a constant horizontal velocity. The vertical motion, on the other hand, is uniformly accelerated due to gravity. This separation is crucial because it allows us to analyze each component separately and then combine the results.
+
+*   **Range:** The range (horizontal distance covered) of a projectile depends on both its initial velocity and the launch angle. Because horizontal velocity is constant, the range is simply the product of the horizontal velocity component (v<sub>x</sub>) and the time of flight (T): Range = v<sub>x</sub> * T. Understanding the time of flight and the intial horizontal velocity will allow us to deduce the range.
+
+*   **Maximum Height:** The maximum height reached by the projectile is determined solely by the initial vertical velocity component (v<sub>y</sub>) and the acceleration due to gravity (g). As the projectile rises, gravity decelerates its upward motion until it momentarily stops at the highest point. We can use kinematic equations (derived from constant acceleration principles) to find this maximum height. Since the horizontal motion doesn't affect the vertical motion, it plays no role in determining the maximum height.
+
+*   **Time of Flight:** The time of flight is the total time the projectile spends in the air. This is primarily determined by the initial vertical velocity (v<sub>y</sub>) and the acceleration due to gravity (g). The time it takes for the projectile to reach its maximum height is equal to the time it takes to fall back down to its initial vertical position (if launched from and landing on the same level). Knowing 'g' and the initial vertical velocity component(v<sub>y</sub>) the time of flight is easily determinable. The horizontal motion is irrelevant for calculating the time of flight, further demonstrating the independence of the two components.
+
+In summary, Galileo's principle of treating projectile motion as a superposition of independent horizontal and vertical motions simplifies the analysis considerably. By analyzing each component separately using constant velocity and constant acceleration equations, we can accurately predict the projectile's range, maximum height, and time of flight. This decomposition method allowed for more accurate predictions and understanding of projectile motion than previous models.

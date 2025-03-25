@@ -1,0 +1,160 @@
+1.  **Dimensional Analysis & Conversion:** A student measures the radius of a sphere to be 2.1 cm using a standard ruler. They then calculate the volume of the sphere using the formula V = (4/3)πr³.
+Sample Answer:
+Okay, here's a sample answer for the assignment question, tailored for a CBSE Class 11-12 Physics student, based on the provided NCERT appendices content.
+
+**Answer:**
+
+**1. Dimensional Analysis & Conversion:**
+
+Let's break down this problem step-by-step, focusing on dimensional analysis and unit conversions where necessary.
+
+**(a) Understanding the Problem:**
+
+*   We are given the radius of a sphere, *r* = 2.1 cm.
+*   We need to calculate the volume, *V*, using the formula  V = (4/3)πr³.
+*   It's important to pay attention to units throughout the calculation.
+
+**(b) Calculation and Dimensional Analysis:**
+
+1.  **Volume Calculation:**
+    *   V = (4/3) * π * (2.1 cm)³
+    *   V = (4/3) * π * (2.1 * 2.1 * 2.1) cm³
+    *   V ≈ (4/3) * 3.14159 * 9.261 cm³
+    *   V ≈ 38.808 cm³
+
+2.  **Dimensional Analysis Check:**
+    *   The formula V = (4/3)πr³ involves the cube of the radius (length).
+    *   The dimension of length is [L]. Therefore, the dimension of volume is [L³].
+    *   Since we input the radius in centimeters (cm), the calculated volume is in cubic centimeters (cm³), which has the dimension [L³]. This confirms the dimensional consistency of our calculation.
+
+**(c) Unit Conversion (Optional but Recommended):**
+
+While the volume is correctly calculated in cm³, it's often useful to convert to SI units (meters cubed, m³).
+
+1.  **Conversion Factor:** 1 cm = 0.01 m  (or 1 m = 100 cm)
+2.  **Cubing the Conversion Factor:**  (1 cm)³ = (0.01 m)³ = 0.000001 m³ = 10⁻⁶ m³
+3.  **Converting cm³ to m³:**
+    *   V ≈ 38.808 cm³ * (10⁻⁶ m³/1 cm³)
+    *   V ≈ 3.8808 x 10⁻⁵ m³
+
+**(d) Significant Figures:**
+
+*   The radius is given as 2.1 cm, which has two significant figures.
+*   Therefore, our final answer should also be rounded to two significant figures.
+
+**(e) Final Answer:**
+
+*   Volume in cm³: V ≈ 39 cm³ (rounded to two significant figures)
+*   Volume in m³: V ≈ 3.9 x 10⁻⁵ m³ (rounded to two significant figures)
+
+**Explanation of Key Concepts Used:**
+
+*   **Dimensional Analysis:**  Ensuring that the units in a formula are consistent.  This helps verify that the formula is correct and that the calculation is meaningful. By looking at the powers of length, mass, time, etc., we can check if both sides of an equation have the same dimensions.
+*   **SI Units:** Using the International System of Units (SI) provides a standardized way to express measurements, making it easier to communicate scientific results.  In this case, the SI unit for length is the meter (m), and for volume, it's the meter cubed (m³).
+*   **Conversion Factors:**  These are ratios that allow us to change from one unit to another.  We used the conversion factor 1 cm = 0.01 m to convert from cubic centimeters to cubic meters.
+*   **Significant Figures:** Reflect the precision of a measurement and the certainty of a calculation.
+
+This comprehensive answer shows the calculation, dimensional analysis, unit conversion, and proper handling of significant figures, providing a clear and thorough response suitable for a CBSE Class 11-12 Physics student. It also highlights the importance of using the reference materials (like the NCERT appendices) correctly.
+
+2.  **Understanding SI Prefixes and Significant Figures:** A physics problem involves calculating the energy of a photon. The calculated energy is 3.25 x 10⁻¹⁹ Joules.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 physics student:
+
+**Answer:**
+
+The calculated energy of the photon is given as 3.25 x 10⁻¹⁹ Joules. This representation is already in scientific notation and includes the correct number of significant figures (three in this case: 3, 2, and 5). We can express this value using an appropriate SI prefix to make it more readable and easier to grasp the scale.
+
+1.  **Choosing a Suitable Prefix:**
+
+    *   We need to find a prefix that, when combined with Joules, will result in a number between 1 and 1000 (ideally). This makes the value easier to understand.
+
+    *   Common prefixes to consider for very small numbers include:
+
+        *   femto (f): 10⁻¹⁵
+        *   pico (p): 10⁻¹²
+        *   nano (n): 10⁻⁹
+        *   micro (µ): 10⁻⁶
+
+2.  **Applying the Prefix:**
+
+    *   Let's try to express the given energy using the 'atto' prefix (a = 10⁻¹⁸).
+
+        *3.25 * 10⁻¹⁹ J = 0.325 * 10⁻¹⁸ J*
+
+        * = 0.325 aJ (attojoules)*
+
+    *    So, we can express the energy as 325 aJ (attojoules). This representation can be convenient in specific contexts.
+
+**Explanation of Significant Figures:**
+
+The value 3.25 x 10⁻¹⁹ J has three significant figures. Significant figures are the digits in a number that are known with certainty plus one uncertain digit. In this case:
+
+*   '3' is significant
+*   '2' is significant
+*   '5' is significant
+
+The exponent (-19) only indicates the order of magnitude and does not affect the number of significant figures.  It's important to maintain the correct number of significant figures throughout calculations to avoid overstating the precision of your result. If, for example, this value was the *result* of a calculation involving other numbers with only *two* significant figures, it would be necessary to round the final answer to two significant figures, yielding 3.3 x 10⁻¹⁹ J.
+
+3.  **Application of Physical Constants and Trigonometry:** A projectile is launched with an initial velocity *v₀* at an angle θ to the horizontal. The range (horizontal distance covered) is given by the formula R = (v₀² sin(2θ))/g, where *g* is the acceleration due to gravity.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 physics student, based on the provided NCERT content.
+
+**Answer:**
+
+This problem involves applying our understanding of physical constants (specifically, acceleration due to gravity, *g*) and trigonometry (the sine function) to calculate the range of a projectile. The given formula, R = (v₀² sin(2θ))/g, directly relates the range *R* to the initial velocity *v₀*, launch angle θ, and gravitational acceleration *g*.
+
+Let's break down how we would solve a problem using this formula and the information from the NCERT appendices:
+
+**Understanding the Terms:**
+
+*   **R:** The range of the projectile, which is the horizontal distance it travels before hitting the ground. This is typically measured in meters (m).
+*   **v₀:** The initial velocity of the projectile. This is the speed at which it's launched. It is measured in meters per second (m/s).
+*   **θ:** The launch angle, which is the angle between the projectile's initial velocity vector and the horizontal. This is measured in degrees (°) or radians.
+*   **g:** The acceleration due to gravity. This is a physical constant, and its value is approximately 9.8 m/s². You can find this value listed in the "Important Constants" section of the NCERT appendices. It represents the constant acceleration experienced by objects due to Earth's gravity.
+*   **sin(2θ):** This is a trigonometric function. We need to calculate the sine of twice the launch angle. You might need to refer to your trigonometry knowledge (or the "Mathematical Formulae" section in the appendices, if available) to understand how to calculate the sine of an angle.
+
+**Steps to Solve a Problem:**
+
+1.  **Identify the Given Values:**  Read the problem carefully and identify the values provided for *v₀* and θ. Also, remember that *g* is a known constant (approximately 9.8 m/s²).
+
+2.  **Ensure Consistent Units:** Make sure all the values are in SI units (meters, seconds, radians). If the angle θ is given in degrees, you might need to convert it to radians before using the sine function (although most calculators will directly compute the sine of the angle in degrees). *Check the settings on your calculator.* The appendices may include conversion factors if needed (though degree to radian conversion is generally considered math knowledge).
+
+3.  **Calculate 2θ:** Multiply the launch angle θ by 2.
+
+4.  **Calculate sin(2θ):** Use a calculator to find the sine of the angle 2θ.
+
+5.  **Substitute the Values into the Formula:** Plug the values of *v₀*, sin(2θ), and *g* into the formula R = (v₀² sin(2θ))/g.
+
+6.  **Calculate the Range (R):** Perform the calculation to find the value of R.
+
+7.  **State the Answer with Units:**  Write the final answer with the correct units (meters).
+
+**Example:**
+
+Let's say a projectile is launched with an initial velocity of 20 m/s at an angle of 30° to the horizontal. What is the range of the projectile?
+
+1.  **Given Values:**
+    *   *v₀* = 20 m/s
+    *   θ = 30°
+    *   g = 9.8 m/s²
+
+2.  **Consistent Units:** All values are already in SI units.
+
+3.  **Calculate 2θ:** 2 * 30° = 60°
+
+4.  **Calculate sin(2θ):** sin(60°) ≈ 0.866
+
+5.  **Substitute:** R = (20² * 0.866) / 9.8
+
+6.  **Calculate R:** R = (400 * 0.866) / 9.8 ≈ 35.35 meters
+
+7.  **Answer:** The range of the projectile is approximately 35.35 meters.
+
+**Key Points to Remember:**
+
+*   The value of *g* (acceleration due to gravity) is a crucial constant. Always use the value provided (or a standard value like 9.8 m/s²) from the appendices.
+*   Pay close attention to units. Make sure all values are in SI units before performing calculations.
+*   Understand the trigonometry involved, particularly the sine function.
+*   The NCERT appendices are valuable resources for physical constants, unit conversions, and mathematical formulas. Use them to ensure accuracy in your calculations.
+
+By following these steps and utilizing the information in the NCERT appendices, you can confidently solve projectile motion problems.

@@ -1,0 +1,133 @@
+1.  **Conceptual Understanding of Functions:** Explain, with examples, why every function is a relation, but not every relation is a function. Use the concepts of domain and range in your explanation.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter summary and definitions:
+
+**Answer:**
+
+A **relation**, in simple terms, is a connection or association between elements of two sets.  Formally, it's defined as a subset of the Cartesian product of two sets, say A and B. This means a relation from A to B is simply a collection of ordered pairs (a, b), where 'a' belongs to set A and 'b' belongs to set B. The set of all 'a' values is called the domain and the set of all 'b' values is called the range.
+
+A **function** is a special type of relation.  It's a relation where each element in the *domain* (set A) is associated with *exactly one* element in the *range* (set B).  Think of it like a machine: you put in one input (from the domain), and you get only one specific output (from the range).
+
+**Why every function is a relation:**
+
+Because a function *is* a set of ordered pairs (just like a relation), it automatically fulfills the definition of a relation.  It *is* a subset of the Cartesian product of two sets. The key difference lies in the *restriction* placed on how the elements are related.
+
+**Why not every relation is a function:**
+
+The critical distinction is the "exactly one" rule. A relation can have one element in the first set (domain) related to multiple elements in the second set (range). A function *cannot* do this.
+
+**Examples to Illustrate:**
+
+*   **Example 1 (Relation that is NOT a function):**
+
+    Let A = {1, 2} and B = {3, 4, 5}.
+
+    Consider the relation R = {(1, 3), (1, 4), (2, 5)}.
+
+    *   Here, the element '1' in set A is related to *two* elements, '3' and '4', in set B. This violates the definition of a function. Therefore, R is a relation, but *not* a function.
+    *   Domain of R = {1, 2}
+    *   Range of R = {3, 4, 5}
+
+*   **Example 2 (Relation that IS a function):**
+
+    Let A = {1, 2} and B = {3, 4}.
+
+    Consider the relation f = {(1, 3), (2, 4)}.
+
+    *   Here, each element in set A ('1' and '2') is related to *exactly one* element in set B. This satisfies the definition of a function. Therefore, f is a relation and *also* a function.
+    *   Domain of f = {1, 2}
+    *   Range of f = {3, 4}
+
+*   **Example 3 (Relation that IS a function):**
+
+    Let A = {1, 2} and B = {3, 4, 5}.
+
+    Consider the relation f = {(1, 3), (2, 3)}.
+
+    *   Here, each element in set A ('1' and '2') is related to *exactly one* element in set B. Note that it's okay for two elements in A to map to the *same* element in B, as long as each element in A only maps to *one* element in B. This satisfies the definition of a function. Therefore, f is a relation and *also* a function.
+    *   Domain of f = {1, 2}
+    *   Range of f = {3}
+
+**In summary:**
+
+Think of all functions as being inside a larger circle of relations.  All functions are relations, but only a subset of relations qualify as functions because they must meet the "one input, one output" requirement. The concepts of domain and range are fundamental to understanding both relations and functions, defining the permissible inputs and the resulting outputs, respectively.
+
+2.  **Cartesian Product and Relations:** Given sets A, B, and C, describe a scenario where A × (B ∩ C) is significantly different from (A × B) ∩ (A × C). Explain the relationship between these two expressions using properties of Cartesian products and set intersection. Provide concrete examples of sets A, B, and C to support your answer.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+The Cartesian product, denoted by A × B, creates a set of all possible ordered pairs where the first element comes from set A and the second element comes from set B.  The intersection of two sets, denoted by B ∩ C, creates a set containing only elements that are common to both B and C.  Understanding these fundamental definitions is key to comparing A × (B ∩ C) and (A × B) ∩ (A × C).
+
+While these two expressions might seem similar, they are, in fact, *always* equal. This can be shown by proving that any element in A × (B ∩ C) is also in (A × B) ∩ (A × C), and vice versa.
+
+Let's break this down:
+
+*   **A × (B ∩ C):** This represents the Cartesian product of set A with the set resulting from the intersection of B and C. So, we're forming ordered pairs (a, x) where 'a' belongs to A and 'x' belongs to *both* B and C.
+
+*   **(A × B) ∩ (A × C):** This represents the intersection of two Cartesian products: A × B and A × C. A × B contains all ordered pairs (a, b) where 'a' is in A and 'b' is in B. A × C contains all ordered pairs (a, c) where 'a' is in A and 'c' is in C. The intersection of these two sets, (A × B) ∩ (A × C), contains only the ordered pairs that are present in *both* A × B and A × C.  This means we are looking for ordered pairs (a, y) such that 'a' is in A, and 'y' is *both* in B and in C.
+
+**Why are they always equal?**
+
+If an ordered pair (a, x) belongs to A × (B ∩ C), then 'a' is in A and 'x' is in (B ∩ C). This means 'x' is in both B and C. Therefore, (a, x) is in A × B (because 'a' is in A and 'x' is in B) *and* (a, x) is in A × C (because 'a' is in A and 'x' is in C). Consequently, (a, x) is in (A × B) ∩ (A × C).
+
+Conversely, if (a, x) belongs to (A × B) ∩ (A × C), then (a, x) is in both A × B and A × C. This means 'a' is in A, and 'x' is in B, *and* 'x' is in C. Thus, 'x' is in (B ∩ C). Therefore, (a, x) is in A × (B ∩ C).
+
+Since every element in A × (B ∩ C) is also in (A × B) ∩ (A × C), and vice versa, we can conclude that:
+
+**A × (B ∩ C) = (A × B) ∩ (A × C)**
+
+**Concrete Example:**
+
+Let's use some simple sets to illustrate:
+
+*   A = {1, 2}
+*   B = {2, 3, 4}
+*   C = {2, 4, 5}
+
+Then:
+
+*   B ∩ C = {2, 4}
+
+*   A × (B ∩ C) = {(1, 2), (1, 4), (2, 2), (2, 4)}
+
+Now let's find A × B and A × C:
+
+*   A × B = {(1, 2), (1, 3), (1, 4), (2, 2), (2, 3), (2, 4)}
+
+*   A × C = {(1, 2), (1, 4), (1, 5), (2, 2), (2, 4), (2, 5)}
+
+Finally, let's find the intersection of A × B and A × C:
+
+*   (A × B) ∩ (A × C) = {(1, 2), (1, 4), (2, 2), (2, 4)}
+
+As you can see, A × (B ∩ C) and (A × B) ∩ (A × C) are indeed equal in this example, confirming the general property. The two sides will be equal for any sets A,B and C.
+
+3.  **Real-Valued Functions and Their Properties:** A real-valued function f(x) is defined such that f(a+b) = f(a) + f(b) for all real numbers 'a' and 'b'. If f(1) = 5, determine the value of f(5) and justify your answer, referencing the properties of real-valued functions.
+Sample Answer:
+**Answer:**
+
+To determine the value of f(5), given that f(a+b) = f(a) + f(b) for all real numbers 'a' and 'b', and f(1) = 5, we can leverage the additive property of the function.
+
+Since f(a+b) = f(a) + f(b), we can express f(5) as f(1+1+1+1+1). Applying the given property repeatedly:
+
+f(5) = f(1+1+1+1+1)
+     = f(1) + f(1+1+1+1)
+     = f(1) + f(1) + f(1+1+1)
+     = f(1) + f(1) + f(1) + f(1+1)
+     = f(1) + f(1) + f(1) + f(1) + f(1)
+     = 5 * f(1)
+
+Given that f(1) = 5, we can substitute this value:
+
+f(5) = 5 * 5
+     = 25
+
+Therefore, f(5) = 25.
+
+**Justification:**
+
+This result is justified by the given property of the real-valued function f(x). The property f(a+b) = f(a) + f(b) implies that the function is linear with respect to addition. In simpler terms, the function scales linearly with its input when dealing with sums.  Since we can express 5 as the sum of five 1s (5 = 1+1+1+1+1), f(5) becomes the sum of five f(1)s.  This allows us to directly calculate f(5) using the known value of f(1).  The function effectively multiplies the input by a constant factor, which in this case is 5, derived from f(1) = 5.
+
+This property is characteristic of a linear function passing through the origin, where f(x) = kx for some constant k. In our case, k = 5, hence f(x) = 5x.

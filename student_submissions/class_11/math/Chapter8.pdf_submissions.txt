@@ -1,0 +1,236 @@
+1.  **Pattern Recognition and General Terms:** A sequence is defined by the following pattern: 1, 11, 111, 1111, ... Determine a general formula (a<sub>n</sub>) for the nth term of this sequence. Furthermore, derive a simplified expression for the sum of the first 'n' terms of this sequence.
+Sample Answer:
+Okay, here's a solution to the assignment question about the sequence 1, 11, 111, 1111,... designed for a CBSE Class 11-12 student.
+
+**Answer:**
+
+**1. Finding the General Formula (a<sub>n</sub>) for the nth Term:**
+
+*   **Understanding the Pattern:**  The sequence consists of numbers formed by repeating the digit '1'. The first term has one '1', the second term has two '1's, and so on.
+
+*   **Expressing the terms:** We can express each term as a sum of powers of 10:
+    *   a<sub>1</sub> = 1 = 10<sup>0</sup>
+    *   a<sub>2</sub> = 11 = 10<sup>1</sup> + 10<sup>0</sup>
+    *   a<sub>3</sub> = 111 = 10<sup>2</sup> + 10<sup>1</sup> + 10<sup>0</sup>
+    *   a<sub>4</sub> = 1111 = 10<sup>3</sup> + 10<sup>2</sup> + 10<sup>1</sup> + 10<sup>0</sup>
+
+*   **Generalizing:**  From this pattern, we can see that the nth term (a<sub>n</sub>) is the sum of powers of 10 from 10<sup>0</sup> up to 10<sup>n-1</sup>.  Therefore:
+
+    a<sub>n</sub> = 10<sup>n-1</sup> + 10<sup>n-2</sup> + ... + 10<sup>1</sup> + 10<sup>0</sup>
+
+*   **A More Compact Form (using Geometric Progression):** The expression for  a<sub>n</sub> is a geometric progression (G.P.) with the first term being 1 (or 10<sup>0</sup>), the common ratio being 10, and *n* terms.  We can use the formula for the sum of a G.P. to simplify this:
+
+    Sum of n terms of a G.P. = a(r<sup>n</sup> - 1) / (r - 1)
+
+    where a is the first term and r is the common ratio.
+
+    In our case, a = 1 and r = 10.  Therefore:
+
+    a<sub>n</sub> = (1 * (10<sup>n</sup> - 1)) / (10 - 1) = (10<sup>n</sup> - 1) / 9
+
+    So, the general formula for the nth term is:  **a<sub>n</sub> = (10<sup>n</sup> - 1) / 9**
+
+**2. Deriving a Simplified Expression for the Sum of the First 'n' Terms (S<sub>n</sub>):**
+
+*   **Defining S<sub>n</sub>:**  Let S<sub>n</sub> represent the sum of the first *n* terms of the sequence.
+
+    S<sub>n</sub> = a<sub>1</sub> + a<sub>2</sub> + a<sub>3</sub> + ... + a<sub>n</sub>
+
+*   **Substituting the Formula for a<sub>n</sub>:** Substitute the formula we derived for a<sub>n</sub> into the expression for S<sub>n</sub>:
+
+    S<sub>n</sub> = (10<sup>1</sup> - 1)/9 + (10<sup>2</sup> - 1)/9 + (10<sup>3</sup> - 1)/9 + ... + (10<sup>n</sup> - 1)/9
+
+*   **Simplifying:** We can factor out the 1/9:
+
+    S<sub>n</sub> = (1/9) * [(10<sup>1</sup> - 1) + (10<sup>2</sup> - 1) + (10<sup>3</sup> - 1) + ... + (10<sup>n</sup> - 1)]
+
+    Now, separate the powers of 10 and the -1s:
+
+    S<sub>n</sub> = (1/9) * [(10<sup>1</sup> + 10<sup>2</sup> + 10<sup>3</sup> + ... + 10<sup>n</sup>) - (1 + 1 + 1 + ... + 1)]
+
+    There are *n*  '1's being subtracted, so the second term becomes -n.  The first term is another G.P.!
+
+*   **Applying the G.P. Sum Formula Again:**  The terms inside the first set of parentheses form a G.P. with first term 10, common ratio 10, and *n* terms.  Using the G.P. sum formula:
+
+    Sum = 10 * (10<sup>n</sup> - 1) / (10 - 1) = 10 * (10<sup>n</sup> - 1) / 9
+
+*   **Putting it all together:**
+
+    S<sub>n</sub> = (1/9) * [10(10<sup>n</sup> - 1) / 9  - n]
+
+    To further simplify, we can get a common denominator:
+
+    S<sub>n</sub> = (1/9) * [ (10(10<sup>n</sup> - 1) - 9n) / 9 ]
+
+    S<sub>n</sub> =  (10<sup>n+1</sup> - 10 - 9n) / 81
+
+Therefore, the simplified expression for the sum of the first 'n' terms of the sequence is:
+
+**S<sub>n</sub> = (10<sup>n+1</sup> - 10 - 9n) / 81**
+
+**Explanation Summary for Student Understanding:**
+
+*   **General Term (a<sub>n</sub>):**  We found a formula to directly calculate any term in the sequence. Instead of writing out '1' *n* times, just plug the term number (*n*) into the formula (10<sup>n</sup> - 1) / 9.
+*   **Sum of n terms (S<sub>n</sub>):** We found a formula to calculate the sum of the first *n* terms.  This avoids having to calculate each term individually and then add them up. We used the formula: S<sub>n</sub> = (10<sup>n+1</sup> - 10 - 9n) / 81
+*   **Key Techniques:** The key to solving this problem was recognizing the patterns as geometric progressions and using the formulas for the sum of a G.P. to simplify the expressions.
+
+2.  **Geometric Progression and its Applications:** A ball is dropped from a height of 8 meters. Each time it hits the ground, it bounces back to a height that is three-quarters of the height from which it fell. Find the total distance the ball travels before it comes to rest.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided chapter content:
+
+**Question:** A ball is dropped from a height of 8 meters. Each time it hits the ground, it bounces back to a height that is three-quarters of the height from which it fell. Find the total distance the ball travels before it comes to rest.
+
+**Answer:**
+
+This problem involves a Geometric Progression (G.P.) because the height of each bounce is a constant fraction (3/4) of the previous bounce.  We need to consider both the downward and upward distances traveled by the ball.
+
+1.  **Downward Distance:**
+
+*   The ball initially falls 8 meters.
+*   After the first bounce, it falls (3/4) * 8 meters.
+*   After the second bounce, it falls (3/4) * (3/4) * 8 = (3/4)^2 * 8 meters.
+*   This continues indefinitely, forming a G.P.:  8, (3/4)*8, (3/4)^2*8, ...
+
+The first term, *a* = 8, and the common ratio, *r* = 3/4.
+The sum of an infinite G.P. when |r| < 1, which is true in this case, is given by:
+
+S = a / (1 - r)
+
+So, the total downward distance is:
+
+S_down = 8 / (1 - 3/4) = 8 / (1/4) = 32 meters
+
+2.  **Upward Distance:**
+
+*   After the first fall, the ball bounces up to (3/4) * 8 meters.
+*   After the second fall, it bounces up to (3/4)^2 * 8 meters.
+*   This also forms a G.P.: (3/4)*8, (3/4)^2*8, (3/4)^3*8, ...
+
+Here, the first term, *a* = (3/4) * 8 = 6, and the common ratio, *r* = 3/4.
+
+So, the total upward distance is:
+
+S_up = 6 / (1 - 3/4) = 6 / (1/4) = 24 meters
+
+3.  **Total Distance:**
+
+The total distance traveled by the ball is the sum of the downward and upward distances:
+
+Total Distance = S_down + S_up = 32 + 24 = 56 meters
+
+**Therefore, the total distance the ball travels before it comes to rest is 56 meters.**
+
+**Explanation of Key Concepts Used:**
+
+*   **Geometric Progression (G.P.):** Recognizing that the bounce heights form a G.P. is crucial. Each term is obtained by multiplying the previous term by a constant ratio (3/4 in this case).
+*   **Infinite G.P.:**  The ball theoretically keeps bouncing forever, though the bounces become infinitesimally small.  Since |r| < 1, we can use the formula for the sum of an infinite G.P.
+*   **Sum of Infinite G.P.:** The formula S = a / (1 - r) is used to find the sum of an infinite geometric series, where *a* is the first term and *r* is the common ratio. This formula is valid only when the absolute value of *r* is less than 1 (|r| < 1).
+*   **Breaking Down the Problem:** Separating the problem into downward and upward distances simplifies the calculation.  The initial drop is only a downward distance.
+
+This answer is complete, clearly explains the steps, and uses concepts and vocabulary appropriate for a Class 11-12 student studying sequences and series.  It also explains *why* certain formulas are applicable.
+
+3.  **Arithmetic and Geometric Means Relationship:** The arithmetic mean (A.M.) of two positive numbers exceeds their geometric mean (G.M.) by 2, and their harmonic mean (H.M.) is 3.2. Determine the two numbers.
+Sample Answer:
+Okay, here's a solution to the problem, tailored for a Class 11-12 CBSE student:
+
+**Understanding the Problem**
+
+Before we dive into the calculations, let's break down what the problem is asking. We have two unknown positive numbers. We're given relationships between their Arithmetic Mean (A.M.), Geometric Mean (G.M.), and Harmonic Mean (H.M.). Our goal is to find those two numbers.
+
+**Key Formulas**
+
+Let the two positive numbers be *a* and *b*. We'll need these formulas:
+
+*   **Arithmetic Mean (A.M.):**  (a + b) / 2
+*   **Geometric Mean (G.M.):** √(ab)
+*   **Harmonic Mean (H.M.):** 2ab / (a + b)
+
+**Setting Up Equations**
+
+We can translate the problem's information into equations:
+
+1.  "The arithmetic mean (A.M.) of two positive numbers exceeds their geometric mean (G.M.) by 2":
+
+    (a + b) / 2 = √(ab) + 2
+
+2.  "Their harmonic mean (H.M.) is 3.2":
+
+    2ab / (a + b) = 3.2
+
+**Solving the Equations**
+
+This is where the algebra comes in. Here's one way to solve it:
+
+1.  **Simplify the H.M. equation:**
+
+    2ab = 3.2(a + b)  => ab = 1.6(a + b)
+
+2.  **Isolate (a+b) in the above equation:**
+
+    (a+b) = ab / 1.6
+
+3.  **Substitute (a+b) into the A.M. equation:**
+
+    (ab / 1.6) / 2 = √(ab) + 2
+    ab / 3.2 = √(ab) + 2
+
+4.  **Make a substitution to simplify further:** Let x = √(ab)
+
+    Then ab = x<sup>2</sup>. Substituting:
+
+    x<sup>2</sup> / 3.2 = x + 2
+    x<sup>2</sup> = 3.2x + 6.4
+    x<sup>2</sup> - 3.2x - 6.4 = 0
+
+5.  **Solve the quadratic equation for x:**
+
+    We can use the quadratic formula:
+
+    x = [ -b ± √(b<sup>2</sup> - 4ac) ] / 2a
+
+    x = [ 3.2 ± √((-3.2)<sup>2</sup> - 4(1)(-6.4)) ] / 2(1)
+    x = [ 3.2 ± √(10.24 + 25.6) ] / 2
+    x = [ 3.2 ± √(35.84) ] / 2
+    x = [ 3.2 ± 5.987 ] / 2  (approximately)
+
+    We get two possible values for x:
+
+    *   x<sub>1</sub> = (3.2 + 5.987) / 2 ≈ 4.5935
+    *   x<sub>2</sub> = (3.2 - 5.987) / 2 ≈ -1.3935
+
+    Since the geometric mean (√(ab)) must be positive (a and b are positive), we discard the negative solution.  Therefore, x = √(ab) ≈ 4.5935
+
+6.  **Calculate ab:**
+    ab = x<sup>2</sup> = (4.5935)<sup>2</sup> ≈ 21.1
+
+7.  **Substitute in equation derived in Step 2:**
+
+    (a+b) = ab / 1.6 = 21.1 / 1.6 ≈ 13.19
+
+8.  **Now we know a+b and ab so we can define a quadratic equation**
+
+    t<sup>2</sup> - (a+b)t + ab = 0
+    t<sup>2</sup> - 13.19t + 21.1 = 0
+
+9.  **Solving the quadratic equation for t (which represents a and b)**
+    t = [ -b ± √(b<sup>2</sup> - 4ac) ] / 2a
+
+    t = [ 13.19 ± √((-13.19)<sup>2</sup> - 4(1)(21.1)) ] / 2(1)
+    t = [ 13.19 ± √(173.9761 - 84.4) ] / 2
+    t = [ 13.19 ± √(89.5761) ] / 2
+    t = [ 13.19 ± 9.46 ] / 2  (approximately)
+
+    We get two possible values for t:
+
+    *   t<sub>1</sub> = (13.19 + 9.46) / 2 ≈ 11.325
+    *   t<sub>2</sub> = (13.19 - 9.46) / 2 ≈ 1.865
+
+**Answer:**
+
+Therefore, the two numbers are approximately **11.325** and **1.865**.
+
+**Important Notes:**
+
+*   **Approximations:**  Since we used approximations during calculations, the final answer is also an approximation. Using more precise intermediate values will lead to a more accurate final answer.
+*   **Checking the Answer:**  You can (and *should*) plug these values back into the original equations for A.M., G.M., and H.M. to verify that they satisfy the given conditions. Because of the approximations, you may not get *exactly* the values stated in the problem, but they should be very close.
+*   **Alternative Methods:** There might be other algebraic manipulations you could use to solve this system of equations. This is just one possible approach.

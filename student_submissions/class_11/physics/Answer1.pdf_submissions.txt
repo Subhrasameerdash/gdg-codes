@@ -1,0 +1,272 @@
+1.  **Conceptual Application (Laws of Motion & Work-Energy):** A block of mass 'm' is initially at rest on a rough inclined plane with an angle of inclination 'θ'. A force 'F', parallel to the incline, is applied upwards on the block. Describe the conditions under which the block will (a) remain at rest, (b) move up the incline with constant velocity, and (c) accelerate up the incline. For case (c), derive an expression for the work done by the applied force 'F' after the block has travelled a distance 'd' along the incline, considering the effects of friction.
+Sample Answer:
+Here's a sample answer, suitable for CBSE Class 11/12 students, addressing the provided question:
+
+**Answer:**
+
+This problem explores the interplay between forces, friction, and work-energy concepts on an inclined plane. Let's analyze each scenario:
+
+**(a) Block Remains at Rest (Static Equilibrium)**
+
+For the block to remain at rest, the net force acting on it must be zero. This means the applied force 'F' must balance the components of gravitational force acting down the incline *and* the force of static friction. Let's break this down:
+
+*   **Forces acting on the block:**
+    *   **Gravitational force (mg):**  This acts vertically downwards.
+    *   **Component of gravity along the incline (mg sin θ):** This pulls the block down the incline.
+    *   **Component of gravity perpendicular to the incline (mg cos θ):**  This is balanced by the normal reaction force (N) from the inclined plane (N = mg cos θ).
+    *   **Applied force (F):** Acts upwards along the incline.
+    *   **Static friction force (f<sub>s</sub>):** Acts downwards along the incline, opposing any *potential* motion.  The maximum static friction force is given by f<sub>s,max</sub> = μ<sub>s</sub>N = μ<sub>s</sub>mg cos θ, where μ<sub>s</sub> is the coefficient of static friction.
+
+*   **Condition for equilibrium:** For the block to remain at rest, the following condition *must* be met:
+
+    F ≤ mg sin θ + f<sub>s,max</sub>  or  F ≤ mg sin θ + μ<sub>s</sub>mg cos θ
+
+    *Explanation:*  The applied force 'F' must be less than or equal to the sum of the gravitational force pulling the block down the incline *and* the maximum static friction force that can act to prevent motion.  If F *exceeds* this sum, the block will start to move. If F *is less than* mgsin(theta), then a frictional force equal to mgsin(theta) - F acts up the incline.
+
+**(b) Block Moves Up the Incline with Constant Velocity (Dynamic Equilibrium)**
+
+For the block to move with constant velocity, the net force acting on it must *still* be zero.  However, since the block is moving, the friction force is now *kinetic* friction (f<sub>k</sub>), and it acts opposite to the direction of motion (down the incline).
+
+*   **Kinetic friction force (f<sub>k</sub>):**  f<sub>k</sub> = μ<sub>k</sub>N = μ<sub>k</sub>mg cos θ, where μ<sub>k</sub> is the coefficient of kinetic friction.  Importantly, μ<sub>k</sub> is generally *less* than μ<sub>s</sub>.
+
+*   **Condition for constant velocity:** The applied force 'F' must now balance the component of gravity along the incline *and* the kinetic friction force:
+
+    F = mg sin θ + f<sub>k</sub>  or  F = mg sin θ + μ<sub>k</sub>mg cos θ
+
+    *Explanation:* The applied force 'F' must *exactly* equal the sum of the gravitational force component down the incline and the kinetic friction force opposing the motion.  If 'F' is greater than this, the block will accelerate upwards; if 'F' is less, the block will decelerate (slow down) and eventually come to a stop.
+
+**(c) Block Accelerates Up the Incline**
+
+For the block to accelerate upwards, the net force acting on it must be *non-zero* and directed upwards along the incline.  This means the applied force 'F' must be greater than the sum of the gravitational force component down the incline and the kinetic friction force.
+
+*   **Condition for acceleration:** F > mg sin θ + μ<sub>k</sub>mg cos θ
+
+*   **Net force (F<sub>net</sub>):**  The net force causing the acceleration is:
+
+    F<sub>net</sub> = F - mg sin θ - μ<sub>k</sub>mg cos θ
+
+    Therefore, the acceleration (a) of the block is:
+
+    a = F<sub>net</sub> / m = (F - mg sin θ - μ<sub>k</sub>mg cos θ) / m
+
+*   **Work Done by the Applied Force 'F' after traveling a distance 'd':**
+
+    The work done (W) by a force is given by W = F * d * cos θ, where θ is the angle between the force and the displacement.  In this case, the applied force 'F' and the displacement 'd' are in the same direction (parallel to the incline), so cos θ = cos 0° = 1.
+
+    Therefore, the work done by the applied force 'F' is simply:
+
+    W<sub>F</sub> = F * d
+
+    However, the question specifically asks for the work done considering the *effects of friction*.  The work done by the applied force goes into:
+
+    1.  **Increasing the kinetic energy of the block:** This contributes to its acceleration.
+    2.  **Overcoming gravity:**  Increasing the block's potential energy.
+    3.  **Overcoming friction:**  This dissipates energy as heat.
+
+    While the work done by the applied force *is* simply Fd, understanding where that energy *goes* is important.  The **net work** done on the block (which equals the change in kinetic energy) would be:
+
+    W<sub>net</sub> = F<sub>net</sub> * d = (F - mg sin θ - μ<sub>k</sub>mg cos θ) * d
+
+    The work done by gravity (W<sub>g</sub>) would be:
+
+    W<sub>g</sub> = -mgdsinθ (negative because gravity is doing negative work as the block moves upward)
+
+    The work done by friction (W<sub>f</sub>) would be:
+
+    W<sub>f</sub> = -μ<sub>k</sub>mgdcosθ (negative because friction opposes motion)
+
+**Key takeaways:**
+
+*   Understanding free body diagrams is crucial for analyzing forces on inclined planes.
+*   Distinguish between static and kinetic friction.
+*   Remember that the work done by a force is related to the change in energy (kinetic, potential, and thermal due to friction).
+
+This detailed answer provides a comprehensive explanation of the problem, suitable for students studying these concepts in Class 11 or 12. It covers all parts of the question and includes necessary explanations and derivations.
+
+2.  **Problem Solving (Kinematics & Gravitation):** A projectile is launched from the surface of a planet with a radius 'R' and mass 'M' with an initial velocity 'v' at an angle 'θ' with respect to the horizontal. Derive an expression for the maximum height reached by the projectile above the planet's surface, assuming negligible air resistance. Also, determine the minimum value of 'v' for which the projectile will escape the planet's gravitational field (escape velocity).
+Sample Answer:
+Okay, here's a comprehensive solution to the projectile motion and escape velocity problem, designed for a Class 11-12 Physics student:
+
+**Problem:** A projectile is launched from the surface of a planet with a radius 'R' and mass 'M' with an initial velocity 'v' at an angle 'θ' with respect to the horizontal.
+
+**(a)** Derive an expression for the maximum height reached by the projectile above the planet's surface, assuming negligible air resistance.
+
+**(b)** Determine the minimum value of 'v' for which the projectile will escape the planet's gravitational field (escape velocity).
+
+**Solution:**
+
+**(a) Maximum Height Reached:**
+
+*   **Conceptual Understanding:** The projectile's motion near the planet is influenced by gravity.  At maximum height, the vertical component of the projectile's velocity becomes zero.  We will use energy conservation to solve this problem.
+
+*   **Setting up the Problem:**
+
+    *   **Initial State (Launch):**
+        *   Distance from the center of the planet: *r₁* = *R* (planet's radius)
+        *   Velocity: *v₁* = *v*
+        *   Angle with respect to the horizontal: *θ*
+    *   **Final State (Maximum Height):**
+        *   Distance from the center of the planet: *r₂* = *R + h* (where *h* is the maximum height above the surface)
+        *   Velocity: *v₂* = *v*cos(*θ*)  (Only the horizontal component of velocity remains, as the vertical component is zero at max height.)
+
+*   **Applying Conservation of Energy:** The total mechanical energy (kinetic + potential) of the projectile is conserved.
+
+    *   *E₁ = E₂*   (Energy initial = Energy final)
+    *   *KE₁ + PE₁ = KE₂ + PE₂*
+
+*   **Expressions for Kinetic and Potential Energies:**
+
+    *   *KE₁ = (1/2)mv²*  (Initial kinetic energy)
+    *   *PE₁ = -GMm/R* (Initial gravitational potential energy)
+    *   *KE₂ = (1/2)m(v cos θ)²* (Final kinetic energy at max height)
+    *   *PE₂ = -GMm/(R + h)* (Final gravitational potential energy at max height)
+
+    Where:
+    *   *m* is the mass of the projectile
+    *   *G* is the gravitational constant
+
+*   **Substituting into the Conservation of Energy Equation:**
+
+    *(1/2)mv² - GMm/R = (1/2)m(v cos θ)² - GMm/(R + h)*
+
+*   **Simplifying the Equation:**  Divide the entire equation by *m* to eliminate the projectile mass:
+
+    *(1/2)v² - GM/R = (1/2)(v cos θ)² - GM/(R + h)*
+
+*   **Isolating the term with *h*:**
+
+    *GM/(R + h) = GM/R + (1/2)(v cos θ)² - (1/2)v²*
+    *GM/(R + h) = GM/R - (1/2)v²(1 - cos²θ)*
+    *GM/(R + h) = GM/R - (1/2)v²(sin²θ)*
+
+*   **Further Simplification and Solving for *h*:**
+
+    *1/(R + h) = 1/R - (v²sin²θ)/(2GM)*
+    *1/(R + h) = (2GM - Rv²sin²θ) / (2GMR)*
+    *R + h = (2GMR) / (2GM - Rv²sin²θ)*
+    *h = (2GMR) / (2GM - Rv²sin²θ)  - R*
+    *h = [2GMR - R(2GM - Rv²sin²θ)] / (2GM - Rv²sin²θ)*
+    *h = [2GMR - 2GMR + R²v²sin²θ] / (2GM - Rv²sin²θ)*
+    *h = (R²v²sin²θ) / (2GM - Rv²sin²θ)*
+
+*   **Final Expression for Maximum Height:**
+
+    *h = (R²v²sin²θ) / (2GM - Rv²sin²θ)*
+
+    This equation gives the maximum height *h* reached by the projectile above the planet's surface.
+
+**(b) Escape Velocity:**
+
+*   **Conceptual Understanding:** Escape velocity is the minimum velocity required for an object to escape the gravitational pull of a planet and never return.  At escape velocity, the projectile's kinetic energy is equal to the magnitude of its gravitational potential energy, allowing it to reach an infinite distance with zero final velocity.
+
+*   **Setting up the Problem:**
+
+    *   **Initial State (Launch):**
+        *   Distance from the center of the planet: *r₁* = *R*
+        *   Velocity: *v* = *vₑ* (escape velocity)
+    *   **Final State (Infinite Distance):**
+        *   Distance from the center of the planet: *r₂* = ∞
+        *   Velocity: *v₂* = 0 (just enough energy to reach infinity)
+
+*   **Applying Conservation of Energy:**
+
+    *   *E₁ = E₂*
+    *   *KE₁ + PE₁ = KE₂ + PE₂*
+
+*   **Expressions for Kinetic and Potential Energies:**
+
+    *   *KE₁ = (1/2)mvₑ²*
+    *   *PE₁ = -GMm/R*
+    *   *KE₂ = 0*
+    *   *PE₂ = -GMm/∞ = 0*
+
+*   **Substituting into the Conservation of Energy Equation:**
+
+    *(1/2)mvₑ² - GMm/R = 0 + 0*
+
+*   **Solving for Escape Velocity (vₑ):**
+
+    *(1/2)mvₑ² = GMm/R*
+    *vₑ² = 2GM/R*
+    *vₑ = √(2GM/R)*
+
+*   **Final Expression for Escape Velocity:**
+
+    *vₑ = √(2GM/R)*
+
+    This is the formula for escape velocity from the surface of the planet. It depends only on the gravitational constant, the mass of the planet, and the radius of the planet.
+
+**Key Explanations & Takeaways:**
+
+*   **Energy Conservation:** This problem highlights the power of using energy conservation principles to solve problems involving varying forces like gravity.
+*   **Assumptions:**  We assumed negligible air resistance. In a real-world scenario, air resistance would significantly affect the projectile's trajectory and maximum height, making the calculation more complex.
+*   **Escape Velocity Significance:** Escape velocity is a crucial concept in astrophysics and space exploration. It determines the minimum speed required to launch a spacecraft to another planet or escape the gravitational pull of a star.
+*   **Vector Nature:** The initial launch angle (θ) only affects the maximum height but not the escape velocity, since escape velocity refers to the minimum speed needed, irrespective of direction.
+
+This detailed solution with explanations is suitable for students in Classes 11-12 studying Physics. It breaks down the problem into manageable steps, explains the underlying physics, and provides the final answers with clear derivations.
+
+3.  **Error Analysis & Dimensional Analysis (Units & Measurement):** In an experiment to determine the Young's modulus (Y) of a wire, the following measurements were taken: length of the wire (L), diameter of the wire (d), applied force (F), and extension of the wire (ΔL). Given that Y = (FL)/(πr²ΔL) where r is radius, (a) calculate the percentage error in the measurement of Y if the percentage errors in L, d, F, and ΔL are 1%, 2%, 3%, and 4% respectively. (b) Use dimensional analysis to verify the correctness of the formula for Young's modulus, showing all steps clearly.
+Sample Answer:
+## Answer: Error Analysis & Dimensional Analysis of Young's Modulus
+
+Here's a complete answer to the assignment question, with detailed explanations appropriate for a CBSE Class 11-12 student:
+
+**(a) Percentage Error in Young's Modulus (Y):**
+
+The formula for Young's modulus is given by:
+
+Y = (FL) / (πr²ΔL)
+
+Since `r = d/2`, we can rewrite the formula as:
+
+Y = (FL) / (π(d/2)²ΔL)  = (4FL) / (πd²ΔL)
+
+To find the percentage error in Y, we'll use the following rule:  *If Z = A<sup>p</sup>B<sup>q</sup>C<sup>r</sup>, then the percentage error in Z is given by: % error in Z = |p * (% error in A)| + |q * (% error in B)| + |r * (% error in C)|*
+
+Applying this rule to our formula for Y, noting that π and 4 are constants and hence have zero error:
+
+% error in Y = |(% error in F)| + |(% error in L)| + |2 * (% error in d)| + |(% error in ΔL)|
+
+Given percentage errors are:
+*   % error in L = 1%
+*   % error in d = 2%
+*   % error in F = 3%
+*   % error in ΔL = 4%
+
+Substitute the given values:
+
+% error in Y = |3%| + |1%| + |2 * (2%)| + |4%|
+
+% error in Y = 3% + 1% + 4% + 4%
+
+% error in Y = 12%
+
+Therefore, the percentage error in the measurement of Young's modulus (Y) is **12%**.
+
+**(b) Dimensional Analysis of Young's Modulus Formula:**
+
+Dimensional analysis involves checking if the dimensions of the quantities on both sides of an equation are the same. Let's find the dimensions of each term in the formula:
+
+Y = (FL) / (πr²ΔL)
+
+1.  **Dimensions of Young's Modulus (Y):**  We need to determine this based on the right-hand side of the equation.
+
+2.  **Dimensions of Force (F):** Force is mass times acceleration (F = ma).  Therefore, the dimensions of force are:  [F] = [M][L][T<sup>-2</sup>]  (Mass x Length x Time<sup>-2</sup>)
+
+3.  **Dimensions of Length (L):** [L] = [L]
+
+4.  **Dimensions of Radius (r):** Radius is a length.  Therefore, [r] = [L]
+
+5.  **Dimensions of Extension (ΔL):** Extension is also a length.  Therefore, [ΔL] = [L]
+
+Now, let's substitute these dimensions into the right-hand side of the equation:
+
+[FL / (πr²ΔL)] =  ([M][L][T<sup>-2</sup>] * [L]) / ([L]² * [L])
+
+= [M][L<sup>2</sup>][T<sup>-2</sup>] / [L<sup>3</sup>]
+
+= [M][L<sup>-1</sup>][T<sup>-2</sup>]
+
+Therefore, the dimensions of the right-hand side of the equation are [M][L<sup>-1</sup>][T<sup>-2</sup>]. This means the dimensions of Young's modulus (Y) must also be [M][L<sup>-1</sup>][T<sup>-2</sup>]. Young's modulus represents stress/strain which is Force/Area divided by Change in Length/Original Length. This is Force/Area which confirms the dimensions of Y as [M][L<sup>-1</sup>][T<sup>-2</sup>].
+
+Since the dimensions of the terms on both sides of the equation are consistent, the formula for Young's modulus (Y = FL / (πr²ΔL)) is dimensionally correct.

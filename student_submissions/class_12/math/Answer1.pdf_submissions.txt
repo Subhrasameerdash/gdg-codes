@@ -1,0 +1,166 @@
+1.  **Function Analysis:**  A function *f* is defined on the set of real numbers as *f(x) = x<sup>3</sup> + kx*, where *k* is a real constant.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the NCERT chapter content and the provided assignment question.
+
+**Answer:**
+
+**Question 1: Function Analysis**
+
+A function *f* is defined on the set of real numbers as *f(x) = x<sup>3</sup> + kx*, where *k* is a real constant.  Determine the nature of the function (*f(x) = x<sup>3</sup> + kx*) with respect to being one-to-one (injective) and onto (surjective) for different values of *k*.
+
+**Solution:**
+
+To analyze whether the function *f(x) = x<sup>3</sup> + kx* is one-to-one (injective) and onto (surjective), we need to consider its derivative and range.
+
+**1. Injectivity (One-to-One):**
+
+A function is injective if and only if *f(x<sub>1</sub>) = f(x<sub>2</sub>)* implies *x<sub>1</sub> = x<sub>2</sub>*.  Another way to check for injectivity is to examine the derivative, *f'(x)*.
+
+*   If *f'(x) > 0* for all *x* in the domain, or *f'(x) < 0* for all *x* in the domain, then the function is strictly increasing or strictly decreasing, respectively, and therefore injective.
+*   If *f'(x)* changes sign, the function is not strictly monotonic and may not be injective.
+
+Let's find the derivative of *f(x)*:
+
+*f'(x) = 3x<sup>2</sup> + k*
+
+Now, we consider different cases for the value of *k*:
+
+*   **Case 1: *k ≥ 0***
+
+    If *k ≥ 0*, then *3x<sup>2</sup> + k ≥ 0* for all real numbers *x*.  In fact, *f'(x) = 0* only at *x = 0* if *k = 0*. The function is non-decreasing. Therefore f'(x) is never negative. This implies the function is strictly increasing for all values of x (except x=0 when k=0). Hence, *f(x)* is injective when *k ≥ 0*.
+
+*   **Case 2: *k < 0***
+
+    If *k < 0*, then *f'(x) = 3x<sup>2</sup> + k* can be negative for some values of *x*.  To find where *f'(x) < 0*, we solve:
+
+    *3x<sup>2</sup> + k < 0*
+    *3x<sup>2</sup> < -k*
+    *x<sup>2</sup> < -k/3*
+    * -√(-k/3) < x < √(-k/3)*
+
+    Since *f'(x)* is negative in the interval *(-√(-k/3), √(-k/3))*, the function is not strictly increasing or strictly decreasing over its entire domain. This means that for values of k<0, the function is NOT injective.
+
+    For example, let k = -3, then f(x) = x<sup>3</sup> -3x
+
+    f'(x) = 3x<sup>2</sup> - 3
+
+    f'(x) = 0 when 3x<sup>2</sup> = 3 or x = +/- 1
+
+    Therefore, f(x) increases to x = -1, decreases to x = 1, then increases again. It is not one-to-one.
+
+**2. Surjectivity (Onto):**
+
+A function is surjective if its range is equal to its codomain.  Since *f(x)* is defined on the set of real numbers and returns real numbers, the codomain is the set of real numbers, **R**.
+
+Consider the behavior of *f(x) = x<sup>3</sup> + kx* as *x* approaches positive and negative infinity:
+
+*   As *x → ∞*, *f(x) → ∞*
+*   As *x → -∞*, *f(x) → -∞*
+
+Since *f(x)* is a polynomial function, it is continuous. Because *f(x)* goes to both positive and negative infinity, by the Intermediate Value Theorem, it must take on every real value at some point. Therefore, the range of *f(x)* is all real numbers, **R**.
+
+Thus, *f(x)* is surjective for all values of *k*.
+
+**Conclusion:**
+
+*   When *k ≥ 0*, *f(x) = x<sup>3</sup> + kx* is injective (one-to-one) and surjective (onto).
+*   When *k < 0*, *f(x) = x<sup>3</sup> + kx* is surjective (onto) but NOT injective (one-to-one).
+**Important Notes for Students:**
+
+*   **Understanding Derivatives:** The derivative is a crucial tool for analyzing the behavior of functions.  It tells you about the function's slope and whether it's increasing or decreasing.
+*   **Intermediate Value Theorem:** A continuous function takes on all values between any two points in its range.  This is helpful for determining surjectivity.
+*   **Domain and Codomain:** Always pay attention to the domain and codomain of the function when determining surjectivity.
+*   **Counterexamples:** When trying to prove a function is NOT injective, finding a single counterexample (where *f(x<sub>1</sub>) = f(x<sub>2</sub>)* but *x<sub>1</sub> ≠ x<sub>2</sub>*) is sufficient.
+This answer provides a thorough explanation of the concepts involved, using appropriate mathematical notation and terminology suitable for a Class 11-12 student. It also considers different cases to provide a complete analysis of the function.
+
+2.  **Relation and Matrix Application:** A binary relation *R* is defined on the set of 2x2 matrices with real entries, such that matrix *A* is related to matrix *B* (A *R* B) if and only if *det(A) = det(B)*.
+Sample Answer:
+Okay, here's a sample answer for the assignment question, designed to be clear, concise, and appropriate for CBSE class 11-12 students.
+
+**Question 2: Relation and Matrix Application**
+
+A binary relation *R* is defined on the set of 2x2 matrices with real entries, such that matrix *A* is related to matrix *B* (A *R* B) if and only if *det(A) = det(B)*.  Determine whether the relation *R* is an equivalence relation. Justify your answer by checking the reflexive, symmetric, and transitive properties.
+
+**Answer:**
+
+To determine if the relation *R* is an equivalence relation, we need to check if it satisfies the following three properties: reflexive, symmetric, and transitive.
+
+**1. Reflexive Property:**
+
+A relation *R* is reflexive if for every element *A* in the set, A *R* A.  In our case, this means we need to check if *det(A) = det(A)* for all 2x2 matrices *A*.
+
+Since the determinant of any matrix is equal to itself, *det(A) = det(A)* is always true.  Therefore, A *R* A for all 2x2 matrices *A*, and the relation *R* is reflexive.
+
+**2. Symmetric Property:**
+
+A relation *R* is symmetric if whenever A *R* B, then B *R* A.  In our case, this means if *det(A) = det(B)*, we need to check if *det(B) = det(A)*.
+
+Since equality is symmetric (if *a = b*, then *b = a*), if *det(A) = det(B)*, then *det(B) = det(A)*.  Therefore, if A *R* B, then B *R* A, and the relation *R* is symmetric.
+
+**3. Transitive Property:**
+
+A relation *R* is transitive if whenever A *R* B and B *R* C, then A *R* C.  In our case, this means if *det(A) = det(B)* and *det(B) = det(C)*, we need to check if *det(A) = det(C)*.
+
+Since equality is transitive (if *a = b* and *b = c*, then *a = c*), if *det(A) = det(B)* and *det(B) = det(C)*, then *det(A) = det(C)*.  Therefore, if A *R* B and B *R* C, then A *R* C, and the relation *R* is transitive.
+
+**Conclusion:**
+
+Since the relation *R* satisfies the reflexive, symmetric, and transitive properties, it is an **equivalence relation**. In other words, two matrices are related to each other if and only if they have the same determinant, and this relationship behaves like a well-behaved equivalence relation.
+
+3.  **Inverse Trigonometry and Calculus:**
+Sample Answer:
+```python
+## Sample Answer for CBSE Class 11-12: Inverse Trigonometry and Calculus
+
+This response connects inverse trigonometric functions with concepts from calculus, such as differentiation.
+
+**Understanding the Connection:**
+
+Inverse trigonometric functions are essential in calculus because they often arise when integrating certain algebraic expressions. Furthermore, understanding their derivatives is crucial for solving various problems in related rates and optimization.
+
+**1. Derivatives of Inverse Trigonometric Functions:**
+
+The derivatives of inverse trigonometric functions are as follows (these are standard formulas you should know):
+
+*   d/dx (sin<sup>-1</sup>(x)) = 1 / √(1 - x<sup>2</sup>), for -1 < x < 1
+*   d/dx (cos<sup>-1</sup>(x)) = -1 / √(1 - x<sup>2</sup>), for -1 < x < 1
+*   d/dx (tan<sup>-1</sup>(x)) = 1 / (1 + x<sup>2</sup>), for all real x
+*   d/dx (cot<sup>-1</sup>(x)) = -1 / (1 + x<sup>2</sup>), for all real x
+*   d/dx (sec<sup>-1</sup>(x)) = 1 / (|x|√(x<sup>2</sup> - 1)), for |x| > 1
+*   d/dx (csc<sup>-1</sup>(x)) = -1 / (|x|√(x<sup>2</sup> - 1)), for |x| > 1
+
+**Important Note:** The domains of these derivatives are restricted compared to the basic trigonometric functions. For example, arcsin(x) is defined for -1<=x<=1, but its derivative is only valid when -1<x<1.
+
+**2. Example: Differentiating a Composite Function**
+
+Let's say we have y = sin<sup>-1</sup>(x<sup>2</sup>). We need to find dy/dx.
+
+We use the chain rule:  dy/dx = (dy/du) * (du/dx), where u = x<sup>2</sup>.
+
+*   dy/du = d/du (sin<sup>-1</sup>(u)) = 1 / √(1 - u<sup>2</sup>)
+*   du/dx = d/dx (x<sup>2</sup>) = 2x
+
+Therefore, dy/dx = (1 / √(1 - u<sup>2</sup>)) * (2x) = (2x) / √(1 - (x<sup>2</sup>)<sup>2</sup>) = (2x) / √(1 - x<sup>4</sup>)
+
+**3. Application: Integration**
+
+Integrals involving expressions of the form √(a<sup>2</sup> - x<sup>2</sup>), a<sup>2</sup> + x<sup>2</sup>, or √(x<sup>2</sup> - a<sup>2</sup>) often require using inverse trigonometric substitutions.
+
+**Example:** Consider the integral ∫ dx / √(4 - x<sup>2</sup>).
+
+*   We can rewrite this as ∫ dx / √(2<sup>2</sup> - x<sup>2</sup>).
+*   Let x = 2sinθ, so dx = 2cosθ dθ.
+*   Substituting, we get ∫ (2cosθ dθ) / √(4 - 4sin<sup>2</sup>θ) = ∫ (2cosθ dθ) / √(4cos<sup>2</sup>θ) = ∫ (2cosθ dθ) / (2cosθ) = ∫ dθ = θ + C.
+*   Since x = 2sinθ, θ = sin<sup>-1</sup>(x/2).
+*   Therefore, ∫ dx / √(4 - x<sup>2</sup>) = sin<sup>-1</sup>(x/2) + C.
+
+**4. Why are Inverse Trigonometric Derivatives Important?**
+
+*   **Related Rates Problems:** If a problem involves an angle changing with respect to time and a relationship involving an inverse trigonometric function, you'll need the derivative to relate the rates of change.
+*   **Optimization Problems:** Finding the maximum or minimum of a function that includes an inverse trigonometric term will require finding critical points using the derivative.
+*   **Integration Techniques:** As shown in the integration example, inverse trigonometric functions often *are* the answer when using trig substitution. Knowing the differentiation rules helps you "undo" and understand what's going on.
+
+**Conclusion:**
+
+Inverse trigonometric functions are not just theoretical concepts; they are powerful tools in calculus.  Understanding their derivatives and integrals allows us to solve a wider range of problems in physics, engineering, and other fields. Mastering these functions is crucial for a solid foundation in calculus.
+```

@@ -1,0 +1,430 @@
+Okay, I will now provide sample answers to the assignment questions, keeping in mind the marking scheme, the content areas (Units and Measurements, Kinematics, Laws of Motion, Work/Energy/Power, Rotational Motion, and Gravitation), and the expected level of detail for Class 11-12 students.
+
+**=== Short Questions (2 marks each) ===**
+
+**1. Question 1: Differentiate between accuracy and precision in a measurement. Give a real-world example where high precision is necessary even if accuracy is slightly compromised.**
+
+**Answer:**
+
+*   **Accuracy** refers to how close a measurement is to the true or accepted value. (0.5 mark)
+*   **Precision** refers to the repeatability or reproducibility of a measurement; how close multiple measurements are to each other, regardless of whether they are close to the true value. (0.5 mark)
+
+**Example:**  Consider a laboratory balance. It might consistently give readings that are slightly off from the actual mass (low accuracy), but the readings are very close to each other (high precision).  High precision is important in situations like manufacturing components that need to fit together perfectly. Even if the absolute dimensions are slightly inaccurate, consistency is key for proper assembly. Another example is competitive shooting - all shots near each other but not necessarily near the bullseye. (1 mark)
+
+**2. Question 2: A student measures the diameter of a sphere using a Vernier caliper and obtains readings with significant errors. List two possible sources of systematic errors in this experiment and explain how they affect the final result.**
+
+**Answer:**
+
+Systematic errors are consistent and repeatable errors that affect all measurements in the same way.
+
+*   **Zero Error:** The Vernier caliper may have a zero error (the jaws do not read zero when closed). This will consistently add or subtract a fixed amount from each reading, leading to an overestimation or underestimation of the diameter. (1 mark)
+*   **Worn or Damaged Jaws:** If the jaws of the caliper are worn or damaged, they may not make proper contact with the sphere, again leading to a consistent overestimation or underestimation of the diameter.  The jaws might also flex under pressure causing errors. (1 mark)
+
+**3. Question 3: A car travels half of its journey with a constant speed of *v1* and the remaining half with a constant speed of *v2*. Calculate the average speed of the car for the entire journey. Show your working.**
+
+**Answer:**
+
+Let the total distance be 2*d*. Time taken for the first half is *t1* = *d*/ *v1*.  Time taken for the second half is *t2* = *d*/ *v2*.  (0.5 mark)
+
+Total distance = 2*d*.  Total time = *t1* + *t2* = *d*/ *v1* + *d*/ *v2* = *d*( *v1* + *v2* ) / (*v1* *v2*). (0.5 mark)
+
+Average speed = Total distance / Total time = (2*d*) / [ *d*( *v1* + *v2* ) / (*v1* *v2*) ] = 2 * *v1* *v2* / (*v1* + *v2*).  (1 mark)
+
+**4. Question 4: A projectile is launched at an angle θ with an initial velocity *u*. Neglecting air resistance, at what angle will the range of the projectile be maximum? Briefly explain your reasoning.**
+
+**Answer:**
+
+The range of a projectile is maximum when the launch angle θ = 45°. (1 mark)
+
+**Reasoning:**  The range (R) of a projectile is given by R = (u² sin 2θ) / g. The maximum value of sin 2θ is 1, which occurs when 2θ = 90°, therefore θ = 45°.  Any other angle will result in a smaller value for sin 2θ, and hence a shorter range. (1 mark)
+
+**5. Question 5: State Newton's First Law of Motion. Explain why it is also known as the Law of Inertia. Give a real-life example illustrating inertia.**
+
+**Answer:**
+
+**Newton's First Law:** An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted upon by a force. (1 mark)
+
+It's also called the **Law of Inertia** because inertia is the tendency of an object to resist changes in its state of motion. Newton's First Law states that objects *have* this tendency. (0.5 mark)
+
+**Example:** When a car suddenly brakes, passengers tend to continue moving forward due to their inertia. (0.5 mark)
+
+**6. Question 6: Define the terms 'work' and 'power' in physics. Give their SI units and write the relation between them.**
+
+**Answer:**
+
+**Work:** Work is done when a force causes a displacement of an object.  (0.5 mark)
+**SI Unit:** Joule (J) (0.25 mark)
+
+**Power:** Power is the rate at which work is done.  (0.5 mark)
+**SI Unit:** Watt (W) (0.25 mark)
+
+**Relation:** Power = Work / Time (P = W/t) (0.5 mark)
+
+**7. Question 7: Two bodies of masses *m1* and *m2* are moving with velocities *v1* and *v2* respectively. If they collide elastically, what physical quantities are conserved during the collision? Write down the conservation laws mathematically.**
+
+**Answer:**
+
+In an elastic collision, both kinetic energy and momentum are conserved. (1 mark)
+
+**Conservation Laws:**
+
+*   **Momentum:** m1*v1* + m2*v2* = m1*v1'* + m2*v2'*  (where *v1'* and *v2'* are the final velocities) (0.5 mark)
+*   **Kinetic Energy:** (1/2)m1*v1*² + (1/2)m2*v2*² = (1/2)m1*v1'*² + (1/2)m2*v2'*² (0.5 mark)
+
+**8. Question 8: Define the term 'torque'. Explain how it is related to angular momentum. Provide one example of torque in everyday life.**
+
+**Answer:**
+
+**Torque:** Torque is a twisting force that tends to cause rotation. It is the rotational equivalent of linear force. (0.5 mark)
+
+**Relationship to Angular Momentum:** Torque is the rate of change of angular momentum. Mathematically,  τ = dL/dt, where τ is the torque and L is the angular momentum. (1 mark)
+
+**Example:** Tightening a bolt with a wrench applies a torque. (0.5 mark)
+
+**9. Question 9: State Kepler's Law of Periods. How does this law relate to Newton's Law of Gravitation?**
+
+**Answer:**
+
+**Kepler's Law of Periods (Third Law):** The square of the period of revolution of a planet around the Sun is proportional to the cube of the semi-major axis of its orbit (T² ∝ r³). (1 mark)
+
+**Relation to Newton's Law of Gravitation:** Newton's Law of Gravitation provides the theoretical basis for Kepler's Third Law. Kepler's law can be derived mathematically from Newton's Law of Gravitation by equating the gravitational force between the Sun and a planet to the centripetal force required to keep the planet in orbit. It shows that the constant of proportionality in Kepler's Third Law depends on the mass of the Sun, which is consistent with Newton's theory of gravity. (1 mark)
+
+**10. Question 10: What are scalar and vector quantities? Give two examples of each and explain the key difference between how they are added.**
+
+**Answer:**
+
+**Scalar Quantity:** A quantity that has magnitude only. (0.25 mark)
+**Examples:** Mass, Temperature (0.25 mark)
+
+**Vector Quantity:** A quantity that has both magnitude and direction. (0.25 mark)
+**Examples:** Velocity, Force (0.25 mark)
+
+**Difference in Addition:** Scalars are added algebraically (e.g., 2 kg + 3 kg = 5 kg). Vectors are added geometrically, taking into account their direction (e.g., using the parallelogram law or triangle law of vector addition).  The direction is crucial for vectors. (1 mark)
+
+**=== Focused Questions (5 marks each) ===**
+
+**1. Question 1:** The period of oscillation of a simple pendulum is given by  T = 2π√(L/g), where L is about 100 cm and is known to 1 mm accuracy, and g is about 9.8 m/s². The time for 100 oscillations is measured using a stopwatch of 1 s resolution. What is the percentage error in the determination of g? Discuss the factors contributing most significantly to the uncertainty. (Units and Measurement, Error Analysis)
+
+**Answer:**
+
+1.  **Rearrange the formula for g:** g = 4π²L / T²  (0.5 mark)
+
+2.  **Write the error equation:**  Percentage error in g = Percentage error in L + 2 * Percentage error in T (1 mark)
+
+3.  **Calculate % error in L:** % error in L = (0.1 cm / 100 cm) * 100% = 0.1% (0.5 mark)
+
+4.  **Calculate % error in T:** Let T' be the measured time for 100 oscillations. Then T = T'/100.
+    Error in T' = 1 s.  Therefore, error in T = 1 s / 100 = 0.01 s.
+    If T = 0.90 s (approximate) % error in T = (0.01 s / 0.90 s) * 100% = 1.11 %  (1 mark)
+
+5.  **Calculate % error in g:** % error in g = 0.1% + 2 * 1.11% = 2.32%  (0.5 mark)
+
+6.  **Discussion:** The uncertainty in the measurement of the *period* (T) contributes most significantly to the error in g, because the error in T is multiplied by 2 in the error equation for *g*.  The resolution of the stopwatch (1 s) is a limiting factor. Improving the accuracy of the length measurement would have less impact than using a more precise timer.  (1.5 marks)
+
+**2. Question 2:** A projectile is fired with an initial velocity of *v₀* at an angle *θ* with the horizontal. Neglecting air resistance, derive expressions for: (a) the maximum height reached by the projectile, and (b) the horizontal range of the projectile.  Also, determine the angle *θ* for which the range is maximum. (Kinematics, Projectile Motion)
+
+**Answer:**
+
+**(a) Maximum Height:**
+
+*   **Vertical component of initial velocity:** v₀y = v₀ sin θ (0.5 mark)
+*   **At maximum height, vertical velocity is zero:** vy = 0
+*   **Using the equation of motion:** vy² = v₀y² - 2gh  (0.5 mark)
+*   **Substituting vy = 0:** 0 = (v₀ sin θ)² - 2gh
+*   **Solving for h:** h = (v₀² sin² θ) / (2g)   (1 mark)
+
+**(b) Horizontal Range:**
+
+*   **Time of flight (T):** T = 2 * (v₀ sin θ) / g  (1 mark)  (This can be derived by setting vy = -v0y in the equation vy = v0y - gt)
+*   **Horizontal component of initial velocity:** v₀x = v₀ cos θ
+*   **Range (R) = horizontal velocity × time of flight:** R = (v₀ cos θ) * (2 v₀ sin θ / g) = (v₀² * 2 sin θ cos θ) / g
+*   **Using the trigonometric identity 2 sin θ cos θ = sin 2θ:** R = (v₀² sin 2θ) / g  (1 mark)
+
+**(c) Angle for Maximum Range:**
+
+*   The range is maximum when sin 2θ = 1.  (0.5 mark)
+*   This occurs when 2θ = 90°, which means θ = 45°.   (0.5 mark)
+
+**3. Question 3:** A block of mass *m* is placed on a rough inclined plane. The angle of inclination, *θ*, is gradually increased until the block just begins to slide. (a) Derive an expression for the coefficient of static friction, *μs*, in terms of *θ*. (b) Once the block begins to slide, the angle is reduced to *θ'*, such that the block moves with constant velocity. Derive an expression for the coefficient of kinetic friction, *μk*, in terms of *θ'*. (Laws of Motion, Friction)
+
+**Answer:**
+
+**(a) Coefficient of Static Friction:**
+
+*   **Forces acting on the block:** Weight (mg) acting downwards, Normal reaction (N) perpendicular to the plane, and static friction (fs) up the plane.
+*   **Resolving forces:**
+    *   N = mg cos θ (0.5 mark)
+    *   fs = mg sin θ (0.5 mark)
+*   **At the point of sliding, fs = μsN**  (0.5 mark)
+*   **Substituting:** mg sin θ = μs (mg cos θ)
+*   **Solving for μs:** μs = tan θ  (1 mark)
+
+**(b) Coefficient of Kinetic Friction:**
+
+*   **Forces acting on the block:** Weight (mg) acting downwards, Normal reaction (N) perpendicular to the plane, and kinetic friction (fk) up the plane.
+*   **Resolving forces:**
+    *   N = mg cos θ' (0.5 mark)
+    *   fk = mg sin θ' (0.5 mark)
+*   **Since the block moves with constant velocity, fk = μkN** (0.5 mark)
+*   **Substituting:** mg sin θ' = μk (mg cos θ')
+*   **Solving for μk:** μk = tan θ'  (0.5 mark)
+
+**4. Question 4:** A pump is required to lift 800 kg of water per minute from a well 10 m deep and to eject it with a speed of 20 m/s. (a) How much work is done per minute in lifting the water? (b) How much work is done in imparting kinetic energy to the water? (c) What is the power of the pump in horsepower? (Work, Energy, and Power)
+
+**Answer:**
+
+**(a) Work done in lifting the water:**
+
+*   Work done = Potential Energy gained = mgh (0.5 mark)
+*   m = 800 kg, g = 9.8 m/s², h = 10 m
+*   Work done = 800 kg * 9.8 m/s² * 10 m = 78400 J  (1 mark)
+
+**(b) Work done in imparting kinetic energy:**
+
+*   Work done = Kinetic Energy gained = (1/2)mv²  (0.5 mark)
+*   v = 20 m/s
+*   Work done = (1/2) * 800 kg * (20 m/s)² = 160000 J  (1 mark)
+
+**(c) Power of the pump:**
+
+*   Total work done per minute = 78400 J + 160000 J = 238400 J  (0.5 mark)
+*   Power = Work done / Time = 238400 J / 60 s = 3973.33 W  (0.5 mark)
+*   Conversion to horsepower: 1 hp = 746 W
+*   Power in hp = 3973.33 W / 746 W/hp ≈ 5.33 hp  (0.5 mark)
+
+**5. Question 5:** A uniform rod of length *L* and mass *M* is hinged at one end and is free to rotate in a vertical plane. (a) Calculate the moment of inertia of the rod about the hinge. (b) If the rod is released from a horizontal position, what is the angular speed of the rod when it passes through the vertical position? (Rotational Motion, Moment of Inertia, Conservation of Energy)
+
+**Answer:**
+
+**(a) Moment of Inertia:**
+
+*   The moment of inertia of a uniform rod about an axis through one end and perpendicular to its length is given by I = (1/3)ML²  (2 marks)
+
+**(b) Angular Speed:**
+
+*   **Initial Potential Energy:** The center of mass of the rod is at L/2.  So, initial potential energy = Mg(L/2) (0.5 mark)
+*   **Final Potential Energy:**  When the rod is vertical, we can take potential energy = 0.  (0.5 mark)
+*   **Loss in Potential Energy = Gain in Kinetic Energy:** Mg(L/2) = (1/2)Iω² (0.5 mark)
+*   **Substituting I = (1/3)ML²:** Mg(L/2) = (1/2)(1/3)ML²ω²
+*   **Simplifying:** g/2 = (1/6)Lω²
+*   **Solving for ω:** ω² = 3g/L  => ω = √(3g/L) (1 mark)
+
+**6. Question 6:** State Kepler's laws of planetary motion.  Using Newton's law of gravitation, derive Kepler's third law, relating the period of revolution of a planet to the radius of its orbit. (Gravitation, Kepler's Laws)
+
+**Answer:**
+
+**Kepler's Laws:**
+
+*   **Law of Orbits:** All planets move in elliptical orbits, with the Sun at one focus. (0.5 mark)
+*   **Law of Areas:** A line that connects a planet to the Sun sweeps out equal areas in equal times. (0.5 mark)
+*   **Law of Periods:** The square of the period of revolution of a planet is proportional to the cube of the semi-major axis of its orbit. (0.5 mark)
+
+**Derivation of Kepler's Third Law:**
+
+*   **Gravitational force:** F = GMm/r², where G is the gravitational constant, M is the mass of the Sun, m is the mass of the planet, and r is the radius of the orbit (assuming circular orbit). (0.5 mark)
+*   **Centripetal force:** Fc = mv²/r, where v is the orbital speed of the planet. (0.5 mark)
+*   **Equating the two forces:** GMm/r² = mv²/r   (0.5 mark)
+*   **Simplifying:** v² = GM/r
+*   **Orbital speed:** v = 2πr/T, where T is the period of revolution. (0.5 mark)
+*   **Substituting:** (2πr/T)² = GM/r
+*   **Rearranging:** 4π²r²/T² = GM/r
+*   **Solving for T²:** T² = (4π²/GM)r³ (1 mark)
+
+Since (4π²/GM) is a constant,  T² ∝ r³.  This is Kepler's Third Law. (0.5 mark)
+
+**7. Question 7:** A car of mass *m* is moving on a level circular path of radius *r*. The coefficient of static friction between the tires and the road is *μs*. (a) What is the maximum speed with which the car can move without skidding? (b) What is the angle of banking required for the same speed if there is no friction? (Laws of Motion, Circular Motion, Friction)
+
+**Answer:**
+
+**(a) Maximum Speed with Friction:**
+
+*   **Centripetal force required:** Fc = mv²/r  (0.5 mark)
+*   **Maximum frictional force:** fmax = μsN = μsmg, where N is the normal reaction (equal to mg on a level road). (0.5 mark)
+*   **For no skidding, the frictional force must provide the centripetal force:** mv²/r ≤ μsmg  (0.5 mark)
+*   **Maximum speed (vmax) occurs when:** mvmax²/r = μsmg
+*   **Solving for vmax:** vmax = √(μsgr) (1 mark)
+
+**(b) Angle of Banking without Friction:**
+
+*   Let θ be the angle of banking. The horizontal component of the normal reaction (N sin θ) provides the centripetal force. (0.5 mark)
+*   The vertical component of the normal reaction (N cos θ) balances the weight (mg).
+*   **Equations:**
+    *   N sin θ = mv²/r  (0.5 mark)
+    *   N cos θ = mg
+*   **Dividing the first equation by the second:** tan θ = v²/gr (1 mark)
+*   **Therefore, the angle of banking is:** θ = tan⁻¹(v²/gr) (0.5 mark)
+
+**8. Question 8:** Two bodies of masses *m1* and *m2* are connected by a light inextensible string which passes over a frictionless pulley. Calculate the acceleration of the masses and the tension in the string. Discuss the special case when *m1* = *m2*. (Laws of Motion, Newton's Laws)
+
+**Answer:**
+
+*   **Assume m1 > m2.** Let *a* be the acceleration of the system. Let *T* be the tension in the string.  (0.5 mark)
+
+*   **Applying Newton's Second Law to each mass:**
+    *   m1g - T = m1a  (0.5 mark)
+    *   T - m2g = m2a  (0.5 mark)
+
+*   **Adding the two equations:** m1g - m2g = m1a + m2a
+*   **Solving for acceleration (a):** a = (m1 - m2)g / (m1 + m2) (1 mark)
+
+*   **Substituting the value of 'a' into either of the equations to solve for Tension T:**
+    T = m2g + m2 * [(m1 - m2)g / (m1 + m2)] = [2m1m2g] / [m1+m2]
+    T = 2m1m2g/(m1 + m2) (1 mark)
+
+*   **Special Case (m1 = m2 = m):**
+    *   a = (m - m)g / (m + m) = 0.  The system is in equilibrium. (0.5 mark)
+    *   T = 2m*m*g/2m = mg. Tension in the string is equal to the weight of either mass. (0.5 mark)
+
+**9. Question 9:** A solid sphere of mass M and radius R rolls without slipping down an inclined plane of inclination θ. (a) Calculate the acceleration of the sphere. (b) Calculate the frictional force acting on the sphere. (Rotational Motion, Laws of Motion)
+
+**Answer:**
+
+**(a) Acceleration of the Sphere:**
+
+*   **Forces acting on the sphere:** Weight (Mg), Normal Reaction (N), and Friction (f). (0.5 mark)
+*   **Component of weight along the incline:** Mg sin θ (0.5 mark)
+*   **Net force causing linear acceleration:** Mg sin θ - f = Ma (Equation 1) (0.5 mark)
+*   **Torque about the center of mass:** τ = fR = Iα, where I is the moment of inertia and α is the angular acceleration. (0.5 mark)
+*   **Moment of inertia of a solid sphere:** I = (2/5)MR²
+*   **Relation between linear and angular acceleration:** a = Rα  => α = a/R (0.5 mark)
+*   **Substituting:** fR = (2/5)MR² * (a/R)  => f = (2/5)Ma (0.5 mark)
+*   **Substituting f in Equation 1:** Mg sin θ - (2/5)Ma = Ma
+*   **Solving for a:** a = (5/7)g sin θ (1 mark)
+
+**(b) Frictional Force:**
+
+*   **Using the value of a:** f = (2/5)M * (5/7)g sin θ
+*   **Therefore, frictional force:** f = (2/7)Mg sin θ (0.5 mark)
+
+**10. Question 10:** Define gravitational potential energy. Derive an expression for the gravitational potential energy of a body of mass *m* at a height *h* from the surface of the Earth (assuming *h* << radius of Earth). How does gravitational potential energy changes with distance from the earth. (Gravitation, Gravitational Potential Energy)
+
+**Answer:**
+
+**Gravitational Potential Energy:** Gravitational potential energy is the energy possessed by an object due to its position in a gravitational field. It is the work done in bringing the object from infinity to that point against the gravitational force. (1 mark)
+
+**Derivation:**
+
+*   **Gravitational force:** F = mg (near the Earth's surface, where g is constant). (0.5 mark)
+*   **Work done in lifting the object from the surface to height h:** W = Force x distance = mg x h = mgh. (1.5 marks)
+*   **Gravitational Potential Energy (U) = Work done:** U = mgh  (1 mark)
+
+**Change with distance:**
+
+*   When distance increases from the surface of the earth: PE = mgh , As h increases PE increases (1 mark)
+*   PE becomes zero at infinity and gravitational force becomes negligible (0.5 mark)
+
+**=== Long Questions (10 marks each) ===**
+
+**1. Question 1: Dimensional Analysis and Error Propagation (10 marks)**
+
+**(a) Define dimensional analysis and explain its significance in verifying the correctness of physical equations. (3 marks)**
+
+**Answer:**
+
+**Dimensional Analysis:** Dimensional analysis is a technique used to check the relationships between physical quantities by identifying their dimensions (length, mass, time, etc.) and ensuring that these dimensions are consistent in any given equation or calculation.  It involves expressing physical quantities in terms of their fundamental dimensions, such as mass (M), length (L), and time (T). (1 mark)
+
+**Significance:**
+
+*   **Checking Consistency:** Dimensional analysis can verify if an equation is dimensionally correct.  A dimensionally correct equation must have the same dimensions on both sides. If the dimensions are different, the equation is incorrect. (1 mark)
+*   **Deriving Relationships:** It can be used to derive relationships between physical quantities, especially when the exact form of the equation is unknown, up to a dimensionless constant. (0.5 mark)
+*   **Unit Conversion:** Dimensional analysis helps in converting units from one system to another. (0.5 mark)
+
+**(b) The period of oscillation *T* of a simple pendulum is given by the formula *T* = 2π√(L/g), where *L* is the length of the pendulum and *g* is the acceleration due to gravity. If *L* is measured to be 20.0 cm with an accuracy of 1 mm, and *T* is measured to be 0.90 s with a resolution of 0.01 s, determine the percentage error in the determination of *g*. Explain the steps involved in calculating the error. (7 marks)**
+
+**Answer:**
+
+1.  **Rearrange the formula for g:** g = 4π²L / T² (1 mark)
+
+2.  **Identify relative errors:**
+    *   Relative error in L: ΔL/L = (0.1 cm) / (20.0 cm) = 0.005 ( 0.5 mark)
+    *   Relative error in T: ΔT/T = (0.01 s) / (0.90 s) ≈ 0.0111 (0.5 mark)
+
+3.  **Write the error equation:** Since g depends on L and T², the relative errors add in quadrature, and the error in T is doubled:  Δg/g = ΔL/L + 2(ΔT/T) (2 marks)
+
+4.  **Calculate the relative error in g:** Δg/g = 0.005 + 2(0.0111) = 0.005 + 0.0222 = 0.0272 (1 mark)
+
+5.  **Calculate the percentage error in g:** Percentage error = (Δg/g) * 100% = 0.0272 * 100% = 2.72% (1 mark)
+
+6.  **Explanation of Steps:**
+    *   Rearranged the given equation to make *g* the subject.
+    *   Identified the absolute errors in *L* and *T* from the given information.
+    *   Calculated the relative errors in *L* and *T*.
+    *   Used the formula for error propagation to find the relative error in *g*, considering the powers of *L* and *T* in the equation.
+    *   Converted the relative error in *g* to a percentage error. The error in the time measurement contributes most significantly. (1 mark)
+
+**2. Question 2: Projectile Motion and Work-Energy Theorem (10 marks)**
+
+**(a) Derive an expression for the range and maximum height of a projectile fired with an initial velocity *v₀* at an angle *θ* with the horizontal. Neglect air resistance. (4 marks)**
+
+**Answer:**
+
+**Maximum Height (H):**
+
+*   **Vertical component of initial velocity:** v₀y = v₀ sin θ (0.25 mark)
+*   **At maximum height, vy = 0:**
+*   **Using equation of motion:** vy² = v₀y² + 2ayh  (0.5 marks)
+    0 = (v₀ sin θ)² - 2gh  (Here acceleration due to gravity act opposite to the direction of motion)
+    h = (v₀² sin² θ) / (2g) (0.75 marks)
+*   **Therefore, H = (v₀² sin² θ) / (2g) (1 marks)**
+
+**Range (R):**
+
+*   **Time of flight (T):** Time to reach max height = v₀sinθ/g so total flight time = 2v₀sinθ/g (0.25 marks)
+*   **Horizontal component of initial velocity:** v₀x = v₀ cos θ
+*   **Range = Horizontal velocity × Time of flight:** R = (v₀ cos θ) * (2v₀ sin θ)/g (0.5 marks)
+*   **Using trigonometric identity 2 sin θ cos θ = sin 2θ:** R = (v₀² sin 2θ) / g (1 mark)
+*   **Therefore R = (v₀² sin 2θ) / g (0.75 marks)**
+
+**(b) A block of mass *m* = 2 kg slides down an inclined plane of height *h* = 5 m. The coefficient of kinetic friction between the block and the plane is *μ* = 0.2. Using the work-energy theorem, determine the velocity of the block at the bottom of the incline. Assume the block starts from rest. Clearly state all the forces acting on the block and the work done by each force. (6 marks)**
+
+**Answer:**
+
+1.  **Forces Acting on the Block:**
+    *   Weight (mg) acting vertically downwards. (0.25 mark)
+    *   Normal reaction (N) perpendicular to the inclined plane. (0.25 mark)
+    *   Kinetic friction (f) acting up the inclined plane, opposing the motion. (0.25 mark)
+
+2.  **Work Done by Each Force:**
+    *   **Work done by gravity (Wg):** Wg = mgh = (2 kg)(9.8 m/s²)(5 m) = 98 J  (1 mark)
+    *   **Work done by normal reaction (WN):** WN = 0 (since N is perpendicular to the displacement) (0.5 mark)
+    *   **Work done by friction (Wf):**
+        *   Let the length of the incline be L. Then sinθ = h/L
+        *   N = mg cosθ.  Therefore f = μN = μmg cosθ = μmg sqrt(1-(h/L)²)
+        *   Work done by the friction force = f *L cos 180 = - μmgcosθ *L   (Since Friction act opposite to the force) (1 mark)
+    *   Using triangle rule h/L =sin theta thus the work done becomes = -0.2*(2*9.8)*L *(sqrt (1 - (h/L)^2)) or 0.2 *( 2 * 9.8)*(cos (theta) *L (1 mark)
+
+3.  **Net Work Done:** Wnet = Wg + WN + Wf = mgh - μmgL cos θ = (2*9.8)* 5 - 0.2 *(2 * 9.8)*(sqrt (L^2 -25)) (0.5 mark)
+    *   Also Since h = LSin (theta) Then = Wnet = mgh - μmgL cos θ
+       We need another relationship to solve this: using trigonometry relation we arrive with L = root(h^2+b^2)
+
+4.  **Work-Energy Theorem:** Wnet = ΔKE = (1/2)mv² - (1/2)mu², where u is the initial velocity and v is the final velocity. Since the block starts from rest, u = 0.  (0.5 mark)
+
+98  -2/5*19.6 * L = 0.5 *2 *v^2. Hence 98 + 7.84/05= v
+
+**3. Question 3: Rotational Motion and Gravitation (10 marks)**
+
+**(a) Define the terms 'torque' and 'moment of inertia'. Explain how the torque acting on a rigid body is related to its angular acceleration. Derive the relationship. (4 marks)**
+
+**Answer:**
+
+**Torque (τ):** Torque is a twisting force that tends to cause rotation. It is defined as the product of the force and the perpendicular distance from the axis of rotation to the line of action of the force.  τ = rFsinθ, where r is the distance from the axis of rotation, F is the force, and θ is the angle between r and F. (1 mark)
+
+**Moment of Inertia (I):** Moment of inertia is a measure of an object's resistance to rotational motion about a given axis. It depends on the mass distribution of the object and the location of the axis of rotation. (1 mark)
+
+**Relationship between Torque and Angular Acceleration:**
+
+Torque is directly proportional to angular acceleration.  The relationship is analogous to Newton's second law for linear motion (F = ma). (0.5 mark)
+
+**Derivation:**
+
+Consider a rigid body made up of *n* particles, each with mass *mi* at a distance *ri* from the axis of rotation. When a torque τ is applied, each particle experiences a tangential force Fi = mi*ai*, where ai is the tangential acceleration. (0.5 mark)
+
+The torque on each particle is τi = ri*Fi = ri*mi*ai*.  Since ai = ri*α, where α is the angular acceleration (which is the same for all particles in a rigid body), then τi = ri*mi*(ri*α) = mi*ri²α.
+
+The total torque on the rigid body is the sum of the torques on all the particles:
+
+τ = Στi = Σ(mi*ri²α) = αΣ(mi*ri²)
+
+The term Σ(mi*ri²) is the moment of inertia (I) of the rigid body.  Therefore, τ = Iα (1 mark)
+
+**(b

@@ -1,0 +1,155 @@
+1.  **Structure and Isomerism:** Acyclic hydrocarbon 'A' with the formula C5H10 reacts with HBr in the presence of peroxide to yield 2-bromopentane as the major product. Draw the structure of 'A', provide its IUPAC name, and draw all its possible structural isomers (excluding stereoisomers). Name the type of isomerism displayed between 'A' and one of the other structures you have drawn.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student addressing the assignment question. It includes clear explanations and addresses all parts of the question.
+
+**Answer:**
+
+1.  **Identifying Hydrocarbon 'A' and its IUPAC Name:**
+
+    The key to identifying hydrocarbon 'A' is the reaction with HBr in the presence of peroxide. The presence of peroxide indicates that the reaction proceeds via an *anti-Markovnikov addition*. This means the bromine atom (from HBr) adds to the carbon with *more* hydrogen atoms attached to it in the double bond. This is the opposite of Markovnikov's rule, which applies in the absence of peroxides.
+
+    Since the major product is 2-bromopentane, the bromine atom is attached to the second carbon. Therefore, 'A' must be pent-1-ene (CH2=CH-CH2-CH2-CH3). In pent-1-ene, the first carbon of the double bond has two hydrogen atoms, and the second carbon has one hydrogen atom. According to anti-Markovnikov addition, Br will attach to the first carbon.
+
+    Therefore, *A* is **pent-1-ene**.
+
+    Its IUPAC name is simply **pent-1-ene**.
+
+2.  **Drawing Structural Isomers of C5H10 (excluding stereoisomers):**
+
+    C5H10 has the general formula CnH2n, indicating it's either an alkene or a cyclic alkane (cycloalkane). Since 'A' is an acyclic hydrocarbon, we will focus on drawing acyclic alkene isomers and consider only structural isomers. Here are the possible structural isomers, along with their IUPAC names:
+
+    *   **Isomer 1: Pent-1-ene (Compound A)**
+        ```
+        CH2=CH-CH2-CH2-CH3
+        ```
+    *   **Isomer 2: Pent-2-ene**
+        ```
+        CH3-CH=CH-CH2-CH3
+        ```
+    *   **Isomer 3: 2-Methylbut-1-ene**
+        ```
+           CH3
+           |
+        CH2=C-CH2-CH3
+        ```
+    *   **Isomer 4: 2-Methylbut-2-ene**
+        ```
+           CH3
+           |
+        CH3-C=CH-CH3
+        ```
+    *   **Isomer 5: 3-Methylbut-1-ene**
+        ```
+             CH3
+             |
+        CH2=CH-CH-CH3
+        ```
+
+3.  **Type of Isomerism:**
+
+    Let's consider the relationship between pent-1-ene ('A') and 2-methylbut-2-ene.
+
+    Pent-1-ene: CH2=CH-CH2-CH2-CH3
+
+    2-methylbut-2-ene:
+    ```
+           CH3
+           |
+        CH3-C=CH-CH3
+        ```
+
+    Both have the molecular formula C5H10. However, the arrangement of atoms (the connectivity) is different.  In pent-1-ene, the longest carbon chain contains five carbons, and the double bond is between the first and second carbon. In 2-methylbut-2-ene, the longest carbon chain contains four carbons with a methyl group as a branch, and the double bond is between the second and third carbon.
+
+    Therefore, the type of isomerism displayed between pent-1-ene and 2-methylbut-2-ene is **structural isomerism** (specifically, chain isomerism and position isomerism since the position of double bond has also changed.)
+
+2.  **Aromaticity and Reactivity:** Two organic compounds, benzene and naphthalene, exhibit aromatic character.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, addressing the aromaticity and reactivity of benzene and naphthalene:
+
+**Answer:**
+
+Both benzene and naphthalene are classic examples of aromatic compounds. They share the property of aromaticity, but differences in their structures affect their reactivity.
+
+**Aromaticity:**
+
+Aromaticity is a special property that confers unusual stability to cyclic, planar, and conjugated organic molecules. The key criterion for aromaticity is Hückel's Rule, which states that a compound is aromatic if it has a cyclic, planar, and conjugated system with (4n + 2) π electrons, where 'n' is a non-negative integer (0, 1, 2, etc.).
+
+*   **Benzene (C<sub>6</sub>H<sub>6</sub>):** Benzene is the quintessential aromatic compound. It's a six-membered ring with alternating single and double bonds. Each carbon atom is sp<sup>2</sup> hybridized, making the molecule planar. The six π electrons (one from each double bond) are delocalized over the entire ring, satisfying Hückel's rule (n=1; 4(1) + 2 = 6). This delocalization results in enhanced stability, making benzene less reactive than typical alkenes.
+
+*   **Naphthalene (C<sub>10</sub>H<sub>8</sub>):** Naphthalene consists of two fused benzene rings.  Each carbon is sp<sup>2</sup> hybridized, and it is planar. It has 10 π electrons delocalized over the entire fused ring system, again fulfilling Hückel's rule (n=2; 4(2) + 2 = 10). Naphthalene also exhibits aromaticity, although its aromatic character is slightly less pronounced than that of benzene.
+
+**Reactivity:**
+
+Aromatic compounds are known for their resistance to addition reactions, which are typical of alkenes. Instead, they undergo electrophilic aromatic substitution reactions, where a substituent on the ring is replaced by an electrophile.
+
+*   **Benzene:** Benzene is relatively stable and requires strong electrophiles and catalysts to undergo electrophilic substitution. This is due to the high resonance energy (stabilization energy due to electron delocalization) associated with the aromatic ring. The delocalization of the π electrons must be preserved during the reaction to maintain the aromatic stability.
+
+*   **Naphthalene:** Naphthalene is *more* reactive than benzene in electrophilic aromatic substitution reactions. This is because the delocalization energy lost during electrophilic attack is less than that of benzene. Substitution in naphthalene occurs preferentially at the *alpha* (or 1) position.
+
+**In summary:**  Both benzene and naphthalene are aromatic compounds due to their cyclic, planar structures and the presence of (4n+2) π electrons. However, naphthalene is more reactive than benzene in electrophilic aromatic substitution reactions because disrupting the aromatic system in naphthalene has a lesser impact on stability compared to benzene.
+
+3.  **Empirical Formula and Functional Groups:** An unknown organic compound contains only carbon, hydrogen, and oxygen. Complete combustion of 0.36 g of the compound produces 0.792 g of CO2 and 0.324 g of H2O. Further analysis reveals that the compound reacts with both sodium metal and Tollen's reagent.
+Sample Answer:
+Here's a comprehensive answer to the assignment question, designed for a CBSE Class 11-12 Chemistry student, incorporating clear explanations:
+
+**3. Empirical Formula and Functional Groups**
+
+**(a) Determining the Empirical Formula:**
+
+To determine the empirical formula, we'll follow these steps:
+
+1.  **Calculate the mass of carbon:**
+
+    *   We know that all the carbon in the CO2 came from the original organic compound.
+    *   Molar mass of CO2 = 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol
+    *   Mass of carbon in 0.792 g CO2 = (12.01 g C / 44.01 g CO2) * 0.792 g CO2 = 0.216 g C
+
+2.  **Calculate the mass of hydrogen:**
+
+    *   We know that all the hydrogen in the H2O came from the original organic compound.
+    *   Molar mass of H2O = 2 * 1.008 g/mol (H) + 16.00 g/mol (O) = 18.02 g/mol
+    *   Mass of hydrogen in 0.324 g H2O = (2 * 1.008 g H / 18.02 g H2O) * 0.324 g H2O = 0.036 g H
+
+3.  **Calculate the mass of oxygen:**
+
+    *   Since the compound contains only C, H, and O, we can find the mass of oxygen by subtracting the masses of carbon and hydrogen from the total mass of the compound.
+    *   Mass of oxygen = Total mass of compound - (Mass of carbon + Mass of hydrogen)
+    *   Mass of oxygen = 0.36 g - (0.216 g + 0.036 g) = 0.108 g O
+
+4.  **Convert masses to moles:**
+
+    *   Moles of C = 0.216 g / 12.01 g/mol = 0.018 mol
+    *   Moles of H = 0.036 g / 1.008 g/mol = 0.036 mol
+    *   Moles of O = 0.108 g / 16.00 g/mol = 0.00675 mol
+
+5.  **Find the simplest whole-number ratio:**
+
+    *   Divide each mole value by the smallest mole value (0.00675):
+        *   C: 0.018 / 0.00675 = 2.67
+        *   H: 0.036 / 0.00675 = 5.33
+        *   O: 0.00675 / 0.00675 = 1
+    *   Multiply by a factor to get whole numbers (in this case, multiply by 3):
+        *   C: 2.67 * 3 ≈ 8
+        *   H: 5.33 * 3 ≈ 16
+        *   O: 1 * 3 = 3
+
+6.  **Write the empirical formula:**
+
+    *   The empirical formula is **C8H16O3**.
+
+**(b) Identifying Functional Groups:**
+
+The information that the compound reacts with:
+
+*   **Sodium metal (Na):**  This indicates the presence of an **alcohol (-OH) group** or a **carboxylic acid (-COOH) group**. Alcohols and carboxylic acids react with sodium metal to produce hydrogen gas.
+
+    *   2 R-OH + 2 Na → 2 R-ONa + H2 (Alcohol)
+    *   2 R-COOH + 2 Na --> 2 R-COONa + H2 (Carboxylic Acid)
+
+*   **Tollen's reagent (Ammoniacal Silver Nitrate):** This indicates the presence of an **aldehyde (-CHO) group**. Aldehydes are oxidized by Tollen's reagent, resulting in the formation of a silver mirror.
+
+    *   R-CHO + 2[Ag(NH3)2]+ + 3OH- --> R-COO- + 2Ag(s) + 4NH3 + 2H2O (Aldehyde)
+
+**(c) Conclusion:**
+
+Based on the reactions, the unknown organic compound *must* contain **both an alcohol and an aldehyde functional group**. The empirical formula is C8H16O3. With this information, it is not possible to determine the precise structural formula without further data. However, we know it must contain both an alcohol and aldehyde group within its structure, and its empirical formula is C8H16O3. For example, a possible compound with that formula could be 4-hydroxyoctanal.

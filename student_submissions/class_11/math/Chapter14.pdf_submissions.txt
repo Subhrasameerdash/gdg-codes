@@ -1,0 +1,145 @@
+1.  **Event Probability and Sample Space:** A standard six-sided die is rolled twice. Define event A as "the sum of the two rolls is a prime number" and event B as "the first roll is greater than the second roll". Calculate the probability of event A occurring given that event B has already occurred. Explain your reasoning, clearly outlining the relevant sample space and probabilities.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content, for the given assignment question.
+
+**Answer:**
+
+To solve this problem, we'll use the concept of conditional probability: P(A|B) = P(A ∩ B) / P(B). This formula gives the probability of event A occurring given that event B has already occurred.
+
+**1. Defining the Sample Space:**
+
+When a standard six-sided die is rolled twice, the sample space S consists of 36 possible outcomes, each represented as an ordered pair (x, y), where x is the result of the first roll and y is the result of the second roll.  S = {(1,1), (1,2), ..., (6,6)}.
+
+**2. Defining Events A and B:**
+
+*   **Event A: The sum of the two rolls is a prime number.**  The prime numbers that can be obtained as a sum of two dice rolls are 2, 3, 5, 7, and 11.  Let's list the outcomes that satisfy event A:
+
+    A = {(1,1), (1,2), (2,1), (1,4), (2,3), (3,2), (4,1), (1,6), (2,5), (3,4), (4,3), (5,2), (6,1), (5,6), (6,5)}
+    There are 15 such outcomes.
+
+*   **Event B: The first roll is greater than the second roll.** Let's list the outcomes:
+
+    B = {(2,1), (3,1), (3,2), (4,1), (4,2), (4,3), (5,1), (5,2), (5,3), (5,4), (6,1), (6,2), (6,3), (6,4), (6,5)}
+    There are 15 such outcomes.
+
+**3. Finding the Intersection of A and B (A ∩ B):**
+
+We need to find the outcomes that satisfy both event A *and* event B.
+
+A ∩ B = {(2,1), (3,2), (4,1), (4,3), (5,2), (5,4), (6,1), (6,5)}
+
+There are 8 such outcomes.
+
+**4. Calculating Probabilities:**
+
+*   **P(A ∩ B):** The probability of both A and B occurring is the number of outcomes in A ∩ B divided by the total number of outcomes in the sample space.
+
+    P(A ∩ B) = 8/36 = 2/9
+
+*   **P(B):** The probability of event B occurring is the number of outcomes in B divided by the total number of outcomes in the sample space.
+
+    P(B) = 15/36 = 5/12
+
+**5. Calculating the Conditional Probability P(A|B):**
+
+Now we can use the formula for conditional probability:
+
+P(A|B) = P(A ∩ B) / P(B) = (2/9) / (5/12) = (2/9) * (12/5) = 24/45 = 8/15
+
+**Conclusion:**
+
+The probability of the sum of the two rolls being a prime number, given that the first roll is greater than the second roll, is 8/15.
+
+2.  **Axiomatic Probability and Set Theory:** Suppose events X, Y, and Z are associated with a random experiment. Given that P(X) = 0.4, P(Y) = 0.5, P(Z) = 0.3, P(X ∩ Y) = 0.2, P(Y ∩ Z) = 0.1, and P(X ∩ Z) = 0.15, and P(X ∩ Y ∩ Z) = 0.05, find the probability that at least one of the events X, Y, or Z occurs. Justify your answer using the principles of axiomatic probability.
+Sample Answer:
+Here's a sample answer suitable for a CBSE class 11-12 student, based on the provided NCERT content and the given assignment question:
+
+**Answer:**
+
+To find the probability that at least one of the events X, Y, or Z occurs, we need to find P(X ∪ Y ∪ Z). We can use the principle of inclusion-exclusion to calculate this probability.  This principle is a direct consequence of axiomatic probability and set theory relationships.
+
+The formula for the probability of the union of three events is:
+
+P(X ∪ Y ∪ Z) = P(X) + P(Y) + P(Z) - P(X ∩ Y) - P(X ∩ Z) - P(Y ∩ Z) + P(X ∩ Y ∩ Z)
+
+We are given the following probabilities:
+
+*   P(X) = 0.4
+*   P(Y) = 0.5
+*   P(Z) = 0.3
+*   P(X ∩ Y) = 0.2
+*   P(Y ∩ Z) = 0.1
+*   P(X ∩ Z) = 0.15
+*   P(X ∩ Y ∩ Z) = 0.05
+
+Now, we can substitute these values into the formula:
+
+P(X ∪ Y ∪ Z) = 0.4 + 0.5 + 0.3 - 0.2 - 0.15 - 0.1 + 0.05
+
+P(X ∪ Y ∪ Z) = 1.2 - 0.45 + 0.05
+
+P(X ∪ Y ∪ Z) = 0.75 + 0.05
+
+P(X ∪ Y ∪ Z) = 0.8
+
+Therefore, the probability that at least one of the events X, Y, or Z occurs is 0.8.
+
+**Justification using principles of axiomatic probability:**
+
+The axiomatic approach to probability is based on the following axioms:
+
+1.  **For any event A, P(A) ≥ 0:**  This axiom states that the probability of any event must be non-negative.  All the individual probabilities given in the problem satisfy this condition.
+
+2.  **P(S) = 1, where S is the sample space:**  The probability of the entire sample space (i.e., that *some* outcome occurs) is 1.
+
+3.  **For mutually exclusive events A and B, P(A ∪ B) = P(A) + P(B):**  This axiom states that if two events cannot occur at the same time, the probability of either one occurring is the sum of their individual probabilities. The inclusion-exclusion principle we used is an extension of this axiom to non-mutually exclusive events.
+
+The inclusion-exclusion principle itself can be derived by considering how probabilities are assigned to sets.  When we add P(X), P(Y), and P(Z), we are counting the probabilities of the intersections (X ∩ Y, X ∩ Z, Y ∩ Z) multiple times.  Therefore, we must subtract these intersection probabilities.  However, by subtracting the intersections, we have now subtracted the probability of the triple intersection (X ∩ Y ∩ Z) too many times, so we must add it back in.
+
+The result, P(X ∪ Y ∪ Z) = 0.8, adheres to the first axiom (P(A) ≥ 0). Also, since 0 ≤ P(X ∪ Y ∪ Z) ≤ 1, it is a valid probability value within the sample space. If X, Y, and Z covered the entire sample space S then  P(X ∪ Y ∪ Z) would equal 1, but this is not a requirement of the problem. The principle of inclusion/exclusion correctly accounts for overlapping events, derived through logical set operations and conforming to probability axioms.
+
+3.  **Conditional Probability in Real-World Scenarios:** A company has two factories that produce light bulbs. Factory A produces 60% of the bulbs, and Factory B produces 40%. 2% of the bulbs from Factory A are defective, while 3% of the bulbs from Factory B are defective. If a randomly selected bulb is found to be defective, what is the probability that it was produced by Factory A? Explain how you arrived at your answer using conditional probability.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, explaining conditional probability with a clear, step-by-step approach:
+
+**Answer:**
+
+This problem involves conditional probability. We want to find the probability that a defective bulb was produced by Factory A, given that it *is* defective.  Let's define the following events:
+
+*   A: The event that the bulb was produced by Factory A.
+*   B: The event that the bulb was produced by Factory B.
+*   D: The event that the bulb is defective.
+
+We are given the following probabilities:
+
+*   P(A) = 0.60 (Probability that a bulb is from Factory A)
+*   P(B) = 0.40 (Probability that a bulb is from Factory B)
+*   P(D|A) = 0.02 (Probability that a bulb is defective given it's from Factory A)
+*   P(D|B) = 0.03 (Probability that a bulb is defective given it's from Factory B)
+
+We want to find P(A|D), which is the probability that the bulb came from Factory A, *given* that it is defective.  We can use Bayes' Theorem to solve this:
+
+P(A|D) = [P(D|A) * P(A)] / P(D)
+
+First, we need to find P(D), the overall probability that a bulb is defective. We can find this using the law of total probability:
+
+P(D) = P(D|A) * P(A) + P(D|B) * P(B)
+
+P(D) = (0.02 * 0.60) + (0.03 * 0.40)
+P(D) = 0.012 + 0.012
+P(D) = 0.024
+
+Now we can plug the values back into Bayes' Theorem:
+
+P(A|D) = (0.02 * 0.60) / 0.024
+P(A|D) = 0.012 / 0.024
+P(A|D) = 0.5
+
+Therefore, the probability that a randomly selected defective bulb was produced by Factory A is 0.5 or 50%.
+
+**Explanation:**
+
+*   **Bayes' Theorem:** This theorem is crucial for calculating conditional probabilities when you want to reverse the conditioning (i.e., find P(A|D) given P(D|A)).
+*   **Law of Total Probability:** This law helps us find the overall probability of an event (in this case, a bulb being defective) by considering all possible ways that event can occur (defective bulbs from Factory A and defective bulbs from Factory B).
+*   **Understanding the Problem:** It's important to clearly define the events and probabilities given in the problem. Misinterpreting these values will lead to an incorrect answer.  We needed to find the probability a bulb came from A *given* that it was defective, not the probability that a bulb from A is defective.
+*   **Step-by-Step Calculation:**  Breaking down the problem into smaller steps (calculating P(D) first) makes it easier to understand and reduces the chance of errors.

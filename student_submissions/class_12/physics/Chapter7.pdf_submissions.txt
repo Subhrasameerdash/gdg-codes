@@ -1,0 +1,105 @@
+1.  **A residential area experiences frequent voltage fluctuations. Explain how a step-down transformer at the local substation ensures a stable voltage supply to homes, elaborating on the transformer's working principle and the factors that determine the voltage transformation ratio.** (This question assesses understanding of transformers and their practical application in voltage regulation, requiring explanation of the underlying physics.)
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, addressing the assignment question based on the provided chapter content:
+
+**Answer:**
+
+Voltage fluctuations in a residential area can damage appliances and disrupt daily life. A step-down transformer at the local substation plays a crucial role in providing a stable voltage supply to homes by reducing the high voltage from the power grid to a lower, safer voltage level suitable for household use (typically 220V in many countries).
+
+**Working Principle of a Transformer:**
+
+A transformer works on the principle of **mutual induction**. It consists of two coils – a primary coil and a secondary coil – electrically isolated but wound around a common soft iron core.
+
+1.  **AC Input:** The high-voltage AC from the power grid is fed into the *primary coil*.
+2.  **Magnetic Field Generation:** The alternating current in the primary coil creates a changing (alternating) magnetic flux in the iron core.  This changing magnetic flux is key to the transformer's operation.
+3.  **Mutual Induction:** This changing magnetic flux links with the *secondary coil*, inducing an alternating voltage in the secondary coil.  This induction is governed by Faraday's Law of Electromagnetic Induction.
+4.  **Voltage Transformation:** The magnitude of the voltage induced in the secondary coil depends on the number of turns in each coil. A *step-down transformer* has fewer turns in the secondary coil than in the primary coil.
+
+**Voltage Transformation Ratio:**
+
+The voltage transformation ratio (V<sub>s</sub>/V<sub>p</sub>) is directly proportional to the ratio of the number of turns in the secondary coil (N<sub>s</sub>) to the number of turns in the primary coil (N<sub>p</sub>):
+
+V<sub>s</sub> / V<sub>p</sub> = N<sub>s</sub> / N<sub>p</sub>
+
+Where:
+
+*   V<sub>s</sub> is the voltage in the secondary coil
+*   V<sub>p</sub> is the voltage in the primary coil
+*   N<sub>s</sub> is the number of turns in the secondary coil
+*   N<sub>p</sub> is the number of turns in the primary coil
+
+**How a Step-Down Transformer Ensures Stable Voltage:**
+
+*   **Reduced Voltage:** Because N<sub>s</sub> < N<sub>p</sub> in a step-down transformer, V<sub>s</sub> < V<sub>p</sub>. This lowers the high grid voltage to a usable level.
+
+*   **Voltage Regulation (Indirect):** While the transformer *itself* doesn't directly compensate for voltage fluctuations, it provides a consistent *ratio* of voltage reduction. If the primary voltage fluctuates within a reasonable range, the secondary voltage will also fluctuate, but at a lower, safer level.  More sophisticated voltage regulation equipment is often used *in conjunction* with transformers to actively stabilize the voltage further.
+
+*   **Minimizing Losses:** Transformers are very efficient. By stepping down the voltage (and consequently increasing the current), the transformer helps minimize power losses during transmission within the local distribution network. High voltage transmission over long distances is most efficient as high voltage reduces current for same amount of transmitted power, but at delivery stage voltage levels need to be brought down for safety and operability of our home appliances.
+
+**In summary:** The step-down transformer leverages the principle of mutual induction and a carefully chosen turns ratio to reduce high-voltage AC from the grid to a safer, lower voltage suitable for residential use. While it doesn't perfectly eliminate all voltage fluctuations, it provides a more stable and manageable voltage supply, contributing significantly to the reliable operation of household appliances.
+
+2.  **Consider an LCR series circuit connected to an AC source. Describe the conditions under which the circuit will exhibit resonance. Explain how the sharpness of resonance is affected by the resistance in the circuit, and discuss the practical implications of sharp versus broad resonance in radio receiver design.** (This question probes the understanding of resonance, its dependence on circuit parameters, and its application in a real-world scenario, emphasizing the link between theory and practical design.)
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+Resonance in an LCR series circuit connected to an AC source occurs when the inductive reactance (X<sub>L</sub>) is equal to the capacitive reactance (X<sub>C</sub>).  Mathematically, this condition is expressed as:
+
+X<sub>L</sub> = X<sub>C</sub>
+
+Since X<sub>L</sub> = 2πfL and X<sub>C</sub> = 1/(2πfC), resonance happens at a specific frequency called the resonant frequency (f<sub>r</sub>), which can be calculated as:
+
+f<sub>r</sub> = 1 / (2π√(LC))
+
+At resonance, the impedance (Z) of the circuit is at its minimum and is equal to the resistance (R) because the inductive and capacitive reactances cancel each other out (Z = √(R<sup>2</sup> + (X<sub>L</sub> - X<sub>C</sub>)<sup>2</sup>) becomes Z = R when X<sub>L</sub> = X<sub>C</sub>).  This means that for a given voltage, the current flowing through the circuit is maximum at the resonant frequency.
+
+**Effect of Resistance on Sharpness of Resonance:**
+
+The sharpness of resonance is determined by how rapidly the current decreases as the frequency deviates from the resonant frequency.  The *quality factor* or *Q-factor* of the circuit is a measure of this sharpness.  A higher Q-factor indicates a sharper resonance, meaning the circuit is highly selective in allowing current to flow only at frequencies very close to the resonant frequency.  The Q-factor is defined as:
+
+Q = (ω<sub>r</sub>L) / R = 1/(ω<sub>r</sub>CR) = 1/R * sqrt(L/C)
+
+Where ω<sub>r</sub> is the angular resonant frequency (2πf<sub>r</sub>).
+
+From the formula, we can see that the resistance (R) is inversely proportional to the Q-factor. Therefore:
+
+*   **Lower Resistance (R):**  Leads to a higher Q-factor, resulting in a sharper resonance. The current peaks very sharply around the resonant frequency.
+
+*   **Higher Resistance (R):** Leads to a lower Q-factor, resulting in a broader resonance. The current peak is less pronounced, and the circuit allows a wider range of frequencies to pass through.
+
+**Practical Implications in Radio Receiver Design:**
+
+In radio receiver design, the resonance phenomenon is crucial for tuning into a specific radio station.  The radio receiver contains an LCR circuit.
+
+*   **Sharp Resonance (High Q):**  A sharp resonance is desirable for selecting a specific radio station while rejecting other nearby stations.  A high Q circuit allows the receiver to be very selective, preventing interference from unwanted signals. However, a very sharp resonance might make it difficult to tune in precisely, as slight variations in the circuit components or the incoming signal frequency could significantly reduce the received signal strength.
+
+*   **Broad Resonance (Low Q):** A broad resonance makes it easier to tune into a station, as the circuit is less sensitive to slight frequency variations. However, it also allows multiple radio stations operating at nearby frequencies to be received simultaneously, leading to interference and poor audio quality.
+
+Therefore, in practice, radio receiver designers aim for an optimal Q-factor. A moderately sharp resonance is preferred. It provides adequate selectivity to isolate the desired station while maintaining sufficient bandwidth to capture the entire audio signal transmitted by the station without significant signal loss. Variable capacitors are used to change the resonance frequency. The user tunes the receiver to the resonance frequency of the desired station.
+
+3.  **A factory uses a large inductive motor, resulting in a low power factor for its AC circuit. Explain why a low power factor is undesirable for the electricity provider. Suggest and explain a method the factory could implement to improve its power factor, including the impact of this method on the current drawn from the supply.** (This question examines the concept of power factor, its economic implications, and a practical solution, requiring application of knowledge to solve a real-world problem.)
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content and the assignment question:
+
+**Answer:**
+
+A low power factor is undesirable for the electricity provider because it leads to significant inefficiencies in the distribution of electrical power and increased costs. Here’s a breakdown:
+
+*   **Increased Current:** A low power factor means that the current flowing in the circuit is higher than what is strictly necessary to deliver the actual (useful) power to the load (in this case, the inductive motor). Remember that power (P) = V * I * cos(Φ), where cos(Φ) is the power factor. If the power factor (cos(Φ)) is low, then for a given amount of real power (P) needed by the factory, the current (I) drawn from the supply must be higher.
+
+*   **Higher I²R Losses:** This increased current results in higher I²R losses (also known as copper losses or resistive losses) in the transmission and distribution lines. These losses are proportional to the square of the current.  Therefore, even a small increase in current due to a poor power factor can lead to a substantial increase in energy wasted as heat in the wires. The electricity provider has to generate and transmit more power just to compensate for these losses, which is economically inefficient.
+
+*   **Overloaded Infrastructure:** The higher current also burdens the electricity provider's infrastructure, including generators, transformers, and transmission lines. These components are designed to handle a certain maximum current. A low power factor effectively reduces the capacity of this infrastructure, as a larger portion of it is being used to carry reactive current (current that doesn't contribute to useful work) instead of real current. This can lead to the need for costly upgrades to handle the increased current demand.
+
+*   **Voltage Drop:**  The increased current also causes a greater voltage drop along the transmission lines. This can lead to undervoltage at the consumer's end, potentially affecting the performance of equipment.
+
+**Method to Improve Power Factor: Capacitor Banks**
+
+The most common and effective method to improve the power factor of a factory with a large inductive load (like a motor) is to install **capacitor banks** in parallel with the load.
+
+*   **Explanation:** Inductive loads, like motors, draw lagging reactive power from the supply. This means the current lags behind the voltage. Capacitors, on the other hand, supply leading reactive power. By connecting capacitors in parallel with the inductive load, they provide the reactive power needed by the motor locally.  This reduces the amount of reactive power that needs to be supplied by the electricity provider, effectively reducing the overall current flowing in the distribution network. The capacitor stores energy and releases it to compensate for the energy stored by the inductor.
+
+*   **Impact on Current Drawn from the Supply:** When capacitor banks are implemented, the factory will draw less current from the electricity supply for the same amount of real power consumed. The current drawn from the supply will be more in phase with the voltage, bringing the power factor closer to 1 (unity).  This reduces I²R losses in the distribution network, frees up capacity in the electricity provider's infrastructure, and improves voltage regulation.
+
+In summary, improving the power factor through capacitor banks reduces the burden on the electricity provider, minimizes energy waste, and enhances the overall efficiency of the electrical system. It's a win-win situation for both the factory (potentially lower electricity bills and improved equipment performance) and the electricity provider (reduced costs and increased system capacity).

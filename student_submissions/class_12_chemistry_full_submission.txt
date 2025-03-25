@@ -1,0 +1,412 @@
+Okay, here are sample student answers for the provided assignment questions, designed to be clear, concise, and suitable for CBSE Class 11-12 standards:
+
+**=== Short Questions (2 marks each) ===**
+
+1.  **Define molarity. A solution contains 20g of NaOH in 500 mL of solution. Calculate the molarity of the solution.**
+
+    **Answer:** Molarity is defined as the number of moles of solute dissolved in one liter of solution.
+
+    To calculate the molarity:
+    *   Molar mass of NaOH = 23 + 16 + 1 = 40 g/mol
+    *   Moles of NaOH = 20g / 40 g/mol = 0.5 mol
+    *   Volume of solution in liters = 500 mL / 1000 mL/L = 0.5 L
+    *   Molarity = 0.5 mol / 0.5 L = 1 M
+
+2.  **Explain the difference between molarity and molality. Why is molality preferred over molarity in expressing the concentration of a solution when temperature changes?**
+
+    **Answer:** Molarity is moles of solute per liter of *solution*, while molality is moles of solute per kilogram of *solvent*.
+
+    Molality is preferred because it is independent of temperature. Molarity changes with temperature due to the expansion or contraction of the solution's volume, while molality is based on mass, which doesn't change with temperature.
+
+3.  **State Raoult's law for a solution containing volatile liquids. The vapor pressure of pure benzene and toluene at 298 K are 12.8 kPa and 3.85 kPa, respectively. Calculate the vapor pressure of a solution containing equal moles of benzene and toluene.**
+
+    **Answer:** Raoult's Law states that the partial vapor pressure of each component of an ideal solution is equal to the vapor pressure of the pure component multiplied by its mole fraction in the solution.
+
+    If there are equal moles of benzene and toluene, the mole fraction of each is 0.5.
+
+    *   P<sub>benzene</sub> = 0.5 * 12.8 kPa = 6.4 kPa
+    *   P<sub>toluene</sub> = 0.5 * 3.85 kPa = 1.925 kPa
+    *   Total vapor pressure = 6.4 kPa + 1.925 kPa = 8.325 kPa
+
+4.  **What are colligative properties? Give two examples. Why are colligative properties useful in determining the molar masses of substances?**
+
+    **Answer:** Colligative properties are properties of solutions that depend on the *number* of solute particles present, regardless of the nature of the solute.
+
+    Examples:  (1) Boiling point elevation, (2) Freezing point depression.
+
+    Colligative properties are useful because the change in these properties is directly proportional to the molality (or mole fraction) of the solute.  Knowing the mass of solute added and measuring the change in the colligative property, we can calculate the molar mass of the solute.
+
+5.  **Define electrode potential and cell potential. Write the Nernst equation for the cell reaction: Zn(s) + Cu2+(aq) -> Zn2+(aq) + Cu(s)**
+
+    **Answer:** Electrode potential is the measure of the tendency of a metal electrode to lose or gain electrons when in contact with a solution of its own ions. Cell potential is the difference between the electrode potentials of the two half-cells in an electrochemical cell.
+
+    The Nernst equation for the given cell reaction is:
+
+    E<sub>cell</sub> = E°<sub>cell</sub> - (0.0591/n) log ([Zn<sup>2+</sup>] / [Cu<sup>2+</sup>])  (at 298K), where n = 2 (number of electrons transferred)
+
+6.  **State Faraday's first law of electrolysis. How many grams of copper will be deposited when a current of 0.5 amperes is passed through a CuSO4 solution for 1 hour? (Given: Molar mass of Cu = 63.5 g/mol, F = 96500 C/mol)**
+
+    **Answer:** Faraday's first law states that the mass of a substance deposited or liberated at an electrode during electrolysis is directly proportional to the quantity of electricity passed through the electrolyte.
+
+    *   Q = I * t = 0.5 A * 3600 s = 1800 C
+    *   Moles of electrons = Q / F = 1800 C / 96500 C/mol = 0.01865 mol
+    *   Cu<sup>2+</sup> + 2e<sup>-</sup> -> Cu  (2 moles of electrons deposit 1 mole of Cu)
+    *   Moles of Cu deposited = 0.01865 mol / 2 = 0.009325 mol
+    *   Mass of Cu deposited = 0.009325 mol * 63.5 g/mol = 0.593 g
+
+7.  **Define rate law and order of a reaction. For a reaction A + B -> C, the rate law is given by rate = k[A][B]2. What is the order of the reaction?**
+
+    **Answer:** A rate law is an equation that expresses the rate of a reaction in terms of the concentrations of the reactants. The order of a reaction is the sum of the powers to which the concentrations of the reactants are raised in the rate law.
+
+    For the given rate law, rate = k[A][B]<sup>2</sup>, the order of the reaction is 1 (for A) + 2 (for B) = 3.  The reaction is third order overall.
+
+8.  **What is activation energy? Explain the effect of temperature on the rate of a reaction using the Arrhenius equation.**
+
+    **Answer:** Activation energy (Ea) is the minimum amount of energy required for a reaction to occur. It represents the energy barrier that must be overcome for reactants to transform into products.
+
+    The Arrhenius equation is: k = A * e<sup>(-Ea/RT)</sup>
+
+    Where:
+    *   k is the rate constant
+    *   A is the pre-exponential factor (frequency factor)
+    *   Ea is the activation energy
+    *   R is the gas constant
+    *   T is the absolute temperature
+
+    The equation shows that as temperature (T) increases, the rate constant (k) increases exponentially, leading to a faster reaction rate.  A higher temperature provides more molecules with sufficient energy to overcome the activation energy barrier.
+
+9.  **Why do transition metals exhibit variable oxidation states? Give two examples of transition metals that exhibit more than two oxidation states and write their electronic configurations.**
+
+    **Answer:** Transition metals exhibit variable oxidation states because of the involvement of both *ns* and *(n-1)d* electrons in bonding. The energies of these orbitals are close, so electrons from both can be lost or shared when forming compounds.
+
+    Examples:
+
+    *   Manganese (Mn): Electronic configuration: [Ar] 3d<sup>5</sup>4s<sup>2</sup>. Oxidation states: +2, +3, +4, +6, +7
+    *   Iron (Fe): Electronic configuration: [Ar] 3d<sup>6</sup>4s<sup>2</sup>. Oxidation states: +2, +3, +4, +6
+
+10. **Define coordination compounds. Give IUPAC names for the following coordination compounds: (a) K4[Fe(CN)6] (b) [Co(NH3)5Cl]Cl2**
+
+    **Answer:** Coordination compounds are compounds containing a central metal atom or ion surrounded by a group of ions or neutral molecules called ligands, which are attached to the central atom/ion by coordinate bonds.
+
+    IUPAC Names:
+
+    *   (a) K4[Fe(CN)6]: Potassium hexacyanoferrate(II)
+    *   (b) [Co(NH3)5Cl]Cl2: Pentaamminechloridocobalt(III) chloride
+
+**=== Focused Questions (5 marks each) ===**
+
+1.  **Solutions:** A solution is prepared by dissolving 10g of glucose (C6H12O6) in 180g of water. Calculate (a) the mole fraction of glucose and water in the solution, and (b) the molality of the solution. Explain how the molality of a solution remains unaffected by changes in temperature, unlike molarity.
+
+    **Answer:**
+
+    (a) *Mole Fraction:*
+        *   Molar mass of glucose (C6H12O6) = 180 g/mol
+        *   Moles of glucose = 10 g / 180 g/mol = 0.0556 mol
+        *   Moles of water = 180 g / 18 g/mol = 10 mol
+        *   Total moles = 0.0556 mol + 10 mol = 10.0556 mol
+        *   Mole fraction of glucose (x<sub>glucose</sub>) = 0.0556 mol / 10.0556 mol = 0.00553
+        *   Mole fraction of water (x<sub>water</sub>) = 10 mol / 10.0556 mol = 0.9945
+
+    (b) *Molality:*
+        *   Molality = Moles of solute / Kilograms of solvent
+        *   Kilograms of water = 180 g / 1000 g/kg = 0.18 kg
+        *   Molality = 0.0556 mol / 0.18 kg = 0.309 mol/kg (or 0.309 m)
+
+    *Explanation:*  Molality is unaffected by temperature because it is defined as moles of solute per *kilogram of solvent*. Both mass (of solvent) and moles (of solute) are independent of temperature. Molarity, on the other hand, is moles of solute per *liter of solution*. The volume of a solution changes with temperature due to thermal expansion or contraction, thus affecting the molarity.
+
+2.  **Electrochemistry:** The standard electrode potential (E°) for the Zn2+/Zn half-cell is -0.76V and for the Cu2+/Cu half-cell is +0.34V. (a) Write the cell reaction for the combination of these two half-cells. (b) Calculate the standard cell potential (E°cell). (c) Calculate the Gibbs free energy change (ΔG°) for the reaction.
+
+    **Answer:**
+
+    (a) *Cell Reaction:*
+    Zn(s) + Cu<sup>2+</sup>(aq) -> Zn<sup>2+</sup>(aq) + Cu(s)
+
+    (b) *Standard Cell Potential (E°<sub>cell</sub>):*
+    E°<sub>cell</sub> = E°<sub>cathode</sub> - E°<sub>anode</sub> = E°<sub>Cu2+/Cu</sub> - E°<sub>Zn2+/Zn</sub>
+    E°<sub>cell</sub> = +0.34 V - (-0.76 V) = 1.10 V
+
+    (c) *Gibbs Free Energy Change (ΔG°):*
+    ΔG° = -nFE°<sub>cell</sub>
+    where n = 2 (number of moles of electrons transferred) and F = 96500 C/mol
+    ΔG° = -2 * 96500 C/mol * 1.10 V = -212300 J/mol = -212.3 kJ/mol
+
+3.  **Chemical Kinetics:** The rate constant for a first-order reaction is found to be 2.3 x 10-5 s-1. If the initial concentration of the reactant is 0.1 M, how long will it take for the concentration to be reduced to 0.01 M? Explain the concept of half-life for first order reactions.
+
+    **Answer:**
+
+    Using the integrated rate law for a first-order reaction:
+
+    ln([A]<sub>t</sub> / [A]<sub>0</sub>) = -kt
+
+    Where:
+    *   [A]<sub>t</sub> = 0.01 M
+    *   [A]<sub>0</sub> = 0.1 M
+    *   k = 2.3 x 10<sup>-5</sup> s<sup>-1</sup>
+
+    ln(0.01 / 0.1) = -(2.3 x 10<sup>-5</sup> s<sup>-1</sup>) * t
+    ln(0.1) = -(2.3 x 10<sup>-5</sup> s<sup>-1</sup>) * t
+    -2.303 = -(2.3 x 10<sup>-5</sup> s<sup>-1</sup>) * t
+    t = -2.303 / (-2.3 x 10<sup>-5</sup> s<sup>-1</sup>) = 100130 seconds = 27.8 hours(approx)
+
+    *Half-life of a First-Order Reaction:* The half-life (t<sub>1/2</sub>) is the time required for the concentration of the reactant to decrease to one-half of its initial value. For a first-order reaction, the half-life is independent of the initial concentration and is given by:
+
+    t<sub>1/2</sub> = 0.693 / k
+
+4.  **d- and f-Block Elements:** Explain why transition metals exhibit variable oxidation states. Give examples of two transition metals that show a wide range of oxidation states, and discuss the factors that influence the stability of different oxidation states.
+
+    **Answer:**
+
+    *Variable Oxidation States:* Transition metals exhibit variable oxidation states because of the involvement of both *ns* and *(n-1)d* electrons in bonding. The energies of these orbitals are relatively close, allowing for the loss or sharing of different numbers of electrons when forming chemical bonds.
+
+    *Examples:*
+
+    *   Manganese (Mn): Shows oxidation states from +2 to +7.
+    *   Chromium (Cr): Shows oxidation states from +2 to +6.
+
+    *Factors Influencing Stability:*
+
+    *   *Electronic Configuration:* Half-filled and fully-filled d-orbitals often lead to increased stability. For example, Mn<sup>2+</sup> (d<sup>5</sup>) is more stable than Mn<sup>3+</sup> (d<sup>4</sup>).
+    *   *Ionization Enthalpy:* Lower ionization enthalpies favor higher oxidation states.
+    *   *Hydration Enthalpy/Lattice Enthalpy:* The stability of an oxidation state depends on the energy released during hydration (for ions in solution) or lattice formation (for solid compounds). Higher hydration or lattice enthalpies favor higher oxidation states.
+    *   *Nature of Ligand:*  Strong field ligands (e.g., CN<sup>-</sup>) can stabilize higher oxidation states by causing greater crystal field splitting.
+
+5.  **Coordination Compounds:** (a) Define the terms "ligand" and "coordination number" in the context of coordination compounds. (b) Give the IUPAC names of the following coordination compounds: [Co(NH3)5Cl]Cl2 and K4[Fe(CN)6]. (c) Draw the structures of geometrical isomers of [Pt(NH3)2Cl2].
+
+    **Answer:**
+
+    (a) *Definitions:*
+
+    *   *Ligand:* A ligand is an ion or molecule that binds to a central metal atom or ion to form a coordination complex. Ligands donate one or more electron pairs to the metal, forming a coordinate covalent bond.
+    *   *Coordination Number:* The coordination number of a central metal atom or ion in a coordination complex is the number of ligand atoms directly bonded to the metal.
+
+    (b) *IUPAC Names:*
+
+    *   [Co(NH3)5Cl]Cl2: Pentaamminechloridocobalt(III) chloride
+    *   K4[Fe(CN)6]: Potassium hexacyanoferrate(II)
+
+    (c) *Geometrical Isomers of [Pt(NH3)2Cl2]:*
+
+    [Include an image or text description of the *cis* and *trans* isomers here.  The *cis* isomer has the two NH3 ligands and the two Cl ligands on the same side of the Pt atom. The *trans* isomer has the two NH3 ligands and the two Cl ligands on opposite sides of the Pt atom.]
+
+6.  **Solutions:** The vapor pressure of pure water at 298 K is 23.8 mm Hg. 50g of urea (NH2CONH2) is dissolved in 850g of water. Calculate the vapor pressure of the solution. Explain why the vapor pressure is lower in the solution, compared to pure water.
+
+    **Answer:**
+
+    *   Molar mass of urea (NH2CONH2) = 60 g/mol
+    *   Moles of urea = 50 g / 60 g/mol = 0.833 mol
+    *   Moles of water = 850 g / 18 g/mol = 47.22 mol
+    *   Mole fraction of water (x<sub>water</sub>) = 47.22 mol / (47.22 mol + 0.833 mol) = 47.22 / 48.053 = 0.983
+
+    According to Raoult's Law:
+    P<sub>solution</sub> = x<sub>water</sub> * P°<sub>water</sub>
+    P<sub>solution</sub> = 0.983 * 23.8 mm Hg = 23.39 mm Hg
+
+    *Explanation:* The vapor pressure of the solution is lower than that of pure water because the presence of the non-volatile solute (urea) reduces the number of solvent (water) molecules at the surface of the solution. This decreases the rate of evaporation and, consequently, lowers the vapor pressure.
+
+7.  **Electrochemistry:** The conductivity of 0.001 M acetic acid is 4.95 × 10-5 S cm-1. Calculate its molar conductivity (Λm). If Λ°m for acetic acid is 390.5 S cm2 mol-1, what is its degree of dissociation (α)?
+
+    **Answer:**
+
+    *Molar Conductivity (Λm):*
+    Λm = (κ × 1000) / C
+    Where:
+    *   κ (conductivity) = 4.95 × 10-5 S cm-1
+    *   C (concentration) = 0.001 M
+
+    Λm = (4.95 × 10-5 S cm-1 × 1000 cm3/L) / (0.001 mol/L) = 49.5 S cm2 mol-1
+
+    *Degree of Dissociation (α):*
+    α = Λm / Λ°m
+    Where:
+    *   Λm = 49.5 S cm2 mol-1
+    *   Λ°m (limiting molar conductivity) = 390.5 S cm2 mol-1
+
+    α = 49.5 S cm2 mol-1 / 390.5 S cm2 mol-1 = 0.127
+
+8.  **Chemical Kinetics:** A reaction 2A + B → C + D follows the rate law: Rate = k[A][B]2. How will the rate of reaction be affected if (a) the concentration of B is doubled? (b) the concentration of A is halved? (c) the concentration of A and B both are doubled? Explain the effect of catalyst on rate of reaction with a graph.
+
+    **Answer:**
+
+    Given Rate = k[A][B]<sup>2</sup>:
+
+    (a) *Concentration of B is Doubled:*
+    If [B] is doubled, the new rate will be:
+    Rate' = k[A](2[B])<sup>2</sup> = k[A] * 4[B]<sup>2</sup> = 4 * k[A][B]<sup>2</sup> = 4 * Rate
+    The rate will be increased by a factor of 4.
+
+    (b) *Concentration of A is Halved:*
+    If [A] is halved, the new rate will be:
+    Rate' = k(0.5[A])[B]<sup>2</sup> = 0.5 * k[A][B]<sup>2</sup> = 0.5 * Rate
+    The rate will be halved.
+
+    (c) *Concentrations of A and B are Doubled:*
+    If [A] and [B] are doubled, the new rate will be:
+    Rate' = k(2[A])(2[B])<sup>2</sup> = k * 2[A] * 4[B]<sup>2</sup> = 8 * k[A][B]<sup>2</sup> = 8 * Rate
+    The rate will be increased by a factor of 8.
+
+    *Effect of Catalyst on Rate of Reaction:*
+
+    [Include a graph or text description here. The graph should show a reaction profile (energy vs. reaction coordinate) with and without a catalyst. The catalyzed reaction should have a lower activation energy.]
+
+    A catalyst increases the rate of a reaction by providing an alternative reaction pathway with a lower activation energy. By lowering the activation energy, a larger fraction of reactant molecules possesses sufficient energy to overcome the energy barrier and form products, thus increasing the reaction rate.
+
+9.  **d- and f-Block Elements:** Describe the general trends in atomic and ionic radii of d-block elements across a period. Why do the atomic radii of the 4d and 5d series elements become nearly the same after a certain point?
+
+    **Answer:**
+
+    *General Trends Across a Period:*
+
+    *   *Atomic Radii:* Initially, atomic radii decrease across the period due to the increasing nuclear charge, which pulls the electrons closer to the nucleus. However, after a certain point, the atomic radii remain nearly constant or even slightly increase. This is because the increasing electron-electron repulsion counterbalances the effect of the increasing nuclear charge.
+    *   *Ionic Radii:*  Similar to atomic radii, ionic radii also generally decrease across the period for ions with the same charge (e.g., M<sup>2+</sup>).
+
+    *4d and 5d Series Similarity:*
+
+    The atomic radii of the 4d and 5d series elements become nearly the same due to the *lanthanoid contraction*. The lanthanoid contraction is the gradual decrease in the atomic and ionic radii of the lanthanoid elements (elements following lanthanum) due to the poor shielding of the nuclear charge by the 4f electrons. As a result, the effective nuclear charge experienced by the outer electrons in the 5d series elements is greater than expected, causing them to contract in size. This contraction compensates for the expected increase in size due to the addition of an extra electron shell, leading to similar atomic radii for the 4d and 5d series elements.
+
+10. **Coordination Compounds:** Using Valence Bond Theory, explain the hybridization, geometry, and magnetic properties of [Ni(CN)4]2-. (Atomic number of Ni = 28). CN- is a strong field ligand.
+
+    **Answer:**
+
+    *   *Electronic Configuration of Ni:* [Ar] 3d<sup>8</sup>4s<sup>2</sup>
+    *   *Electronic Configuration of Ni<sup>2+</sup>:* [Ar] 3d<sup>8</sup>
+
+    Since CN<sup>-</sup> is a strong field ligand, it causes pairing of electrons in the 3d orbitals.
+
+    *   *Hybridization:* In [Ni(CN)4]<sup>2-</sup>, Ni<sup>2+</sup> undergoes *dsp<sup>2</sup>* hybridization. The four CN<sup>-</sup> ligands donate electron pairs into the *dsp<sup>2</sup>* hybrid orbitals.
+
+    *Diagram showing the filling of orbitals (not possible in text format, but vital for the answer)*
+    3d:  ||  ||  ||  ||  ||
+         xx  xx  xx  xx
+         ^2 pairs of electrons get occupied to each shell due to strong field ligand.
+
+    *   *Geometry:* *dsp<sup>2</sup>* hybridization results in a square planar geometry.
+
+    *   *Magnetic Properties:* All electrons are paired in the *dsp<sup>2</sup>* hybridized orbitals. Therefore, [Ni(CN)4]<sup>2-</sup> is diamagnetic.
+
+**=== Long Questions (10 marks each) ===**
+
+1.  **Question 1 (Solutions & Electrochemistry - 10 Marks)**
+
+    (a) Define Raoult's Law and explain its significance in understanding the behavior of ideal solutions. (2 marks)
+    (b) A solution is prepared by dissolving 10g of a non-volatile solute (molar mass = 200 g/mol) in 100g of water. The vapor pressure of pure water at 298 K is 23.8 mm Hg. Calculate:
+
+    (i)  The vapor pressure of the solution. (3 marks)
+    (ii) The boiling point elevation (Kb for water = 0.52 K kg/mol). (3 marks)
+
+    (c) Explain how you will determine the standard electrode potential of the `Zn^(2+)/Zn` electrode using a hydrogen electrode. (2 marks)
+
+    **Answer:**
+
+    (a) *Raoult's Law:* Raoult's Law states that the partial vapor pressure of each component of an ideal solution is equal to the vapor pressure of the pure component multiplied by its mole fraction in the solution. It is expressed as: P<sub>i</sub> = x<sub>i</sub>P°<sub>i</sub>, where P<sub>i</sub> is the partial pressure of component i, x<sub>i</sub> is its mole fraction, and P°<sub>i</sub> is the vapor pressure of the pure component.
+
+    *Significance:* Raoult's Law provides a basis for understanding the behavior of ideal solutions, where the interactions between solute and solvent molecules are similar to the interactions between molecules of the same type. It helps predict the vapor pressure of solutions and understand colligative properties like boiling point elevation and freezing point depression.
+
+    (b)
+
+    (i) *Vapor Pressure of the Solution:*
+
+    *   Moles of solute = 10 g / 200 g/mol = 0.05 mol
+    *   Moles of water = 100 g / 18 g/mol = 5.56 mol
+    *   Mole fraction of water (x<sub>water</sub>) = 5.56 mol / (5.56 mol + 0.05 mol) = 5.56 / 5.61 = 0.991
+    *   P<sub>solution</sub> = x<sub>water</sub> * P°<sub>water</sub> = 0.991 * 23.8 mm Hg = 23.58 mm Hg
+
+    (ii) *Boiling Point Elevation:*
+
+    *   Molality of the solution (m) = Moles of solute / Kilograms of solvent = 0.05 mol / (100 g / 1000 g/kg) = 0.05 mol / 0.1 kg = 0.5 mol/kg
+    *   Boiling point elevation (ΔT<sub>b</sub>) = K<sub>b</sub> * m = 0.52 K kg/mol * 0.5 mol/kg = 0.26 K
+
+    (c) *Determining Standard Electrode Potential of Zn^(2+)/Zn:*
+
+    To determine the standard electrode potential of the Zn<sup>2+</sup>/Zn electrode, a cell is set up using a standard hydrogen electrode (SHE) as the reference electrode and a zinc electrode immersed in a 1 M solution of Zn<sup>2+</sup> ions.  The cell is represented as:
+
+    Zn(s) | Zn<sup>2+</sup>(1 M) || H<sup>+</sup>(1 M) | H2(g, 1 atm) | Pt(s)
+
+    The cell potential (E°<sub>cell</sub>) is measured using a voltmeter. The SHE is assigned a standard electrode potential of 0 V. Therefore, the measured cell potential is equal to the standard reduction potential of the Zn<sup>2+</sup>/Zn electrode.
+
+    E°<sub>cell</sub> = E°<sub>cathode</sub> - E°<sub>anode</sub>
+    E°<sub>cell</sub> = E°<sub>H+/H2</sub> - E°<sub>Zn2+/Zn</sub>
+    Since E°<sub>H+/H2</sub> = 0 V,
+    E°<sub>cell</sub> = -E°<sub>Zn2+/Zn</sub>
+
+    The value of E°<sub>Zn2+/Zn</sub> will be negative.
+
+2.  **Question 2 (Chemical Kinetics & d- and f-Block Elements - 10 Marks)**
+
+    (a) The rate constant for a first-order reaction is found to be 2.303 x 10^-3 s^-1.
+    (i) What is the half-life of the reaction? (2 marks)
+    (ii) How much time will it take for 60% completion of the reaction? (3 marks)
+    (b) Explain the terms "lanthanoid contraction" and its consequences on the properties of the 4d and 5d series of transition elements. (3 marks)
+    (c) Why do transition metals exhibit variable oxidation states? Explain with suitable examples. (2 marks)
+
+    **Answer:**
+
+    (a)
+    (i) *Half-Life:*
+    t<sub>1/2</sub> = 0.693 / k = 0.693 / (2.303 x 10<sup>-3</sup> s<sup>-1</sup>) = 301 s
+
+    (ii) *Time for 60% Completion:*
+    ln([A]<sub>t</sub> / [A]<sub>0</sub>) = -kt
+    If 60% is complete, 40% remains. So, [A]<sub>t</sub> = 0.4[A]<sub>0</sub>
+    ln(0.4[A]<sub>0</sub> / [A]<sub>0</sub>) = -(2.303 x 10<sup>-3</sup> s<sup>-1</sup>) * t
+    ln(0.4) = -(2.303 x 10<sup>-3</sup> s<sup>-1</sup>) * t
+    -0.916 = -(2.303 x 10<sup>-3</sup> s<sup>-1</sup>) * t
+    t = -0.916 / (-2.303 x 10<sup>-3</sup> s<sup>-1</sup>) = 398 seconds
+
+    (b) *Lanthanoid Contraction:*
+    The lanthanoid contraction is the gradual decrease in the atomic and ionic radii of the lanthanoid elements (elements following lanthanum) due to the poor shielding of the nuclear charge by the 4f electrons. As the atomic number increases, the effective nuclear charge experienced by the outer electrons increases, leading to a contraction in size.
+
+    *Consequences on 4d and 5d Series:*
+    The lanthanoid contraction significantly affects the properties of the 4d and 5d series transition elements.  Most notably:
+
+    *   *Similar Atomic Radii:* The atomic radii of the 4d and 5d series elements become nearly the same after a certain point because the lanthanoid contraction compensates for the expected increase in size due to the addition of an extra electron shell.
+    *   *Similar Properties:* The similar atomic radii lead to similarities in other properties, such as ionization enthalpies, electronegativity, and density.
+    *   *Higher Density:* The 5d series elements generally have higher densities than the corresponding 4d series elements due to their smaller size and greater nuclear charge.
+
+    (c) *Variable Oxidation States in Transition Metals:* Transition metals exhibit variable oxidation states because of the involvement of both *ns* and *(n-1)d* electrons in bonding. The energies of these orbitals are relatively close, allowing for the loss or sharing of different numbers of electrons when forming chemical bonds.
+
+    *Examples:*
+        *Iron (Fe):* Common oxidation states are +2 and +3, but it can also exhibit +4 and +6 in certain compounds.
+        *Manganese (Mn):* Shows a wide range of oxidation states, from +2 to +7.
+
+3.  **Question 3 (Coordination Compounds - 10 Marks)**
+
+    (a) Using Valence Bond Theory (VBT), explain the geometry, hybridization, and magnetic behavior of `[Ni(CN)4]^2-`. (Atomic number of Ni = 28). (4 marks)
+    (b) What are the different types of isomerism exhibited by coordination compounds? Explain with examples. (4 marks)
+    (c) Explain crystal field splitting in tetrahedral complexes.(2 marks)
+
+    **Answer:**
+
+    (a) *Valence Bond Theory for [Ni(CN)4]2-:*
+
+    *   *Electronic Configuration of Ni:* [Ar] 3d<sup>8</sup>4s<sup>2</sup>
+    *   *Electronic Configuration of Ni<sup>2+</sup>:* [Ar] 3d<sup>8</sup>
+
+    Since CN<sup>-</sup> is a strong field ligand, it causes pairing of electrons in the 3d orbitals.
+
+    *   *Hybridization:* In [Ni(CN)4]<sup>2-</sup>, Ni<sup>2+</sup> undergoes *dsp<sup>2</sup>* hybridization. The four CN<sup>-</sup> ligands donate electron pairs into the *dsp<sup>2</sup>* hybrid orbitals.
+        (orbitals shown in previous section)
+    *   *Geometry:* *dsp<sup>2</sup>* hybridization results in a square planar geometry.
+
+    *   *Magnetic Properties:* All electrons are paired in the *dsp<sup>2</sup>* hybridized orbitals. Therefore, [Ni(CN)4]<sup>2-</sup> is diamagnetic.
+
+    (b) *Types of Isomerism in Coordination Compounds:*
+
+    *   *Structural Isomerism:*
+        *   *Ionization Isomerism:* Isomers have different ions as counter-ions and ligands. Example: [Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br
+        *   *Hydrate Isomerism:* Isomers differ in the number of water molecules present as ligands or as free water molecules within the crystal lattice. Example: [Cr(H2O)6]Cl3 and [Cr(H2O)5Cl]Cl2.H2O
+        *   *Linkage Isomerism:* Isomers have ligands bonded to the metal through different atoms. Example: [M-SCN] and [M-NCS] (M = metal)
+
+    *   *Stereoisomerism:*
+        *   *Geometrical Isomerism:* Isomers have the same ligands but different spatial arrangements around the central metal atom. Examples:
+            *   *cis-* and *trans-* isomers in square planar complexes (e.g., [Pt(NH3)2Cl2])
+            *   *fac-* and *mer-* isomers in octahedral complexes (e.g., [Co(NH3)3Cl3])
+        *   *Optical Isomerism:* Isomers are non-superimposable mirror images of each other. Occurs in chiral complexes, typically those with bidentate or polydentate ligands. Example: [Co(en)3]<sup>3+</sup> (en = ethylenediamine).
+
+    (c) *Crystal Field Splitting in Tetrahedral Complexes:*
+
+    In a tetrahedral complex, the four ligands approach the central metal ion along the corners of a tetrahedron.  This results in the *d* orbitals splitting into two sets:
+
+    *   *e* set (d<sub>x2-y2</sub> and d<sub>z2</sub>) which are lower in energy
+    *   *t2* set (d<sub>xy</sub>, d<sub>xz</sub>, and d<sub>yz</sub>) which are higher in energy
+
+    The crystal field splitting energy (Δt) is smaller than that in octahedral complexes (approximately 4/9 of Δo). This is because the ligands do not directly approach any of the *d* orbitals in a tetrahedral geometry. Consequently, tetrahedral complexes are often high-spin complexes.

@@ -1,0 +1,93 @@
+1.  **Creative Set Representation:** Consider the set of all positive divisors of the number 36. Express this set in both roster form and set-builder form. Explain why the set is considered a finite set.
+Sample Answer:
+Here's a sample answer suitable for a CBSE class 11-12 student, addressing the assignment question:
+
+**Answer:**
+
+Let's define our set as 'D', representing the set of all positive divisors of 36.
+
+**1. Roster Form:**
+
+In roster form, we list all the elements (divisors) of 36 within curly braces, separating them by commas. To find these divisors, we can systematically check which positive integers divide 36 without leaving a remainder.
+
+Therefore, D = {1, 2, 3, 4, 6, 9, 12, 18, 36}
+
+**2. Set-Builder Form:**
+
+In set-builder form, we describe the property that all elements of the set 'D' must satisfy.  We can express this as:
+
+D = {x : x is a positive integer and x is a divisor of 36}
+
+This is read as "D is the set of all 'x' such that 'x' is a positive integer and 'x' divides 36".  Another equally valid way of expressing this is:
+
+D = {x ∈ ℕ : x divides 36}, where ℕ represents the set of natural numbers.
+
+**3. Why is the set D considered a finite set?**
+
+A set is considered finite if its elements can be counted, and the counting process eventually terminates.  In other words, a finite set has a limited number of elements.
+
+In our case, the set 'D' contains all the positive divisors of 36. We were able to list all these divisors explicitly in the roster form: {1, 2, 3, 4, 6, 9, 12, 18, 36}.  We found that there are exactly 9 elements in the set. Since we can count the number of elements and the counting stops at 9, the set 'D' is definitively a finite set. In essence, there is a limit to how many numbers can divide 36, making the set of its positive divisors finite.
+
+2.  **Set Operations and Proof:** Let U be the universal set of all real numbers. If A is the set of all rational numbers and B is the set of all irrational numbers, prove whether the following statement is true or false using set operations and relevant definitions:  (A ∪ B)' = ∅. Justify your answer.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided chapter content:
+
+**Answer:**
+
+The statement (A ∪ B)' = ∅ is **TRUE**, where U is the universal set of all real numbers, A is the set of all rational numbers, and B is the set of all irrational numbers. Here's the justification using set operations and definitions:
+
+**1. Understanding the Sets:**
+
+*   **U (Universal Set):**  The set of all real numbers (which includes both rational and irrational numbers).  We can represent this as U = {x : x is a real number}.
+
+*   **A (Rational Numbers):**  The set of all numbers that can be expressed in the form p/q, where p and q are integers and q ≠ 0.  Examples: 1/2, -3, 0, 5.7 (which is 57/10).  We can represent this as A = {x : x = p/q, where p, q are integers and q ≠ 0}.
+
+*   **B (Irrational Numbers):** The set of all real numbers that *cannot* be expressed as a ratio of two integers.  Examples: √2, π, e.  We can represent this as B = {x : x is a real number and x cannot be expressed as p/q, where p and q are integers}.
+
+**2. The Union of A and B (A ∪ B):**
+
+The union of two sets A and B (A ∪ B) is the set containing all elements that are in A, or in B, or in both. In this case:
+
+A ∪ B = {x : x is a rational number} ∪ {x : x is an irrational number}
+
+Since every real number is either rational or irrational (it cannot be both simultaneously, and there are no other possibilities), the union of the set of rational numbers and the set of irrational numbers gives us the entire set of real numbers.
+
+Therefore, A ∪ B = U (the universal set).
+
+**3. The Complement of (A ∪ B):**
+
+The complement of a set (A ∪ B), denoted as (A ∪ B)', is the set of all elements in the universal set U that are *not* in (A ∪ B).  In other words:
+
+(A ∪ B)' = {x : x ∈ U and x ∉ (A ∪ B)}
+
+Since we've already established that A ∪ B = U, the complement of (A ∪ B) is the set of all elements in U that are *not* in U. By definition, there are no such elements.
+
+Therefore, (A ∪ B)' = ∅ (the empty set).
+
+**Conclusion:**
+
+The statement (A ∪ B)' = ∅ is true. The union of the set of rational numbers and the set of irrational numbers is the entire set of real numbers (the universal set in this case).  Therefore, the complement of that union is the empty set, as there are no elements in the universal set that are not in the universal set itself.
+
+3.  **Power Set Application:** Suppose a school offers three extracurricular activities: debate (D), music (M), and sports (S). A student can choose any combination of these activities, including none. If we consider the set of available activities to be {D, M, S}, what does the power set of this set represent in the context of student choices? List the elements of the power set and explain the meaning of two specific elements in terms of the activities a student might participate in.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student:
+
+**Answer:**
+
+The power set of a set is the set of *all possible subsets*, including the empty set and the set itself. In the context of a student choosing extracurricular activities (Debate (D), Music (M), and Sports (S)), the power set represents all the possible combinations of activities a student can choose to participate in.
+
+Given the set of available activities A = {D, M, S}, the power set P(A) is:
+
+P(A) = { {}, {D}, {M}, {S}, {D, M}, {D, S}, {M, S}, {D, M, S} }
+
+**Explanation of elements:**
+
+*   **{} (The empty set):** This element represents the choice where a student chooses *no* extracurricular activities. They don't participate in debate, music, or sports.
+
+*   **{D, M, S}:** This element represents the choice where a student chooses to participate in *all three* extracurricular activities: debate, music, and sports.
+
+*   **{D,M}**: This element represents the choice where a student chooses to participate in both Debate and Music extracurricular activities only.
+
+*   **{S}**: This element represents the choice where a student chooses to participate in the Sports extracurricular activity only.
+
+**In summary:** The power set provides a comprehensive view of all the possible participation scenarios for a student, from choosing nothing to choosing everything, and everything in between. It's a useful way to visualize and analyze the possible combinations within a set.

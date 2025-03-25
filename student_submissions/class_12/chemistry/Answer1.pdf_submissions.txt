@@ -1,0 +1,178 @@
+1.  **Kinetics & Electrochemistry Integration:** A voltaic cell is constructed using the following half-cells: Zn<sup>2+</sup>(aq)/Zn(s) and Ag<sup>+</sup>(aq)/Ag(s). The standard cell potential (E°<sub>cell</sub>) is known. If the cell is allowed to operate spontaneously, the decrease in cell potential over time can be related to a first-order decay process. Assuming the initial cell potential is E°<sub>cell</sub>, and the cell potential drops to half its initial value in 't' seconds, determine the rate constant for this decay process. Explain the link between the consumption of reactants in the electrochemical cell and the decrease in cell potential.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student, integrating concepts from electrochemistry and chemical kinetics.
+
+**Answer:**
+
+This question combines the principles of electrochemistry and chemical kinetics. We're given a voltaic cell and asked to relate the decrease in its potential over time to a first-order decay process, then to calculate the rate constant.
+
+**1. Electrochemical Background:**
+
+*   **The Voltaic Cell:** The cell consists of a Zn<sup>2+</sup>(aq)/Zn(s) half-cell (oxidation: Zn(s) → Zn<sup>2+</sup>(aq) + 2e<sup>-</sup>) and an Ag<sup>+</sup>(aq)/Ag(s) half-cell (reduction: Ag<sup>+</sup>(aq) + e<sup>-</sup> → Ag(s)).  Electrons flow from the zinc electrode (anode) to the silver electrode (cathode) through an external circuit, generating a potential difference.
+*   **Cell Potential (E<sub>cell</sub>):**  The cell potential is the driving force for the redox reaction.  It's related to the standard cell potential (E°<sub>cell</sub>) and the concentrations of the ions by the Nernst equation (which we don't need for this specific problem because it deals with rate of change of potential instead of potential calculation).
+*   **Consumption of Reactants and Cell Potential:** As the cell operates, the zinc electrode is oxidized (Zn is consumed), and silver ions are reduced (Ag<sup>+</sup> is consumed). Consequently, the concentration of Zn<sup>2+</sup> ions increases, and the concentration of Ag<sup>+</sup> ions decreases. These changes in ion concentrations *reduce* the driving force of the reaction and, therefore, *decrease* the cell potential over time. In short, the spontaneous cell reaction dictates the amount of energy that is converted to electrical energy which is measured as the cell potential. As the reactants are consumed, so is the energy and thus the cell potential.
+
+**2. Kinetics Application:**
+
+*   **First-Order Decay:** We are told the *decrease* in cell potential follows first-order kinetics. This means the *rate of decrease* in cell potential is proportional to the cell potential itself.  Mathematically:
+
+    Rate = -d[E<sub>cell</sub>]/dt = k[E<sub>cell</sub>]
+
+    Where:
+
+    *   `-d[Ecell]/dt` is the rate of decrease in cell potential. The negative sign indicates a decrease.
+    *   `k` is the rate constant (what we want to find).
+    *   `[Ecell]` is the cell potential at time 't'.
+
+*   **Half-Life and Rate Constant:**  For a first-order reaction, there's a simple relationship between the half-life (t<sub>1/2</sub>) and the rate constant (k):
+
+    k = 0.693 / t<sub>1/2</sub>
+
+    Where:
+
+    *   t<sub>1/2</sub> is the time it takes for the initial concentration (or in this case, cell potential) to decrease by half.  The problem states that the cell potential drops to half its initial value in 't' seconds, so t<sub>1/2</sub> = t.
+
+**3. Solution:**
+
+1.  **Identify t<sub>1/2</sub>:** The problem explicitly states that the cell potential drops to half its initial value in 't' seconds. Therefore, t<sub>1/2</sub> = t.
+
+2.  **Calculate the Rate Constant:**  Using the first-order half-life equation:
+
+    k = 0.693 / t
+
+**4. Final Answer:**
+
+The rate constant (k) for the decay process of the cell potential is **0.693 / t**, where 't' is the time in seconds for the cell potential to drop to half its initial value. The decrease in cell potential is directly linked to the consumption of reactants (Zn and Ag<sup>+</sup>) in the electrochemical cell. As the reactants are consumed, the ion concentrations change, reducing the driving force (Gibbs free energy) of the reaction and consequently, the cell potential.
+
+2.  **Coordination Chemistry & d-block elements:** Compound *X* is a coordination compound of nickel(II) with the formula NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>. It exists as two isomers, A and B. Isomer A reacts with AgNO<sub>3</sub> to precipitate two moles of AgCl, while isomer B does not react with AgNO<sub>3</sub>.
+Sample Answer:
+Okay, here's a comprehensive answer to the coordination chemistry question, suitable for CBSE Class 11-12 students, based on the provided information:
+
+**Question:** Compound *X* is a coordination compound of nickel(II) with the formula NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>. It exists as two isomers, A and B. Isomer A reacts with AgNO<sub>3</sub> to precipitate two moles of AgCl, while isomer B does not react with AgNO<sub>3</sub>. Determine the structures of isomers A and B and explain your reasoning.
+
+**Answer:**
+
+This question involves understanding coordination complexes, isomerism, and the reactivity of ions in solution. The key is to determine which chloride ions are inside the coordination sphere and which are outside.
+
+**1. Understanding the Reactivity with AgNO<sub>3</sub>:**
+
+*   AgNO<sub>3</sub> reacts with free chloride ions (Cl<sup>-</sup>) in solution to form a white precipitate of silver chloride (AgCl):
+    Ag<sup>+</sup>(aq) + Cl<sup>-</sup>(aq)  → AgCl(s)
+
+*   If a chloride ion is *inside* the coordination sphere, it is directly bonded to the central metal ion (Ni<sup>2+</sup>) and is not free to react with AgNO<sub>3</sub>.
+
+*   If a chloride ion is *outside* the coordination sphere, it exists as a free Cl<sup>-</sup> ion in solution and *will* react with AgNO<sub>3</sub>.
+
+**2. Determining the Structure of Isomer A:**
+
+*   Isomer A reacts with AgNO<sub>3</sub> to produce *two* moles of AgCl. This means that both chloride ions (Cl<sup>-</sup>) in the formula are outside the coordination sphere.
+
+*   Therefore, the structure of Isomer A is: **[Ni(NH<sub>3</sub>)<sub>4</sub>]Cl<sub>2</sub>**
+
+*   This compound consists of a complex ion, [Ni(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup>, and two chloride counter-ions, Cl<sup>-</sup>. When dissolved in water, the chloride ions dissociate, allowing them to react with AgNO<sub>3</sub>.
+
+**3. Determining the Structure of Isomer B:**
+
+*   Isomer B *does not* react with AgNO<sub>3</sub>. This means that neither of the chloride ions is free in solution; they must both be inside the coordination sphere, directly bonded to the Ni<sup>2+</sup> ion.
+
+*   Therefore, the structure of Isomer B is: **[NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>]**
+
+*   This compound consists of a neutral complex molecule, [NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>].  Since there are no free chloride ions in solution, no precipitate forms with AgNO<sub>3</sub>.
+
+**4. Isomer Type and Explanation**
+
+Isomers A and B are ionization isomers, because they produce different ions in solution.
+
+**In Summary:**
+
+*   **Isomer A: [Ni(NH<sub>3</sub>)<sub>4</sub>]Cl<sub>2</sub>** - Tetraamminenickel(II) chloride.  The two chloride ions are outside the coordination sphere and react with AgNO<sub>3</sub>.
+
+*   **Isomer B: [NiCl<sub>2</sub>(NH<sub>3</sub>)<sub>4</sub>]** - Dichlorotetraamminenickel(II). The two chloride ions are inside the coordination sphere and do not react with AgNO<sub>3</sub>.
+
+3.  **Solutions & Colligative Properties:** An aqueous solution is prepared by dissolving a specific amount of an unknown non-volatile, non-electrolyte solute in water.
+Sample Answer:
+Okay, here's a sample assignment question and a complete answer, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Assignment Question:**
+
+3.  **Solutions & Colligative Properties:** An aqueous solution is prepared by dissolving 10.0 g of an unknown non-volatile, non-electrolyte solute in 100.0 g of water. The freezing point of this solution is observed to be -1.03 °C. The freezing point depression constant (K<sub>f</sub>) for water is 1.86 K kg/mol.
+
+    a)  Calculate the molality of the solution.
+    b)  Determine the molar mass of the unknown solute.
+    c)  Explain why the solute is described as "non-volatile" and "non-electrolyte" in the context of colligative properties.
+
+**Complete Answer with Explanations:**
+
+a) **Calculating the Molality of the Solution:**
+
+*   **Understanding Molality:** Molality (m) is defined as the number of moles of solute per kilogram of solvent.  The formula is:
+
+    ```
+    Molality (m) = moles of solute / kilograms of solvent
+    ```
+
+*   **Freezing Point Depression:**  The freezing point depression (ΔT<sub>f</sub>) is related to the molality of the solution by the following equation:
+
+    ```
+    ΔTf = Kf * m
+    ```
+
+    Where:
+    *   ΔT<sub>f</sub> is the freezing point depression (in °C or K).
+    *   K<sub>f</sub> is the freezing point depression constant (in K kg/mol).
+    *   m is the molality (in mol/kg).
+
+*   **Calculate ΔT<sub>f</sub>:**
+
+    ```
+    ΔTf = Freezing point of pure solvent - Freezing point of solution
+    ΔTf = 0.0 °C - (-1.03 °C) = 1.03 °C  (or 1.03 K, since the Celsius and Kelvin scales have the same size degree)
+    ```
+
+*   **Calculate Molality (m):**  Rearrange the freezing point depression equation to solve for molality:
+
+    ```
+    m = ΔTf / Kf
+    m = 1.03 K / 1.86 K kg/mol
+    m = 0.554 mol/kg
+    ```
+
+    Therefore, the molality of the solution is 0.554 mol/kg.
+
+b) **Determining the Molar Mass of the Unknown Solute:**
+
+*   **Relate Molality to Moles of Solute:** We know the molality and the mass of the solvent. We can use this information to find the moles of solute.
+
+*   **Calculate Kilograms of Solvent:**
+
+    ```
+    Kilograms of water = 100.0 g / 1000 g/kg = 0.100 kg
+    ```
+
+*   **Calculate Moles of Solute:** Using the definition of molality:
+
+    ```
+    Moles of solute = molality * kilograms of solvent
+    Moles of solute = 0.554 mol/kg * 0.100 kg = 0.0554 mol
+    ```
+
+*   **Calculate Molar Mass:**  Molar mass is defined as the mass of a substance per mole.
+
+    ```
+    Molar mass = mass of solute / moles of solute
+    Molar mass = 10.0 g / 0.0554 mol = 180.5 g/mol
+    ```
+
+    Therefore, the molar mass of the unknown solute is approximately 180.5 g/mol.
+
+c) **Explanation of "Non-Volatile" and "Non-Electrolyte":**
+
+*   **Non-Volatile:** A non-volatile solute has a negligible vapor pressure at the given temperature.  This is important because colligative properties are defined as properties that depend *only* on the *number* of solute particles, *not* on their identity. If the solute were volatile, it would contribute to the vapor pressure of the solution, and the observed vapor pressure lowering (and hence the freezing point depression) would not solely reflect the number of solute particles dissolved. Raoult's Law, which is the basis for calculating colligative properties like freezing point depression, assumes the solute is non-volatile.
+
+*   **Non-Electrolyte:** A non-electrolyte is a solute that does not dissociate into ions when dissolved in water. This is crucial because colligative properties depend on the *total number of particles* in the solution. If the solute were an electrolyte (e.g., NaCl), it would dissociate into ions (Na<sup>+</sup> and Cl<sup>-</sup>) in solution.  One mole of NaCl would produce *two* moles of particles in solution, leading to a greater freezing point depression than expected for a non-electrolyte.  To account for the dissociation of electrolytes, the van't Hoff factor (i) is used, which represents the number of particles a solute dissociates into.  Since the solute is a non-electrolyte, its van't Hoff factor is 1. If it was not, we would have to incorporate "i" into our calculation by multiplying the molality "m" by "i".
+
+**In Summary:**
+
+*   The molality of the solution is 0.554 mol/kg.
+*   The molar mass of the unknown solute is approximately 180.5 g/mol.
+*   The terms "non-volatile" and "non-electrolyte" are essential to ensure that the observed freezing point depression is solely due to the number of solute particles and not influenced by the solute's own vapor pressure or its dissociation into ions, respectively, thus allowing us to apply the standard colligative property equations accurately.

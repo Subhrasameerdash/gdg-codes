@@ -1,0 +1,205 @@
+1.  **Conceptual Understanding & Application of Substitution:** The rate of change of a function *f(x)* is given by *3x√(x² + 4)*. Knowing that *f(0) = 1*, determine the function *f(x)*. Explain the role of the constant of integration in this specific problem.
+Sample Answer:
+Okay, here's a sample answer to the given assignment question, tailored for a CBSE Class 11-12 student and based on the provided chapter content.
+
+**Answer:**
+
+**1. Finding *f(x)***
+
+We are given that the rate of change of *f(x)* is *3x√(x² + 4)*. This means:
+
+*f'(x) = 3x√(x² + 4)*
+
+To find *f(x)*, we need to integrate *f'(x)* with respect to *x*:
+
+*f(x) = ∫ 3x√(x² + 4) dx*
+
+We can solve this integral using **integration by substitution**.
+
+*   **Step 1: Choose a substitution.**  Let *u = x² + 4*.
+*   **Step 2: Find the derivative of u.**  *du/dx = 2x*, which implies *du = 2x dx*.  We need to manipulate our integral to have a *2x dx* term. Notice that we have *3x dx*, so we can rewrite it as (3/2) * 2x dx = (3/2) * du.
+*   **Step 3: Substitute.** The integral becomes:
+
+    *f(x) = ∫ 3x√(x² + 4) dx = ∫ (3/2) √u du = (3/2) ∫ u<sup>1/2</sup> du*
+*   **Step 4: Integrate with respect to u.** Using the power rule for integration (∫x<sup>n</sup> dx = x<sup>n+1</sup>/(n+1) + C), we get:
+
+    *(3/2) ∫ u<sup>1/2</sup> du = (3/2) * (u<sup>3/2</sup> / (3/2)) + C = u<sup>3/2</sup> + C*
+*   **Step 5: Substitute back.**  Replace *u* with *x² + 4*:
+
+    *f(x) = (x² + 4)<sup>3/2</sup> + C*
+
+**2. Determining the Constant of Integration (C)**
+
+We are given the initial condition *f(0) = 1*.  This allows us to find the value of *C*. Substitute *x = 0* and *f(0) = 1* into the expression for *f(x)*:
+
+*1 = (0² + 4)<sup>3/2</sup> + C*
+*1 = (4)<sup>3/2</sup> + C*
+*1 = (√4)<sup>3</sup> + C*
+*1 = (2)<sup>3</sup> + C*
+*1 = 8 + C*
+*C = 1 - 8 = -7*
+
+**3. Final Expression for *f(x)***
+
+Substituting the value of *C* back into the expression for *f(x)*, we get:
+
+*f(x) = (x² + 4)<sup>3/2</sup> - 7*
+
+**4. Explanation of the Role of the Constant of Integration**
+
+The constant of integration, *C*, is crucial because it represents the *family* of functions that have the derivative *3x√(x² + 4)*. Without the initial condition *f(0) = 1*, we would have infinitely many possible functions that satisfy the given rate of change.
+
+In this specific problem, the initial condition *f(0) = 1* provides a *specific point* on the graph of *f(x)*. This point allows us to single out *one particular function* from the infinite family of antiderivatives. Essentially, *C* shifts the graph of *(x² + 4)<sup>3/2</sup>* vertically. The condition *f(0) = 1* tells us exactly how much to shift the graph down (by 7 units) to get the correct function. If we had a different initial condition (e.g., *f(0) = 5*), the value of *C* would change, and we would obtain a different function *f(x)*, although it would still have the same derivative.
+
+**In Summary:**
+
+*f(x) = (x² + 4)<sup>3/2</sup> - 7*
+
+The constant of integration, *C = -7*, is essential for determining the *specific* function *f(x)* that satisfies both the given rate of change and the initial condition *f(0) = 1*. It represents the vertical shift required to make the antiderivative pass through the point (0,1).
+
+2.  **Integration by Parts & Problem-Solving:** A student attempts to evaluate ∫x² * e^(x/2)* dx using integration by parts but makes an error in choosing 'u' and 'dv'. Describe a strategy to guide them to choose suitable functions for 'u' and 'dv', and hence solve the integral completely.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, focusing on guiding them through the process of integration by parts and highlighting common errors:
+
+**Answer:**
+
+Okay, let's tackle this integration by parts problem together. It's a common spot to make mistakes, especially when choosing 'u' and 'dv'. The key is to use a helpful guideline.
+
+**The ILATE Rule:**
+
+A useful strategy is the **ILATE** rule. This helps prioritize your choice for 'u' based on the type of function:
+
+*   **I** - Inverse Trigonometric Functions (e.g., arcsin(x), arctan(x))
+*   **L** - Logarithmic Functions (e.g., ln(x), log(x))
+*   **A** - Algebraic Functions (e.g., x², x, constants)
+*   **T** - Trigonometric Functions (e.g., sin(x), cos(x))
+*   **E** - Exponential Functions (e.g., e^x, a^x)
+
+The function that appears *earliest* in this list should generally be chosen as 'u'.
+
+**Why ILATE Works:**
+
+The goal of integration by parts is to simplify the integral in the ∫v du term. Choosing 'u' according to ILATE often makes its derivative (du) simpler, and choosing 'dv' to be easily integrable leads to a manageable 'v'.
+
+**Applying ILATE to our Problem: ∫x² * e^(x/2) dx**
+
+1.  **Identify the function types:** We have an algebraic function (x²) and an exponential function (e^(x/2)).
+2.  **Apply ILATE:**  'A' (Algebraic) comes before 'E' (Exponential) in the ILATE rule.
+3.  **Choose 'u' and 'dv':**
+    *   Therefore, let  `u = x²`
+    *   And  `dv = e^(x/2) dx`
+
+**Now, let's proceed with integration by parts:**
+
+The formula for integration by parts is:  ∫u dv = uv - ∫v du
+
+1.  **Find 'du' and 'v':**
+    *   If u = x², then  `du = 2x dx`
+    *   If dv = e^(x/2) dx, then  `v = ∫e^(x/2) dx = 2e^(x/2)`  (Remember to integrate dv to find v.  Using a u-substitution of a=x/2 and da=1/2dx will help solve this)
+
+2.  **Apply the Integration by Parts formula:**
+
+    ∫x² * e^(x/2) dx = (x²)(2e^(x/2)) - ∫(2e^(x/2))(2x dx)
+
+    ∫x² * e^(x/2) dx = 2x²e^(x/2) - 4∫x * e^(x/2) dx
+
+3.  **Notice that we still have an integral:**  We need to apply integration by parts *again* to solve ∫x * e^(x/2) dx. Use the ILATE rule again.
+
+    *   Let `u = x` (Algebraic)
+    *   Let `dv = e^(x/2) dx` (Exponential)
+
+4.  **Find 'du' and 'v' (again):**
+
+    *   If u = x, then `du = dx`
+    *   If dv = e^(x/2) dx, then `v = 2e^(x/2)`  (Same integration as before)
+
+5.  **Apply Integration by Parts formula (again):**
+
+    ∫x * e^(x/2) dx = (x)(2e^(x/2)) - ∫(2e^(x/2)) dx
+    ∫x * e^(x/2) dx = 2xe^(x/2) - 2∫e^(x/2) dx
+    ∫x * e^(x/2) dx = 2xe^(x/2) - 2(2e^(x/2)) + C₁
+    ∫x * e^(x/2) dx = 2xe^(x/2) - 4e^(x/2) + C₁
+
+6.  **Substitute back into our original equation:**
+
+    ∫x² * e^(x/2) dx = 2x²e^(x/2) - 4 * [2xe^(x/2) - 4e^(x/2) + C₁]
+    ∫x² * e^(x/2) dx = 2x²e^(x/2) - 8xe^(x/2) + 16e^(x/2) + C   (where C = -4C₁)
+
+**Final Answer:**
+
+∫x² * e^(x/2) dx = 2e^(x/2) * (x² - 4x + 8) + C
+
+**Common Errors and Tips:**
+
+*   **Incorrectly choosing 'u' and 'dv':**  This is the most common error. Always use ILATE as a guide. If you choose poorly, the integral ∫v du might be *more* complicated than the original!
+
+*   **Forgetting the "+ C":** Don't forget the constant of integration after each indefinite integral!
+
+*   **Not differentiating 'u' or integrating 'dv' correctly:** Double-check your derivatives and integrals.  A small mistake here will throw off the entire solution.
+
+*   **Not reapplying Integration by Parts:**  Sometimes, you need to use integration by parts multiple times, like in this problem. Don't give up after the first attempt!
+
+By following the ILATE rule, carefully applying the integration by parts formula, and being mindful of common errors, you can successfully solve integrals of this type.  Practice is key!
+
+3.  **Connecting Concepts & Application:** A curve *y = f(x)* passes through the point (1, 2) and satisfies the differential equation *dy/dx = x*cos(x²)*. Find the equation of the curve. How does the initial condition *f(1) = 2* help in determining a specific solution from the family of solutions obtained by integration?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling integral calculus, based on the provided content and focusing on a clear, step-by-step explanation:
+
+**Answer:**
+
+To find the equation of the curve *y = f(x)*, we need to solve the given differential equation and then use the initial condition to find the particular solution.
+
+**1. Solving the Differential Equation:**
+
+We are given *dy/dx = x*cos(x²)*.  To find *y*, we need to integrate both sides with respect to *x*:
+
+∫ *dy/dx* dx = ∫ *x*cos(x²)* dx
+
+This simplifies to:
+
+*y* = ∫ *x*cos(x²)* dx
+
+Now, we use the method of substitution to solve the integral on the right-hand side.
+
+*   **Let** *u = x²*.  This is a strategic choice because the derivative of *x²* is related to the *x* term already present in the integrand.
+*   **Then**, *du/dx = 2x*, which means *du = 2x dx*.  We need to adjust our integral to match this.  Notice we have *x dx*, so we can rewrite *du = 2x dx* as *(1/2)du = x dx*.
+
+Now we can substitute into our integral:
+
+*y* = ∫ cos(u) * (1/2) du
+
+*y* = (1/2) ∫ cos(u) du
+
+We know that the integral of cos(u) is sin(u):
+
+*y* = (1/2) sin(u) + C
+
+Now, substitute back *u = x²*:
+
+*y* = (1/2) sin(x²) + C
+
+This is the general solution to the differential equation. It represents a *family* of curves, all with the same basic shape, but shifted vertically by different amounts due to the constant *C*.
+
+**2. Applying the Initial Condition:**
+
+We are given that the curve passes through the point (1, 2). This means that when *x = 1*, *y = 2*. We can use this information to find the value of *C*:
+
+2 = (1/2) sin(1²) + C
+
+2 = (1/2) sin(1) + C
+
+Now, solve for *C*:
+
+C = 2 - (1/2) sin(1)
+
+**3. The Equation of the Curve (Particular Solution):**
+
+Substitute the value of *C* back into the general solution:
+
+*y* = (1/2) sin(x²) + 2 - (1/2) sin(1)
+
+Therefore, the equation of the curve is *y = (1/2)sin(x²) + 2 - (1/2)sin(1)*.
+
+**4. Explanation of the Initial Condition's Role:**
+
+The initial condition *f(1) = 2* (or the point (1, 2)) is crucial because it allows us to determine a *unique* solution from the *infinite family* of solutions represented by the general solution  *y = (1/2) sin(x²) + C*. The general solution includes an arbitrary constant, *C*, which means there are infinitely many curves that satisfy the differential equation.  By providing a specific point that the curve must pass through, we fix the value of *C*, thereby selecting one particular curve from that family. Without the initial condition, we would only have the general solution, which is not a specific equation of a single curve. The initial condition acts as a constraint, pinpointing the specific curve that satisfies both the differential equation *and* passes through the given point. This makes the solution a *particular* solution rather than a general one.

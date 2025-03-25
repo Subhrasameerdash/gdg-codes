@@ -1,0 +1,158 @@
+1.  **Reaction Prediction & Explanation:** Compound A (C6H12) reacts with hydrogen in the presence of a platinum catalyst to form hexane. Upon ozonolysis, compound A yields a single product, propanone. Draw the structure of compound A, name it using IUPAC nomenclature, and explain the reaction mechanism for its formation during the ozonolysis process.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student studying Hydrocarbons:
+
+**Answer:**
+
+**1. Structure and IUPAC Name of Compound A:**
+
+*   **Deduction:**
+    *   Compound A has the formula C6H12, indicating it's an alkene (CnH2n).
+    *   It reacts with H2/Pt to form hexane (C6H14), confirming it has a six-carbon chain.
+    *   Ozonolysis yields *only* propanone (CH3COCH3). This is a crucial clue! Ozonolysis cleaves the double bond, and since only propanone is formed, the alkene must be symmetrical with two CH3-C= fragments.
+
+*   **Structure of Compound A:** The structure that fits these conditions is 2,3-dimethylbut-2-ene:
+
+    ```
+        CH3  CH3
+        |    |
+    CH3-C=C-CH3
+    ```
+
+*   **IUPAC Name:** 2,3-dimethylbut-2-ene
+
+**2. Reaction Mechanism of Ozonolysis:**
+
+Ozonolysis is a method of oxidative cleavage of an alkene or alkyne using ozone (O3). In this case, 2,3-dimethylbut-2-ene undergoes ozonolysis to yield propanone. The mechanism involves several steps:
+
+*   **Step 1: Ozone Addition (Formation of Ozonide):** Ozone (O3) electrophilically adds across the carbon-carbon double bond of 2,3-dimethylbut-2-ene in a concerted cycloaddition. This forms an unstable intermediate called a *molozonide*.
+
+    ```
+           CH3  CH3                        CH3  CH3
+           |    |                           |    |
+    CH3-C=C-CH3   +  O3   --->    CH3-C--O--O-C-CH3  (Molozonide - Unstable)
+                                      \  /  \  /
+                                       O      O
+    ```
+
+*   **Step 2: Rearrangement to Ozonide:** The molozonide is highly unstable and quickly rearranges to form a more stable *ozonide*.  This rearrangement involves a 1,3-dipolar cycloaddition. The oxygen-oxygen bond breaks and reforms in a different arrangement.
+
+    ```
+           CH3  CH3                        CH3  CH3
+           |    |                           |    |
+    CH3-C--O--O-C-CH3   --->      CH3-C--O  O--C-CH3  (Ozonide - More Stable)
+       \  /  \  /                           /  \  / \
+        O      O                           O    O   O
+    ```
+
+*   **Step 3: Reductive Cleavage (Formation of Propanone):** The ozonide is then treated with a reducing agent, such as zinc dust in acetic acid (Zn/CH3COOH) or dimethyl sulfide (DMS). This reductive cleavage breaks the ozonide ring and forms the carbonyl compound, propanone. The reducing agent is crucial to prevent the formation of carboxylic acids (oxidation).
+
+    ```
+           CH3  CH3                  Zn/CH3COOH       CH3   O
+           |    |            --------------------->   2 CH3-C-CH3   (Propanone)  + ZnO
+    CH3-C--O  O--C-CH3
+       /  \  / \
+      O    O   O
+    ```
+
+**Explanation of Propanone Formation:**
+
+Because 2,3-dimethylbut-2-ene is symmetrical around the double bond, the ozonolysis reaction yields two molecules of propanone from a single molecule of the original alkene. The reductive workup ensures that the carbonyl compounds are formed in good yield, without further oxidation to carboxylic acids.
+
+2.  **Aromaticity & Directing Effects:** You have been tasked with synthesizing *para*-bromonitrobenzene, starting from benzene. Outline a reaction scheme, clearly stating the reagents and conditions required for each step. Justify your chosen reaction sequence, explaining the directing effect of each substituent added to the benzene ring, and why the *para* product is favoured.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student tackling the synthesis of *para*-bromonitrobenzene from benzene, focusing on directing effects and reaction sequence justification:
+
+**Synthesis of *para*-bromonitrobenzene from Benzene**
+
+The synthesis of *para*-bromonitrobenzene from benzene requires careful consideration of the directing effects of substituents on the benzene ring. Direct bromination followed by nitration would lead to a mixture of *ortho* and *para* products because bromine is an *ortho, para*-directing group. To obtain the *para* isomer as the major product, we need to introduce the nitro group (*meta*-directing) *after* introducing bromine.  Therefore, the preferred reaction sequence is bromination followed by nitration.
+
+**Reaction Scheme:**
+
+**Step 1: Bromination of Benzene**
+
+*   **Reagents:** Benzene (C<sub>6</sub>H<sub>6</sub>), Bromine (Br<sub>2</sub>), Iron(III) bromide (FeBr<sub>3</sub>) catalyst.
+*   **Conditions:** Dark, room temperature. The FeBr<sub>3</sub> acts as a Lewis acid catalyst.
+*   **Reaction:**
+
+    C<sub>6</sub>H<sub>6</sub>  + Br<sub>2</sub>  →  C<sub>6</sub>H<sub>5</sub>Br + HBr
+
+    (Benzene) + (Bromine) --(FeBr3)--> (Bromobenzene) + (Hydrogen Bromide)
+
+*   **Explanation:**  This is an electrophilic substitution reaction. The FeBr<sub>3</sub> catalyst polarizes the Br<sub>2</sub> molecule, generating a stronger electrophile (Br<sup>+</sup>).  This electrophile attacks the benzene ring, resulting in the substitution of a hydrogen atom with a bromine atom. The product is bromobenzene.
+
+**Step 2: Nitration of Bromobenzene**
+
+*   **Reagents:** Bromobenzene (C<sub>6</sub>H<sub>5</sub>Br), Concentrated Nitric Acid (HNO<sub>3</sub>), Concentrated Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>) catalyst.
+*   **Conditions:** Temperature maintained below 50°C to prevent multiple nitrations.  The H<sub>2</sub>SO<sub>4</sub> acts as a catalyst and dehydrating agent.
+*   **Reaction:**
+
+    C<sub>6</sub>H<sub>5</sub>Br + HNO<sub>3</sub>  →  *p*-BrC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub> + *o*-BrC<sub>6</sub>H<sub>4</sub>NO<sub>2</sub> + H<sub>2</sub>O
+
+    (Bromobenzene) + (Nitric Acid) --(H2SO4)--> (*para*-bromonitrobenzene) + (*ortho*-bromonitrobenzene) + (Water)
+
+*   **Explanation:** This is another electrophilic substitution reaction. The sulfuric acid protonates the nitric acid, generating the nitronium ion (NO<sub>2</sub><sup>+</sup>), which is the electrophile. The bromine atom on the benzene ring is *ortho, para*-directing due to the resonance effect.  The lone pairs on the bromine atom donate electron density into the ring, stabilizing the carbocation intermediate formed during electrophilic attack at the *ortho* and *para* positions.
+
+**Justification of Reaction Sequence and Directing Effects:**
+
+1.  **Bromination First:** We brominate first because we want to leverage the *ortho, para*-directing influence of bromine. If we nitrated first, the nitro group (NO<sub>2</sub>) is a strong *meta*-director, meaning the subsequent bromination would predominantly yield *meta*-bromonitrobenzene, which is not our desired product.
+
+2.  ***Ortho, Para*-Directing Effect of Bromine:** Bromine is an *ortho, para*-director due to resonance. While it is also weakly electron-withdrawing inductively (due to its electronegativity), the resonance effect dominates its directing influence.  The resonance structures show that positive charge is delocalized onto the *ortho* and *para* positions, making these positions more favorable for electrophilic attack by the nitronium ion.
+
+3.  **Why *para* is Favored Over *ortho*:** Although bromine directs to both *ortho* and *para* positions, the *para* product (*para*-bromonitrobenzene) is generally formed in greater amounts than the *ortho* product (*ortho*-bromonitrobenzene) due to **steric hindrance**. The bromine atom is relatively large, and substitution at the *ortho* position is hindered by the proximity of the bromine atom to the incoming nitro group. The *para* position offers less steric hindrance, leading to a more stable transition state and, consequently, a higher yield of the *para* product.  Separation techniques (like distillation or recrystallization) can then be used to isolate the *para*-bromonitrobenzene from the *ortho* isomer.
+
+3.  **Isomerism & Properties:** Draw all the structural isomers of pentane (C5H12). Predict, with justification based on intermolecular forces, which isomer would have the highest boiling point. Explain the relationship between branching in alkanes and their boiling points.
+Sample Answer:
+**Answer:**
+
+To address the isomerism and properties of pentane (C5H12), let's break down the problem:
+
+**(a) Drawing Structural Isomers of Pentane (C5H12)**
+
+Structural isomers have the same molecular formula but different arrangements of atoms. For pentane, we can draw three structural isomers:
+
+1.  **n-Pentane:** This is the straight-chain isomer.
+    ```
+    CH3-CH2-CH2-CH2-CH3
+    ```
+
+2.  **Isopentane (2-Methylbutane):** A methyl group is attached to the second carbon of a butane chain.
+    ```
+        CH3
+        |
+    CH3-CH-CH2-CH3
+    ```
+
+3.  **Neopentane (2,2-Dimethylpropane):** Two methyl groups are attached to the second carbon of a propane chain.
+    ```
+        CH3
+        |
+    CH3-C-CH3
+        |
+        CH3
+    ```
+
+**(b) Predicting Boiling Points and Justification**
+
+Boiling point is influenced by intermolecular forces. For alkanes, the primary intermolecular force is **Van der Waals forces (London Dispersion Forces)**. These forces arise from temporary, induced dipoles due to the movement of electrons. The strength of these forces depends on:
+
+*   **Surface area:** Larger surface area allows for greater contact between molecules, leading to stronger temporary dipoles and stronger intermolecular forces.
+*   **Molecular weight:** While all isomers have the same molecular weight, the shape influences the effectiveness of the van der Waals forces.
+
+Therefore, the predicted boiling point order, from highest to lowest, is:
+
+1.  **n-Pentane:** Highest boiling point. It has the largest surface area because it's a straight chain. This allows for maximum contact and stronger Van der Waals forces between molecules.
+
+2.  **Isopentane (2-Methylbutane):** Intermediate boiling point. The methyl branch reduces the surface area compared to n-pentane, leading to weaker Van der Waals forces.
+
+3.  **Neopentane (2,2-Dimethylpropane):** Lowest boiling point. It's the most branched isomer, making it the most compact and spherical. This significantly reduces the surface area available for intermolecular contact, resulting in the weakest Van der Waals forces.
+
+**(c) Relationship Between Branching and Boiling Points in Alkanes**
+
+As branching increases in alkanes, the boiling point generally decreases. This is because branching leads to:
+
+*   **Reduced Surface Area:** Branched alkanes are more spherical in shape compared to their straight-chain counterparts. This spherical shape minimizes the contact area between molecules.
+*   **Weaker Intermolecular Forces:** With less surface area contact, the temporary dipoles induced in the molecules are weaker, resulting in weaker Van der Waals forces.
+*   **Lower Boiling Point:** Since boiling requires overcoming intermolecular forces, weaker forces mean less energy is required, and the boiling point is lower.
+
+**In summary:** n-Pentane has the highest boiling point due to its straight-chain structure and maximum surface area for Van der Waals interactions. As branching increases in isopentane and neopentane, the surface area decreases, leading to weaker intermolecular forces and lower boiling points.

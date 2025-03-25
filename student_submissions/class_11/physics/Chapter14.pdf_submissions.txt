@@ -1,0 +1,109 @@
+1.  **Acoustic Guitar Design:** Explain how the concepts of wave speed, tension, and length are utilized in the design of an acoustic guitar to produce different musical notes. Specifically, discuss how changing the length or tension of a string affects the frequency of the sound produced.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided chapter content on waves, addressing the acoustic guitar design question:
+
+**Acoustic Guitar Design: Relating Wave Properties to Musical Notes**
+
+The acoustic guitar provides an excellent illustration of how wave speed, tension, and length directly influence the frequency of sound produced, and therefore, the musical note we hear. Each string on a guitar, when plucked, vibrates at a specific fundamental frequency (and its harmonics), which determines the pitch of the note. The design of the guitar leverages the principles of wave mechanics to achieve a desired range of notes.
+
+Here's how these concepts are used:
+
+*   **Wave Speed (v):** The speed at which a wave travels along a string is crucial because it directly affects the frequency.  The wave speed on a string is determined by the tension (T) in the string and its linear mass density (μ), which is the mass per unit length of the string. The relationship is given by:
+
+    v = √(T/μ)
+
+    This equation tells us that:
+    *   Increasing the tension (T) increases the wave speed (v).
+    *   Increasing the linear mass density (μ) decreases the wave speed (v).
+
+*   **Tension (T) and Frequency (f):** The tension in the string is controlled by the tuning pegs on the guitar's headstock.  By tightening or loosening the string, you increase or decrease the tension, respectively.  Since wave speed is dependent on tension, changing the tension changes the wave speed. The relationship between wave speed, frequency (f), and wavelength (λ) is:
+
+    v = fλ
+
+    For the fundamental mode of vibration (the lowest frequency at which the string naturally vibrates), the wavelength (λ) is twice the length of the string (λ = 2L).  Substituting this into the equation above, we get:
+
+    f = v/λ = v / (2L)
+
+    Now, substituting the expression for wave speed (v = √(T/μ)) into the frequency equation, we get:
+
+     f = √(T/μ) / (2L)  = (1 / 2L) * √(T/μ)
+
+    This final equation is key. It shows that:
+
+    *   Increasing the tension (T) *increases* the frequency (f), resulting in a higher-pitched note. This is why tightening a string on a guitar raises its pitch.
+
+*   **Length (L) and Frequency (f):** The length (L) of the vibrating portion of the string is determined by the position of the guitarist's finger on the fretboard. When a guitarist presses down on a fret, they effectively shorten the length of the vibrating string.  Looking back at the equation  f = (1 / 2L) * √(T/μ), we can see that:
+
+    *   Decreasing the length (L) *increases* the frequency (f), resulting in a higher-pitched note.  This is why moving your finger down the fretboard (shortening the string) produces a higher note.
+
+**In Summary:**
+
+Acoustic guitar design uses the interplay of wave speed, tension, and length to create a wide range of musical notes. By selecting strings with different linear mass densities (μ), adjusting the tension (T) via the tuning pegs, and changing the vibrating length (L) by using the frets, a guitarist can produce a diverse array of frequencies, and therefore, musical notes. The equation f = (1 / 2L) * √(T/μ) encapsulates these relationships, demonstrating how the physical properties of the string directly determine the sound produced.
+
+2.  **Superposition and Interference in Noise-Canceling Headphones:** Noise-canceling headphones utilize the principle of superposition to reduce ambient noise. Describe how these headphones work, focusing on how they create and use destructive interference. Explain the type of wave phenomenon being used.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student and based on the provided chapter content:
+
+**Answer:**
+
+Noise-canceling headphones work by cleverly using the principle of **superposition** to eliminate unwanted ambient noise reaching the listener's ear. They specifically exploit **destructive interference**, a phenomenon that occurs when two waves combine in such a way that they cancel each other out.
+
+Here's a breakdown of the process:
+
+1.  **Sound Detection:** Tiny microphones built into the headphones constantly monitor the surrounding ambient noise. These microphones pick up sound waves from sources like traffic, conversations, or airplane engines.
+
+2.  **Wave Inversion:** The headphone's electronic circuitry analyzes the incoming noise and then generates an "anti-noise" wave. This anti-noise wave has the *exact same frequency and amplitude* as the ambient noise wave, but it is *180 degrees out of phase*. Being 180 degrees out of phase means that when the ambient noise wave has a crest (a peak), the anti-noise wave has a trough (a valley), and vice-versa.
+
+3.  **Superposition and Destructive Interference:** The anti-noise wave is then played through the headphone speakers, simultaneously with the ambient noise that is still reaching the ear (passing through the headphone material).  Because the two waves – the original noise and the anti-noise – are out of phase, they undergo **destructive interference**. Where the crest of the noise wave meets the trough of the anti-noise wave, they cancel each other out.  Similarly, where the trough of the noise wave meets the crest of the anti-noise wave, they also cancel.
+
+4.  **Reduced Noise:** The result of this destructive interference is a significant reduction in the amplitude of the sound waves reaching the eardrum.  The listener perceives a much quieter environment because the unwanted noise has been effectively neutralized.
+
+**Type of Wave Phenomenon:**
+
+The wave phenomenon being used in noise-canceling headphones is **interference**, specifically **destructive interference**. This interference relies on the **superposition principle**, which states that when two or more waves overlap in a medium, the resultant displacement at any point is the sum of the displacements due to each individual wave. In the case of destructive interference, the waves are carefully engineered to have opposite displacements, leading to a cancellation effect. The sounds waves can be considered as **longitudinal waves**.
+
+3.  **Wave Properties and Medium Density:** Two different strings, String A and String B, have the same length and tension, but String A has a higher linear mass density than String B. A wave pulse is generated on each string. On which string will the wave pulse travel faster? Explain your reasoning in terms of the relationship between wave speed, tension, and linear mass density. Furthermore, describe what would happen to the wavelengths of standing waves formed on each string at a fixed frequency.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student studying waves:
+
+**Answer:**
+
+**Part 1: Wave Pulse Speed**
+
+The wave pulse will travel faster on **String B**, the string with the *lower* linear mass density.
+
+Here's why:
+
+The speed of a transverse wave on a string is determined by the following equation:
+
+*v = √(T/μ)*
+
+Where:
+
+*   *v* is the wave speed
+*   *T* is the tension in the string
+*   *μ* (mu) is the linear mass density (mass per unit length) of the string
+
+From this equation, we can see that the wave speed (*v*) is *inversely proportional* to the square root of the linear mass density (*μ*).  This means that if the tension (*T*) is kept constant (as stated in the problem), a higher linear mass density will result in a slower wave speed, and a lower linear mass density will result in a faster wave speed.
+
+Since String A has a higher linear mass density than String B, and the tension is the same in both strings, the wave pulse will travel slower on String A and faster on String B.
+
+**Part 2: Wavelengths of Standing Waves at a Fixed Frequency**
+
+If standing waves are formed on both strings at a *fixed* frequency, the wavelengths will be different.  Specifically:
+
+*   **String B (lower linear mass density) will have a longer wavelength.**
+*   **String A (higher linear mass density) will have a shorter wavelength.**
+
+Here's the explanation:
+
+The relationship between wave speed (*v*), frequency (*f*), and wavelength (*λ*) is given by:
+
+*v = fλ*
+
+Since the frequency (*f*) is fixed (the same for both strings in this scenario), the wave speed (*v*) and wavelength (*λ*) are directly proportional to each other.  This means:
+
+*   If the wave speed is higher (as is the case with String B), the wavelength will also be longer.
+*   If the wave speed is lower (as is the case with String A), the wavelength will also be shorter.
+
+We already established that the wave speed is higher on String B because it has a lower linear mass density. Therefore, at a fixed frequency, the standing waves on String B will have a longer wavelength compared to the standing waves on String A.

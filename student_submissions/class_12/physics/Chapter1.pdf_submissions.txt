@@ -1,0 +1,118 @@
+1.  **Charge Distribution and Force:** Three charges, +q, +q, and -q, are placed at the vertices of an equilateral triangle. Qualitatively describe how the net force on each charge would change if the charge -q was replaced with a charge of -2q. Explain your reasoning, considering the principles of electrostatic force.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content and the given assignment question.
+
+**Answer:**
+
+If the charge -q at one of the vertices of the equilateral triangle is replaced with a charge of -2q, the magnitude of the electrostatic forces acting on all three charges will change. Let's consider each charge individually:
+
+*   **On the charge -2q (originally -q):**  The force on this charge will *increase* in magnitude. This is because the electrostatic force is directly proportional to the product of the magnitudes of the two charges involved (Coulomb's Law). Since the magnitude of this charge has doubled (from q to 2q), the forces exerted *on it* by the two +q charges at the other vertices will also double in magnitude. The *direction* of the net force on this charge will remain the same, pointing towards the midpoint of the line joining the two positive charges.
+
+*   **On each of the +q charges:** The force on *each* of the +q charges will also *increase* in magnitude. The force between each +q charge and the negative charge has doubled. However, since the force between the two +q charges remains the same, the overall net force will be different for each +q charge. The magnitude of the force attracting each +q charge to the -2q charge is doubled, thus increasing the overall net force on each +q charge. The *direction* of the net force on each +q charge will be altered. The force exerted by the -2q charge is greater, causing the direction of the net force to be drawn more towards the direction of the force between that +q charge and the -2q charge.
+
+**Reasoning based on Electrostatic Principles:**
+
+*   **Coulomb's Law:** The fundamental principle at play here is Coulomb's Law, which states that the electrostatic force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.  Mathematically,  F = k * (|q1 * q2| / r^2), where F is the force, q1 and q2 are the charges, r is the distance, and k is Coulomb's constant.
+
+*   **Superposition Principle:**  The net force on each charge is the vector sum of the individual forces acting on it due to the other two charges. This is the superposition principle.  Therefore, to determine the new net force, we need to consider the *vector sum* of the changed forces due to the -2q charge and the unchanged force between the two +q charges.
+
+*   **Direction:** While the magnitudes of the forces change, it's important to consider the *direction* of the forces.  Electrostatic forces are vectors, having both magnitude and direction. Since the triangle is equilateral, the initial forces (with -q) had a certain symmetry.  Changing -q to -2q breaks this symmetry, causing not only a change in the magnitude of the net force but also a change in its direction.
+
+In summary, increasing the magnitude of the negative charge significantly alters the electrostatic forces within the system. The forces on *all* charges are affected due to Coulomb's Law and the superposition principle, leading to changes in both the magnitude and direction of the net forces.
+
+2.  **Electric Dipole and Field:** Two charges of equal magnitude but opposite sign are separated by a small distance, forming an electric dipole. Explain how the electric field due to this dipole changes as you move away from it along the dipole axis and along the perpendicular bisector of the dipole. How does this distance dependence compare to that of a single point charge?
+Sample Answer:
+Okay, here's a sample answer appropriate for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+An electric dipole consists of two charges, +q and -q, separated by a small distance, usually denoted as 2a. The electric field produced by a dipole is different from that of a single point charge and its distance dependence varies depending on the location relative to the dipole.
+
+**1. Electric Field along the Dipole Axis (End-on position):**
+
+*   Consider a point P on the dipole axis at a distance *r* from the center of the dipole. The electric field at P is the vector sum of the fields due to +q and -q.
+*   The electric field due to the +q charge is directed away from the charge, and the electric field due to the -q charge is directed towards the charge.
+*   The magnitude of the electric field at P can be approximated for large distances (*r >> a*) as:
+
+    E ≈ (1 / 4πε₀) * (2p / r³)
+
+    where p = q * 2a is the dipole moment.
+
+*   Therefore, the electric field along the dipole axis is *inversely proportional to the cube of the distance (r³)*.  This means that as you move away from the dipole along its axis, the electric field decreases much faster than in the case of a single point charge.
+
+**2. Electric Field along the Perpendicular Bisector (Equatorial position):**
+
+*   Now consider a point Q on the perpendicular bisector of the dipole at a distance *r* from the center. The electric field at Q is again the vector sum of the fields due to +q and -q.
+*   Due to symmetry, the components of the electric fields perpendicular to the dipole axis cancel out, and only the components parallel to the axis remain.
+*   The magnitude of the electric field at Q can be approximated for large distances (*r >> a*) as:
+
+    E ≈ (1 / 4πε₀) * (p / r³)
+
+*   Here, again, the electric field along the perpendicular bisector is *inversely proportional to the cube of the distance (r³)*.
+
+**Comparison with a Single Point Charge:**
+
+*   For a single point charge q, the electric field at a distance r is given by:
+
+    E = (1 / 4πε₀) * (q / r²)
+
+*   This means the electric field of a point charge is *inversely proportional to the square of the distance (r²)*.
+
+**In summary:**
+
+*   The electric field due to a dipole, both along the axis and along the perpendicular bisector, decreases as 1/r³, while the electric field due to a single point charge decreases as 1/r².
+*   This faster decrease in the dipole field is because the fields from the two charges partially cancel each other out, especially at larger distances.
+*   The dipole field depends not only on the magnitude of the charges but also on the dipole moment (p = q * 2a), which takes into account the separation between the charges.
+
+3.  **Gauss's Law and Flux:** Imagine a cube placed in a region with a non-uniform electric field. Describe how you would use Gauss's Law to determine the total charge enclosed within the cube. Detail the steps involved in calculating the electric flux through each face of the cube and relating it to the enclosed charge. Explain any assumptions you'd need to make about the electric field to simplify the calculation.
+Sample Answer:
+**Answer:**
+
+To determine the total charge enclosed within a cube placed in a region with a non-uniform electric field using Gauss's Law, we would follow these steps:
+
+**1. Understanding Gauss's Law:**
+
+Gauss's Law states that the total electric flux through a closed surface is directly proportional to the total electric charge enclosed within that surface. Mathematically, it's expressed as:
+
+∮ **E** ⋅ d**A** = Q<sub>enclosed</sub> / ε<sub>0</sub>
+
+Where:
+
+*   ∮ **E** ⋅ d**A**  represents the surface integral of the electric field **E** over the closed surface.
+*   **E** is the electric field vector.
+*   d**A** is an infinitesimal area vector pointing outward and perpendicular to the surface.
+*   Q<sub>enclosed</sub> is the total charge enclosed within the Gaussian surface (the cube, in this case).
+*   ε<sub>0</sub> is the permittivity of free space (approximately 8.854 x 10<sup>-12</sup> C<sup>2</sup>/Nm<sup>2</sup>).
+
+**2. Calculating Electric Flux through Each Face of the Cube:**
+
+Since the electric field is non-uniform, the electric flux through each face of the cube will likely be different. We need to calculate the flux through each of the six faces individually. The electric flux (Φ) through a surface is given by:
+
+Φ = ∫ **E** ⋅ d**A**
+
+   * The integral can be simplified for each face if we know the angle between the electric field and the normal vector d**A**.
+   * The total flux through the cube (Φ<sub>total</sub>) is the sum of the fluxes through all six faces:
+
+Φ<sub>total</sub> = Φ<sub>1</sub> + Φ<sub>2</sub> + Φ<sub>3</sub> + Φ<sub>4</sub> + Φ<sub>5</sub> + Φ<sub>6</sub>
+
+**3. Relating Total Flux to Enclosed Charge:**
+
+Once we have calculated the total electric flux through the cube (Φ<sub>total</sub>), we can use Gauss's Law to determine the total charge enclosed within the cube:
+
+Q<sub>enclosed</sub> = ε<sub>0</sub> * Φ<sub>total</sub>
+
+**4. Assumptions to Simplify Calculations:**
+
+Calculating the flux integral for each face can be complex for a completely arbitrary non-uniform electric field. To simplify the calculation, we might need to make some assumptions:
+
+*   **Symmetry:** If the electric field exhibits some symmetry (e.g., cylindrical or spherical symmetry) relative to the cube's position, it might simplify the integration process on certain faces. We could choose the cube's orientation strategically to align with the symmetry.
+*   **Uniform Field Over a Face:** If the cube is small enough, we might approximate the electric field as being uniform over each individual face. This would allow us to replace the integral with a simple product: Φ = **E** ⋅ **A** = E A cos θ, where θ is the angle between the electric field and the area vector.  However, it is important to note this is an approximation.
+*   **Known Electric Field:** We must have some knowledge of the electric field **E** at every point on the surface of the cube. This can be either an analytical expression for **E** or experimental data that provides values of **E** at various points.
+
+**In Summary:**
+
+1.  Define a Gaussian surface as the surface of the cube.
+2.  Calculate electric flux through each face of the cube individually using integration of the dot product of electric field vector and area vector over the face.
+3.  Sum the flux through all six faces to obtain the total electric flux.
+4.  Apply Gauss's Law (Q<sub>enclosed</sub> = ε<sub>0</sub> * Φ<sub>total</sub>) to determine the total charge enclosed within the cube.
+5.  Make simplifying assumptions based on field symmetry or approximate uniformity over each face if necessary (and clearly state those assumptions).

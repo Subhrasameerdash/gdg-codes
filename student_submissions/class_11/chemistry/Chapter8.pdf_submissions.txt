@@ -1,0 +1,167 @@
+1.  **Reaction Mechanisms & Stability:** Consider two reactions: (a) the addition of HBr to propene and (b) the substitution of chlorine for hydrogen in methane under UV light. Briefly outline the step-by-step mechanism for *each* reaction. Then, explain why the addition reaction (a) follows Markovnikov's rule, while the substitution reaction (b) yields a mixture of products. Relate your answer to the concepts of carbocation stability and free radical formation.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided content:
+
+**Answer:**
+
+**1. Reaction Mechanisms & Stability:**
+
+**(a) Addition of HBr to Propene (Markovnikov's Rule):**
+
+This reaction proceeds via an **electrophilic addition mechanism**.  HBr acts as the electrophile, and propene (CH3-CH=CH2) is the alkene.
+
+*   **Step 1: Electrophilic Attack:** The pi electrons of the double bond attack the hydrogen of HBr, breaking the H-Br bond. This forms a carbocation intermediate. Two possible carbocations can form: a secondary carbocation (where the positive charge is on the second carbon) and a primary carbocation (where the positive charge is on the terminal carbon).
+
+    ```
+    CH3-CH=CH2 + HBr  -->  CH3-CH+-CH3  +  Br-  (Secondary carbocation - Major)
+                         OR
+                         CH3-CH2-CH2+  +  Br-  (Primary carbocation - Minor)
+    ```
+
+*   **Step 2: Nucleophilic Attack:** The bromide ion (Br-) acts as a nucleophile and attacks the positively charged carbocation.
+
+    ```
+    CH3-CH+-CH3 + Br- --> CH3-CHBr-CH3 (2-bromopropane - Major product)
+    CH3-CH2-CH2+ + Br- --> CH3-CH2-CH2Br (1-bromopropane - Minor product)
+    ```
+
+**Markovnikov's Rule:** The addition of HBr to propene follows Markovnikov's rule, which states that the hydrogen atom of HBr adds to the carbon atom of the double bond that already has the greater number of hydrogen atoms (and the bromine adds to the carbon with fewer hydrogens).
+
+**Reasoning:**  The reaction proceeds via the more stable carbocation intermediate. **Carbocation stability** follows the order: tertiary > secondary > primary. The secondary carbocation (CH3-CH+-CH3) is more stable than the primary carbocation (CH3-CH2-CH2+) due to the **inductive effect** (+I effect) of the two methyl groups attached to the positively charged carbon. These methyl groups donate electron density, dispersing the positive charge and stabilizing the carbocation.  Therefore, the secondary carbocation forms preferentially, leading to 2-bromopropane as the major product.
+
+**(b) Substitution of Chlorine for Hydrogen in Methane (Free Radical Mechanism):**
+
+This reaction proceeds via a **free radical substitution mechanism**. UV light initiates the reaction by breaking the Cl-Cl bond homolytically (each chlorine atom gets one electron).
+
+*   **Step 1: Initiation:** UV light causes homolytic fission of the chlorine molecule, forming chlorine free radicals.
+
+    ```
+    Cl2 + UV light --> 2 Cl•
+    ```
+
+*   **Step 2: Propagation:**  Chlorine free radicals react with methane.
+
+    *   **Step 2a:** A chlorine free radical abstracts a hydrogen atom from methane, forming a methyl free radical and HCl.
+
+        ```
+        Cl• + CH4 -->  •CH3 + HCl
+        ```
+
+    *   **Step 2b:** The methyl free radical reacts with another chlorine molecule to form chloromethane and another chlorine free radical.
+
+        ```
+        •CH3 + Cl2 --> CH3Cl + Cl•
+        ```
+
+    *These propagation steps continue in a chain reaction.*
+
+*   **Step 3: Termination:** Free radicals combine to form stable molecules, stopping the chain reaction. Possible termination steps include:
+
+    ```
+    Cl• + Cl• --> Cl2
+    •CH3 + Cl• --> CH3Cl
+    •CH3 + •CH3 --> CH3CH3 (ethane)
+    ```
+
+**Mixture of Products:** Unlike the addition reaction, the chlorination of methane yields a mixture of products (CH3Cl, CH2Cl2, CHCl3, CCl4) because the formed chloromethane can further react with chlorine free radicals in propagation steps. For example:
+
+```
+Cl• + CH3Cl --> •CH2Cl + HCl
+•CH2Cl + Cl2 --> CH2Cl2 + Cl•
+```
+
+This process continues until all the hydrogen atoms in methane are replaced by chlorine atoms.
+
+**Reasoning:**  The free radical substitution mechanism is a chain reaction. Once a chlorine free radical is formed, it can react with methane to form a methyl free radical. This methyl free radical can then react with another chlorine molecule to form chloromethane and another chlorine free radical, which continues the cycle. **Free radical stability** also plays a role (tertiary > secondary > primary > methyl), but in the case of methane, only methyl radicals are formed initially. The main reason for the mixture of products is the continuous propagation steps that occur until all hydrogens are substituted. The reaction doesn't stop cleanly at just one substitution, because the chlorinated products are more reactive than the original methane.
+
+2.  **IUPAC Nomenclature & Isomerism:** Draw all the structural isomers of an alcohol with the molecular formula C5H12O. Provide the IUPAC name for each isomer you draw. Finally, identify which of these isomers is/are capable of exhibiting optical isomerism and briefly explain why.
+Sample Answer:
+Here's a sample answer suitable for CBSE Class 11-12 students addressing the assignment question about isomers of C5H12O:
+
+**Answer:**
+
+To address this question, we'll first draw all possible structural isomers of an alcohol with the molecular formula C5H12O, then provide their IUPAC names, and finally, identify any isomers capable of optical isomerism.
+
+**1. Structural Isomers and IUPAC Names:**
+
+An alcohol has the general formula R-OH, where R is an alkyl group. For C5H12O, we'll have a five-carbon chain with an -OH group attached at different positions, as well as branched structures.
+
+Here are the structural isomers and their corresponding IUPAC names:
+
+*   **Isomer 1:** CH3-CH2-CH2-CH2-CH2-OH
+    *   IUPAC Name: Pentan-1-ol
+    *   Structure: A straight chain of 5 carbons with the -OH group on the first carbon.
+
+*   **Isomer 2:** CH3-CH2-CH2-CH(OH)-CH3
+    *   IUPAC Name: Pentan-2-ol
+    *   Structure: A straight chain of 5 carbons with the -OH group on the second carbon.
+
+*   **Isomer 3:** CH3-CH2-CH(OH)-CH2-CH3
+    *   IUPAC Name: Pentan-3-ol
+    *   Structure: A straight chain of 5 carbons with the -OH group on the third carbon.
+
+*   **Isomer 4:** CH3-CH(CH3)-CH2-CH2-OH
+    *   IUPAC Name: 2-Methylbutan-1-ol
+    *   Structure: A branched chain with a methyl group on the second carbon and the -OH group on the first carbon.
+
+*   **Isomer 5:** CH3-CH2-CH(CH3)-CH2-OH
+    *   IUPAC Name: 3-Methylbutan-1-ol
+    *   Structure: A branched chain with a methyl group on the third carbon and the -OH group on the first carbon.
+
+*   **Isomer 6:** CH3-CH(CH3)-CH(OH)-CH3
+    *   IUPAC Name: 3-Methylbutan-2-ol
+    *   Structure: A branched chain with a methyl group on the second carbon and the -OH group on the second carbon.
+
+*   **Isomer 7:** CH3-C(CH3)2-CH2-OH
+    *   IUPAC Name: 2,2-Dimethylpropan-1-ol
+    *   Structure: A branched chain with two methyl groups on the second carbon and the -OH group on the first carbon.
+
+*   **Isomer 8:** CH3-CH2-C(OH)(CH3)-CH3
+    *   IUPAC Name: 2-Methylbutan-2-ol
+    *   Structure: A branched chain with a methyl group on the second carbon and the -OH group on the second carbon.
+
+**2. Optical Isomerism:**
+
+Optical isomerism (enantiomerism) occurs when a molecule is chiral, meaning it is non-superimposable on its mirror image. This usually happens when a carbon atom is bonded to four different groups (a chiral center or stereocenter).
+
+Looking at the isomers we've drawn, the following possess a chiral carbon:
+
+*   **Isomer 2: Pentan-2-ol:** The second carbon is attached to -OH, -H, -CH3, and -CH2CH2CH3 (different groups). Therefore, Pentan-2-ol exhibits optical isomerism.
+
+*   **Isomer 4: 2-Methylbutan-1-ol:** The second carbon is attached to -CH3, -H, -CH2CH2OH and -CH3, making it a chiral carbon. Therefore, 2-Methylbutan-1-ol exhibits optical isomerism.
+
+*   **Isomer 6: 3-Methylbutan-2-ol:** The third carbon is attached to -CH3, -H, -CH3, and -OH, making it a chiral carbon. Therefore, 3-Methylbutan-2-ol exhibits optical isomerism.
+
+**Explanation:**
+
+For a molecule to exhibit optical isomerism, it must have a chiral carbon atom (also known as a stereogenic center). A chiral carbon atom is a carbon atom that is bonded to four different atoms or groups of atoms. The presence of a chiral center makes the molecule non-superimposable on its mirror image, leading to the existence of two enantiomers that rotate plane-polarized light in opposite directions. Isomers 2, 4, and 6 have such chiral centers and hence exhibit optical isomerism. The other isomers do not have a carbon atom bonded to four different groups, and therefore, are not optically active.
+
+3.  **Purification Techniques & Spectroscopic Analysis:** A student synthesizes benzoic acid in the lab, but the product is contaminated with a small amount of unreacted starting material (benzene) and a colored impurity. Describe a step-by-step procedure the student should follow to purify the benzoic acid to a high degree of purity. Justify your choice of each purification technique based on the properties of benzoic acid, benzene, and the colored impurity. Furthermore, explain how IR spectroscopy could be used to confirm the identity and purity of the final benzoic acid product.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT-derived content:
+
+**Answer:**
+
+To purify the synthesized benzoic acid contaminated with benzene and a colored impurity, the student should follow a multi-step purification procedure combining extraction, crystallization, and finally, spectroscopic analysis.
+
+**Step 1: Extraction**
+
+*   **Procedure:** Dissolve the crude benzoic acid in a suitable solvent (e.g., diethyl ether or ethyl acetate). Add this solution to a separatory funnel. Add an aqueous solution of sodium bicarbonate (NaHCO3). Shake the funnel gently, allowing the layers to separate. Collect the aqueous layer. Add dilute hydrochloric acid (HCl) to the aqueous layer until the benzoic acid precipitates. Collect the solid benzoic acid by filtration.
+*   **Justification:** This step removes benzene and some of the colored impurities based on differences in solubility and acid-base properties. Benzoic acid is a carboxylic acid, so it reacts with sodium bicarbonate to form a water-soluble benzoate salt, while benzene, which is non-polar, remains in the organic ether layer. The colored impurity might be non-acidic, hence not get converted into water soluble sodium salts and stay back in ether layer. Converting benzoic acid to its salt makes it water soluble, so that it can be extracted into the aqueous layer. Subsequently, acidification with HCl regenerates the benzoic acid as a solid precipitate. The organic solvent (containing benzene and other non-acidic organic impurities) can be discarded.
+
+**Step 2: Crystallization**
+
+*   **Procedure:** Dissolve the precipitated benzoic acid in a minimum amount of hot water or ethanol. Filter the hot solution to remove any remaining insoluble impurities (e.g., any remaining colored impurity). Allow the solution to cool slowly to room temperature, then further cool it in an ice bath to maximize crystal formation. Collect the purified benzoic acid crystals by filtration. Wash the crystals with a small amount of ice-cold water. Dry the crystals in a desiccator or oven.
+*   **Justification:** Crystallization is an excellent technique for purifying solid organic compounds. As the hot solution cools, benzoic acid crystals will form. Impurities, present in smaller amounts, will ideally remain in solution. Slow cooling promotes the formation of larger, purer crystals. The ice-cold water wash helps remove any remaining impurities adhering to the crystal surface. The principle here is based on the difference in solubility of benzoic acid and the remaining impurities in the chosen solvent as a function of temperature. Benzoic acid is more soluble at higher temperatures than at lower temperatures.
+
+**Step 3: Spectroscopic Analysis (IR Spectroscopy)**
+
+*   **Procedure:** Prepare a sample of the purified benzoic acid for IR spectroscopy (e.g., as a KBr pellet or a thin film). Obtain the IR spectrum of the purified benzoic acid.
+*   **Justification:** IR spectroscopy can confirm the identity and assess the purity of the final benzoic acid product.
+    *   **Identity Confirmation:** Compare the obtained IR spectrum with a known, published spectrum of benzoic acid. Key characteristic peaks to look for include:
+        *   A broad O-H stretch in the region of 2500-3300 cm-1 (characteristic of carboxylic acids).
+        *   A sharp C=O stretch around 1680-1725 cm-1 (carbonyl group of the carboxylic acid).
+        *   Aromatic C=C stretches in the region of 1450-1600 cm-1.
+    *   **Purity Assessment:** The absence of peaks associated with the starting material (benzene) and colored impurity would indicate high purity. For example, if benzene were present, a sharp peak around 3030 cm-1 (aromatic C-H stretch) might be observed. The absence of such extraneous peaks indicates that these impurities have been effectively removed. Also, a sharp peak will confirm a single product, and a broad peak may indicate an impure product with a mixture of compounds.
+
+**In summary:** Combining extraction, crystallization, and IR spectroscopy provides a robust approach to purify and confirm the identity and purity of the synthesized benzoic acid. The choice of each technique is based on exploiting the unique properties of benzoic acid relative to the impurities present.

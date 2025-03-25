@@ -1,0 +1,140 @@
+1.  **Molecular Geometry and Polarity:** Compare and contrast the molecular geometries of BeCl2 and H2O. Explain why BeCl2 is non-polar despite having polar bonds, while H2O is polar. Relate your explanation to VSEPR theory and the concept of dipole moments.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+Let's analyze the molecular geometry and polarity of Beryllium Chloride (BeCl2) and Water (H2O) using VSEPR theory and the concept of dipole moments.
+
+**1. Molecular Geometry:**
+
+*   **BeCl2 (Beryllium Chloride):**
+
+    *   Beryllium (Be) is the central atom. It has 2 valence electrons.
+    *   Each Chlorine (Cl) atom contributes one electron for bonding.
+    *   According to VSEPR theory, the two bond pairs around Be will arrange themselves to minimize repulsion. This results in a **linear** geometry. The Cl-Be-Cl bond angle is 180°.
+
+*   **H2O (Water):**
+
+    *   Oxygen (O) is the central atom. It has 6 valence electrons.
+    *   Each Hydrogen (H) atom contributes one electron for bonding.
+    *   Oxygen has two bond pairs (with the two hydrogen atoms) and two lone pairs of electrons. VSEPR theory dictates that these four electron pairs (2 bond pairs + 2 lone pairs) will arrange themselves tetrahedrally to minimize repulsion.
+    *   However, the lone pairs exert a greater repulsive force than the bond pairs. This distorts the tetrahedral arrangement, resulting in a **bent** or **V-shaped** geometry. The H-O-H bond angle is approximately 104.5°, smaller than the ideal tetrahedral angle of 109.5° due to the lone pair repulsion.
+
+**2. Bond Polarity:**
+
+*   Both BeCl2 and H2O have polar bonds. This is because of the difference in electronegativity between the atoms.
+
+    *   In BeCl2, Chlorine is significantly more electronegative than Beryllium. Therefore, each Be-Cl bond is polar, with a partial negative charge (δ-) on the Cl atom and a partial positive charge (δ+) on the Be atom.
+    *   In H2O, Oxygen is significantly more electronegative than Hydrogen. Therefore, each O-H bond is polar, with a partial negative charge (δ-) on the O atom and a partial positive charge (δ+) on the H atom.
+
+**3. Molecular Polarity and Dipole Moments:**
+
+*   **BeCl2 (Non-polar):**
+
+    *   Despite having polar Be-Cl bonds, the BeCl2 molecule is **non-polar**. This is because the molecule has a linear geometry. The two bond dipoles (the dipole moment of each Be-Cl bond) are equal in magnitude and opposite in direction. They cancel each other out, resulting in a net dipole moment of zero for the molecule.
+
+*   **H2O (Polar):**
+
+    *   The H2O molecule is **polar**. The bent geometry of the molecule is crucial here. The two bond dipoles (the dipole moment of each O-H bond) do not cancel each other. Instead, they add up to produce a net dipole moment for the molecule. The oxygen atom has a partial negative charge, and the region between the two hydrogen atoms has a partial positive charge.  The overall dipole moment points from the center of the molecule (slightly towards the oxygen) to the middle of the two hydrogen atoms.
+
+**Summary Table:**
+
+| Feature           | BeCl2                      | H2O                       |
+|-------------------|---------------------------|---------------------------|
+| Central Atom      | Be                        | O                         |
+| Number of Bond Pairs | 2                         | 2                         |
+| Number of Lone Pairs | 0                         | 2                         |
+| Molecular Geometry| Linear                    | Bent (V-shaped)           |
+| Bond Polarity     | Polar (Be-Cl)             | Polar (O-H)               |
+| Molecular Polarity| Non-polar                 | Polar                     |
+| Dipole Moment      | Zero                      | Non-zero                  |
+
+**In Conclusion:**
+
+The molecular geometry, dictated by VSEPR theory, plays a critical role in determining molecular polarity. While both BeCl2 and H2O have polar bonds, the linear shape of BeCl2 allows the bond dipoles to cancel, making it non-polar. In contrast, the bent shape of H2O prevents the bond dipoles from canceling, resulting in a net dipole moment and making the molecule polar.  The presence of lone pairs on the central atom in water influences the molecular shape and contributes to its polarity.
+
+2.  **Resonance and Bond Order:** Draw all possible resonance structures for the ozone molecule (O3). Based on these resonance structures, predict the bond order of the oxygen-oxygen bonds in ozone and explain how this bond order relates to the actual bond length compared to a typical single or double O-O bond.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student regarding the ozone resonance structures and bond order:
+
+**Answer:**
+
+Ozone (O3) is a molecule that exhibits resonance, meaning its structure cannot be accurately represented by a single Lewis structure. Instead, we use multiple resonance structures to describe the delocalization of electrons within the molecule.
+
+**1. Resonance Structures of Ozone (O3):**
+
+To draw the resonance structures for ozone, we first need to determine the total number of valence electrons. Oxygen has 6 valence electrons, and since there are three oxygen atoms, the total number of valence electrons is 3 * 6 = 18.
+
+Here are the two major resonance structures for ozone:
+
+*   **Structure 1:** O=O–O  (One double bond and one single bond) with appropriate lone pairs on each oxygen atom to fulfill octet rule.
+    * The central O has one single bond and one double bond.
+    * One terminal O has a double bond, and two lone pairs.
+    * The other terminal O has a single bond, and three lone pairs.
+
+*   **Structure 2:** O–O=O  (One single bond and one double bond, but with the double bond on the *other* side). with appropriate lone pairs on each oxygen atom to fulfill octet rule.
+    * The central O has one single bond and one double bond.
+    * One terminal O has a single bond, and three lone pairs.
+    * The other terminal O has a double bond, and two lone pairs.
+
+    *Note:* We place lone pairs on each oxygen so they have an octet. In each resonance structure, the central oxygen atom has one single bond and one double bond to the other two oxygen atoms. The terminal oxygen atoms have either one single bond and three lone pairs or one double bond and two lone pairs, to make a total of eight electrons.
+
+**2. Bond Order in Ozone:**
+
+Bond order is defined as the number of chemical bonds between a pair of atoms.  To determine the bond order of the O-O bonds in ozone, we consider the resonance structures.
+
+*   In each resonance structure, one O-O bond is a single bond (bond order = 1), and the other O-O bond is a double bond (bond order = 2).
+
+*   Since the actual structure of ozone is a *hybrid* of these two resonance structures, the bond order of each O-O bond is the average of the bond orders in the individual resonance structures:
+
+    Bond Order = (1 + 2) / 2 = 1.5
+
+Therefore, the bond order of each oxygen-oxygen bond in ozone is 1.5.
+
+**3. Relationship between Bond Order and Bond Length:**
+
+Bond order and bond length are inversely related.  A higher bond order indicates a stronger attraction between the atoms and thus a shorter bond length.
+
+*   A typical single O-O bond (bond order = 1) is relatively long.
+*   A typical double O=O bond (bond order = 2) is shorter than a single bond.
+
+Since the bond order in ozone is 1.5, we can predict that the O-O bond length in ozone will be *intermediate* between the length of a single O-O bond and the length of a double O=O bond.  The bonds in ozone are stronger and shorter than a single O-O bond but weaker and longer than a double O=O bond. The delocalization of electrons due to resonance leads to identical bond lengths for both O-O bonds in ozone, which is consistent with the bond order of 1.5.
+
+3.  **Hybridization and Bonding:** Describe the hybridization of the central atom in methane (CH4) and ethene (C2H4). Explain how the difference in hybridization leads to different molecular shapes and bond angles in these two molecules. How does hybridization affect the sigma and pi bonding in ethene?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT-aligned content:
+
+**Answer:**
+
+**Hybridization and Bonding in Methane (CH4) and Ethene (C2H4)**
+
+Hybridization is the concept of mixing atomic orbitals to form new hybrid orbitals that are suitable for bonding. The type of hybridization affects the molecular shape and the types of bonds formed.
+
+**Methane (CH4)**
+
+*   **Hybridization:** In methane, the central carbon atom undergoes *sp3* hybridization. This means one 2s orbital and three 2p orbitals of carbon mix to form four new, equivalent *sp3* hybrid orbitals.
+
+*   **Molecular Shape and Bond Angles:** These four *sp3* hybrid orbitals are oriented towards the corners of a tetrahedron. Therefore, methane has a tetrahedral shape. According to VSEPR theory, the four electron pairs (each *sp3* orbital contains one electron pair that form single bonds to the hydrogen atoms) repel each other equally, resulting in bond angles of approximately 109.5°.
+
+*   **Bonding:** Each *sp3* hybrid orbital of carbon overlaps with the 1s orbital of a hydrogen atom, forming four sigma (σ) bonds. These sigma bonds are strong and are formed by end-on overlap of atomic orbitals.
+
+**Ethene (C2H4)**
+
+*   **Hybridization:** In ethene, each carbon atom undergoes *sp2* hybridization. This means one 2s orbital and *two* 2p orbitals mix to form three *sp2* hybrid orbitals. The remaining unhybridized p-orbital remains perpendicular to the plane formed by the *sp2* orbitals.
+
+*   **Molecular Shape and Bond Angles:** The three *sp2* hybrid orbitals are oriented in a trigonal planar arrangement around each carbon atom. This results in bond angles of approximately 120° around each carbon. The molecule as a whole is planar.
+
+*   **Bonding:**
+    *   *Sigma (σ) Bonds:* Each carbon forms three sigma (σ) bonds: two with hydrogen atoms (through overlap with hydrogen's 1s orbitals) and one with the other carbon atom (through overlap of *sp2* hybrid orbitals).
+    *   *Pi (π) Bond:* The unhybridized p-orbitals on each carbon atom overlap sideways, forming a pi (π) bond. This π bond is weaker than the σ bonds and lies above and below the plane of the molecule.  This pi bond restricts rotation around the carbon-carbon bond, making ethene a planar molecule.
+
+**Difference in Hybridization and its Consequences**
+
+The difference in hybridization between methane and ethene leads to significant differences in their molecular shapes and bonding characteristics:
+
+*   **Shape:** Methane is tetrahedral, while ethene is planar.
+*   **Bond Angles:** Methane has bond angles of 109.5°, while ethene has bond angles of approximately 120°.
+*   **Bonding:** Methane has only single (sigma) bonds. Ethene has one sigma bond and one pi bond between the carbon atoms, resulting in a double bond. The presence of the pi bond in ethene makes it more reactive than methane. The carbon-carbon bond in ethene is also shorter and stronger than a single C-C bond as in alkanes.
+
+In summary, hybridization plays a crucial role in determining the geometry and bonding properties of molecules. The *sp3* hybridization in methane leads to a tetrahedral shape and single bonds, while the *sp2* hybridization in ethene results in a planar shape with both sigma and pi bonds, leading to a double bond and different reactivity.

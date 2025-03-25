@@ -1,0 +1,133 @@
+1.  **Reaction Prediction & Mechanism:** A student attempts to convert 2-bromobutane to but-2-ene using alcoholic KOH. However, they also observe the formation of a significant amount of but-1-ene. Explain the mechanism for the formation of both products, clearly indicating which mechanism is favored and why. Furthermore, predict the major product if the same reaction were conducted using *tert*-butoxide as the base, providing your reasoning.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided chapter content, addressing the given assignment question:
+
+**Answer:**
+
+The reaction of 2-bromobutane with alcoholic KOH (potassium hydroxide dissolved in ethanol) leads to the formation of both but-2-ene and but-1-ene via an **elimination reaction (specifically, E2)**.  The E2 mechanism is a one-step process where the base (OH- from KOH) abstracts a proton from a carbon adjacent to the carbon bearing the halogen, while simultaneously the halide ion (Br-) leaves and a pi bond forms between the two carbon atoms.
+
+**Mechanism Explanation:**
+
+*   **But-2-ene Formation (Major Product initially):** In 2-bromobutane, there are two *beta*-carbons (carbons adjacent to the carbon with the bromine). Proton abstraction can occur from either of these beta-carbons. However, the formation of **but-2-ene** is initially favored due to **Zaitsev's rule**. Zaitsev's rule states that in an elimination reaction, the major product is generally the more substituted alkene (the alkene with more alkyl groups attached to the double-bonded carbons). But-2-ene has two alkyl groups (methyl and ethyl) attached to the double-bonded carbons, making it more substituted than but-1-ene.
+
+    *Draw the mechanism here, showing the base (OH-) attacking a beta-hydrogen on a carbon adjacent to the carbon with bromine, leading to the simultaneous formation of a double bond and removal of Br- to give but-2-ene.*
+
+*   **But-1-ene Formation (Minor Product initially):** But-1-ene forms when the hydroxide ion removes a proton from the *other* beta-carbon (the one at the end of the chain). This leads to the formation of a double bond between carbon 1 and carbon 2. But-1-ene has only one alkyl group (propyl) attached to the double-bonded carbons, making it less substituted.
+
+    *Draw the mechanism here, showing the base (OH-) attacking a beta-hydrogen on the terminal carbon, leading to the simultaneous formation of a double bond and removal of Br- to give but-1-ene.*
+
+**Why Both Products Form:**
+
+While Zaitsev's rule predicts the major product, the formation of the minor product (but-1-ene) cannot be completely avoided. The strong base, OH-, will abstract *any* available beta-hydrogen, leading to a mixture of products.  Steric hindrance around the internal carbons also plays a part, even though it's less significant with a relatively small base like hydroxide.
+
+**Reaction with *tert*-Butoxide:**
+
+If *tert*-butoxide (a bulky base) is used instead of hydroxide, the **major product will shift to but-1-ene**. This is because *tert*-butoxide is a significantly bulkier base than hydroxide.  The bulky *tert*-butoxide experiences significant steric hindrance when trying to abstract a proton from the internal beta-carbon (the one leading to but-2-ene), due to the methyl and ethyl groups already present.
+
+The *tert*-butoxide will therefore preferentially abstract a proton from the *terminal* beta-carbon, which is less sterically hindered. This leads to the formation of **but-1-ene as the major product**. This is an example of **Hoffman elimination**, where the *less* substituted alkene is favored due to steric factors. The steric hindrance overrides Zaitsev's rule in this case.
+
+*Draw the mechanism for tert-butoxide, highlighting the steric clash near the internal carbons*
+
+**In Summary:**
+
+*   Alcoholic KOH favors but-2-ene (Zaitsev's rule initially).
+*   *tert*-Butoxide favors but-1-ene (Hoffman elimination due to steric hindrance).
+*   Both reactions proceed via an E2 mechanism.
+
+2.  **SN1 vs SN2 Analysis:** Consider the reaction of methyl bromide and *tert*-butyl bromide with aqueous NaOH. Compare and contrast the rates and mechanisms of these two reactions. Discuss the factors that contribute to the observed differences in reactivity, including steric hindrance and the stability of any intermediate carbocations that may form.
+Sample Answer:
+Okay, here's a sample answer for the given assignment question, suitable for CBSE class 11-12 students, based on the provided NCERT chapter content:
+
+**Answer:**
+
+The reaction of haloalkanes with aqueous NaOH is a nucleophilic substitution reaction. However, the rates and mechanisms differ significantly between methyl bromide (CH3Br) and *tert*-butyl bromide ((CH3)3CBr) due to steric hindrance and carbocation stability, leading to different reaction pathways: SN1 and SN2.
+
+**Methyl Bromide (CH3Br): SN2 Reaction**
+
+*   **Mechanism:** Methyl bromide primarily undergoes an SN2 (Substitution Nucleophilic Bimolecular) reaction. In this single-step mechanism, the hydroxide ion (OH-) acts as a nucleophile and attacks the carbon atom bonded to the bromine atom *from the backside*, simultaneously breaking the C-Br bond and forming a C-OH bond.
+*   **Rate:** The rate of the SN2 reaction depends on the concentration of both the haloalkane (methyl bromide) and the nucleophile (OH-). Rate = k[CH3Br][OH-].
+*   **Steric Hindrance:**  Methyl bromide experiences minimal steric hindrance. The carbon atom bonded to the bromine is readily accessible to the nucleophile because it's only surrounded by three small hydrogen atoms.
+*   **Carbocation Stability:** SN2 reactions do not involve the formation of a carbocation intermediate.
+*   **Overall:** The SN2 reaction is favored for methyl bromide because the carbon atom is easily accessible, and there are no bulky groups to impede the approach of the nucleophile. This leads to a relatively *fast* reaction.
+
+**Tert-Butyl Bromide ((CH3)3CBr): SN1 Reaction**
+
+*   **Mechanism:** *Tert*-butyl bromide primarily undergoes an SN1 (Substitution Nucleophilic Unimolecular) reaction. This mechanism proceeds in two steps:
+    1.  **Step 1 (Slow, Rate-Determining Step):** The C-Br bond breaks, forming a *tert*-butyl carbocation ((CH3)3C+) and a bromide ion (Br-). The rate of this step determines the overall rate of the reaction.
+    2.  **Step 2 (Fast):** The carbocation intermediate, which is *sp2* hybridized, is then rapidly attacked by the nucleophile (OH-), forming *tert*-butyl alcohol ((CH3)3COH).
+*   **Rate:** The rate of the SN1 reaction depends only on the concentration of the haloalkane (*tert*-butyl bromide). Rate = k[(CH3)3CBr]. The concentration of the nucleophile does not affect the rate because it is involved in the fast, second step.
+*   **Steric Hindrance:** *Tert*-butyl bromide experiences significant steric hindrance. The carbon atom bonded to the bromine is surrounded by three bulky methyl groups, which makes it difficult for the nucleophile to directly attack the carbon atom in a single step (as in SN2).
+*   **Carbocation Stability:** The *tert*-butyl carbocation is a tertiary carbocation, which is relatively stable due to the electron-donating effect of the three methyl groups (inductive effect and hyperconjugation). This stability favors the formation of the carbocation intermediate in the SN1 mechanism.
+*   **Overall:** The SN1 reaction is favored for *tert*-butyl bromide because the steric hindrance prevents SN2, and the tertiary carbocation intermediate is relatively stable.  The reaction rate is generally *slower* than the SN2 reaction of methyl bromide under the same conditions.
+
+**Comparison and Factors Contributing to Differences:**
+
+| Feature           | Methyl Bromide (CH3Br) | *tert*-Butyl Bromide ((CH3)3CBr) |
+|--------------------|-------------------------|------------------------------------|
+| Mechanism        | SN2                     | SN1                                |
+| Rate Law         | Rate = k[CH3Br][OH-]    | Rate = k[(CH3)3CBr]                |
+| Steric Hindrance | Minimal                | Significant                         |
+| Carbocation Stability | Not Applicable          | Tertiary carbocation (Stable)        |
+| Reactivity       | Faster                  | Slower                              |
+
+**In summary:** The observed difference in reactivity between methyl bromide and *tert*-butyl bromide with aqueous NaOH is primarily due to the interplay of steric hindrance and carbocation stability. Methyl bromide, with minimal steric hindrance, readily undergoes SN2. *Tert*-butyl bromide, due to significant steric hindrance and the stability of the *tert*-butyl carbocation, favors the SN1 mechanism.
+
+3.  **Grignard Application and Product Identification:** Show how you would use a Grignard reagent to synthesize 2-methylpentan-2-ol starting from appropriate haloalkanes and carbonyl compounds. Write out the reaction scheme clearly, identifying all reactants and intermediates. Also, what precaution should be taken in handling Grignard reagents and why?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student addressing the Grignard reagent synthesis problem.
+
+**Answer:**
+
+To synthesize 2-methylpentan-2-ol using a Grignard reagent, we need to react a Grignard reagent with an appropriate carbonyl compound (aldehyde or ketone). Since the target molecule is a tertiary alcohol, we should aim for a ketone as the carbonyl compound.
+
+Here's the proposed reaction scheme:
+
+**Step 1: Formation of the Grignard Reagent**
+
+We will use 1-bromopropane to form our Grignard reagent. This is reacted with magnesium metal in dry ether (diethyl ether) as a solvent:
+
+CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br  + Mg  →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>MgBr
+(1-bromopropane)        (Propylmagnesium bromide - Grignard Reagent)
+
+*Explanation:* The magnesium metal inserts itself between the carbon and bromine atom of 1-bromopropane, forming propylmagnesium bromide, our Grignard reagent. It's crucial to use dry ether as a solvent because Grignard reagents are highly reactive with water.
+
+**Step 2: Reaction with the Carbonyl Compound**
+
+The Grignard reagent will react with propan-2-one (acetone) :
+
+CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>MgBr + CH<sub>3</sub>COCH<sub>3</sub>  →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OMgBr)(CH<sub>3</sub>)<sub>2</sub>
+(Propylmagnesium bromide)  (Propan-2-one)        (Intermediate Adduct)
+
+*Explanation:* The nucleophilic carbon of the Grignard reagent attacks the electrophilic carbonyl carbon of the propan-2-one. This forms an addition product (an intermediate) where the magnesium is now coordinated with the oxygen from the carbonyl group.
+
+**Step 3: Hydrolysis**
+
+The intermediate adduct is then hydrolyzed with dilute acid (e.g., H<sub>3</sub>O<sup>+</sup> or dilute HCl):
+
+CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OMgBr)(CH<sub>3</sub>)<sub>2</sub> + H<sub>3</sub>O<sup>+</sup> →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OH)(CH<sub>3</sub>)<sub>2</sub>  + MgBr(OH)
+(Intermediate Adduct)                      (2-methylpentan-2-ol)
+
+*Explanation:* The addition of dilute acid (hydrolysis) protonates the oxygen, converting the *OMgBr* group into a hydroxyl (*OH*) group.  This gives us our desired product: 2-methylpentan-2-ol.
+
+**Overall Reaction Scheme:**
+
+1.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br  + Mg  →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>MgBr  (in dry ether)
+2.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>MgBr + CH<sub>3</sub>COCH<sub>3</sub>  →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OMgBr)(CH<sub>3</sub>)<sub>2</sub>
+3.  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OMgBr)(CH<sub>3</sub>)<sub>2</sub> + H<sub>3</sub>O<sup>+</sup> →  CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>-C(OH)(CH<sub>3</sub>)<sub>2</sub>  + MgBr(OH)
+
+**Precautions in Handling Grignard Reagents:**
+
+Grignard reagents are *extremely* sensitive to protic solvents like water, alcohols, and carboxylic acids.
+
+*   **Why?** The carbon-magnesium bond in the Grignard reagent is highly polarized, making the carbon atom very nucleophilic and carbanion-like. This carbon will readily abstract a proton from any protic source. For example, if water is present:
+
+    R-MgX + H<sub>2</sub>O  →  R-H  + MgX(OH)
+
+    This reaction destroys the Grignard reagent, converting it into an alkane (R-H) and magnesium hydroxide halide (MgX(OH)).  This also means the Grignard reagent will be wasted rather than react with the desired carbonyl compound.
+*   **Precautions:**
+    *   All glassware must be completely dry before use.
+    *   The solvent (usually diethyl ether or THF) must be anhydrous (water-free).
+    *   Reactions are typically carried out under an inert atmosphere (nitrogen or argon) to exclude moisture from the air.
+    *   Avoid using any reactants or solvents that contain acidic protons (e.g., alcohols, carboxylic acids).
+
+In summary, Grignard reactions are powerful tools for forming carbon-carbon bonds, but careful attention must be paid to anhydrous conditions to prevent decomposition of the Grignard reagent.

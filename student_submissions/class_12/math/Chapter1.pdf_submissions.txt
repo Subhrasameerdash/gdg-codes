@@ -1,0 +1,158 @@
+1.  **Equivalence Relation Construction:** Given a set A = {a, b, c, d}, construct a relation R on A that is an equivalence relation such that 'a' is related to 'b', but 'c' is not related to 'd'. Explain why the relation you constructed satisfies the properties of an equivalence relation (reflexivity, symmetry, and transitivity) and why it fulfills the given constraints.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+Let A = {a, b, c, d}.  We need to construct an equivalence relation R on A such that (a, b) ∈ R, but (c, d) ∉ R.
+
+One possible equivalence relation that satisfies these conditions is:
+
+R = {(a, a), (b, b), (c, c), (d, d), (a, b), (b, a)}
+
+**Explanation:**
+
+To be an equivalence relation, R must be reflexive, symmetric, and transitive. Let's examine each property:
+
+*   **Reflexivity:**  For R to be reflexive, (x, x) must be in R for all x ∈ A.  In our case, we have (a, a), (b, b), (c, c), and (d, d) all in R. Therefore, R is reflexive.
+
+*   **Symmetry:** For R to be symmetric, if (x, y) ∈ R, then (y, x) must also be in R. We have (a, b) ∈ R and (b, a) ∈ R. Also, (a, a), (b, b), (c, c), and (d, d) are in R, so their symmetry is automatically satisfied.  Therefore, R is symmetric.
+
+*   **Transitivity:** For R to be transitive, if (x, y) ∈ R and (y, z) ∈ R, then (x, z) must be in R. Let's check the possible cases:
+    *   (a, b) ∈ R and (b, a) ∈ R, then (a, a) must be in R, which it is.
+    *   (b, a) ∈ R and (a, b) ∈ R, then (b, b) must be in R, which it is.
+    *  The pairs (a,a), (b,b), (c,c), and (d,d) trivially satisfy transitivity.
+
+    Therefore, R is transitive.
+
+**Fulfillment of Constraints:**
+
+*   **(a, b) ∈ R:**  The relation R explicitly includes the ordered pair (a, b), fulfilling the first constraint.
+*   **(c, d) ∉ R:** The relation R *does not* contain the ordered pair (c, d), fulfilling the second constraint.
+
+**Conclusion:**
+
+The relation R = {(a, a), (b, b), (c, c), (d, d), (a, b), (b, a)} is an equivalence relation on the set A = {a, b, c, d} because it satisfies the properties of reflexivity, symmetry, and transitivity.  Furthermore, it meets the specified conditions that (a, b) is in R while (c, d) is not. The relation essentially groups 'a' and 'b' into one equivalence class, while 'c' and 'd' each remain in their own separate equivalence classes.
+
+2.  **Function Properties and Composition:** Define two functions, f: N -> N and g: N -> N (where N is the set of natural numbers). Function 'f' should be injective but not surjective, and function 'g' should be surjective but not injective. Determine the composition functions (g o f)(x) and (f o g)(x). Is either composite function injective or surjective? Justify your answer with appropriate examples.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student based on the provided NCERT chapter content, addressing the assignment question about function properties and composition:
+
+**Answer:**
+
+Let's define two functions, `f: N -> N` and `g: N -> N`, where `N` represents the set of natural numbers (1, 2, 3, ...).
+
+**1. Defining f (Injective but not Surjective):**
+
+Let `f(x) = 2x` for all `x ∈ N`.
+
+*   **Injective (One-to-one):**  To show that `f` is injective, assume `f(x1) = f(x2)` for some `x1, x2 ∈ N`. This means `2x1 = 2x2`. Dividing both sides by 2, we get `x1 = x2`.  Therefore, `f` is injective because distinct elements in the domain map to distinct elements in the codomain.
+
+*   **Not Surjective (Not Onto):** To show that `f` is not surjective, we need to find an element in the codomain (N) that is not the image of any element in the domain (N). Consider the number `3 ∈ N`.  There is no natural number `x` such that `f(x) = 2x = 3`.  Because 3 is not in the image of f, f is not surjective. In general, any odd number will not be in the image of f.
+
+**2. Defining g (Surjective but not Injective):**
+
+Let `g: N -> N` be defined as follows:
+
+```
+g(x) =  1, if x = 1 or x = 2
+        x - 1, if x > 2
+```
+
+*   **Surjective (Onto):** To show that `g` is surjective, we need to show that for every `y ∈ N`, there exists an `x ∈ N` such that `g(x) = y`.
+
+    *   If `y = 1`, then `g(1) = 1` (or `g(2) = 1`), so `y` is in the range.
+    *   If `y > 1`, then let `x = y + 1`. Then `g(x) = g(y + 1) = (y + 1) - 1 = y`.
+
+    Thus, for every `y ∈ N`, we can find an `x ∈ N` such that `g(x) = y`. Therefore, `g` is surjective.
+
+*   **Not Injective (Not One-to-one):**  `g` is not injective because `g(1) = 1` and `g(2) = 1`.  We have two distinct elements in the domain (1 and 2) mapping to the same element in the codomain (1).  Therefore, `g` is not injective.
+
+**3. Composition Functions:**
+
+*   **(g o f)(x) = g(f(x)) = g(2x)**
+
+    Since `2x` will always be greater than 2 for x in N, then:
+    `g(2x) = 2x - 1` for all `x ∈ N`.
+    Therefore, `(g o f)(x) = 2x - 1`
+
+*   **(f o g)(x) = f(g(x))**
+
+    We need to consider the two cases in the definition of `g(x)`:
+
+    *   If `x = 1` or `x = 2`, then `g(x) = 1`, so `f(g(x)) = f(1) = 2(1) = 2`.
+    *   If `x > 2`, then `g(x) = x - 1`, so `f(g(x)) = f(x - 1) = 2(x - 1) = 2x - 2`.
+
+    Therefore,
+
+    ```
+    (f o g)(x) =  2, if x = 1 or x = 2
+                  2x - 2, if x > 2
+    ```
+
+**4. Injectivity and Surjectivity of Composite Functions:**
+
+*   **(g o f)(x) = 2x - 1:**
+
+    *   **Injective:** Let `(g o f)(x1) = (g o f)(x2)`.  Then `2x1 - 1 = 2x2 - 1`.  Adding 1 to both sides gives `2x1 = 2x2`, and dividing by 2 gives `x1 = x2`. Therefore, `g o f` is injective.
+
+    *   **Not Surjective:** Consider `2 ∈ N`. Is there an `x` such that `2x - 1 = 2`?  Solving for `x`, we get `2x = 3`, so `x = 3/2`, which is not a natural number. Thus, `g o f` is not surjective.
+
+*   **(f o g)(x):**
+
+    *   **Not Injective:** `(f o g)(1) = 2` and `(f o g)(2) = 2`.  Thus, `f o g` is not injective.
+
+    *   **Not Surjective:** The image of `f o g` will only contain even numbers, or the number 2. Thus `f o g` is not surjective. The number 1 is not in the range of `f o g`.
+
+**Conclusion:**
+
+*   `f` is injective but not surjective.
+*   `g` is surjective but not injective.
+*   `(g o f)(x) = 2x - 1` is injective but not surjective.
+*   `(f o g)(x)` is neither injective nor surjective.
+
+3.  **Invertibility and Conditions:** A function h: A -> B is defined as h(x) = x^2 + k, where A and B are subsets of real numbers. Determine the smallest possible set A containing the element x=2, and the corresponding set B such that *h* is bijective. Find the value of 'k' for which the inverse of h exists, and explicitly define h^-1(x).
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content.
+
+**Answer:**
+
+To determine the smallest possible set A and corresponding set B such that h(x) = x^2 + k is bijective, and to find the value of 'k' and the inverse function, we need to consider the properties of bijective functions (one-to-one and onto).
+
+**1. Ensuring Injectivity (One-to-One):**
+
+The function h(x) = x^2 + k, by itself, is not one-to-one over the entire set of real numbers because h(x) = h(-x).  To make it one-to-one, we need to restrict the domain. Since we are given that A must contain x=2, a convenient restriction is to consider only non-negative real numbers.  This is because for x ≥ 0,  x^2 is strictly increasing.
+
+Therefore, let's define A as A = [0, ∞). This ensures that h(x) is one-to-one on A and contains x = 2.
+
+**2. Ensuring Surjectivity (Onto):**
+
+For h(x) to be onto, every element in the codomain B must have a pre-image in A. Since A = [0, ∞) and h(x) = x^2 + k, the range of h(x) will be [k, ∞).  Therefore, to make h onto, we must define B as B = [k, ∞).
+
+**3. Determining the Value of k for the Inverse to Exist:**
+
+For the inverse to exist, the function must be bijective. We have made h one-to-one by restricting the domain to A=[0, ∞).
+
+**4. Finding the Inverse Function, h<sup>-1</sup>(x):**
+
+Since h: [0, ∞) -> [k, ∞)  is bijective, we can find its inverse.  Let y = h(x) = x^2 + k.  To find the inverse, we solve for x in terms of y:
+
+y = x^2 + k
+y - k = x^2
+
+Since x is in [0, ∞), we take the positive square root:
+
+x = √(y - k)
+
+Therefore, the inverse function is h<sup>-1</sup>(y) = √(y - k).  Replacing y with x to express it in terms of x, we have:
+
+h<sup>-1</sup>(x) = √(x - k)
+
+The domain of h<sup>-1</sup>(x) is [k, ∞), which is the range of h(x), and the range of h<sup>-1</sup>(x) is [0, ∞), which is the domain of h(x). This confirms our choice of A and B.
+
+**Conclusion:**
+
+*   The smallest possible set A containing x=2 such that h is bijective is A = [0, ∞).
+*   The corresponding set B is B = [k, ∞).
+*   The value of k can be any real number, but to define the range B=[k, ∞), k must be a real number
+*   The inverse function is h<sup>-1</sup>(x) = √(x - k).

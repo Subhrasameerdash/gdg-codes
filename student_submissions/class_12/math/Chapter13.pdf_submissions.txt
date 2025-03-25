@@ -1,0 +1,181 @@
+1.  **A biased coin, where the probability of getting heads is twice the probability of getting tails, is tossed. If the result is heads, a ball is drawn from Bag A, which contains 3 red and 5 black balls. If the result is tails, a ball is drawn from Bag B, which contains 7 red and 1 black ball. If a red ball is drawn, what is the probability that the coin toss resulted in heads?** (This question tests Bayes' Theorem and understanding of conditional probability combined with a prior probability.)
+Sample Answer:
+Okay, here's a sample answer to the provided assignment question, tailored for a CBSE Class 11-12 student and based on the NCERT content.
+
+**Answer:**
+
+Let's break down this problem step-by-step using Bayes' Theorem and conditional probability.
+
+**1. Define the Events:**
+
+*   **H:** The event that the coin toss results in heads.
+*   **T:** The event that the coin toss results in tails.
+*   **R:** The event that a red ball is drawn.
+
+**2. Determine the Prior Probabilities:**
+
+We are given that the probability of getting heads is twice the probability of getting tails.  Therefore:
+
+*   P(H) = 2 * P(T)
+
+Since H and T are the only possible outcomes of the coin toss, we know:
+
+*   P(H) + P(T) = 1
+
+Substituting P(H) = 2 * P(T) into the equation:
+
+*   2 * P(T) + P(T) = 1
+*   3 * P(T) = 1
+*   P(T) = 1/3
+*   P(H) = 2 * (1/3) = 2/3
+
+So, P(H) = 2/3 and P(T) = 1/3.
+
+**3. Determine the Conditional Probabilities:**
+
+We need to find the probability of drawing a red ball *given* that we selected from Bag A (heads) or Bag B (tails).
+
+*   P(R|H): Probability of drawing a red ball, given heads was tossed (Bag A was chosen). Bag A contains 3 red and 5 black balls, so there are 8 balls in total.
+
+    *   P(R|H) = 3/8
+
+*   P(R|T): Probability of drawing a red ball, given tails was tossed (Bag B was chosen). Bag B contains 7 red and 1 black ball, so there are 8 balls in total.
+
+    *   P(R|T) = 7/8
+
+**4. State what we need to find:**
+
+We want to find P(H|R):  The probability that heads was tossed, *given* that a red ball was drawn.
+
+**5. Apply Bayes' Theorem:**
+
+Bayes' Theorem states:
+
+P(H|R) = [P(R|H) * P(H)] / P(R)
+
+We have P(R|H) and P(H), but we need to find P(R). We can find P(R) using the law of total probability:
+
+P(R) = P(R|H) * P(H) + P(R|T) * P(T)
+
+Substituting the values we found:
+
+P(R) = (3/8) * (2/3) + (7/8) * (1/3)
+P(R) = (6/24) + (7/24)
+P(R) = 13/24
+
+**6. Substitute back into Bayes' Theorem:**
+
+P(H|R) = [(3/8) * (2/3)] / (13/24)
+P(H|R) = (6/24) / (13/24)
+P(H|R) = (6/24) * (24/13)
+P(H|R) = 6/13
+
+**Therefore, the probability that the coin toss resulted in heads, given that a red ball was drawn, is 6/13.**
+
+**Explanation for understanding:**
+
+*   **Prior Probability:**  The probabilities P(H) and P(T) are called *prior probabilities* because they represent our belief about the coin toss *before* we know anything about the ball that was drawn.
+*   **Conditional Probability:** The probabilities P(R|H) and P(R|T) are conditional probabilities because they depend on whether heads or tails was tossed.
+*   **Posterior Probability:** The probability P(H|R) is called a *posterior probability* because it represents our updated belief about the coin toss *after* we know that a red ball was drawn.  Bayes' Theorem allows us to update our prior belief based on new evidence.
+*   **Total Probability:** Calculating P(R) using the Law of Total Probability ensures that we are considering all the ways the event 'R' (drawing a red ball) can occur. It helps in normalizing the probabilities within Bayes' Theorem.
+
+2.  **Two events, X and Y, are associated with a random experiment. Given that P(X) = 0.5, determine the value of P(Y) if X and Y are independent and P(X∪Y) = 0.8.** (This question tests the understanding of independence, union of events, and how to apply the formula P(X∪Y) = P(X) + P(Y) - P(X∩Y).)
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the NCERT chapter content provided and your assignment question.
+
+**Answer:**
+
+**Understanding the Concepts**
+
+Before we solve the problem, let's recap the key concepts involved:
+
+*   **Independent Events:** Two events, X and Y, are independent if the occurrence of one does not affect the probability of the other. Mathematically, this means P(X∩Y) = P(X) * P(Y).
+*   **Union of Events:** The union of two events, denoted by X∪Y, is the event that either X occurs, Y occurs, or both occur.
+*   **Probability of Union:** The probability of the union of two events is given by the formula: P(X∪Y) = P(X) + P(Y) - P(X∩Y).
+
+**Solving the Problem**
+
+We are given:
+
+*   P(X) = 0.5
+*   P(X∪Y) = 0.8
+*   X and Y are independent events.
+
+Our goal is to find P(Y).
+
+Here's how we can solve it step-by-step:
+
+1.  **Use the formula for the union of events:**
+
+    P(X∪Y) = P(X) + P(Y) - P(X∩Y)
+
+2.  **Since X and Y are independent, we can substitute P(X∩Y) with P(X) * P(Y):**
+
+    P(X∪Y) = P(X) + P(Y) - [P(X) * P(Y)]
+
+3.  **Now, plug in the given values:**
+
+    0.  8 = 0.5 + P(Y) - [0.5 * P(Y)]
+
+4.  **Simplify the equation:**
+
+    0.  8 = 0.5 + P(Y) - 0.5P(Y)
+    0.  8 - 0.5 = 0.5P(Y)
+    0.  3 = 0.5P(Y)
+
+5.  **Solve for P(Y):**
+
+    P(Y) = 0.3 / 0.5
+    P(Y) = 0.6
+
+**Therefore, the value of P(Y) is 0.6.**
+
+**Final Answer:** P(Y) = 0.6
+
+3.  **A quality control inspector selects two items at random, *without replacement*, from a batch of 20 items, of which 5 are defective. Let A be the event that the first item selected is defective and B be the event that the second item selected is defective. Are events A and B independent? Justify your answer using probability calculations.** (This question examines the concept of independence when sampling without replacement and requires students to show their work to explain why the events are or aren't independent.)
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student, based on the NCERT chapter summary provided, and addressing the question of independence with sampling without replacement.
+
+**Answer:**
+
+To determine if events A and B are independent, we need to check if P(A ∩ B) = P(A) * P(B).  If this condition holds true, then the events are independent. Otherwise, they are dependent.
+
+*   **Calculate P(A):**
+
+    P(A) is the probability that the first item selected is defective. There are 5 defective items out of a total of 20. Therefore:
+
+    P(A) = 5/20 = 1/4
+
+*   **Calculate P(B|A):**
+
+    P(B|A) is the probability that the second item is defective *given that* the first item selected was defective. After selecting one defective item, there are now 4 defective items left, and a total of 19 items remaining. Therefore:
+
+    P(B|A) = 4/19
+
+*   **Calculate P(A ∩ B):**
+
+    P(A ∩ B) is the probability that both the first and second items selected are defective. This is calculated as:
+
+    P(A ∩ B) = P(A) * P(B|A) = (1/4) * (4/19) = 1/19
+
+*   **Calculate P(B):**
+
+    P(B) is the probability that the second item selected is defective.
+    We can consider two scenarios:
+        * The first item drawn is defective (A): P(A) = 5/20 and P(B|A) = 4/19
+        * The first item drawn is NOT defective (A'): P(A') = 15/20 and P(B|A') = 5/19
+
+    Therefore, P(B) = P(A) * P(B|A) + P(A') * P(B|A')
+    P(B) = (5/20) * (4/19) + (15/20) * (5/19) = 20/380 + 75/380 = 95/380 = 1/4
+
+*   **Check for Independence:**
+
+    Now, let's check if P(A ∩ B) = P(A) * P(B):
+
+    P(A) * P(B) = (1/4) * (1/4) = 1/16
+
+    Since P(A ∩ B) = 1/19 and P(A) * P(B) = 1/16, P(A ∩ B) ≠ P(A) * P(B)
+
+**Conclusion:**
+
+Because P(A ∩ B) is not equal to P(A) * P(B), the events A and B are **not independent**. They are dependent events.  The outcome of the first selection *does* affect the probability of the outcome of the second selection because we are sampling without replacement.

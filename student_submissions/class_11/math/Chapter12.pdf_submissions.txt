@@ -1,0 +1,134 @@
+1.  Explain, using a specific example, why the existence of a limit of a function at a point does not necessarily imply the function is defined at that point. Furthermore, describe a scenario where the limit exists but the function is discontinuous.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content.
+
+**Answer:**
+
+The existence of a limit of a function *f(x)* as *x* approaches a point *a* means that the values of *f(x)* get arbitrarily close to a specific value *L* as *x* gets arbitrarily close to *a*, *without necessarily requiring f(a)* to be defined or equal to *L*.
+
+**Example:**
+
+Consider the function:
+
+f(x) = (x^2 - 4) / (x - 2)  for x ≠ 2
+
+and f(x) is undefined at x=2
+
+Notice that *f(2)* is undefined because it would result in division by zero.  However, we can find the limit of *f(x)* as *x* approaches 2:
+
+lim (x→2) (x^2 - 4) / (x - 2) = lim (x→2) (x - 2)(x + 2) / (x - 2) = lim (x→2) (x + 2) = 2 + 2 = 4
+
+So, lim (x→2) f(x) = 4, even though *f(2)* is undefined.  This demonstrates that the limit can exist even if the function is not defined at that particular point.
+
+**Scenario with a Limit and Discontinuity:**
+
+Now, let's describe a scenario where the limit exists, but the function is discontinuous:
+
+Consider a function g(x) defined as follows:
+
+g(x) = (x^2 - 4) / (x - 2)  for x ≠ 2
+g(2) = 1
+
+From our previous example, we know that lim (x→2) g(x) = 4.  However, *g(2) = 1*.  Since the limit as *x* approaches 2 (which is 4) is *not equal* to the value of the function at 2 (which is 1), the function *g(x)* is discontinuous at *x = 2*.
+
+**In Summary:**
+
+The example illustrates that the limit describes the behavior of the function *near* a point, not necessarily *at* the point.  The discontinuity arises because, even though the limit exists, the function value at that point is different from the limit.  Therefore, a limit existing at a point does not guarantee that the function is defined at that point, nor does it guarantee that the function is continuous at that point.
+
+2.  Suppose you are given two differentiable functions, f(x) and g(x), and a constant 'c'. Using only the definition of the derivative and the algebra of limits, prove the product rule:  d/dx [f(x)g(x)] = f'(x)g(x) + f(x)g'(x).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+To prove the product rule, d/dx [f(x)g(x)] = f'(x)g(x) + f(x)g'(x), we will use the definition of the derivative and the algebra of limits.
+
+Recall the definition of the derivative:
+
+f'(x) = lim (h→0) [f(x + h) - f(x)] / h
+
+Now, let's find the derivative of the product f(x)g(x) using this definition:
+
+d/dx [f(x)g(x)] = lim (h→0) [f(x + h)g(x + h) - f(x)g(x)] / h
+
+Our goal is to manipulate this expression to get it in terms of f'(x) and g'(x).  To do this, we'll add and subtract a strategically chosen term in the numerator:  f(x + h)g(x). This allows us to separate the expression into manageable parts.
+
+d/dx [f(x)g(x)] = lim (h→0) [f(x + h)g(x + h) - f(x + h)g(x) + f(x + h)g(x) - f(x)g(x)] / h
+
+Now, we can rearrange the terms and factor:
+
+d/dx [f(x)g(x)] = lim (h→0) [f(x + h){g(x + h) - g(x)} + g(x){f(x + h) - f(x)}] / h
+
+Next, we split the limit using the limit laws (specifically, the limit of a sum is the sum of the limits, and the limit of a product is the product of the limits, assuming the individual limits exist):
+
+d/dx [f(x)g(x)] = lim (h→0) [f(x + h){g(x + h) - g(x)} / h] + lim (h→0) [g(x){f(x + h) - f(x)} / h]
+
+d/dx [f(x)g(x)] = lim (h→0) f(x + h) * lim (h→0) [g(x + h) - g(x)] / h  +  lim (h→0) g(x) * lim (h→0) [f(x + h) - f(x)] / h
+
+Now, we recognize the limits that define f'(x) and g'(x):
+
+*   lim (h→0) [f(x + h) - f(x)] / h = f'(x)
+*   lim (h→0) [g(x + h) - g(x)] / h = g'(x)
+
+Also, since f(x) is differentiable, it is continuous.  Therefore, as h approaches 0, f(x + h) approaches f(x):
+
+*   lim (h→0) f(x + h) = f(x)
+
+Finally, g(x) does not depend on h, so
+
+*   lim (h→0) g(x) = g(x)
+
+Substituting these limits back into our equation, we get:
+
+d/dx [f(x)g(x)] = f(x) * g'(x) + g(x) * f'(x)
+
+Therefore,
+
+d/dx [f(x)g(x)] = f'(x)g(x) + f(x)g'(x)
+
+This completes the proof of the product rule.
+
+**Explanation of Key Steps:**
+
+*   **Starting with the Definition:** The solution starts with the fundamental definition of the derivative. This grounds the proof in first principles.
+*   **Adding and Subtracting a Term:** The step of adding and subtracting `f(x + h)g(x)` is crucial. It allows the separation of the original expression into terms that resemble the definitions of f'(x) and g'(x).  This is a common technique in calculus proofs.
+*   **Using Limit Laws:** The solution explicitly uses the limit laws (sum and product rules for limits) to break down the complex limit into simpler ones. This is important for justifying each step.
+*   **Recognizing Derivatives:** The solution clearly identifies the limits that correspond to f'(x) and g'(x).
+*   **Using Continuity:** Since differentiability implies continuity, the solution uses the fact that lim (h→0) f(x + h) = f(x) to simplify the expression. This step needs to be explicitly stated.
+*   **Clear Conclusion:** The final result is clearly stated, concluding the proof.
+
+3.  Consider the function f(x) = |x|. While this function is continuous everywhere, it is not differentiable at x=0. Using the first principle of derivatives, demonstrate why f'(0) does not exist. What does this imply about the relationship between continuity and differentiability?
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the given question using the provided NCERT chapter content:
+
+**Answer:**
+
+Let's analyze the function f(x) = |x| using the first principle of derivatives to understand why it's not differentiable at x = 0. The first principle defines the derivative as:
+
+f'(x) = lim (h->0) [f(x + h) - f(x)] / h
+
+To find f'(0), we substitute x = 0:
+
+f'(0) = lim (h->0) [f(0 + h) - f(0)] / h  =  lim (h->0) [|h| - |0|] / h = lim (h->0) |h| / h
+
+Now, we need to consider the limit from both the left and the right:
+
+*   **Right-hand limit (h -> 0+):**  As 'h' approaches 0 from the positive side, |h| = h.  Therefore:
+
+    lim (h->0+) |h| / h = lim (h->0+) h / h = lim (h->0+) 1 = 1
+
+*   **Left-hand limit (h -> 0-):** As 'h' approaches 0 from the negative side, |h| = -h. Therefore:
+
+    lim (h->0-) |h| / h = lim (h->0-) -h / h = lim (h->0-) -1 = -1
+
+Since the right-hand limit (1) and the left-hand limit (-1) are not equal, the limit  lim (h->0) |h| / h does not exist.
+
+Therefore, f'(0) does not exist for f(x) = |x|.
+
+**Implication on Continuity and Differentiability:**
+
+The fact that f(x) = |x| is continuous at x = 0 but not differentiable there illustrates an important point:
+
+*   **Differentiability implies continuity, but continuity does not imply differentiability.**
+
+In other words, if a function is differentiable at a point, it *must* be continuous at that point. However, a function can be continuous at a point without being differentiable there. f(x) = |x| at x=0 is a classic example. The "sharp corner" or "cusp" in the graph of |x| at x = 0 visually represents this non-differentiability.  The function changes direction abruptly, meaning the slope (derivative) is undefined at that precise point.  For a function to be differentiable, it needs to be "smooth" at that point (no sharp turns or vertical tangents).

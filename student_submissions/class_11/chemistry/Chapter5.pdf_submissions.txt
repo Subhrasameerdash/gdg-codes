@@ -1,0 +1,121 @@
+1.  **Conceptual Understanding of Spontaneity:** Explain, in your own words, why a process with a negative enthalpy change (ΔH < 0) is not always spontaneous. Use the concepts of entropy and Gibbs Free Energy to support your explanation. Provide a real-world example to illustrate your point.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, designed for a CBSE Class 11-12 student:
+
+**Answer:**
+
+A negative enthalpy change (ΔH < 0), which indicates an exothermic reaction releasing heat, favors spontaneity, but it doesn't guarantee it. This is because spontaneity is governed by the Gibbs Free Energy (ΔG), which takes both enthalpy (ΔH) and entropy (ΔS) into account. The relationship is defined by the equation:
+
+**ΔG = ΔH - TΔS**
+
+Where:
+
+*   ΔG is the Gibbs Free Energy change
+*   ΔH is the enthalpy change
+*   T is the temperature in Kelvin
+*   ΔS is the entropy change
+
+For a process to be spontaneous, ΔG must be negative. While a negative ΔH contributes to a negative ΔG, the entropy term (-TΔS) can counteract this effect.
+
+**Explanation:**
+
+*   **Entropy (ΔS):** Entropy is a measure of disorder or randomness in a system.  A positive ΔS indicates an increase in disorder, which favors spontaneity. A negative ΔS indicates a decrease in disorder, which opposes spontaneity.
+*   **The -TΔS Term:** The entropy change is multiplied by the temperature (T) and then subtracted from ΔH. This means:
+    *   If ΔS is positive, -TΔS is negative, which helps make ΔG negative and favors spontaneity.
+    *   If ΔS is negative, -TΔS is positive, which can make ΔG positive, even if ΔH is negative, thus hindering spontaneity.
+*   **Temperature Dependence:** The temperature (T) plays a crucial role. At high temperatures, the -TΔS term becomes more significant. Therefore, even if a reaction has a favorable (negative) ΔH, it might become non-spontaneous at high temperatures if ΔS is sufficiently negative. Conversely, a reaction with an unfavorable (positive) ΔH might become spontaneous at high temperatures if ΔS is sufficiently positive.
+
+**Real-World Example:**
+
+Consider the melting of ice:
+
+H2O(s)  -> H2O(l)
+
+*   **ΔH:** Melting ice is an endothermic process; it requires energy input to break the hydrogen bonds holding the water molecules in the solid ice structure. Therefore, ΔH is positive.
+*   **ΔS:** When ice melts, the water molecules gain more freedom of movement, increasing the disorder. Therefore, ΔS is positive.
+
+At temperatures *below* 0°C (273.15 K), the positive ΔH dominates, and ΔG is positive. This means melting is non-spontaneous; ice remains frozen.
+
+At temperatures *above* 0°C (273.15 K), the TΔS term becomes large enough to overcome the positive ΔH, making ΔG negative.  Therefore, melting is spontaneous, and ice melts.
+
+This example demonstrates that even though melting ice requires energy input (positive ΔH), it occurs spontaneously at higher temperatures because of the significant increase in entropy (positive ΔS) associated with the phase change. The temperature determines whether the enthalpy or entropy term is dominant in determining the sign of ΔG and, therefore, the spontaneity of the process.
+
+2.  **Applying Hess's Law:** Given the following thermochemical equations:
+Sample Answer:
+Okay, here's a sample answer for the Hess's Law question, suitable for CBSE Class 11-12 students:
+
+**Question:**
+
+2. **Applying Hess's Law:** Given the following thermochemical equations:
+
+   A(s) + B(g) --> C(g)     ΔH1 = -100 kJ
+   C(g) --> D(s) + E(g)     ΔH2 = +50 kJ
+
+   Calculate the enthalpy change (ΔH) for the reaction:
+
+   A(s) + B(g) --> D(s) + E(g)
+
+**Answer:**
+
+To determine the enthalpy change (ΔH) for the reaction A(s) + B(g) --> D(s) + E(g), we can apply Hess's Law. Hess's Law states that the enthalpy change for a reaction is independent of the path taken and depends only on the initial and final states.  This means we can manipulate the given thermochemical equations to arrive at the desired equation and then sum their enthalpy changes to find the overall ΔH.
+
+Here's how we can solve this problem:
+
+1.  **Identify the target equation:**  We want to find the ΔH for:
+
+    A(s) + B(g) --> D(s) + E(g)
+
+2.  **Manipulate the given equations:**
+
+    *   **Equation 1:** A(s) + B(g) --> C(g)     ΔH1 = -100 kJ  (We can use this equation as is because A(s) and B(g) are on the reactant side, as in our target equation)
+
+    *   **Equation 2:** C(g) --> D(s) + E(g)     ΔH2 = +50 kJ  (We can use this equation as is because D(s) and E(g) are on the product side, as in our target equation)
+
+3.  **Add the equations:** Now, add the two manipulated equations together. Notice that C(g) appears as a product in the first equation and as a reactant in the second.  This means it will cancel out when we add the equations:
+
+    A(s) + B(g) --> C(g)     ΔH1 = -100 kJ
+    C(g) --> D(s) + E(g)     ΔH2 = +50 kJ
+    ----------------------------------------------------
+    A(s) + B(g) --> D(s) + E(g)
+
+4.  **Calculate the overall ΔH:**  Since we simply added the equations, we add their enthalpy changes:
+
+    ΔH = ΔH1 + ΔH2
+    ΔH = -100 kJ + 50 kJ
+    ΔH = -50 kJ
+
+**Conclusion:**
+
+The enthalpy change (ΔH) for the reaction A(s) + B(g) --> D(s) + E(g) is -50 kJ.  This indicates that the reaction is exothermic.
+
+3.  **Relating Thermodynamic Properties to Equilibrium:** A reaction is at equilibrium under standard conditions at a specific temperature. If, at this temperature, the change in enthalpy (ΔH°) for the reaction is positive, what can you infer about the change in entropy (ΔS°) for this reaction? Explain your reasoning using the relationship between ΔG°, ΔH°, ΔS°, and the equilibrium state.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student:
+
+**Answer:**
+
+When a reaction is at equilibrium, the change in Gibbs Free Energy (ΔG°) is equal to zero.  The relationship between Gibbs Free Energy, enthalpy, and entropy is given by the equation:
+
+ΔG° = ΔH° - TΔS°
+
+Where:
+
+*   ΔG° = Change in Gibbs Free Energy under standard conditions
+*   ΔH° = Change in Enthalpy under standard conditions
+*   T = Temperature (in Kelvin)
+*   ΔS° = Change in Entropy under standard conditions
+
+At equilibrium, ΔG° = 0. Therefore, the equation becomes:
+
+0 = ΔH° - TΔS°
+
+We can rearrange this to solve for ΔS°:
+
+TΔS° = ΔH°
+ΔS° = ΔH° / T
+
+The question states that ΔH° is positive. Since temperature (T) is always a positive value (in Kelvin), if ΔH° is positive, then ΔS° must also be positive.
+
+**Explanation:**
+
+For a reaction to be at equilibrium, the driving force towards product formation (related to enthalpy) must be balanced by the driving force towards disorder (related to entropy). If ΔH° is positive, this means the reaction is endothermic and disfavored in terms of enthalpy (it requires energy input). To compensate for this unfavorable enthalpy change and still achieve equilibrium, the entropy change (ΔS°) must be positive and large enough to make the TΔS° term equal to ΔH°. A positive ΔS° indicates that the reaction leads to an increase in disorder or randomness, which favors the formation of products and counteracts the unfavorable enthalpy change, resulting in equilibrium. In simpler words, the increase in entropy must "offset" the energy needed for the reaction. Therefore, at equilibrium with a positive ΔH°, ΔS° must be positive.

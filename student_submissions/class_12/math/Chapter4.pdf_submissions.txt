@@ -1,0 +1,183 @@
+1.  **Geometric Interpretation & Linear Dependence:** Three points in a plane, A(x, y), B(1, 2) and C(7, 5) are collinear. Use the concept of determinants to derive a relationship between x and y. Explain how the determinant relates to the area of the triangle formed by these points, and how this explains the condition for collinearity.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content on determinants:
+
+**Answer:**
+
+**1. Collinearity and Determinants:**
+
+Three points A(x, y), B(1, 2), and C(7, 5) are collinear if they lie on the same straight line. Geometrically, this means the area of the triangle formed by these three points must be zero. We can use determinants to express the area of a triangle given its vertices.
+
+**2. Area of a Triangle using Determinants:**
+
+The area of a triangle with vertices (x1, y1), (x2, y2), and (x3, y3) is given by:
+
+Area = (1/2) |  x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) |
+
+This formula can be written more compactly using a determinant:
+
+Area = (1/2) |  det([[x1, y1, 1], [x2, y2, 1], [x3, y3, 1]])  |
+
+Where det() represents the determinant of the matrix.
+
+**3. Applying to the Given Points:**
+
+In our case, the points are A(x, y), B(1, 2), and C(7, 5). So, the area of triangle ABC is:
+
+Area = (1/2) | det([[x, y, 1], [1, 2, 1], [7, 5, 1]]) |
+
+Area = (1/2) | x(2 - 5) - y(1 - 7) + 1(5 - 14) |
+
+Area = (1/2) | -3x + 6y - 9 |
+
+**4. Condition for Collinearity:**
+
+For the points to be collinear, the area of the triangle must be zero. Therefore:
+
+(1/2) | -3x + 6y - 9 | = 0
+
+This implies:
+
+-3x + 6y - 9 = 0
+
+Dividing the entire equation by -3, we get:
+
+x - 2y + 3 = 0
+
+This is the relationship between x and y that must hold true for points A, B, and C to be collinear.
+
+**5. Explanation of the Relationship:**
+
+The determinant relates directly to the area of the triangle formed by the three points.
+
+*   If the determinant is non-zero, the points form a triangle with a finite, non-zero area.
+*   If the determinant is zero, the area of the triangle is zero, meaning the points must lie on a straight line (they are collinear).  The equation `x - 2y + 3 = 0` represents the equation of this line. Any point (x, y) that satisfies this equation will lie on the same line as B(1, 2) and C(7, 5).
+
+2.  **Properties & Applications of Adjoint and Inverse:** Given a non-singular matrix A, prove that adj(A<sup>-1</sup>) = (adj A)<sup>-1</sup>. Further, explain how the adjoint of a matrix is crucial for finding the inverse, and discuss a scenario (e.g., cryptography, data analysis) where finding the inverse of a matrix is essential.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for CBSE Class 11-12 students studying determinants and matrices:
+
+**Answer:**
+
+**Proof: adj(A<sup>-1</sup>) = (adj A)<sup>-1</sup>**
+
+Given that A is a non-singular matrix, it means that |A| ≠ 0, and therefore, A<sup>-1</sup> exists.  We want to prove that the adjoint of the inverse of A is equal to the inverse of the adjoint of A.
+
+We know the following fundamental relationship:
+
+A (adj A) = (adj A) A = |A| I   ...(1)
+
+Where 'I' is the identity matrix.
+
+Now, let's consider the inverse of A, denoted as A<sup>-1</sup>. We can write a similar relationship for A<sup>-1</sup>:
+
+A<sup>-1</sup> adj(A<sup>-1</sup>) = adj(A<sup>-1</sup>) A<sup>-1</sup> = |A<sup>-1</sup>| I   ...(2)
+
+We also know that |A<sup>-1</sup>| = 1/|A|. Substituting this into equation (2):
+
+A<sup>-1</sup> adj(A<sup>-1</sup>) = adj(A<sup>-1</sup>) A<sup>-1</sup> = (1/|A|) I   ...(3)
+
+Now, multiply both sides of equation (1) by A<sup>-1</sup> on the *left*:
+
+A<sup>-1</sup> A (adj A) = A<sup>-1</sup> |A| I
+
+Since A<sup>-1</sup> A = I, we get:
+
+adj A = |A| A<sup>-1</sup>   ...(4)
+
+Now, multiply both sides of equation (4) by |A|<sup>-1</sup>
+
+(adj A) / |A| = A<sup>-1</sup>
+
+(adj A) / |A| = A<sup>-1</sup>  
+Multiply both sides by adj(A<sup>-1</sup>)
+
+(adj A) adj(A<sup>-1</sup>) / |A| = A<sup>-1</sup> adj(A<sup>-1</sup>)
+
+adj A adj(A<sup>-1</sup>) / |A| =  (1/|A|) I  (substituting result from equation 3)
+
+adj A adj(A<sup>-1</sup>) = I
+
+Multiply both sides by (adj A)<sup>-1</sup>
+
+adj(A<sup>-1</sup>) = (adj A)<sup>-1</sup>
+
+Therefore, we have proven that adj(A<sup>-1</sup>) = (adj A)<sup>-1</sup>.
+
+**Crucial Role of Adjoint in Finding the Inverse**
+
+The adjoint of a matrix is absolutely crucial for finding its inverse. The inverse of a matrix A is calculated as follows:
+
+A<sup>-1</sup> = (1/|A|) adj(A)
+
+This formula explicitly shows that to find the inverse, we need to:
+
+1.  **Calculate the Adjoint:** Find the matrix of cofactors, and then take its transpose to obtain the adjoint matrix.
+2.  **Calculate the Determinant:**  Find the determinant of the original matrix A.
+3.  **Divide:** Divide each element of the adjoint matrix by the determinant of A.
+
+Without calculating the adjoint, we cannot directly determine the inverse using this standard method.
+
+**Scenario: Cryptography**
+
+A real-world scenario where matrix inversion is essential is in **cryptography**, specifically in certain encryption/decryption techniques.
+
+**Example: Hill Cipher**
+
+The Hill cipher is a polygraphic substitution cipher based on linear algebra.  In this cipher:
+
+1.  **Encoding:** The plaintext (message) is divided into blocks of a certain length (e.g., blocks of 3 letters).  Each letter is assigned a numerical value (A=0, B=1, ..., Z=25).  Each block is then represented as a column vector. This vector is multiplied by an *encryption key matrix* (a square matrix, say 3x3). The resulting vector is then converted back to letters, forming the ciphertext.  Modular arithmetic (modulo 26) is used to keep the values within the range of letters.
+
+2.  **Decoding:** To decrypt the ciphertext, the receiver needs to:
+    *   Know the encryption key matrix.
+    *   Calculate the *inverse* of the encryption key matrix (modulo 26). This is where the adjoint and determinant are critical.
+    *   Multiply each block of the ciphertext (represented as a vector) by the *inverse* of the key matrix.
+    *   Convert the resulting vector back to letters, recovering the original plaintext.
+
+**Why is the Inverse Essential?**
+
+If the receiver *cannot* find the inverse of the encryption key matrix, they cannot decrypt the message.  The security of the Hill cipher relies heavily on the fact that finding the inverse of a matrix (especially large matrices) can be computationally difficult without knowing the determinant and adjoint. This makes it a relatively secure (though not unbreakable) encryption method.
+
+**In summary:** The adjoint plays a central role in calculating the inverse of a matrix, and matrix inversion has vital applications in fields like cryptography, where secure communication relies on encoding and decoding messages using matrices and their inverses.
+
+3.  **System of Equations and Matrix Singularity:** A system of linear equations is represented in matrix form as AX = B.  If |A| = 0, what does this imply about the solutions to the system?  Describe the possible solution scenarios (no solution, infinitely many solutions) and provide a geometric interpretation for each scenario in the context of two linear equations in two variables. Explain how row operations can be used to analyze such systems.
+Sample Answer:
+**Answer:**
+
+If |A| = 0 in a system of linear equations represented as AX = B, it implies that the matrix A is singular. This singularity has significant implications for the solutions of the system.
+
+**Possible Solution Scenarios:**
+
+1.  **No Solution (Inconsistent System):** If |A| = 0, the system might have no solution.  This occurs when the equations represented by AX = B are contradictory. Geometrically, in the case of two linear equations in two variables, this means the lines represented by the equations are parallel and distinct (never intersect).
+
+    *Example:*
+    ```
+    x + y = 1
+    x + y = 2
+    ```
+    Here, A = [[1, 1], [1, 1]], |A| = (1\*1) - (1\*1) = 0. Since 1 != 2, the system has no solution.
+
+2.  **Infinitely Many Solutions (Dependent System):** If |A| = 0, the system might have infinitely many solutions. This happens when the equations are dependent, meaning one equation can be obtained by multiplying the other equation by a constant or by a linear combination of the other equations. Geometrically, for two linear equations in two variables, this signifies that the two equations represent the *same* line (they coincide). Every point on the line is a solution to the system.
+
+    *Example:*
+    ```
+    x + y = 1
+    2x + 2y = 2
+    ```
+    Here, A = [[1, 1], [2, 2]], |A| = (1\*2) - (1\*2) = 0. Also, the second equation is just twice the first equation. The system has infinitely many solutions (all points on the line x + y = 1).
+
+**Geometric Interpretation (Two Linear Equations in Two Variables):**
+
+*   **|A| = 0 and No Solution:** Parallel lines that never intersect.
+*   **|A| = 0 and Infinitely Many Solutions:** The same line (coincident lines).
+
+**Role of Row Operations:**
+
+Row operations (swapping rows, multiplying a row by a non-zero constant, adding a multiple of one row to another) are crucial for analyzing systems where |A| = 0. These operations do not change the solution set of the system. Row operations can transform the augmented matrix [A | B] into row-echelon form or reduced row-echelon form.
+
+*   **No Solution:**  If row operations lead to a row in the augmented matrix of the form [0 0 | c] where 'c' is a non-zero constant, it signifies a contradiction (0 = c), indicating no solution.
+*   **Infinitely Many Solutions:** If row operations result in a row of all zeros, it indicates a dependent equation.  The number of free variables (variables that can take any value) determines the number of parameters needed to describe the infinite solutions. You can express some variables in terms of the free variables.
+
+**In Summary:**
+
+When |A| = 0, the system AX = B does *not* have a unique solution. Row operations are essential to determine whether the system is inconsistent (no solution) or has infinitely many solutions by examining the resulting row-echelon form of the augmented matrix.  The geometric interpretation in 2D helps visualize these scenarios as parallel or coincident lines.

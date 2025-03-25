@@ -1,0 +1,239 @@
+1.  **Electrostatic Equilibrium and Forces:** Two small spheres of equal mass 'm' are suspended from a common point by strings of equal length 'l'. Each sphere carries a charge 'q'. Due to electrostatic repulsion, the spheres are separated by a distance 'x' (where x << l). Derive an expression for 'q' in terms of m, l, x, and fundamental constants. Also, discuss how the charge 'q' would change if the entire setup were immersed in a dielectric liquid with a dielectric constant 'K'.
+Sample Answer:
+Here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student, incorporating clear explanations and drawing on the provided NCERT chapter content:
+
+**Answer:**
+
+**1. Understanding the Problem:**
+
+This problem involves understanding the balance of forces acting on charged spheres suspended by strings. These forces include:
+
+*   **Electrostatic Force (Fe):** The repulsive force between the charged spheres, governed by Coulomb's Law.
+*   **Gravitational Force (Fg):** The force due to gravity acting downwards on each sphere.
+*   **Tension (T):** The force exerted by the string, acting along its length.
+
+At equilibrium, the vector sum of these forces on each sphere is zero.
+
+**2. Deriving the Expression for 'q':**
+
+a. **Free Body Diagram:** Imagine one of the spheres. Draw a free body diagram showing the three forces acting on it: tension (T), gravitational force (mg), and electrostatic force (Fe).
+
+b. **Resolving Forces:** Resolve the tension (T) into its horizontal (T sin θ) and vertical (T cos θ) components, where θ is the angle the string makes with the vertical.
+
+c. **Equilibrium Conditions:** At equilibrium, the net force in both the horizontal and vertical directions must be zero.  Therefore:
+
+    *   Horizontal equilibrium:  T sin θ = Fe
+    *   Vertical equilibrium:  T cos θ = mg
+
+d. **Applying Coulomb's Law:** The electrostatic force Fe is given by Coulomb's Law:
+
+    *   Fe = k * (q * q) / x²  = k * q² / x²   where k = 1 / (4πε₀) and ε₀ is the permittivity of free space.
+
+e. **Finding tan θ:** Divide the horizontal equilibrium equation by the vertical equilibrium equation:
+
+    *   (T sin θ) / (T cos θ) = (Fe) / (mg)
+    *   tan θ = Fe / mg
+
+f. **Substituting for Fe:** Substitute the expression for Fe from Coulomb's Law:
+
+    *   tan θ = (k * q² / x²) / (mg)
+    *   tan θ = k * q² / (mgx²)
+
+g. **Approximation for Small Angles:** Since x << l, the angle θ is small. For small angles, tan θ ≈ sin θ ≈ x / (2l)  (Think of x/2 as the opposite side and *l* as the hypotenuse of a right triangle).
+
+h. **Substituting the Approximation:** Substitute the approximation for tan θ:
+
+    *   x / (2l) = k * q² / (mgx²)
+
+i. **Solving for q:** Rearrange the equation to solve for q:
+
+    *   q² = (mgx³) / (2kl)
+    *   q = √[(mgx³) / (2kl)]
+    *   q = √[(mgx³) / (2(1 / (4πε₀))l)]
+    *   q = √[(2πε₀mgx³) / l]
+
+Therefore, the expression for the charge 'q' is:  **q = √[(2πε₀mgx³) / l]**
+
+**3. Effect of Dielectric Liquid:**
+
+a. **Dielectric Constant:** When the entire setup is immersed in a dielectric liquid with a dielectric constant K, the electrostatic force between the charges is reduced by a factor of K.  The new electrostatic force (Fe') becomes:
+
+    *   Fe' = Fe / K = (k * q² / x²) / K = k * q² / (Kx²)
+
+b. **New Equilibrium:** The equilibrium conditions now change because the electrostatic force is weaker.  Following the same steps as above, but using Fe' instead of Fe, we get:
+
+    *   tan θ = Fe' / mg = (k * q'² / (Kx²)) / (mg) = k * q'² / (Kmgx²)  (where q' is the new charge)
+
+c. **Re-solving for q':**
+
+    *   x / (2l) = k * q'² / (Kmgx²)
+    *   q'² = (Kmgx³) / (2kl)
+    *   q' = √[(Kmgx³) / (2kl)]
+     *    q' = √[(Kmgx³) / (2(1 / (4πε₀))l)]
+    *   q' = √[(2Kπε₀mgx³) / l]
+    *  q' = √K * √[(2πε₀mgx³) / l]
+
+d. **Relating q' to q:** Since  q = √[(2πε₀mgx³) / l], we can write:
+
+    *   q' = √K * q
+
+**Conclusion:**
+
+*   The expression for the charge 'q' in terms of m, l, x, and fundamental constants is **q = √[(2πε₀mgx³) / l]**.
+
+*   If the entire setup is immersed in a dielectric liquid with a dielectric constant K, the charge on each sphere would need to be changed by a factor of  **√K** to maintain the same separation distance 'x'.  Specifically,  **q' = √K * q**. This means the charge will *increase* to maintain the same separation. The dielectric reduces the force between the charges, so you need more charge to create the same repulsive force and keep the same equilibrium position.
+
+2.  **Capacitor Networks and Energy Storage:** A network of capacitors consists of three capacitors with capacitances C1, C2, and C3. C1 and C2 are connected in series, and this series combination is connected in parallel with C3. If a battery of voltage V is connected across this network, determine the following: (a) The equivalent capacitance of the entire network. (b) The charge stored on each individual capacitor (C1, C2, and C3). (c) The total energy stored in the capacitor network. Explain how the charge distribution changes if a dielectric slab is introduced into C3.
+Sample Answer:
+Okay, here's a complete answer to the assignment question, suitable for a CBSE Class 11-12 student. This answer breaks down the problem step-by-step, providing clear explanations and formulas.
+
+**Answer:**
+
+Let's analyze the capacitor network and determine the required values.
+
+**(a) Equivalent Capacitance of the Entire Network**
+
+*   **Step 1: Series Combination (C1 and C2)**  When capacitors are connected in series, the reciprocal of the equivalent capacitance is the sum of the reciprocals of the individual capacitances.  Let `C_s` be the equivalent capacitance of C1 and C2 in series.
+
+    1/C_s = 1/C1 + 1/C2
+
+    Therefore,
+
+    C_s = (C1 * C2) / (C1 + C2)
+
+*   **Step 2: Parallel Combination (C_s and C3)**  When capacitors are connected in parallel, the equivalent capacitance is simply the sum of the individual capacitances.  Let `C_eq` be the equivalent capacitance of the entire network.
+
+    C_eq = C_s + C3
+
+    Substituting the value of C_s from Step 1:
+
+    C_eq = [(C1 * C2) / (C1 + C2)] + C3
+
+    Therefore, the equivalent capacitance of the entire network is:
+
+    **C_eq =  [(C1 * C2) / (C1 + C2)] + C3**
+
+**(b) Charge Stored on Each Individual Capacitor**
+
+*   **Step 1: Voltage across C1 and C2:**  Since C1 and C2 are in series, they have the same charge, `Q_s`. The series combination (C_s) is in parallel with C3, meaning the voltage across C_s is the same as the voltage across C3, and equal to the battery voltage V.  Therefore, the voltage across the series combination of C1 and C2 is *V*.
+
+*   **Step 2: Charge on the series combination (Q_s):** We can calculate the charge on the series combination (Q_s) using the equivalent capacitance C_s:
+
+    Q_s = C_s * V = [(C1 * C2) / (C1 + C2)] * V
+
+    Since C1 and C2 are in series, they each have the same charge Q_s:
+
+    **Q1 = Q2 = [(C1 * C2) / (C1 + C2)] * V**
+
+*   **Step 3: Charge on C3 (Q3):** C3 is directly connected to the battery, so the voltage across it is V. We can calculate the charge on C3 as follows:
+
+    **Q3 = C3 * V**
+
+**(c) Total Energy Stored in the Capacitor Network**
+
+The total energy stored in the capacitor network (U_total) is the sum of the energy stored in each capacitor. The energy stored in a capacitor is given by U = (1/2)CV^2 or U = (1/2)QV. Since we know the charges and capacitances of each capacitor, we can use either formula. Let's use U = (1/2)QV.
+
+* Energy stored in C1: U1 = (1/2) * Q1 * V1 where V1 is the voltage across C1. V1 = Q1 / C1
+  * U1 = (1/2) * Q1 * (Q1 / C1) = Q1^2 / (2 * C1)
+  * Substituting the value of Q1: U1 = {([(C1 * C2) / (C1 + C2)] * V)}^2 / (2 * C1)
+
+* Energy stored in C2: U2 = (1/2) * Q2 * V2 where V2 is the voltage across C2. V2 = Q2 / C2
+  * U2 = (1/2) * Q2 * (Q2 / C2) = Q2^2 / (2 * C2)
+  * Substituting the value of Q2: U2 = {([(C1 * C2) / (C1 + C2)] * V)}^2 / (2 * C2)
+
+* Energy stored in C3: U3 = (1/2) * Q3 * V
+  * Substituting the value of Q3: U3 = (1/2) * (C3 * V) * V = (1/2) * C3 * V^2
+
+Therefore, the total energy is:
+
+**U_total =  {([(C1 * C2) / (C1 + C1)] * V)}^2 / (2 * C1) + {([(C1 * C2) / (C1 + C2)] * V)}^2 / (2 * C2) + (1/2) * C3 * V^2**
+
+**Alternatively, and more easily:**
+
+U_total = (1/2) * C_eq * V^2  = (1/2) * {[(C1 * C2) / (C1 + C2)] + C3} * V^2
+
+**Effect of Introducing a Dielectric Slab into C3**
+
+When a dielectric slab with a dielectric constant *K* is introduced into capacitor C3, the capacitance of C3 increases by a factor of *K*.  Let the new capacitance be C3'.
+
+*   **New Capacitance of C3:**  C3' = K * C3
+
+*   **Change in Equivalent Capacitance:** The equivalent capacitance of the network will also change. The new equivalent capacitance, C_eq', will be:
+
+    C_eq' = [(C1 * C2) / (C1 + C2)] + C3' = [(C1 * C2) / (C1 + C2)] + K * C3
+
+*   **Change in Charge Distribution:**
+    *   The voltage across the series combination of C1 and C2 remains *V*. Therefore, Q1 and Q2 are unchanged.
+    *   The charge on C3 will increase because its capacitance has increased:  Q3' = C3' * V = (K * C3) * V = K * Q3
+    *   The total charge stored in the network will increase since C_eq has increased.
+
+**In summary, introducing a dielectric into C3 increases its capacitance and the charge stored on it. The charge stored on C1 and C2 remains the same because the voltage across them is fixed by the battery. The overall effect is an increase in the total energy stored in the network.**
+
+3.  **Motion in Magnetic Field:** An alpha particle (charge +2e, mass 4u) is accelerated from rest through a potential difference of V volts. It then enters a uniform magnetic field B, perpendicular to its direction of motion. Describe the subsequent path of the alpha particle within the magnetic field. Derive an expression for the radius of curvature of its trajectory in terms of V, B, e, and u. How does the kinetic energy of the alpha particle change as it moves through the magnetic field? Explain your answer.
+Sample Answer:
+Okay, here's a comprehensive answer to the assignment question, suitable for a CBSE Class 11-12 student, drawing upon the provided content:
+
+**3. Motion in a Magnetic Field: Alpha Particle**
+
+**Description of Motion:**
+
+When an alpha particle, accelerated through a potential difference V, enters a uniform magnetic field B perpendicularly, it experiences a magnetic force. This force is always perpendicular to the particle's velocity, causing it to move in a circular path. The magnetic force acts as the centripetal force, constantly changing the direction of the alpha particle's velocity but not its speed (and therefore, not its kinetic energy).  The alpha particle will therefore follow a circular trajectory within the magnetic field, provided the field is sufficiently large and uniform.  If the field has boundaries, the particle might only complete a partial circle before exiting the field.
+
+**Derivation of the Radius of Curvature:**
+
+We need to relate the kinetic energy gained by the alpha particle due to the potential difference to the centripetal force exerted by the magnetic field.
+
+1.  **Kinetic Energy gained due to potential difference:**
+
+    *   The alpha particle, with charge +2e, gains kinetic energy (KE) when accelerated through a potential difference V. The work done on the particle by the electric field is equal to the change in its kinetic energy.  Since it starts from rest:
+
+        KE = (Charge) x (Potential Difference) = 2eV
+    *   We can write KE = 1/2 mv<sup>2</sup>  where m = 4u
+    *   1/2 (4u)v<sup>2</sup> = 2eV
+
+2.  **Magnetic Force:**
+
+    *   The magnetic force (F<sub>B</sub>) on a charge q moving with velocity v in a magnetic field B is given by:  F<sub>B</sub> = qvB sin θ.  Since the velocity is perpendicular to the magnetic field (θ = 90°), sin θ = 1.
+
+        F<sub>B</sub> = qvB  = (2e)vB
+3.  **Centripetal Force:**
+
+    *   For circular motion, the centripetal force (F<sub>C</sub>) is given by: F<sub>C</sub> = mv<sup>2</sup>/r, where r is the radius of the circular path.
+
+        F<sub>C</sub> = (4u)v<sup>2</sup>/r
+
+4.  **Equating Magnetic Force and Centripetal Force:**
+
+    *   Since the magnetic force provides the centripetal force, we can equate them:
+
+        (2e)vB = (4u)v<sup>2</sup>/r
+    *   Simplifying for *r*:
+
+         r = (4u)v / (2eB)  = (2uv)/eB
+
+5.  **Expressing *v* in terms of *V*:**
+
+    *   From step 1 (1/2 (4u)v<sup>2</sup> = 2eV), we can solve for v<sup>2</sup>:
+         v<sup>2</sup> =  (2eV) / (1/2 * 4u) = eV/u
+        v = √(eV/u)
+
+6.  **Substituting *v* into the Radius Equation:**
+
+    *   Substitute the expression for *v* into the equation for *r*:
+
+        r = (2u √(eV/u))/eB  = (2 √(euV))/eB
+        r = (2/B) * √(uV/e)
+
+**Therefore, the radius of curvature of the alpha particle's trajectory is given by:**
+
+r = (2/B) * √(uV/e)
+
+**Change in Kinetic Energy:**
+
+The kinetic energy of the alpha particle *does not change* as it moves through the magnetic field. Here's why:
+
+*   **Magnetic Force Does No Work:** The magnetic force is always perpendicular to the velocity of the alpha particle.  Work is defined as the dot product of force and displacement (W = F • d = Fd cos θ). Since the angle θ between the magnetic force and the displacement is always 90 degrees (cos 90° = 0), the magnetic force does no work on the alpha particle.
+*   **Constant Speed:** Since no work is done, the speed of the alpha particle remains constant.
+*   **Kinetic Energy Formula:** Kinetic energy is given by KE = 1/2 mv<sup>2</sup>. Since both the mass (m) and the speed (v) of the alpha particle are constant, its kinetic energy remains constant.  The magnetic field only changes the *direction* of the velocity, not its magnitude.
+
+**In summary:** The alpha particle moves in a circle with a radius determined by the potential difference, magnetic field strength, charge, and mass. The magnetic force re-directs the particle without changing the Kinetic Energy as the force is perpendicular to the motion of the particle.

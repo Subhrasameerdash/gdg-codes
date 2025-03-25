@@ -1,0 +1,158 @@
+1.  **Vector Decomposition and Application:** A force of 50N is applied to a crate at an angle of 30 degrees to the horizontal. Express this force as a sum of its horizontal and vertical components in vector form, using unit vectors **i** and **j**. Then, calculate the work done by the horizontal component if the crate moves 5 meters horizontally.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content. It breaks down the problem into steps with clear explanations.
+
+**Answer:**
+
+**1. Understanding Vector Decomposition**
+
+When a force is applied at an angle, it's often useful to break it down into its horizontal and vertical components. This makes it easier to analyze its effect in each direction independently. These components are vectors themselves and can be represented using unit vectors. The unit vector **i** represents the horizontal direction, and the unit vector **j** represents the vertical direction.
+
+**2. Finding the Horizontal and Vertical Components**
+
+*   **Force Magnitude:**  The magnitude of the applied force, |**F**|, is 50N.
+*   **Angle:** The angle, θ, with respect to the horizontal is 30 degrees.
+
+    *   **Horizontal Component (Fx):**  The horizontal component is given by:
+        Fx = |**F**| * cos(θ) = 50 * cos(30°) = 50 * (√3/2) = 25√3 N
+
+        Therefore, the horizontal component vector is **Fx** = 25√3 **i** N.
+
+    *   **Vertical Component (Fy):**  The vertical component is given by:
+        Fy = |**F**| * sin(θ) = 50 * sin(30°) = 50 * (1/2) = 25 N
+
+        Therefore, the vertical component vector is **Fy** = 25 **j** N.
+
+*   **Force in Vector Form:**  The original force vector **F** can now be written as the sum of its components:
+     **F** = 25√3 **i** + 25 **j** N
+
+**3. Calculating Work Done by the Horizontal Component**
+
+*   **Work Done Formula:** Work done (W) by a force is given by: W = **F** ⋅ **d**
+    Where **F** is the force vector and **d** is the displacement vector.  Since we're only interested in the work done by the horizontal component, we'll use only the horizontal component of the force.
+*   **Displacement Vector:** The crate moves 5 meters horizontally. So, the displacement vector **d** = 5 **i** meters.
+*   **Calculating Work:**
+    W = (25√3 **i**) ⋅ (5 **i**)
+    W = 25√3 * 5 * (**i** ⋅ **i**)
+    Since **i** ⋅ **i** = 1
+    W = 125√3 Joules
+
+**4. Final Answer**
+
+*   The force **F** expressed as a sum of its horizontal and vertical components in vector form is:  **F** = 25√3 **i** + 25 **j** N
+*   The work done by the horizontal component of the force is 125√3 Joules.
+**Important Notes for Students:**
+
+*   **Units:**  Always include the correct units (N for force, meters for distance, Joules for work).
+*   **Understanding the Dot Product:**  The dot product (**i** ⋅ **i** = 1, **i** ⋅ **j** = 0) is crucial for calculating work.  Only the components of force and displacement in the *same* direction contribute to work.
+*   **Diagrams:** Drawing a simple diagram showing the force vector and its components can be very helpful in visualizing the problem.
+*   **Calculator Use:**  Make sure you are comfortable using your calculator to find trigonometric values (sin, cos) and to simplify expressions.
+
+2.  **Geometric Interpretation of Vector Operations:** Three points A, B, and C have position vectors **a**, **b**, and **c**, respectively. Given that **c** = (1-λ)**a** + λ**b**, where λ is a scalar, describe the geometric relationship between the points A, B, and C. Explain your reasoning, relating it to the concepts of scalar multiplication and vector addition. Furthermore, if A=(1,0,1), B=(0,1,1) and C=(1/2, 1/2, 1), find λ.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the assignment question using the provided NCERT chapter content:
+
+**Answer:**
+
+The equation **c** = (1-λ)**a** + λ**b** provides a powerful geometric interpretation regarding the relationship between points A, B, and C with position vectors **a**, **b**, and **c**, respectively.
+
+**Explanation:**
+
+*   **Understanding the Equation:** The given equation represents a linear combination of the vectors **a** and **b**. This means **c** is formed by scaling **a** by a factor of (1-λ) and **b** by a factor of λ, and then adding the resulting vectors.
+
+*   **Geometric Interpretation: Collinearity:**  The equation **c** = (1-λ)**a** + λ**b** implies that the point C lies on the line passing through points A and B. In other words, A, B, and C are collinear (lie on the same straight line).
+
+    *   **Reasoning:**
+        *   We can rewrite the equation as:  **c** - **a** = λ(**b** - **a**).
+        *   Here, (**c** - **a**) represents the vector **AC** and (**b** - **a**) represents the vector **AB**.
+        *   The equation now shows that **AC** is a scalar multiple (λ) of **AB**.
+        *   If one vector is a scalar multiple of another, they are parallel or collinear. Since both vectors share the point A, it follows that points A, C, and B lie on the same line.
+
+*   **Role of λ:** The value of λ determines the position of C on the line AB.
+
+    *   If λ = 0, then **c** = **a**, meaning C coincides with A.
+    *   If λ = 1, then **c** = **b**, meaning C coincides with B.
+    *   If 0 < λ < 1, then C lies between A and B, dividing the line segment AB internally in the ratio λ : (1-λ).
+    *   If λ > 1 or λ < 0, then C lies outside the line segment AB, on the line extending from A to B. In this case, C divides the line segment AB externally.
+
+**Finding λ when A=(1,0,1), B=(0,1,1) and C=(1/2, 1/2, 1):**
+
+Given the coordinates of A, B, and C, we can express their position vectors as:
+
+*   **a** =  1**i** + 0**j** + 1**k**
+*   **b** =  0**i** + 1**j** + 1**k**
+*   **c** = (1/2)**i** + (1/2)**j** + 1**k**
+
+Substitute these into the equation **c** = (1-λ)**a** + λ**b**:
+
+(1/2)**i** + (1/2)**j** + 1**k** = (1-λ)(1**i** + 0**j** + 1**k**) + λ(0**i** + 1**j** + 1**k**)
+(1/2)**i** + (1/2)**j** + 1**k** = (1-λ)**i** + 0**j** + (1-λ)**k** + 0**i** + λ**j** + λ**k**
+
+Now, equate the coefficients of **i**, **j**, and **k**:
+
+*   **i**: 1/2 = (1-λ)  =>  λ = 1/2
+*   **j**: 1/2 = λ        =>  λ = 1/2
+*   **k**: 1 = (1-λ) + λ  => 1 = 1 (This equation holds true but doesn't directly give us λ)
+
+Since the value of lambda is consistent across all the components, we can conclude that:
+
+λ = 1/2
+
+**Conclusion:**
+
+The points A, B, and C are collinear, and C lies exactly in the middle of the line segment AB.  The value of λ = 1/2 confirms that C is the midpoint of AB.
+
+3.  **Cross Product and Geometric Quantities:** Two adjacent sides of a parallelogram are represented by the vectors **u** = 2**i** - **j** + **k** and **v** = **i** + **j** - 2**k**. Determine a unit vector that is perpendicular to the plane containing the parallelogram. Then, calculate the area of the parallelogram using vector methods.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student addressing the assignment question, based on the provided NCERT chapter content:
+
+**Answer:**
+
+To solve this problem, we'll use the concept of the cross product of two vectors and its relation to the area of a parallelogram.
+
+**(a) Finding a Unit Vector Perpendicular to the Plane:**
+
+The cross product of two vectors results in a vector that is perpendicular to both original vectors.  Therefore, **u** x **v** will be perpendicular to the plane containing the parallelogram.
+
+1.  **Calculate the cross product u x v:**
+
+    **u** x **v** = (2**i** - **j** + **k**) x (**i** + **j** - 2**k**)
+
+    To compute the cross product, we can use the determinant method:
+
+    **u** x **v** =  | **i**   **j**   **k** |
+                  | 2  -1   1 |
+                  | 1   1  -2 |
+
+    Expanding the determinant:
+
+    **u** x **v** = **i**[(-1)(-2) - (1)(1)] - **j**[(2)(-2) - (1)(1)] + **k**[(2)(1) - (-1)(1)]
+    **u** x **v** = **i**[2 - 1] - **j**[-4 - 1] + **k**[2 + 1]
+    **u** x **v** = **i** + 5**j** + 3**k**
+
+2.  **Find the magnitude of u x v:**
+
+    |**u** x **v**| = √(1<sup>2</sup> + 5<sup>2</sup> + 3<sup>2</sup>) = √(1 + 25 + 9) = √35
+
+3.  **Determine the unit vector:**
+
+    A unit vector in the direction of **u** x **v** is found by dividing **u** x **v** by its magnitude:
+
+    **n** = (**u** x **v**) / |**u** x **v**|  = (1**i** + 5**j** + 3**k**) / √35
+
+    Therefore, the unit vector perpendicular to the plane is:
+
+    **n** = (1/√35) **i** + (5/√35) **j** + (3/√35) **k**
+
+**(b) Calculating the Area of the Parallelogram:**
+
+The magnitude of the cross product of two adjacent sides of a parallelogram gives the area of the parallelogram. We have already calculated |**u** x **v**| in the previous part.
+
+1.  **Area of Parallelogram:**
+
+    Area = |**u** x **v**| = √35 square units.
+
+**Final Answer:**
+
+*   A unit vector perpendicular to the plane containing the parallelogram is (1/√35) **i** + (5/√35) **j** + (3/√35) **k**.
+*   The area of the parallelogram is √35 square units.

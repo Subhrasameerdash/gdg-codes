@@ -1,0 +1,163 @@
+1.  A novel electrochemical cell is constructed using two hypothetical metal electrodes, 'A' and 'B'. The cell reaction is: A(s) + B<sup>2+</sup>(aq) ⇌ A<sup>2+</sup>(aq) + B(s).  Given that the standard reduction potential of A<sup>2+</sup>/A is -0.20V and the standard reduction potential of B<sup>2+</sup>/B is +0.50V, calculate the standard cell potential (E°<sub>cell</sub>). Furthermore, explain how the cell potential would change if the concentration of A<sup>2+</sup> ions is significantly increased while keeping the concentration of B<sup>2+</sup> ions constant. Justify your answer using electrochemical principles.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, addressing the electrochemical cell question:
+
+**Answer:**
+
+**Part 1: Calculating the Standard Cell Potential (E°<sub>cell</sub>)**
+
+The standard cell potential (E°<sub>cell</sub>) is calculated using the standard reduction potentials of the cathode (reduction half-cell) and the anode (oxidation half-cell).  The formula is:
+
+E°<sub>cell</sub> = E°<sub>cathode</sub> - E°<sub>anode</sub>
+
+In the given cell reaction, A(s) + B<sup>2+</sup>(aq) ⇌ A<sup>2+</sup>(aq) + B(s),  B<sup>2+</sup> is being reduced to B(s), and A(s) is being oxidized to A<sup>2+</sup>. Therefore:
+
+*   **Cathode (Reduction):** B<sup>2+</sup>(aq) + 2e<sup>-</sup> → B(s)   E°<sub>B<sup>2+</sup>/B</sub> = +0.50 V
+*   **Anode (Oxidation):** A(s) → A<sup>2+</sup>(aq) + 2e<sup>-</sup>   E°<sub>A<sup>2+</sup>/A</sub> = -0.20 V
+
+Plugging these values into the formula:
+
+E°<sub>cell</sub> = (+0.50 V) - (-0.20 V) = +0.70 V
+
+Therefore, the standard cell potential (E°<sub>cell</sub>) for this electrochemical cell is +0.70 V.
+
+**Part 2: Effect of Changing A<sup>2+</sup> Concentration**
+
+If the concentration of A<sup>2+</sup> ions is significantly increased while the concentration of B<sup>2+</sup> ions remains constant, the cell potential will **decrease**.
+
+**Justification using Electrochemical Principles (Nernst Equation):**
+
+The change in cell potential due to non-standard conditions (i.e., concentrations not equal to 1 M) is described by the Nernst Equation.  A simplified version relevant to this question is:
+
+E<sub>cell</sub> = E°<sub>cell</sub> - (RT/nF) * ln(Q)
+
+Where:
+
+*   E<sub>cell</sub> is the cell potential under non-standard conditions.
+*   E°<sub>cell</sub> is the standard cell potential.
+*   R is the ideal gas constant (8.314 J/mol·K).
+*   T is the temperature in Kelvin.
+*   n is the number of moles of electrons transferred in the balanced cell reaction (in this case, n = 2).
+*   F is Faraday's constant (approximately 96485 C/mol).
+*   Q is the reaction quotient.
+
+For the given reaction, A(s) + B<sup>2+</sup>(aq) ⇌ A<sup>2+</sup>(aq) + B(s), the reaction quotient (Q) is:
+
+Q = [A<sup>2+</sup>] / [B<sup>2+</sup>]  (Since A and B are solids, their activities are considered 1)
+
+If [A<sup>2+</sup>] is significantly increased, the value of Q will increase.  Since the term -(RT/nF) * ln(Q) is being *subtracted* from E°<sub>cell</sub>, an increase in Q will lead to a *decrease* in E<sub>cell</sub>.
+
+**In simpler terms:**
+
+Increasing the concentration of A<sup>2+</sup> shifts the equilibrium of the cell reaction to the *left*, favoring the reactants (A(s) and B<sup>2+</sup>(aq)). This makes the forward reaction (which generates the cell potential) less spontaneous, thus decreasing the overall cell potential. The cell is essentially "fighting back" against the increased product concentration.
+
+2.  A weak electrolyte, HY, dissociates partially in aqueous solution. Design an experiment to determine the degree of dissociation (α) of HY at a specific concentration (c) and temperature. Clearly outline the experimental setup, the measurements required, and the calculations involved to determine α. Explain the relationship between α and the conductivity of the solution.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student, based on the provided (limited) NCERT chapter information.  Because the provided content is very sparse, the answer will rely on generally accepted knowledge about conductivity and weak electrolytes.
+
+**Answer:**
+
+**Experiment to Determine the Degree of Dissociation (α) of a Weak Electrolyte HY**
+
+This experiment aims to determine the degree of dissociation (α) of a weak electrolyte HY in an aqueous solution of a specific concentration (c) at a specific temperature (let's say 298 K).
+
+**I. Introduction:**
+
+A weak electrolyte, like HY, only partially dissociates into ions in solution:
+
+HY (aq)  ⇌  H<sup>+</sup> (aq) + Y<sup>-</sup> (aq)
+
+The degree of dissociation (α) represents the fraction of the electrolyte that has dissociated at equilibrium.  It ranges from 0 (no dissociation) to 1 (complete dissociation). Conductivity measurements can be used to determine α, as the conductivity of the solution is directly related to the concentration of ions present.
+
+**II. Experimental Setup:**
+
+1.  **Conductivity Meter and Conductivity Cell:**  A conductivity meter is required to measure the conductivity of the solution. The conductivity cell is the probe that is immersed in the solution.  Ensure the conductivity cell is properly calibrated before use using a standard KCl solution of known concentration.
+
+2.  **Constant Temperature Bath:** Maintain the solution at a constant temperature (e.g., 298 K) using a thermostatically controlled water bath.  Temperature significantly affects conductivity.
+
+3.  **Beakers and Volumetric Flasks:** Use beakers to prepare the solution and volumetric flasks to ensure accurate concentrations.
+
+4.  **Weak Electrolyte HY:** Obtain a sample of the weak electrolyte HY.
+
+5.  **Distilled Water:** Use distilled or deionized water to prepare the solution.
+
+6.  **Thermometer:** To monitor the temperature of the solution.
+
+**III. Procedure:**
+
+1.  **Prepare the Solution:** Accurately weigh the required amount of HY to prepare a solution of known concentration (c) in distilled water. For example, prepare a 0.1 M solution of HY. Use a volumetric flask to ensure accurate volume and concentration.
+
+2.  **Temperature Control:** Place the beaker containing the HY solution in the constant temperature bath and allow it to equilibrate at the desired temperature (298 K). Monitor the temperature using a thermometer.
+
+3.  **Conductivity Measurement:** Immerse the calibrated conductivity cell into the HY solution. Ensure that the cell is completely submerged and that there are no air bubbles trapped.
+
+4.  **Record Conductivity:** Measure and record the conductivity (κ) of the HY solution using the conductivity meter. The units of conductivity are typically Siemens per meter (S/m) or Siemens per centimeter (S/cm).
+
+5.  **Determine Λ<sub>m</sub>:** Calculate the molar conductivity (Λ<sub>m</sub>) of the solution using the following formula:
+
+    Λ<sub>m</sub> = κ / c
+
+    Where:
+    *   Λ<sub>m</sub> is the molar conductivity (S m<sup>2</sup> mol<sup>-1</sup>)
+    *   κ is the conductivity (S m<sup>-1</sup>)
+    *   c is the concentration (mol m<sup>-3</sup>).  *Note: if κ is in S/cm and c is in mol/L, you need to convert units accordingly. Λ<sub>m</sub> = (κ * 1000)/c.*
+
+**IV. Calculations and Determination of α:**
+
+1.  **Determine Λ<sup>0</sup><sub>m</sub> (Molar Conductivity at Infinite Dilution):**  The molar conductivity at infinite dilution (Λ<sup>0</sup><sub>m</sub>) is the molar conductivity when dissociation is complete.  Since the chapter material doesn't give us methods to calculate or estimate this, we'll rely on standard methods:
+    * **Literature Value:** The most reliable approach is to look up the Λ<sup>0</sup><sub>m</sub> value for HY in a reliable database or textbook. These values are often determined experimentally.
+    * **Kohlrausch's Law:** If Λ<sup>0</sup><sub>m</sub> values for H<sup>+</sup> and Y<sup>-</sup> are known, you can use Kohlrausch's Law of Independent Migration of Ions:
+
+        Λ<sup>0</sup><sub>m</sub> (HY) = Λ<sup>0</sup><sub>m</sub> (H<sup>+</sup>) + Λ<sup>0</sup><sub>m</sub> (Y<sup>-</sup>)
+
+    * **Serial Dilution and Extrapolation (Less Practical in this context):** This involves measuring conductivity at several very low concentrations and extrapolating the Λ<sub>m</sub> vs. √c plot to zero concentration. This is generally more involved.
+
+2.  **Calculate the Degree of Dissociation (α):**  The degree of dissociation (α) can be calculated using the following formula:
+
+    α = Λ<sub>m</sub> / Λ<sup>0</sup><sub>m</sub>
+
+    Where:
+    *   α is the degree of dissociation
+    *   Λ<sub>m</sub> is the molar conductivity at the given concentration (c)
+    *   Λ<sup>0</sup><sub>m</sub> is the molar conductivity at infinite dilution
+
+**V. Relationship Between α and Conductivity:**
+
+The conductivity of the solution is directly proportional to the concentration of ions present. A higher degree of dissociation (α) means a higher concentration of H<sup>+</sup> and Y<sup>-</sup> ions in solution, which leads to a higher conductivity.  Therefore, a larger α will result in a larger measured conductivity value (κ). The molar conductivity(Λ<sub>m</sub>) corrects for concentration differences between various measurements and allows for easier determination of α.
+
+**VI. Sources of Error and Precautions:**
+
+*   **Temperature Fluctuations:**  Maintain a constant temperature throughout the experiment.
+*   **Calibration of Conductivity Meter:**  Ensure the conductivity meter is properly calibrated.
+*   **Purity of Water:** Use distilled or deionized water to avoid contamination.
+*   **Electrode Contamination:** Clean the conductivity cell electrodes regularly.
+*   **Concentration Accuracy:** Prepare the solution with accurate weighing and volumetric measurements.
+*   **Ionic Strength Effects:** At higher concentrations, interionic interactions can affect conductivity. The relationship α = Λ<sub>m</sub> / Λ<sup>0</sup><sub>m</sub> becomes less accurate.
+
+**VII. Conclusion:**
+
+By carefully measuring the conductivity of a weak electrolyte solution and determining its molar conductivity at a given concentration and comparing it to its molar conductivity at infinite dilution, the degree of dissociation (α) can be calculated. This experiment provides a quantitative understanding of the extent of dissociation of weak electrolytes in aqueous solutions.
+
+3.  Explain the importance of "zero resistivity or infinite" in relation to superconductivity. Describe a real-world application where the property of superconductivity is critically important, detailing how this property enhances the application's functionality.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content (which is surprisingly sparse, but we'll work with it) and general knowledge of superconductivity.
+
+**Answer:**
+
+The phrase "zero resistivity or infinite" is crucial when discussing superconductivity. It highlights the defining characteristic of a superconductor: **the complete absence of electrical resistance below a critical temperature.** This means that once an electric current is established in a superconducting material, it can flow indefinitely without any loss of energy due to resistance (hence, "zero resistivity").  Alternatively, one could view it as having "infinite" conductivity because it conducts electricity perfectly.
+
+This property is profoundly important because in ordinary conductors (like copper wires), electrical resistance causes energy loss in the form of heat. This energy loss limits the efficiency of electrical devices and power transmission. Superconductors, by eliminating resistance, offer the potential for lossless energy transfer and significantly more efficient electrical devices.
+
+A real-world application where superconductivity is critically important is in **Magnetic Resonance Imaging (MRI) machines.**
+
+Here's how superconductivity enhances MRI functionality:
+
+*   **Strong Magnetic Fields:** MRI relies on extremely powerful and stable magnetic fields to generate detailed images of the human body. These strong magnetic fields are created by superconducting electromagnets.
+
+*   **Enhanced Performance:**  Superconducting magnets allow MRI machines to generate significantly stronger magnetic fields than conventional electromagnets.  This results in:
+    *   **Higher Resolution Images:** The stronger the magnetic field, the better the resolution and clarity of the MRI images. This is critical for diagnosing subtle abnormalities and diseases.
+    *   **Faster Scan Times:** Stronger magnetic fields can also speed up the scanning process, making MRI examinations more efficient and comfortable for patients.
+
+*   **Energy Efficiency:** While cooling the superconducting magnets to extremely low temperatures (using liquid helium) requires energy, the overall energy efficiency of the MRI machine is vastly improved compared to using conventional magnets. Once the superconducting magnet is energized, the current flows perpetually without loss, minimizing the energy needed to maintain the powerful magnetic field. Without superconductivity, the energy required to produce the strong magnetic fields necessary for high-resolution MRI would be prohibitively expensive and impractical.
+
+In conclusion, the "zero resistivity" characteristic of superconductors is fundamental to their utility. In MRI machines, it enables the creation of powerful, stable, and energy-efficient magnetic fields, which are essential for producing high-quality diagnostic images. The ability to conduct electricity without loss has revolutionized medical imaging and holds the promise of similar advancements in other fields.

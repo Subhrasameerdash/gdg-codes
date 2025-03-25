@@ -1,0 +1,156 @@
+1.  A satellite tracking dish is designed with a parabolic cross-section. The receiver is located at the focus, which is 8 meters from the vertex of the parabola. If the dish is 12 meters wide at its opening, determine the depth of the dish. Explain your reasoning, clearly linking the geometric properties of the parabola to the given dimensions.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student, based on the provided NCERT chapter content. It focuses on clarity, conciseness, and demonstrating understanding of the underlying principles.
+
+**Answer:**
+
+To determine the depth of the satellite tracking dish, we need to use the properties of a parabola and relate the given dimensions (distance from vertex to focus and width at the opening) to its equation.
+
+**1. Setting up the coordinate system:**
+
+We can model the parabolic cross-section with the vertex at the origin (0, 0) of a coordinate system.  Since the focus is 8 meters from the vertex, and the dish opens upwards (or to the right if we rotate the coordinate system), the focus will be at the point (0, 8) or (8,0) depending on the axis you choose. For the sake of simplicity, let's assume focus is on positive y axis i.e. (0,8)
+
+**2. Equation of the Parabola:**
+
+Since the vertex is at (0,0) and the focus is at (0, 8), the equation of the parabola is of the form:
+
+x<sup>2</sup> = 4ay
+
+Where 'a' is the distance from the vertex to the focus.  In this case, a = 8 meters.  Therefore, the equation of the parabola is:
+
+x<sup>2</sup> = 4 * 8 * y
+
+x<sup>2</sup> = 32y
+
+**3. Using the Width to Find a Point on the Parabola:**
+
+The dish is 12 meters wide at its opening.  This means that the parabola extends 6 meters to the left and 6 meters to the right of the y-axis (since the vertex is at (0,0) and the parabola is symmetric about the y-axis).  So, we have a point on the parabola: (6, d) or (-6, d), where 'd' is the depth of the dish that we want to find.
+
+**4. Substituting the Point into the Equation:**
+
+We can substitute the coordinates of the point (6, d) into the equation of the parabola:
+
+6<sup>2</sup> = 32d
+
+36 = 32d
+
+**5. Solving for the Depth (d):**
+
+d = 36 / 32
+
+d = 9 / 8
+
+d = 1.125 meters
+
+**Conclusion:**
+
+Therefore, the depth of the satellite tracking dish is 1.125 meters.
+
+**Explanation of Reasoning:**
+
+*   **Parabola Definition:** We used the fundamental definition of a parabola: the set of all points equidistant to the focus and the directrix. This allowed us to establish the standard equation.
+*   **Coordinate System:**  Placing the vertex at the origin simplified the equation.
+*   **Symmetry:** Utilizing the symmetry of the parabola allowed us to deduce the x-coordinate of a point on the parabola based on the given width.
+*   **Substitution:** By substituting the coordinates of a known point (derived from the width) into the equation, we were able to solve for the unknown depth.
+
+2.  An elliptical archway is designed to have a height of 6 meters and a width of 16 meters. A decorative keystone is to be placed at one of the foci of the ellipse. Determine the distance of the keystone from the center of the archway. Further, derive the equation of this ellipse in standard form, clearly stating your coordinate system.
+Sample Answer:
+Here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT content:
+
+**Answer:**
+
+Let's define our coordinate system such that the center of the elliptical archway is at the origin (0, 0). Since the archway is wider than it is tall, the major axis lies along the x-axis, and the minor axis lies along the y-axis.
+
+*   **Understanding the Given Information:**
+
+    *   Height (semi-minor axis, *b*): 6 meters
+    *   Width (major axis, 2*a*): 16 meters, so the semi-major axis, *a* = 8 meters
+
+*   **Finding the Distance to the Focus (Keystone Placement):**
+
+    We know that for an ellipse, the relationship between the semi-major axis (*a*), the semi-minor axis (*b*), and the distance from the center to a focus (*c*) is given by:
+
+    c<sup>2</sup> = a<sup>2</sup> - b<sup>2</sup>
+
+    Substituting the given values:
+
+    c<sup>2</sup> = 8<sup>2</sup> - 6<sup>2</sup>
+    c<sup>2</sup> = 64 - 36
+    c<sup>2</sup> = 28
+    c = √28 = 2√7 meters
+
+    Therefore, the keystone should be placed 2√7 meters from the center of the archway along the major axis.  Since √7 ≈ 2.65, the keystone is approximately 5.3 meters from the center.
+
+*   **Deriving the Equation of the Ellipse:**
+
+    The standard form of the equation of an ellipse centered at the origin with the major axis along the x-axis is:
+
+    x<sup>2</sup>/a<sup>2</sup> + y<sup>2</sup>/b<sup>2</sup> = 1
+
+    Substituting the values of *a* and *b*:
+
+    x<sup>2</sup>/8<sup>2</sup> + y<sup>2</sup>/6<sup>2</sup> = 1
+
+    **x<sup>2</sup>/64 + y<sup>2</sup>/36 = 1**
+
+    This is the equation of the ellipse in standard form.
+
+**Conclusion:**
+
+The distance of the keystone from the center of the archway is 2√7 meters (approximately 5.3 meters). The equation of the ellipse representing the archway in standard form is x<sup>2</sup>/64 + y<sup>2</sup>/36 = 1. The coordinate system is set with the origin at the center of the ellipse, the x-axis along the major axis, and the y-axis along the minor axis.
+
+3.  A hyperbola has its foci at (±5, 0) and passes through the point (3, 0). Determine the equation of the hyperbola in standard form. Then, find the length of its latus rectum and explain the significance of the latus rectum in relation to the shape of the hyperbola.
+Sample Answer:
+Here's a sample answer to the assignment question, suitable for CBSE Class 11-12 students, based on the provided NCERT content:
+
+**Answer:**
+
+**1. Determining the Equation of the Hyperbola:**
+
+Since the foci are at (±5, 0), the center of the hyperbola is at the origin (0, 0), and the hyperbola has a horizontal transverse axis (because the foci lie on the x-axis). Therefore, the standard form of the hyperbola's equation is:
+
+x²/a² - y²/b² = 1
+
+We know that the distance from the center to each focus is 'c', so c = 5. Thus, c² = 25.
+
+The hyperbola passes through the point (3, 0), which means this point satisfies the equation of the hyperbola.  Substituting x = 3 and y = 0 into the equation, we get:
+
+3²/a² - 0²/b² = 1
+9/a² = 1
+a² = 9
+a = 3
+
+We also know the relationship between a, b, and c for a hyperbola:  c² = a² + b². Substituting the values we know:
+
+25 = 9 + b²
+b² = 25 - 9
+b² = 16
+b = 4
+
+Therefore, the equation of the hyperbola is:
+
+**x²/9 - y²/16 = 1**
+
+**2. Finding the Length of the Latus Rectum:**
+
+The length of the latus rectum of a hyperbola is given by the formula:
+
+Latus Rectum = 2b²/a
+
+Substituting the values of a and b we found earlier (a=3, b=4):
+
+Latus Rectum = 2(4²)/3 = 2(16)/3 = 32/3
+
+Therefore, the length of the latus rectum is **32/3 units**.
+
+**3. Significance of the Latus Rectum:**
+
+The latus rectum is a line segment passing through a focus of the hyperbola, perpendicular to its transverse axis, with endpoints on the hyperbola. It provides important information about the "width" or "opening" of the hyperbola at the location of the focus.
+
+*   **Shape Indicator:** A longer latus rectum indicates a wider hyperbola near the foci. Conversely, a shorter latus rectum indicates a narrower hyperbola near the foci.
+
+*   **Focal Property Connection:** The latus rectum visually connects the focus to the shape of the hyperbola. It's the chord through the focus that is easiest to calculate and visualize.
+
+*   **Accuracy in Sketching:** When sketching a hyperbola, knowing the length of the latus rectum helps to accurately plot points that define the curve's shape, particularly around the focal points. You can easily plot the endpoints of the latus rectum by moving up and down a distance of b²/a from the focus.
+
+In summary, the latus rectum provides a quantitative measure of how "wide" or "narrow" the hyperbola is at its focal points, contributing to a more complete understanding and accurate representation of the hyperbola's shape.

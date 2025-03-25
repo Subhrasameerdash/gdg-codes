@@ -1,0 +1,173 @@
+1.  **Conceptual Application of Rate Laws and Reaction Order:** Consider a hypothetical reaction: 2A + B -> C. Experimentally, it's found that doubling the concentration of A increases the reaction rate by a factor of four, while doubling the concentration of B has no effect on the rate.
+Sample Answer:
+Here's a complete answer suitable for CBSE Class 11-12 students, addressing the given question using the provided NCERT chapter content:
+
+**Answer:**
+
+1.  **Determining the Rate Law:**
+
+    The rate law expresses the relationship between the rate of a reaction and the concentrations of the reactants.  We need to determine the exponents in the rate law based on the experimental data.  Let the rate law for the reaction 2A + B → C be:
+
+    `Rate = k[A]^x[B]^y`
+
+    where:
+
+    *   `k` is the rate constant
+    *   `[A]` and `[B]` are the concentrations of reactants A and B, respectively
+    *   `x` is the order of the reaction with respect to A
+    *   `y` is the order of the reaction with respect to B
+
+    We are given two pieces of information:
+
+    *   Doubling [A] increases the rate by a factor of four.  This means if we change [A] to 2[A], the new rate becomes 4 * (original rate).  Mathematically:
+
+        `4 * (k[A]^x[B]^y) = k(2[A])^x[B]^y`
+
+        Dividing both sides by `k[A]^x[B]^y` gives:
+
+        `4 = 2^x`
+
+        Therefore, `x = 2`.  The reaction is second order with respect to A.
+
+    *   Doubling [B] has no effect on the rate.  This means the rate is independent of the concentration of B. Mathematically:
+
+        `k[A]^x[2B]^y = k[A]^x[B]^y`
+
+        This is only true if y = 0.  The reaction is zero order with respect to B.
+
+    Therefore, the rate law for this reaction is:
+
+    `Rate = k[A]^2[B]^0 = k[A]^2`
+
+2.  **Reaction Order:**
+
+    *   The reaction is **second order with respect to A.** This means that the rate of the reaction is directly proportional to the square of the concentration of A.  If you triple [A], the rate will increase by a factor of nine (3<sup>2</sup>).
+
+    *   The reaction is **zero order with respect to B.** This means that changing the concentration of B will have no impact on the reaction rate. Even if B is a reactant, its concentration doesn't influence how quickly C is formed. This might happen if B is involved in a step *after* the rate-determining step, or if B acts as a catalyst in a complex reaction.
+
+    *   The **overall order** of the reaction is the sum of the individual orders: 2 + 0 = 2. The overall reaction is second order.
+
+3.  **Implications:**
+
+    The experimentally determined rate law `Rate = k[A]^2` tells us that the reaction mechanism likely involves A in the rate-determining step.  Since B has no effect, it either participates in a fast step *after* the rate-determining step, or it is not involved in the mechanism at all (contrary to the overall balanced equation). This is an important point to remember:  the stoichiometry of the balanced equation does *not* necessarily reflect the actual molecularity or rate law of the reaction. The rate law can only be determined experimentally. The rate law helps in postulating a plausible reaction mechanism.
+
+2.  **Activation Energy and Temperature Dependence:** Two different reactions, Reaction 1 and Reaction 2, have activation energies of 50 kJ/mol and 100 kJ/mol, respectively.
+Sample Answer:
+Here's a comprehensive answer to the assignment question, suitable for a CBSE Class 11-12 student studying chemical kinetics:
+
+**Question:** Two different reactions, Reaction 1 and Reaction 2, have activation energies of 50 kJ/mol and 100 kJ/mol, respectively.
+
+**(a) Which reaction is more sensitive to changes in temperature? Explain your reasoning.**
+
+**(b) At the same temperature, which reaction will have a larger rate constant? Explain your reasoning.**
+
+**Answer:**
+
+**(a) Temperature Sensitivity:**
+
+Reaction 2, with the higher activation energy (100 kJ/mol), is more sensitive to changes in temperature. Here's why:
+
+*   **Arrhenius Equation:** The relationship between the rate constant (k), activation energy (Ea), and temperature (T) is described by the Arrhenius equation:
+
+    ```
+    k = A * exp(-Ea / RT)
+    ```
+
+    Where:
+
+    *   k = rate constant
+    *   A = pre-exponential factor (frequency factor)
+    *   Ea = activation energy
+    *   R = gas constant (8.314 J/mol·K)
+    *   T = temperature (in Kelvin)
+
+*   **Exponential Dependence:** The rate constant (k) depends exponentially on the activation energy (Ea) divided by RT.  This exponential term,  `exp(-Ea / RT)`, is crucial.
+
+*   **Impact of Ea:** A larger activation energy means that the exponent (-Ea/RT) is a larger negative number.  Therefore, even a small change in temperature (T) will cause a more significant change in the value of `exp(-Ea / RT)` when Ea is large.
+
+*   **Explanation with an Example:** Think of it like this: A small change in 'x' in e<sup>-x</sup> will have a bigger impact when 'x' is a larger number.  Similarly, a small temperature change will have a much larger effect on the rate constant of a reaction with a high activation energy.
+
+*   **In simpler terms:** Reaction 2 needs more energy to get started. So, when the temperature increases, providing more energy, Reaction 2's rate will increase more significantly than Reaction 1, which already had a lower energy barrier to overcome.
+
+**Therefore, because Reaction 2 has a higher activation energy, it is more sensitive to temperature changes.**
+
+**(b) Rate Constant at the Same Temperature:**
+
+At the *same* temperature, Reaction 1, with the lower activation energy (50 kJ/mol), will have a larger rate constant (k). Here's the reasoning:
+
+*   **Arrhenius Equation Revisited:**  Again, consider the Arrhenius equation: `k = A * exp(-Ea / RT)`
+
+*   **Inverse Relationship:** The rate constant (k) is *inversely* related to the activation energy (Ea) in the exponential term.  A smaller Ea means a smaller negative exponent (-Ea/RT).
+
+*   **Larger Exponential Value:**  A smaller negative exponent (like -Ea/RT when Ea is small) results in a *larger* value for the `exp(-Ea / RT)` term.
+
+*   **Direct Proportionality:** Since 'k' is directly proportional to `exp(-Ea / RT)`, a larger value of `exp(-Ea / RT)`  means a larger rate constant 'k'.
+
+*   **Pre-exponential Factor Consideration** We are assuming that pre-exponential factor 'A' is same or comparable for both reactions. 'A' relates to the frequency of collisions and the orientation factor, and if these are relatively similar, the activation energy will be the dominant factor in determining the rate constant.
+
+**In summary, at the same temperature, the reaction with the lower activation energy (Reaction 1) will have a larger rate constant and proceed faster, assuming similar pre-exponential factors.**
+
+3.  **Reaction Mechanisms and Rate Determining Step:** A complex reaction proceeds through the following proposed mechanism:
+Sample Answer:
+Okay, I need the proposed mechanism to answer the question completely. However, I can provide a general explanation of reaction mechanisms and the rate-determining step, and then illustrate with a *hypothetical* mechanism. Once you provide the *actual* mechanism from the NCERT chapter, I can give you a specific answer.
+
+**General Explanation: Reaction Mechanisms and the Rate-Determining Step**
+
+Most chemical reactions don't happen in a single step. Instead, they occur through a series of elementary steps called a **reaction mechanism**.  Each elementary step involves one or more molecules colliding and rearranging to form products. The sequence of these steps describes the pathway from reactants to products.
+
+*   **Elementary Step:** A single step in a reaction mechanism.  Elementary steps are characterized by their **molecularity** (unimolecular, bimolecular, termolecular), which is the number of molecules involved in that particular step.
+
+*   **Overall Reaction:** The sum of all the elementary steps in the mechanism.  When you add up all the elementary steps, any species that appear on both the reactant and product side cancel out. These are called **intermediates**. Intermediates are formed in one step and consumed in a subsequent step and are *not* present in the overall balanced equation.
+
+*   **Rate-Determining Step (RDS):** This is the *slowest* step in the reaction mechanism. The rate of the overall reaction cannot be faster than the rate of the slowest step. Therefore, the rate-determining step controls the overall rate of the reaction. The rate law for the overall reaction is determined by the rate law of the rate-determining step.
+
+**How to Identify the Rate-Determining Step and Write the Rate Law:**
+
+1.  **Identify the elementary steps:** Recognize each step in the proposed mechanism.
+2.  **Determine the relative rates:** The problem will often tell you which step is slow (the RDS). If not explicitly stated, you may have to make assumptions based on experimental data or knowledge of reaction types.
+3.  **Write the rate law for the RDS:** The rate law for an elementary step can be written directly from its molecularity. For example:
+
+    *   If the RDS is A + B → products, the rate law is Rate = k[A][B]
+    *   If the RDS is 2A → products, the rate law is Rate = k[A]<sup>2</sup>
+    *   If the RDS is A → products, the rate law is Rate = k[A]
+4.  **Check for Intermediates:** The rate law should *only* contain reactants from the overall reaction. If the rate law for the RDS contains an intermediate, you need to use the equilibrium of a *fast* step *before* the RDS to express the concentration of the intermediate in terms of the reactants. Substitute this expression into the rate law of the RDS.
+5.  **The rate law for the RDS is the rate law for the overall reaction.**
+
+**Hypothetical Example (Illustrative):**
+
+Let's say we have the overall reaction:
+
+2A + B  →  C + D
+
+And the proposed mechanism is:
+
+Step 1:  A + B  ⇌  X  (fast, equilibrium)
+Step 2:  X + A  →  C + D  (slow, rate-determining)
+
+**Analysis:**
+
+1.  **Elementary Steps:** We have two elementary steps.
+
+2.  **Rate-Determining Step:** Step 2 is given as the rate-determining step.
+
+3.  **Rate Law for the RDS:** Rate = k<sub>2</sub>[X][A]  (where k<sub>2</sub> is the rate constant for step 2)
+
+4.  **Check for Intermediates:**  X is an intermediate. It's formed in Step 1 and consumed in Step 2. We need to express [X] in terms of the reactants (A and B). Since Step 1 is a fast equilibrium, we can write:
+
+    K<sub>eq</sub> = [X] / ([A][B])   (where K<sub>eq</sub> is the equilibrium constant for step 1)
+
+    Therefore, [X] = K<sub>eq</sub>[A][B]
+
+5.  **Substitute for the Intermediate:**  Substitute the expression for [X] into the rate law:
+
+    Rate = k<sub>2</sub> (K<sub>eq</sub>[A][B]) [A]
+
+    Rate = (k<sub>2</sub>K<sub>eq</sub>) [A]<sup>2</sup>[B]
+
+    Since k<sub>2</sub> and K<sub>eq</sub> are both constants, we can combine them into a single rate constant, k:
+
+    **Rate = k[A]<sup>2</sup>[B]**
+
+**Therefore, the rate law for the overall reaction, based on this mechanism, is Rate = k[A]<sup>2</sup>[B].**
+
+**Once you provide the *actual* mechanism from the chapter, I can replace this hypothetical example with a complete and accurate answer specific to your assignment.** I will clearly identify the rate-determining step, write the rate law for that step, address any intermediates, and provide the overall rate law for the reaction based on the proposed mechanism.

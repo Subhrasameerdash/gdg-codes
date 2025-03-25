@@ -1,0 +1,451 @@
+Okay, here are sample student answers for the provided assignment questions, tailored for CBSE Class 11-12, based on the NCERT content provided. I've aimed for clarity, accuracy, and structure appropriate for the marks allocated.
+
+**=== Short Questions (2 marks each) ===**
+
+**1. Question 1:** Define a "set" in your own words. Give two examples of collections that are sets and two examples of collections that are *not* sets, explaining why.
+
+**Answer:**
+
+A set is a well-defined collection of distinct objects, meaning there's a clear criterion for determining whether an object belongs to the set or not.
+
+*   **Examples of Sets:**
+    *   The set of vowels in the English alphabet: {A, E, I, O, U} (Well-defined and distinct)
+    *   The set of prime numbers less than 10: {2, 3, 5, 7} (Well-defined and distinct)
+
+*   **Examples of Collections that are NOT Sets:**
+    *   The collection of "tall" students in a class. (Not well-defined because "tall" is subjective).
+    *   The collection of "good" cricket players in a team. (Not well-defined because "good" is subjective and depends on the criteria used).
+
+**2. Question 2:** Write the following set in roster form: A = {x : x is an integer and -3 ≤ x < 4}. Also, state whether this set is finite or infinite.
+
+**Answer:**
+
+Roster form: A = {-3, -2, -1, 0, 1, 2, 3}
+
+The set is **finite** because it has a limited number of elements (7 elements).
+
+**3. Question 3:** Write the following set in set-builder form: B = {1, 4, 9, 16, 25}.
+
+**Answer:**
+
+Set-builder form: B = {x : x = n², where n is a natural number and 1 ≤ n ≤ 5}
+(or equivalent)
+
+**4. Question 4:** If A = {1, 2, 3} and B = {2, 3, 4}, find A ∪ B and A ∩ B.
+
+**Answer:**
+
+*   A ∪ B = {1, 2, 3, 4} (Union combines all elements from both sets)
+*   A ∩ B = {2, 3} (Intersection finds the common elements)
+
+**5. Question 5:** Let U = {1, 2, 3, 4, 5, 6, 7, 8} be the universal set and A = {2, 4, 6}. Find A'. What does A' represent?
+
+**Answer:**
+
+A' = {1, 3, 5, 7, 8}
+
+A' (A complement) represents the set of all elements in the universal set U that are *not* in A.
+
+**6. Question 6:** If A = {a, b} , write down all the possible subsets of A. What is the power set of A?
+
+**Answer:**
+
+Subsets of A: {}, {a}, {b}, {a, b}
+
+Power set of A: P(A) = { {}, {a}, {b}, {a, b} } (The set of all subsets of A)
+
+**7. Question 7:** Using Venn diagrams, illustrate the relationship between sets A, B, and C if A ⊆ B and B ⊆ C.
+
+**Answer:**
+
+[Imagine a Venn Diagram here]
+
+Draw three concentric circles. The innermost circle represents set A, the middle circle represents set B, and the outermost circle represents set C. This visually shows that all elements of A are also in B, and all elements of B are also in C.  (Description sufficient for 2 marks).
+
+**8. Question 8:** If A and B are two sets such that A ⊆ B, then what is A ∪ B? Justify your answer.
+
+**Answer:**
+
+A ∪ B = B
+
+Justification: If A is a subset of B, then all elements of A are already in B.  Therefore, when you combine the elements of A and B (A ∪ B), you simply get all the elements of B.
+
+**9. Question 9:** Given A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find A - B and B - A. What do these operations represent?
+
+**Answer:**
+
+*   A - B = {1, 2}
+*   B - A = {5, 6}
+
+A - B represents the set of elements that are in A but *not* in B.
+B - A represents the set of elements that are in B but *not* in A.
+
+**10. Question 10:** Are the sets A = {x : x is a letter in the word "FOLLOW"} and B = {x : x is a letter in the word "WOLF"} equal? Justify your answer.
+
+**Answer:**
+
+No, the sets are not equal.
+
+*   A = {F, O, L, W}
+*   B = {W, O, L, F}
+
+Although both sets contain the same letters, a set only lists each unique element once.  While they contain the same *elements*, the sets are considered equal.
+**=== Focused Questions (5 marks each) ===**
+
+**1. Question 1:** Define a set. Explain the difference between roster form and set-builder form with suitable examples. For each representation, provide an example of a set with at least 4 elements.
+
+**Answer:**
+
+A **set** is a well-defined collection of distinct objects. "Well-defined" means there is a clear criterion for determining whether an object belongs to the set or not. The objects in a set are called its elements or members. (1 mark)
+
+**Roster Form vs. Set-Builder Form:** (2 marks)
+
+*   **Roster Form:** This method represents a set by listing all its elements within curly braces `{}`, separated by commas. Order doesn't matter, and elements are listed only once. Example: {1, 2, 3, 4}.
+*   **Set-Builder Form:** This method describes the set by specifying a property or condition that all its elements must satisfy. It uses the notation {x : P(x)}, which means "the set of all x such that x satisfies property P".
+
+**Examples with at least 4 elements:** (2 marks)
+
+*   **Roster Form:**  C = {2, 4, 6, 8, 10} (Set of even numbers less than or equal to 10)
+*   **Set-Builder Form:** D = {x : x is a multiple of 3 and 0 < x < 15} (Set of multiples of 3 between 0 and 15).
+
+**2. Question 2:** Given the universal set U = {x : x ∈ N and x ≤ 12}, A = {2, 4, 6, 8, 10}, and B = {3, 6, 9, 12}. Find A', B', A ∪ B, and A ∩ B. Verify that (A ∪ B)' = A' ∩ B'. Explain the significance of this result.
+
+**Answer:**
+
+First, list U in roster form: U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} (0.5 mark)
+
+*   A' = {1, 3, 5, 7, 9, 11, 12} (Elements in U but not in A) (0.5 mark)
+*   B' = {1, 2, 4, 5, 7, 8, 10, 11} (Elements in U but not in B) (0.5 mark)
+*   A ∪ B = {2, 3, 4, 6, 8, 9, 10, 12} (All elements in A or B or both) (0.5 mark)
+*   A ∩ B = {6} (Elements common to both A and B) (0.5 mark)
+
+Verification: (A ∪ B)' = A' ∩ B' (1 mark)
+
+*   (A ∪ B)' = {1, 5, 7, 11} (Elements in U but not in A ∪ B)
+*   A' ∩ B' = {1, 5, 7, 11} (Elements common to both A' and B')
+
+Since (A ∪ B)' = {1, 5, 7, 11} and A' ∩ B' = {1, 5, 7, 11}, we have verified that (A ∪ B)' = A' ∩ B'.
+
+Significance: (1.5 marks)
+
+This result illustrates De Morgan's Law. De Morgan's Laws provide a relationship between union, intersection, and complement operations on sets.  Specifically, it states that the complement of the union of two sets is equal to the intersection of their complements. This is a fundamental concept in set theory and logic.
+
+**3. Question 3:** What is a power set? If a set A has *n* elements, how many elements are in its power set? Justify your answer. Give an example of a set with 3 elements and write down its power set.
+
+**Answer:**
+
+A **power set** is the set of all possible subsets of a given set, including the empty set and the set itself.  (1 mark)
+
+If a set A has *n* elements, then its power set, P(A), has 2<sup>n</sup> elements. (1 mark)
+
+Justification: (1 mark)
+
+Each element in the original set A can either be in a subset or not be in a subset. This gives us two choices for each element. Since there are *n* elements, the total number of possible subsets is 2 * 2 * ... * 2 (*n* times), which equals 2<sup>n</sup>.
+
+Example: (2 marks)
+
+Let A = {a, b, c}  (n = 3)
+
+The power set of A is:
+P(A) = { {}, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c} }
+
+Notice that P(A) has 2<sup>3</sup> = 8 elements.
+
+**4. Question 4:** Using Venn diagrams, prove that A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C). Explain each step of your proof clearly with labeled Venn diagrams illustrating the sets involved.
+
+**Answer:**
+
+[Imagine Venn Diagrams here. The description must be very detailed.]
+
+We will prove this using Venn diagrams. We'll draw three overlapping circles representing sets A, B, and C within a rectangle representing the universal set U. (1 mark for describing the setup)
+
+**Step 1: Illustrate A ∪ (B ∩ C)** (2 marks)
+
+*   First, shade the region representing B ∩ C (the intersection of B and C). This is the area where B and C overlap.
+*   Next, shade the region representing A.
+*   A ∪ (B ∩ C) is the union of the shaded regions from the previous two steps. It includes all of A plus the intersection of B and C.
+
+**Step 2: Illustrate (A ∪ B) ∩ (A ∪ C)** (2 marks)
+
+*   First, shade the region representing A ∪ B (the union of A and B). This includes all of A and all of B.
+*   Next, shade the region representing A ∪ C (the union of A and C). This includes all of A and all of C.
+*   (A ∪ B) ∩ (A ∪ C) is the intersection of the shaded regions from the previous two steps. This means we only keep the area that is shaded in BOTH A ∪ B and A ∪ C.  This area will be all of A, plus the overlapping region of B and C.
+
+**Conclusion:**
+
+By comparing the final shaded regions in Step 1 and Step 2, you'll see that they are identical. Therefore, A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C).
+
+**5. Question 5:** In a survey of 100 students, 45 read mathematics, 52 read physics, and 15 read both mathematics and physics. Find how many students read (i) mathematics only, (ii) physics only, (iii) none of the subjects. Use set theory notation and formulas to solve the problem.
+
+**Answer:**
+
+Let: (0.5 mark)
+*   U = Set of all students surveyed (n(U) = 100)
+*   M = Set of students who read mathematics (n(M) = 45)
+*   P = Set of students who read physics (n(P) = 52)
+*   M ∩ P = Set of students who read both mathematics and physics (n(M ∩ P) = 15)
+
+(i) Mathematics only: (1.5 marks)
+n(M only) = n(M) - n(M ∩ P) = 45 - 15 = 30
+Therefore, 30 students read only mathematics.
+
+(ii) Physics only: (1.5 marks)
+n(P only) = n(P) - n(M ∩ P) = 52 - 15 = 37
+Therefore, 37 students read only physics.
+
+(iii) None of the subjects: (1.5 marks)
+We use the principle of inclusion-exclusion:
+n(M ∪ P) = n(M) + n(P) - n(M ∩ P) = 45 + 52 - 15 = 82
+This means 82 students read either mathematics or physics or both.
+Students who read neither subject are in the complement of (M ∪ P), so:
+n((M ∪ P)') = n(U) - n(M ∪ P) = 100 - 82 = 18
+Therefore, 18 students read neither mathematics nor physics.
+
+**6. Question 6:** Define subset. If A and B are two sets such that A ⊆ B, what can you say about (i) A ∪ B and (ii) A ∩ B? Justify your answer with examples. Also, explain when two sets are considered equal.
+
+**Answer:**
+
+A **subset** (A ⊆ B) means that every element of set A is also an element of set B. (1 mark)
+
+If A ⊆ B, then:
+
+(i) A ∪ B = B (1 mark)
+Justification: Since all elements of A are already in B, combining A and B simply results in B.
+Example: A = {1, 2}, B = {1, 2, 3}. A ∪ B = {1, 2, 3} = B
+
+(ii) A ∩ B = A (1 mark)
+Justification: Since all elements of A are also in B, the common elements between A and B are just the elements of A.
+Example: A = {1, 2}, B = {1, 2, 3}. A ∩ B = {1, 2} = A
+
+Two sets are considered **equal** if and only if they contain exactly the same elements.  The order of elements doesn't matter, but each distinct element must be present in both sets. Formally, A = B if and only if A ⊆ B and B ⊆ A. (2 marks)
+
+**7. Question 7:** Let A = {1, 2, {3, 4}, 5}. Determine which of the following statements are true or false: (i) {3, 4} ∈ A (ii) {3, 4} ⊆ A (iii) {{3, 4}} ⊆ A (iv) 1 ∈ A (v) {1} ⊆ A. Explain your reasoning for each answer.
+
+**Answer:**
+
+(i) {3, 4} ∈ A: **True** (1 mark)
+Reasoning: {3, 4} is an element of the set A. It's treated as a single object within A.
+
+(ii) {3, 4} ⊆ A: **False** (1 mark)
+Reasoning: For {3, 4} to be a subset of A, both 3 and 4 would need to be individual elements of A.  However, A contains {3, 4} as a single element, not 3 and 4 separately.
+
+(iii) {{3, 4}} ⊆ A: **True** (1 mark)
+Reasoning: {{3, 4}} is a set containing the element {3, 4}. Since {3, 4} is an element of A, the set {{3, 4}} is a subset of A.
+
+(iv) 1 ∈ A: **True** (1 mark)
+Reasoning: 1 is an element of the set A.
+
+(v) {1} ⊆ A: **True** (1 mark)
+Reasoning: {1} is a set containing the element 1. Since 1 is an element of A, the set {1} is a subset of A.
+
+**8. Question 8:** Let R be the set of real numbers and Q be the set of rational numbers. Describe the set R - Q. What is this set commonly known as? Provide three examples of elements belonging to R-Q.
+
+**Answer:**
+
+R - Q is the set of all real numbers that are *not* rational numbers. (2 marks)
+
+This set is commonly known as the set of **irrational numbers**. (1 mark)
+
+Examples of elements belonging to R - Q: (2 marks)
+
+*   √2 (square root of 2)
+*   π (pi)
+*   e (Euler's number)
+
+**9. Question 9:** Using set-builder notation, represent the following sets: (i) The set of all multiples of 5 less than 50 (ii) The set of all perfect squares less than 100 (iii) The set of all prime numbers between 20 and 50. Explain why set-builder notation is useful for representing infinite sets.
+
+**Answer:**
+
+(i) The set of all multiples of 5 less than 50: (1 mark)
+{x : x = 5n, where n ∈ N and n < 10}
+
+(ii) The set of all perfect squares less than 100: (1 mark)
+{x : x = n², where n ∈ N and n < 10}
+
+(iii) The set of all prime numbers between 20 and 50: (1 mark)
+{x : x is a prime number and 20 < x < 50}
+
+Explanation: (2 marks)
+
+Set-builder notation is particularly useful for representing infinite sets because it allows us to define the set by a property rather than listing all its infinitely many elements. Listing all the elements of an infinite set is impossible, but defining it by a property allows us to specify exactly which elements belong to the set, even if we can't list them all.
+
+**10. Question 10:** If A and B are two disjoint sets, what is the relationship between A and B? What is the value of A ∩ B in this case? Provide a real-world example of two disjoint sets. Using a Venn diagram, represent two overlapping sets and two disjoint sets, highlighting the key differences.
+
+**Answer:**
+
+If A and B are two disjoint sets, it means that they have no elements in common. (1 mark)
+
+In this case, the value of A ∩ B is the empty set, ∅. (1 mark)
+
+Real-world example: (1 mark)
+
+The set of even numbers and the set of odd numbers are disjoint sets because no number can be both even and odd.
+
+[Imagine two Venn Diagrams here] (2 marks)
+
+*   **Overlapping Sets:** Draw two circles that intersect. The overlapping region represents the elements that are common to both sets.
+*   **Disjoint Sets:** Draw two circles that do not intersect at all. This visually represents that the sets have no elements in common.
+
+The key difference in the Venn diagrams is the presence (overlapping) or absence (disjoint) of an intersection region.
+**=== Long Questions (10 marks each) ===**
+
+**1. Question 1:**
+
+**(a) Define a set. Explain the difference between roster form and set-builder form with suitable examples. Provide two examples of each form. (4 marks)**
+
+**Answer:**
+
+A **set** is a well-defined collection of distinct objects. "Well-defined" means that there is a clear criterion for determining whether an object belongs to the collection or not. The objects in a set are called its elements or members. (1 mark)
+
+**Roster Form vs. Set-Builder Form:** (1 mark)
+
+*   **Roster Form:** This method represents a set by listing all its elements within curly braces `{}`, separated by commas. Order doesn't matter, and elements are listed only once.
+*   **Set-Builder Form:** This method describes the set by specifying a property or condition that all its elements must satisfy. It uses the notation {x : P(x)}, which means "the set of all x such that x satisfies property P".
+
+**Examples:** (2 marks)
+
+*   **Roster Form:**
+    *   A = {1, 2, 3, 4} (The set of first four natural numbers)
+    *   B = {a, e, i, o, u} (The set of vowels in the English alphabet)
+*   **Set-Builder Form:**
+    *   C = {x : x is an even natural number less than 10}
+    *   D = {x : x is a prime number and x < 20}
+
+**(b) Given the universal set U = {x : x is a natural number less than or equal to 20}, A = {x : x is a multiple of 2}, and B = {x : x is a multiple of 3}. Find:**
+
+**(i) A ∪ B**
+**(ii) A ∩ B**
+**(iii) A - B**
+**(iv) B - A**
+**(v) A' (6 marks)**
+
+**Answer:**
+
+First, list U, A, and B in roster form:
+U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+A = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}
+B = {3, 6, 9, 12, 15, 18}
+(0.5 mark for listing the sets)
+
+(i) A ∪ B = {2, 3, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20} (1 mark)
+
+(ii) A ∩ B = {6, 12, 18} (1 mark)
+
+(iii) A - B = {2, 4, 8, 10, 14, 16, 20} (1 mark)
+
+(iv) B - A = {3, 9, 15} (1 mark)
+
+(v) A' = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19} (1.5 marks)
+
+**2. Question 2:**
+
+**(a) Explain the concepts of subsets and power sets. If a set A has 'n' elements, what is the total number of subsets and the total number of proper subsets of A? Justify your answer. (4 marks)**
+
+**Answer:**
+
+**Subset:** Set A is a subset of set B (denoted A ⊆ B) if every element of A is also an element of B. In other words, if x ∈ A, then x ∈ B.  (1 mark)
+
+**Power Set:** The power set of a set A, denoted P(A), is the set of all possible subsets of A, including the empty set and the set A itself. (1 mark)
+
+If a set A has 'n' elements:
+
+*   Total number of subsets of A = 2<sup>n</sup> (1 mark)
+    Justification: Each of the 'n' elements can either be in a subset or not be in a subset, giving us 2 choices for each element. Therefore, the total number of possible subsets is 2 * 2 * ... * 2 (n times), which equals 2<sup>n</sup>.
+*   Total number of proper subsets of A = 2<sup>n</sup> - 1 (1 mark)
+    Justification: A proper subset is a subset that is not equal to the original set A.  Therefore, we take the total number of subsets (2<sup>n</sup>) and subtract 1 to exclude the set A itself.
+
+**(b) Using Venn diagrams, prove the following:**
+
+**(i) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)**
+**(ii) (A ∪ B)' = A' ∩ B' (De Morgan's Law) (6 marks)**
+
+**Answer:**
+
+**(i) A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)** (3 marks)
+
+[Imagine Venn Diagrams here. The description must be very detailed.]
+
+We will draw three overlapping circles representing sets A, B, and C within a rectangle representing the universal set U.
+
+*   **Step 1: Illustrate A ∪ (B ∩ C)**
+    *   First, shade the region representing B ∩ C (the intersection of B and C).
+    *   Next, shade the region representing A.
+    *   A ∪ (B ∩ C) is the union of the shaded regions from the previous two steps.
+
+*   **Step 2: Illustrate (A ∪ B) ∩ (A ∪ C)**
+    *   First, shade the region representing A ∪ B (the union of A and B).
+    *   Next, shade the region representing A ∪ C (the union of A and C).
+    *   (A ∪ B) ∩ (A ∪ C) is the intersection of the shaded regions from the previous two steps.
+
+By comparing the final shaded regions in Step 1 and Step 2, you'll see that they are identical. Therefore, A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C).
+
+**(ii) (A ∪ B)' = A' ∩ B' (De Morgan's Law)** (3 marks)
+
+[Imagine Venn Diagrams here. The description must be very detailed.]
+
+Draw two overlapping circles representing sets A and B within a rectangle representing the universal set U.
+
+*   **Step 1: Illustrate (A ∪ B)'**
+    *   First, shade the region representing A ∪ B (the union of A and B).
+    *   (A ∪ B)' is the region *outside* the shaded region in the previous step.  This is the complement of (A ∪ B).
+
+*   **Step 2: Illustrate A' ∩ B'**
+    *   First, shade the region representing A' (the complement of A). This is everything *outside* circle A.
+    *   Next, shade the region representing B' (the complement of B). This is everything *outside* circle B.
+    *   A' ∩ B' is the intersection of the shaded regions from the previous two steps. This is the region that is shaded in BOTH A' and B'.
+
+By comparing the final shaded regions in Step 1 and Step 2, you'll see that they are identical. Therefore, (A ∪ B)' = A' ∩ B'.
+
+**3. Question 3:**
+
+**(a) Define the following with examples:**
+
+**(i) Empty Set**
+**(ii) Finite Set**
+**(iii) Infinite Set**
+**(iv) Equivalent Sets (4 marks)**
+
+**Answer:**
+
+**(i) Empty Set:** A set containing no elements. It is denoted by ∅ or {}.
+Example: The set of natural numbers less than 1. (1 mark)
+
+**(ii) Finite Set:** A set with a limited number of elements. The number of elements can be counted.
+Example: The set of days in a week: {Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday}. (1 mark)
+
+**(iii) Infinite Set:** A set with an unlimited number of elements. The number of elements cannot be counted.
+Example: The set of natural numbers: {1, 2, 3, 4, ...}. (1 mark)
+
+**(iv) Equivalent Sets:** Two sets A and B are equivalent if they have the same number of elements, i.e., their cardinalities are equal (n(A) = n(B)). The elements themselves don't need to be the same.
+Example: A = {1, 2, 3} and B = {a, b, c}.  Both sets have 3 elements, so they are equivalent. (1 mark)
+
+**(b) In a survey of 100 students, it was found that 40 students read newspaper A, 50 read newspaper B, and 20 read both newspapers.**
+
+**(i) How many students read neither newspaper A nor newspaper B?**
+**(ii) How many students read only newspaper A?**
+**(iii) How many students read only newspaper B? (6 marks)**
+
+**Answer:**
+
+Let:
+*   U = Set of all students surveyed (n(U) = 100)
+*   A = Set of students who read newspaper A (n(A) = 40)
+*   B = Set of students who read newspaper B (n(B) = 50)
+*   A ∩ B = Set of students who read both newspapers (n(A ∩ B) = 20)
+(0.5 mark for notation)
+
+**(i) How many students read neither newspaper A nor newspaper B?** (2 marks)
+We use the principle of inclusion-exclusion:
+n(A ∪ B) = n(A) + n(B) - n(A ∩ B) = 40 + 50 - 20 = 70
+This means 70 students read either newspaper A or newspaper B or both.
+Students who read neither newspaper are in the complement of (A ∪ B), so:
+n((A ∪ B)') = n(U) - n(A ∪ B) = 100 - 70 = 30
+Therefore, 30 students read neither newspaper A nor newspaper B.
+
+**(ii) How many students read only newspaper A?** (1.5 marks)
+n(A only) = n(A) - n(A ∩ B) = 40 - 20 = 20
+Therefore, 20 students read only newspaper A.
+
+**(iii) How many students read only newspaper B?** (2 marks)
+n(B only) = n(B) - n(A ∩ B) = 50 - 20 = 30
+Therefore, 30 students read only newspaper B.

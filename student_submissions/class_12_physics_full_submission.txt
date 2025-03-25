@@ -1,0 +1,309 @@
+Okay, here are sample student answers for the provided assignment questions, designed to be clear, concise, and accurate, suitable for CBSE Class 11-12 students.
+
+**=== Short Questions (2 marks each) ===**
+
+**1. Question 1: Define electric charge and state the principle that governs the force between two point charges.**
+
+**Answer:** Electric charge is a fundamental property of matter that causes it to experience a force when placed in an electromagnetic field. The principle governing the force between two point charges is Coulomb's Law.
+
+**2. Question 2: Explain, in your own words, what is meant by an 'electric field' at a point in space. How is its direction defined?**
+
+**Answer:** An electric field is a region of space surrounding an electric charge where another charge would experience a force.  Its direction is defined as the direction of the force that would be exerted on a positive test charge placed at that point.
+
+**3. Question 3: Two charges of +2μC and -4μC are placed a certain distance apart. Qualitatively describe the nature of the force between them (attractive or repulsive) and explain why.**
+
+**Answer:** The force between them is attractive.  This is because opposite charges attract each other, while like charges repel.
+
+**4. Question 4: Define electric potential. What is its SI unit?**
+
+**Answer:** Electric potential is the amount of work required to move a unit positive charge from a reference point (usually infinity) to a specific point in an electric field.  Its SI unit is the Volt (V).
+
+**5. Question 5: A parallel plate capacitor is charged. How does the stored energy change if the distance between the plates is doubled while keeping the charge constant? Briefly explain your reasoning.**
+
+**Answer:** The stored energy doubles. Since the charge is constant, Q is constant.  Energy U = Q^2/(2C), and capacitance C = ε₀A/d. So, U = Q^2 * d / (2ε₀A).  If d is doubled, U doubles.
+
+**6. Question 6: Define the term 'capacitance' of a capacitor. On what factors does the capacitance of a parallel plate capacitor depend?**
+
+**Answer:** Capacitance is a measure of a capacitor's ability to store electric charge.  The capacitance of a parallel plate capacitor depends on the area of the plates (A), the distance between the plates (d), and the permittivity of the medium between the plates (ε).
+
+**7. Question 7: State Coulomb's Law in mathematical form and define all the terms used in the equation.**
+
+**Answer:** Coulomb's Law:  F = k * |q1 * q2| / r², where:
+*   F is the electrostatic force between the charges
+*   k is Coulomb's constant (approximately 9 x 10^9 Nm²/C²)
+*   q1 and q2 are the magnitudes of the two charges
+*   r is the distance between the charges
+
+**8. Question 8: A charge of 5 x 10^-6 C is placed in an electric field. If it experiences a force of 2 x 10^-3 N, what is the magnitude of the electric field at that point?**
+
+**Answer:** E = F/q = (2 x 10^-3 N) / (5 x 10^-6 C) = 400 N/C.
+
+**9. Question 9: Explain the difference between electric potential and potential energy.**
+
+**Answer:** Electric potential is the potential energy *per unit charge* at a point in an electric field. Potential energy is the energy a charge possesses due to its position in an electric field.  Potential is a property of the *location*, while potential energy is a property of a *charge at that location*.
+
+**10. Question 10: Two capacitors, C1 and C2, are connected in parallel to a battery. Which quantity (charge or voltage) will be the same for both capacitors? Briefly explain your answer.**
+
+**Answer:** The voltage will be the same for both capacitors. In a parallel connection, the voltage across each component is equal to the voltage of the source. The charge will be different if C1 and C2 have different capacitances.
+
+**=== Focused Questions (5 marks each) ===**
+
+**1. Question 1: Two point charges, +8 μC and -4 μC, are located 20 cm apart in a vacuum.
+(a) Determine the electric field at the midpoint of the line joining the two charges.
+(b) Calculate the potential at that midpoint. Explain whether the electric field and electric potential are vector or scalar quantities, justifying why this makes sense in the context of your calculations.**
+
+**Answer:**
+
+(a)  Let the distance from each charge to the midpoint be r = 10 cm = 0.1 m.
+Electric field due to +8μC: E₁ = k * q₁ / r² = (9 x 10⁹ Nm²/C²) * (8 x 10⁻⁶ C) / (0.1 m)² = 7.2 x 10⁶ N/C (away from +8μC)
+Electric field due to -4μC: E₂ = k * |q₂| / r² = (9 x 10⁹ Nm²/C²) * (4 x 10⁻⁶ C) / (0.1 m)² = 3.6 x 10⁶ N/C (towards -4μC)
+Since both fields point in the same direction (towards the -4μC charge), the total electric field is: E = E₁ + E₂ = 7.2 x 10⁶ N/C + 3.6 x 10⁶ N/C = 10.8 x 10⁶ N/C towards the -4μC charge.
+
+(b) Potential due to +8μC: V₁ = k * q₁ / r = (9 x 10⁹ Nm²/C²) * (8 x 10⁻⁶ C) / (0.1 m) = 7.2 x 10⁵ V
+Potential due to -4μC: V₂ = k * q₂ / r = (9 x 10⁹ Nm²/C²) * (-4 x 10⁻⁶ C) / (0.1 m) = -3.6 x 10⁵ V
+Total potential: V = V₁ + V₂ = 7.2 x 10⁵ V - 3.6 x 10⁵ V = 3.6 x 10⁵ V
+
+Electric field is a *vector* because it has both magnitude and direction.  We had to consider the direction of the fields from each charge to find the net field. Electric potential is a *scalar* because it is simply a measure of the potential energy per unit charge and has no direction associated with it; we just summed the potentials directly.
+
+**2. Question 2: A parallel plate capacitor with air between the plates has a capacitance of 4 pF. If the distance between the plates is doubled and a dielectric material of dielectric constant K = 3 is inserted between the plates, what will be the new capacitance? Explain the effect of the dielectric material on the capacitance and why the distance alteration impacts capacitance.**
+
+**Answer:**
+Initial capacitance: C₁ = 4 pF.  C₁ = ε₀A/d
+
+New distance: d' = 2d
+New dielectric constant: K = 3
+
+New capacitance: C₂ = Kε₀A/d' = (3 * ε₀A) / (2d) = (3/2) * (ε₀A/d) = (3/2) * C₁ = (3/2) * 4 pF = 6 pF
+
+A dielectric material increases the capacitance because it reduces the electric field between the plates for a given charge. This allows the capacitor to store more charge at the same voltage. Increasing the distance between the plates decreases the capacitance because the electric field between the plates is weakened, requiring more charge to achieve the same voltage.
+
+**3. Question 3: Three capacitors of capacitances 2 μF, 3 μF, and 6 μF are connected in series to a 12V battery.
+(a) Calculate the equivalent capacitance of the combination.
+(b) Determine the charge on each capacitor. Explain why the charge is the same on each capacitor in a series combination.**
+
+**Answer:**
+
+(a) For capacitors in series: 1/Ceq = 1/C₁ + 1/C₂ + 1/C₃
+1/Ceq = 1/(2 μF) + 1/(3 μF) + 1/(6 μF) = (3 + 2 + 1) / (6 μF) = 6 / (6 μF) = 1/(1 μF)
+Ceq = 1 μF
+
+(b)  The charge on each capacitor is the same in a series combination. This is because the battery pulls a charge Q from one plate of the first capacitor, leaving an equal and opposite charge -Q on the other plate. This -Q induces a charge +Q on the first plate of the second capacitor, and so on. Since the capacitors are connected end-to-end, the amount of charge moved is the same for all capacitors.
+
+Q = Ceq * V = (1 μF) * (12 V) = 12 μC. Therefore, each capacitor has a charge of 12 μC.
+
+**4. Question 4: A copper wire has a resistance of 10 ohms at 20°C. If the temperature coefficient of resistance for copper is 0.004 °C⁻¹, what will be its resistance at 80°C? Explain how temperature affects the resistance of a conductor, referring to the movement of electrons.**
+
+**Answer:**
+
+R₀ = 10 ohms
+T₀ = 20°C
+α = 0.004 °C⁻¹
+T = 80°C
+
+R = R₀ [1 + α(T - T₀)] = 10 ohms [1 + 0.004 °C⁻¹ (80°C - 20°C)] = 10 ohms [1 + 0.004 * 60] = 10 ohms [1 + 0.24] = 10 ohms * 1.24 = 12.4 ohms.
+
+Temperature affects the resistance of a conductor because increasing the temperature increases the vibrational motion of the atoms in the conductor's lattice. This increased vibration causes more collisions between the free electrons (which carry the current) and the atoms, hindering the flow of electrons.  More collisions means a higher resistance.
+
+**5. Question 5: State Coulomb's Law in both its scalar and vector forms. Explain the significance of the vector form of the law. Give a real-world example where understanding the vector nature of the electrostatic force is crucial.**
+
+**Answer:**
+
+Scalar form: F = k * |q₁ * q₂| / r²
+
+Vector form: **F₁₂** = k * (q₁ * q₂) / r² * **r₁₂̂**, where:
+*   **F₁₂** is the force on charge 2 due to charge 1
+*   **r₁₂̂** is the unit vector pointing from charge 1 to charge 2
+
+Significance of the vector form: The vector form gives the *direction* of the force, in addition to its magnitude. This is crucial because electrostatic force is a vector quantity and the direction of the force determines whether the force is attractive or repulsive and its effect on the motion of the charges. It also shows the force is along the line joining the two charges.
+
+Real-world example: Inkjet printers. These printers use electrostatic forces to direct tiny droplets of ink onto the paper. The printer needs to precisely control the direction and magnitude of the force on each droplet to create the desired image. Understanding the vector nature of Coulomb's Law is essential for designing the electrodes and charge configurations that provide this precise control.
+
+**6. Question 6: A square loop of side 10 cm carries a current of 5 A. It is placed in a uniform magnetic field of 0.2 T, with its plane making an angle of 30° with the direction of the field. Calculate the magnitude of the torque acting on the loop. Explain how the torque changes if the angle between the plane of the loop and the magnetic field is increased to 90 degrees.**
+
+**Answer:**
+
+Area of the loop: A = (0.1 m)² = 0.01 m²
+Current: I = 5 A
+Magnetic field: B = 0.2 T
+Angle between the plane of the loop and the magnetic field: θ = 30°
+Angle between the normal to the loop and the magnetic field: φ = 90° - 30° = 60°
+
+Torque: τ = NIABsinφ. Since it's a single loop, N = 1.
+τ = (1) * (5 A) * (0.01 m²) * (0.2 T) * sin(60°) = 0.01 * (√3/2) Nm ≈ 0.00866 Nm
+
+If the angle between the plane of the loop and the magnetic field is increased to 90 degrees, then the angle between the normal to the loop and the magnetic field becomes 0 degrees. The torque then becomes: τ = NIABsin(0°) = 0. The torque is zero when the plane of the loop is perpendicular to the magnetic field.
+
+**7. Question 7: A long solenoid with 15 turns per cm has a small loop of area 2.0 cm² placed inside the solenoid normal to its axis. If the current carried by the solenoid changes steadily from 2.0 A to 4.0 A in 0.1 s, what is the induced emf in the loop while the current is changing? Explain which Law of Electromagnetic Induction applies to this scenario, and why.**
+
+**Answer:**
+
+Turns per unit length: n = 15 turns/cm = 1500 turns/m
+Area of the loop: A = 2.0 cm² = 2.0 x 10⁻⁴ m²
+Change in current: ΔI = 4.0 A - 2.0 A = 2.0 A
+Time interval: Δt = 0.1 s
+
+Magnetic field inside the solenoid: B = μ₀nI, where μ₀ = 4π x 10⁻⁷ Tm/A
+Change in magnetic field: ΔB = μ₀nΔI = (4π x 10⁻⁷ Tm/A) * (1500 turns/m) * (2.0 A) = 12π x 10⁻⁴ T
+
+Induced emf: ε = -N (ΔΦ/Δt) = - (Δ(BA)/Δt) = -A (ΔB/Δt)  (since the loop is normal to the field, the angle between the area vector and B is zero).
+
+ε = - (2.0 x 10⁻⁴ m²) * (12π x 10⁻⁴ T) / (0.1 s) = -24π x 10⁻⁷ V / 0.1 = -24π x 10⁻⁶ V ≈ -7.54 x 10⁻⁶ V
+
+Faraday's Law of Electromagnetic Induction applies to this scenario. Faraday's Law states that the induced emf in any closed circuit is equal to the negative of the time rate of change of the magnetic flux through the circuit. Here, the changing current in the solenoid produces a changing magnetic field, which induces an emf in the loop. Lenz's Law explains the negative sign, indicating that the induced current will create a magnetic field opposing the change in the original field.
+
+**8. Question 8: A step-down transformer connected to a 2200 V line supplies a load with 220 V. The primary winding has 5000 turns.
+(a) What is the number of turns in the secondary winding?
+(b) Assuming the transformer is ideal, what is the current in the primary when the current in the secondary is 80 A? Explain the principle of a step-down transformer and why it is used.**
+
+**Answer:**
+
+(a) Vp = 2200 V, Vs = 220 V, Np = 5000
+Vs/Vp = Ns/Np  => Ns = Np * (Vs/Vp) = 5000 * (220/2200) = 5000 * (1/10) = 500 turns
+
+(b) IpVp = IsVs (for an ideal transformer) => Ip = Is(Vs/Vp) = (80 A) * (220 V / 2200 V) = 80 A * (1/10) = 8 A
+
+A step-down transformer reduces the voltage from a higher voltage to a lower voltage. It works based on the principle of electromagnetic induction. The alternating current in the primary coil creates a changing magnetic field, which induces an alternating current in the secondary coil. The ratio of the voltages is proportional to the ratio of the number of turns in the primary and secondary coils. Step-down transformers are used to reduce high-voltage transmission line voltages to lower, safer voltages suitable for use in homes and businesses.
+
+**9. Question 9: Define electric flux. A uniform electric field E = 3 x 10³ i N/C passes through an area of 0.2 m² oriented such that the normal to the area makes a 60° angle with the direction of the field. Calculate the electric flux through this area. Explain how the orientation of the area affects the electric flux, and what position relative to E produces maximal flux.**
+
+**Answer:**
+
+Electric flux is a measure of the number of electric field lines passing through a given surface. It is proportional to the electric field and the area of the surface.
+
+E = 3 x 10³ N/C
+A = 0.2 m²
+θ = 60°
+
+Electric flux: Φ = E * A * cos(θ) = (3 x 10³ N/C) * (0.2 m²) * cos(60°) = (3 x 10³) * (0.2) * (0.5) = 300 Nm²/C
+
+The orientation of the area affects the electric flux because only the component of the electric field that is perpendicular to the area contributes to the flux. The maximal flux occurs when the area is oriented such that its normal vector is parallel to the electric field (θ = 0°). In this case, all of the electric field lines pass through the area.
+
+**10. Question 10: Explain the concept of electrostatic potential energy. Calculate the electrostatic potential energy of a system consisting of two charges, 7 μC and -2 μC, placed at (-9 cm, 0, 0) and (9 cm, 0, 0), respectively. Explain whether this energy is positive or negative and what this sign indicates about the work required to assemble this charge configuration.**
+
+**Answer:**
+
+Electrostatic potential energy is the energy a charge possesses due to its position in an electric field. It represents the work required to bring the charge from infinity (or a reference point) to that position. It is energy stored in the electric field.
+
+q₁ = 7 μC = 7 x 10⁻⁶ C
+q₂ = -2 μC = -2 x 10⁻⁶ C
+r = 18 cm = 0.18 m
+
+Electrostatic potential energy: U = k * (q₁ * q₂) / r = (9 x 10⁹ Nm²/C²) * (7 x 10⁻⁶ C) * (-2 x 10⁻⁶ C) / (0.18 m) = -126 x 10⁻³ J / 0.18 = -700 x 10⁻³ J = -0.7 J
+
+The energy is negative. This indicates that work is done *by the system* to bring the charges together from infinity. This means the charges are in a lower energy state when they are together than when they are infinitely far apart. It also indicates that an external agent needs to do negative work or energy is spent by the system to assemble this charge configuration.
+
+**=== Long Questions (10 marks each) ===**
+
+**1. Question 1 (10 marks):**
+
+**(a) Explain Coulomb's Law in detail, highlighting its similarities and differences with Newton's Law of Gravitation. Include a discussion of the role of the permittivity of free space (ε₀) in Coulomb's Law. (4 marks)**
+
+**(b) A charge q is placed at the center of a cube of side 'a'.
+(i) What is the electric flux through each face of the cube? Explain your reasoning using Gauss's Law. (3 marks)
+(ii) If the charge is moved to a corner of the cube, how does the electric flux through each face change? Explain. (3 marks)**
+
+**Answer:**
+
+**(a)** Coulomb's Law describes the electrostatic force between two point charges. Mathematically, F = k * |q₁ * q₂| / r², where F is the force, k is Coulomb's constant, q₁ and q₂ are the charges, and r is the distance between them.
+
+**Similarities with Newton's Law of Gravitation:**
+
+*   Both are inverse square laws: The force is inversely proportional to the square of the distance between the interacting objects.
+*   Both are central forces: The force acts along the line joining the two objects.
+
+**Differences:**
+
+*   Coulomb's Law deals with electric charges, while Newton's Law deals with masses.
+*   Coulomb's Law can be attractive or repulsive (depending on the sign of the charges), while Newton's Law is always attractive.
+*   The electrostatic force is much stronger than the gravitational force.
+*   Coulomb's constant is much larger than the gravitational constant, so the scale of magnitude is different.
+
+**Role of Permittivity of Free Space (ε₀):**
+
+The permittivity of free space (ε₀) appears in Coulomb's constant: k = 1 / (4πε₀).  ε₀ represents the ability of a vacuum to permit electric fields. It quantifies how easily electric field lines can pass through a vacuum. A higher permittivity means the electric field is less affected by the presence of the vacuum. It is a fundamental constant that scales the electric force.
+
+**(b)**
+
+**(i)** According to Gauss's Law, the total electric flux through a closed surface is equal to the charge enclosed divided by ε₀: Φ = q / ε₀.
+Since the charge q is at the center of the cube, the total flux through the entire cube is q / ε₀.  A cube has 6 faces, and by symmetry, the flux is evenly distributed across all faces. Therefore, the electric flux through each face of the cube is (q / ε₀) / 6 = q / (6ε₀).
+
+**(ii)** When the charge is moved to a corner of the cube, Gauss's Law still holds, but the symmetry is broken. Now, the charge at the corner is shared between 8 cubes. Hence, only 1/8 of the charge contributes to the flux of the considered cube. Considering the 3 faces touching the corner, no flux will pass through them as the electric field is tangential to the surface.
+Of the three faces that do not touch the corner of the cube, there will be a non-zero flux, which will be unequal between these three faces. The total flux through these three faces will be the total flux through the cube.
+Therefore, flux through the cube = (q/8) / ε₀.
+
+**2. Question 2 (10 marks):**
+
+**(a) Define electric potential and potential difference. Explain the concept of equipotential surfaces and their significance in understanding electric fields. (4 marks)**
+
+**(b) A parallel plate capacitor with air between the plates has a capacitance of 8 pF (picofarads). The separation between the plates is now halved, and the space between them is filled with a dielectric material of dielectric constant K = 6. Calculate the new capacitance. Explain how each change (halving the separation and filling with dielectric) affects the capacitance. (6 marks)**
+
+**Answer:**
+
+**(a)**
+
+*   **Electric Potential:** Electric potential is the amount of work needed to move a unit positive charge from a reference point (usually infinity) to a specific point in an electric field. It is a scalar quantity, measured in volts (V).
+*   **Potential Difference:** Potential difference is the difference in electric potential between two points. It is the work required to move a unit positive charge from one point to another.
+
+**Equipotential Surfaces:**
+
+An equipotential surface is a surface where the electric potential is the same at every point.
+
+**Significance:**
+
+*   The electric field is always perpendicular to an equipotential surface. This is because if there were a component of the electric field parallel to the surface, it would require work to move a charge along the surface, contradicting the definition of equipotential.
+*   No work is done in moving a charge along an equipotential surface.
+*   Equipotential surfaces are a useful tool for visualizing electric fields. Closely spaced equipotential surfaces indicate a strong electric field, while widely spaced surfaces indicate a weak field.
+
+**(b)**
+
+Initial capacitance: C₁ = 8 pF = 8 x 10⁻¹² F
+Initial separation: d₁ = d
+Final separation: d₂ = d/2
+Dielectric constant: K = 6
+
+C₁ = ε₀A/d
+
+New capacitance: C₂ = Kε₀A/d₂ = Kε₀A/(d/2) = 2K(ε₀A/d) = 2KC₁ = 2 * 6 * (8 x 10⁻¹² F) = 96 x 10⁻¹² F = 96 pF
+
+**Explanation:**
+
+*   **Halving the separation:** Halving the separation between the plates *doubles* the capacitance. Capacitance is inversely proportional to the distance between the plates (C ∝ 1/d).
+*   **Filling with dielectric:** Filling the space with a dielectric material increases the capacitance by a factor of the dielectric constant (K). The dielectric material reduces the electric field between the plates, allowing more charge to be stored for the same voltage.
+
+**3. Question 3 (10 marks):**
+
+**(a) Define Capacitance, what are the factors affecting capacitance? Explain in detail how it is affected by those factors. (5 marks)**
+
+**(b) Three capacitors of capacitances 2μF, 3μF, and 6μF are connected first in series and then in parallel. Determine the equivalent capacitance in each case. Explain why the equivalent capacitance differs significantly between the series and parallel configurations. In which configuration do you get a high voltage supply? (5 marks)**
+
+**Answer:**
+
+**(a)**
+
+**Capacitance:** Capacitance is a measure of a capacitor's ability to store electric charge. It is defined as the ratio of the charge stored on the capacitor (Q) to the potential difference (V) between its plates: C = Q/V.
+
+**Factors Affecting Capacitance:**
+
+*   **Area of the plates (A):** Capacitance is directly proportional to the area of the plates. A larger area provides more space for charge to accumulate.  Increasing the area increases capacitance.
+*   **Distance between the plates (d):** Capacitance is inversely proportional to the distance between the plates. A smaller distance means a stronger electric field for a given charge, which allows more charge to be stored at a given voltage.  Decreasing the distance increases capacitance.
+*   **Permittivity of the dielectric material (ε):** Capacitance is directly proportional to the permittivity of the material between the plates. The permittivity represents the ability of the material to reduce the electric field. A higher permittivity allows more charge to be stored for a given voltage. Replacing air or vacuum with a dielectric material increases capacitance.
+
+**(b)**
+
+**Series Combination:**
+
+1/Ceq = 1/C₁ + 1/C₂ + 1/C₃ = 1/(2 μF) + 1/(3 μF) + 1/(6 μF) = (3 + 2 + 1) / (6 μF) = 6 / (6 μF) = 1/(1 μF)
+Ceq = 1 μF
+
+**Parallel Combination:**
+
+Ceq = C₁ + C₂ + C₃ = 2 μF + 3 μF + 6 μF = 11 μF
+
+**Explanation of Difference:**
+
+*   **Series:** In a series combination, the capacitors are connected end-to-end. The effective distance between the plates increases, while the effective area stays the same. Therefore, the equivalent capacitance is *less* than the smallest individual capacitance.
+*   **Parallel:** In a parallel combination, the capacitors are connected side-by-side. The effective area of the plates increases, while the distance between the plates stays the same. Therefore, the equivalent capacitance is the *sum* of the individual capacitances and is *greater* than the largest individual capacitance.
+
+**High Voltage Supply:**
+
+In a *series* configuration, you get a high voltage supply. When capacitors are connected in series, the voltage across each capacitor adds up to the total voltage. Therefore, the series configuration is useful for applications where a high voltage is needed, even if the total charge storage is limited.

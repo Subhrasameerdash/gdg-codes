@@ -1,0 +1,121 @@
+1.  Given the complex number Z = (a + bi), where 'a' and 'b' are real numbers, determine the conditions under which Z * (conjugate of Z) will result in a real number. Explain your reasoning using properties of complex conjugates.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter content:
+
+**Answer:**
+
+We are given a complex number Z = a + bi, where 'a' and 'b' are real numbers. We need to find the conditions under which Z * (conjugate of Z) results in a real number.
+
+First, let's define the conjugate of Z.  The conjugate of a complex number a + bi is denoted as Z̄ and is equal to a - bi.  This is because the conjugate simply changes the sign of the imaginary part of the complex number.
+
+Now, let's multiply Z by its conjugate, Z̄:
+
+Z * Z̄ = (a + bi) * (a - bi)
+
+Using the distributive property (or the "FOIL" method), we get:
+
+Z * Z̄ = a*a - a*bi + bi*a - bi*bi
+Z * Z̄ = a² - abi + abi - b²i²
+
+Notice that the terms -abi and +abi cancel each other out. Also, we know that i² = -1. Therefore:
+
+Z * Z̄ = a² - b²(-1)
+Z * Z̄ = a² + b²
+
+Since 'a' and 'b' are real numbers, a² and b² are also real numbers.  The sum of two real numbers (a² + b²) is always a real number.
+
+**Therefore, Z * (conjugate of Z) = a² + b² will always result in a real number, regardless of the values of 'a' and 'b'.**
+
+**Explanation using properties of complex conjugates:**
+
+The key property used here is that the product of a complex number and its conjugate eliminates the imaginary part. This is because the imaginary components of the original number and its conjugate have opposite signs.  When multiplied, these imaginary parts cancel out, leaving only the real part, which in this case is a² + b².  The result, a² + b², is also equal to |Z|², the square of the modulus of Z, and the modulus of any complex number is, by definition, a real number.  Consequently, its square is also a real number.
+
+2.  A student attempts to find the multiplicative inverse of a complex number. They correctly state the general method but make an error in algebraic manipulation during the simplification process. Construct a complex number (of your choosing) and demonstrate a *specific* incorrect step a student might take when finding its multiplicative inverse. Then, correctly calculate the multiplicative inverse.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, tailored for a CBSE Class 11-12 student and based on the provided NCERT chapter content:
+
+**Answer:**
+
+Let's consider the complex number `z = 2 + 3i`.  A student might incorrectly attempt to find the multiplicative inverse (z<sup>-1</sup>) as follows:
+
+**Incorrect Student Solution:**
+
+The student correctly recalls that the multiplicative inverse is found using the formula:
+
+`z<sup>-1</sup> = conjugate(z) / |z|<sup>2</sup>`
+
+The conjugate of `z = 2 + 3i` is `2 - 3i`.  The modulus squared of `z` is `|z|<sup>2</sup> = 2<sup>2</sup> + 3<sup>2</sup> = 4 + 9 = 13`.  So far, so good.
+
+Now, here's the **incorrect step**:
+
+The student might write:
+
+`z<sup>-1</sup> = (2 - 3i) / 13 = 2 - (3i/13)`
+
+**Explanation of the Error:**
+
+The error lies in incorrectly applying the division. The student only divides the imaginary part (`3i`) by 13, forgetting to divide the *real* part (2) as well.  Essentially, they fail to distribute the division over both terms in the numerator.
+
+**Correct Solution:**
+
+The correct method for finding the multiplicative inverse is:
+
+1.  **Find the conjugate:** The conjugate of `z = 2 + 3i` is `conjugate(z) = 2 - 3i`.
+
+2.  **Find the modulus squared:** The modulus squared of `z` is `|z|<sup>2</sup> = (2)<sup>2</sup> + (3)<sup>2</sup> = 4 + 9 = 13`.
+
+3.  **Divide the conjugate by the modulus squared:**
+
+`z<sup>-1</sup> = (2 - 3i) / 13 = 2/13 - (3/13)i`
+
+Therefore, the correct multiplicative inverse of `2 + 3i` is `2/13 - (3/13)i`.
+
+**In summary:** The common error is failing to distribute the denominator correctly when dividing a complex number by a real number. Remember to divide *both* the real and imaginary parts of the complex number by the denominator.
+
+3.  A complex number is defined as the sum of two other complex numbers Z1 and Z2. Z1 and Z2 are defined as being equal to 2 + 4i and 10 - 20i respectively. Represent this complex number in the form of a + bi. Find the conjugate of the complex number and represent both complex numbers in the Argand plane.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student, based on the provided NCERT chapter context:
+
+**Answer:**
+
+Let's denote the complex number formed by the sum of Z1 and Z2 as Z.  We are given:
+
+*   Z1 = 2 + 4i
+*   Z2 = 10 - 20i
+
+To find Z, we simply add Z1 and Z2:
+
+Z = Z1 + Z2 = (2 + 4i) + (10 - 20i)
+
+To add complex numbers, we add the real parts together and the imaginary parts together:
+
+Z = (2 + 10) + (4 - 20)i
+Z = 12 - 16i
+
+Therefore, the complex number Z, represented in the form a + bi, is **12 - 16i**.
+
+**Finding the Conjugate of Z:**
+
+The conjugate of a complex number a + bi is a - bi.  This means we change the sign of the imaginary part.
+
+So, the conjugate of Z (denoted as Z̄) is:
+
+Z̄ = 12 + 16i
+
+**Representing the Complex Numbers in the Argand Plane:**
+
+The Argand plane is a graphical representation of complex numbers, where the x-axis represents the real part and the y-axis represents the imaginary part.  We can plot each of our complex numbers as points on this plane:
+
+*   **Z1 = 2 + 4i:** This is represented by the point (2, 4) on the Argand plane.
+*   **Z2 = 10 - 20i:** This is represented by the point (10, -20) on the Argand plane.
+*   **Z = 12 - 16i:** This is represented by the point (12, -16) on the Argand plane.
+*   **Z̄ = 12 + 16i:** This is represented by the point (12, 16) on the Argand plane.
+
+**Explanation of Argand Plane Representation:**
+
+Imagine a standard x-y coordinate plane.  For each complex number:
+
+1.  The real part (a) corresponds to the x-coordinate.
+2.  The imaginary part (b) corresponds to the y-coordinate.
+
+Therefore, to plot a complex number a + bi, you simply locate the point (a, b) on the Argand plane. The conjugate will be the reflection across the x axis of the original point.

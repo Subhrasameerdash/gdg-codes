@@ -1,0 +1,145 @@
+1.  **Conceptual Stoichiometry and Limiting Reactant:** A chemist mixes reactants A and B in a closed container. The reaction proceeds, forming product C. After the reaction is complete, the chemist observes that a significant amount of reactant B remains unreacted.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the provided context and the assignment question.
+
+**Answer:**
+
+**1. Conceptual Stoichiometry and Limiting Reactant:**
+
+In the scenario described, reactant A is the **limiting reactant**, and reactant B is the **excess reactant**. Here's a detailed explanation:
+
+*   **Limiting Reactant Defined:** The limiting reactant in a chemical reaction is the reactant that is completely consumed first.  The amount of product formed is directly determined by the amount of the limiting reactant available. Once the limiting reactant is used up, the reaction stops, even if other reactants are still present.
+
+*   **Excess Reactant Defined:** The excess reactant is the reactant that is present in a greater amount than is necessary to react completely with the limiting reactant.  As the name suggests, there is an "excess" of this reactant left over at the end of the reaction.
+
+*   **Applying the Concepts to the Scenario:** The problem states that a significant amount of reactant B remains unreacted after the reaction is complete.  This directly indicates that reactant B was not completely consumed. Because reactant B is left over, it cannot be the limiting reactant.  Therefore, reactant A must be the limiting reactant, as it was entirely used up, causing the reaction to cease before all of reactant B could react.
+
+*   **Why is this important?** Identifying the limiting reactant is crucial in chemistry for several reasons:
+
+    *   **Predicting Product Yield:**  It allows chemists to accurately predict the maximum amount of product (C in this case) that can be formed from a given set of reactants. The theoretical yield of a reaction is based on the complete consumption of the limiting reactant.
+    *   **Optimizing Reactions:**  Understanding the limiting reactant helps in optimizing reaction conditions. For instance, a chemist might choose to add more of the limiting reactant to drive the reaction further towards completion and maximize product yield.
+    *   **Minimizing Waste:** Knowing which reactant is in excess allows for better control of reaction conditions to minimize the amount of unreacted starting materials, reducing waste and improving the efficiency of chemical processes.
+
+*   **Analogy:** Imagine baking cookies. The recipe calls for 2 cups of flour and 1 cup of sugar. You have 10 cups of flour and only 0.5 cups of sugar. Sugar is the limiting reactant because you'll run out of sugar before you use all the flour. You can only make half a batch of cookies, and you'll have flour left over.
+
+2.  **Empirical vs. Molecular Formula & Combustion Analysis:** A newly synthesized organic compound is subjected to combustion analysis. 1.00 gram of the compound is burned completely in excess oxygen, producing 2.20 grams of carbon dioxide (CO2) and 0.90 grams of water (H2O).
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE Class 11-12 student, based on the NCERT content and the provided assignment question.
+
+**Answer:**
+
+This problem involves determining the empirical and potentially the molecular formula of an organic compound using combustion analysis data. Combustion analysis allows us to determine the mass of carbon and hydrogen present in the original compound, which then helps us to deduce the empirical formula.
+
+**Step 1: Determine the mass of Carbon in CO2 and Hydrogen in H2O**
+
+*   **Mass of Carbon:** All the carbon in the CO2 comes from the original compound. We need to find the mass of carbon in 2.20g of CO2.
+
+    *   Molar mass of CO2 = 12.01 g/mol (C) + 2 * 16.00 g/mol (O) = 44.01 g/mol
+    *   Mass fraction of Carbon in CO2 = (12.01 g/mol) / (44.01 g/mol) = 0.2729
+    *   Mass of Carbon in 2.20g CO2 = 2.20g * 0.2729 = 0.598 g
+
+*   **Mass of Hydrogen:** All the hydrogen in the H2O comes from the original compound. We need to find the mass of hydrogen in 0.90g of H2O.
+
+    *   Molar mass of H2O = 2 * 1.008 g/mol (H) + 16.00 g/mol (O) = 18.016 g/mol
+    *   Mass fraction of Hydrogen in H2O = (2 * 1.008 g/mol) / (18.016 g/mol) = 0.112
+    *   Mass of Hydrogen in 0.90g H2O = 0.90g * 0.112 = 0.101 g
+
+**Step 2: Determine the mass of Oxygen (if any) in the original compound.**
+
+*   Total mass of compound = 1.00 g
+*   Mass of Carbon + Mass of Hydrogen = 0.598 g + 0.101 g = 0.699 g
+*   Mass of Oxygen = Total mass of compound - (Mass of Carbon + Mass of Hydrogen) = 1.00 g - 0.699 g = 0.301 g
+
+**Step 3: Convert masses to moles.**
+
+*   Moles of Carbon = (0.598 g) / (12.01 g/mol) = 0.0498 mol
+*   Moles of Hydrogen = (0.101 g) / (1.008 g/mol) = 0.100 mol
+*   Moles of Oxygen = (0.301 g) / (16.00 g/mol) = 0.0188 mol
+
+**Step 4: Determine the simplest whole-number mole ratio.**
+
+*   Divide each mole value by the smallest mole value (0.0188 mol):
+
+    *   C: 0.0498 mol / 0.0188 mol = 2.65
+    *   H: 0.100 mol / 0.0188 mol = 5.32
+    *   O: 0.0188 mol / 0.0188 mol = 1
+
+*   Since we need whole numbers, multiply these ratios by a factor to get them as close to whole numbers as possible. In this case, multiplying by 3 gets us pretty close.
+
+    *   C: 2.65 * 3 ≈ 8
+    *   H: 5.32 * 3 ≈ 16
+    *   O: 1 * 3 = 3
+
+**Step 5: Write the Empirical Formula.**
+
+*   The empirical formula is C8H16O3.
+
+**Step 6: Determine the Molecular Formula (if additional information is provided).**
+
+*   To determine the molecular formula, we need the molar mass of the compound. The molecular formula will be a whole number multiple of the empirical formula. If the molar mass of the unknown compound is given, we can calculate this.
+
+    *   Let's assume, for example, that the molar mass of the compound is experimentally determined to be 160 g/mol.
+
+    *   Molar mass of the empirical formula (C8H16O3) = (8 * 12.01) + (16 * 1.008) + (3 * 16.00) = 96.08 + 16.128 + 48 = 160.208 g/mol
+    *   n = (Molar mass of compound) / (Molar mass of empirical formula) = 160 / 160.208 ≈ 1
+    *   In this case, since *n* is approximately 1, the molecular formula is the same as the empirical formula: C8H16O3
+
+*   If the molar mass was, for example, 320 g/mol, then n would be approximately 2 and the molecular formula would be C16H32O6.
+
+**Conclusion:**
+
+*   The empirical formula of the compound is **C8H16O3**.
+*   Without additional information (i.e., the molar mass of the compound), we cannot determine the molecular formula.  *If* the molar mass was determined to be ~160 g/mol, then the molecular formula is also C8H16O3.
+
+**Important Points for the Student:**
+
+*   **Clear Steps:** Show each step in your calculation, including the units. This helps in understanding your method and makes it easier to identify any errors.
+*   **Molar Mass:** Ensure you use the correct molar masses for each element and compound.
+*   **Significant Figures:** Pay attention to significant figures in your calculations and final answer.
+*   **Conceptual Understanding:**  Make sure you understand the concepts of empirical and molecular formulas, combustion analysis, and stoichiometry. Don't just memorize the steps. Think about *why* you're doing each calculation.
+*   **Units:** Always include units in your calculations. This can help you catch errors and ensure that your final answer has the correct units.
+*   **Assumptions:** Be clear about any assumptions you are making (e.g., assuming all carbon ends up in CO2 and all hydrogen ends up in H2O).
+
+3.  **Equilibrium and Le Chatelier's Principle:** Consider the following reversible reaction in a closed container:
+Sample Answer:
+**Assignment Question:**
+
+3.  **Equilibrium and Le Chatelier's Principle:** Consider the following reversible reaction in a closed container:
+
+    N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ⇌ 2NH<sub>3</sub>(g)   ΔH = -92 kJ/mol
+
+    a) What is the effect of an increase in pressure on the equilibrium? Explain your reasoning using Le Chatelier's Principle.
+
+    b) What is the effect of an increase in temperature on the equilibrium? Explain your reasoning using Le Chatelier's Principle.
+
+    c) If an inert gas (e.g., Argon) is added to the system at constant volume, what will happen to the equilibrium? Explain.
+
+    d) If a catalyst is added to the system, what will happen to the equilibrium? Explain.
+
+**Answer:**
+
+This question explores the application of Le Chatelier's Principle to a reversible reaction at equilibrium. Le Chatelier's Principle states that if a change of condition (like pressure, temperature, or concentration) is applied to a system in equilibrium, the system will shift in a direction that relieves the stress.
+
+**a) Effect of increased pressure:**
+
+*   **Explanation:**  Le Chatelier's Principle states that if pressure is increased on a system at equilibrium, the system will shift to the side with *fewer* moles of gas to relieve the pressure.
+*   **Application to the reaction:** In the given reaction, N<sub>2</sub>(g) + 3H<sub>2</sub>(g) ⇌ 2NH<sub>3</sub>(g), there are 4 moles of gas on the reactant side (1 mole of N<sub>2</sub> + 3 moles of H<sub>2</sub>) and 2 moles of gas on the product side (2 moles of NH<sub>3</sub>).  Therefore, increasing the pressure will favor the *forward reaction* – the formation of ammonia (NH<sub>3</sub>) – as this side has fewer moles of gas.
+*   **Conclusion:** Increasing the pressure will shift the equilibrium to the *right*, favoring the production of more ammonia.
+
+**b) Effect of increased temperature:**
+
+*   **Explanation:** Le Chatelier's Principle states that if temperature is increased on a system at equilibrium, the system will shift in the direction that *absorbs* heat. In other words, it will favor the endothermic reaction.
+*   **Application to the reaction:** The given reaction is exothermic in the forward direction (ΔH = -92 kJ/mol). This means heat is *released* during the formation of ammonia. Therefore, the *reverse* reaction (decomposition of ammonia into nitrogen and hydrogen) is endothermic, requiring heat to be absorbed.
+*   **Conclusion:** Increasing the temperature will shift the equilibrium to the *left*, favoring the decomposition of ammonia back into nitrogen and hydrogen. The amount of ammonia will decrease.
+
+**c) Effect of adding an inert gas (at constant volume):**
+
+*   **Explanation:** Adding an inert gas at constant *volume* does not change the partial pressures of the reactants or products.
+*   **Application to the reaction:** Because the partial pressures of the reacting gases are unchanged, the equilibrium will not shift. The total pressure will increase, but the *effective* concentrations (partial pressures) determining the equilibrium position remain the same.
+*   **Conclusion:** Adding an inert gas at constant volume will have *no effect* on the equilibrium position.
+
+**d) Effect of adding a catalyst:**
+
+*   **Explanation:** A catalyst speeds up the rate of both the forward and reverse reactions equally. It lowers the activation energy required for the reaction to occur.
+*   **Application to the reaction:** While a catalyst will allow the equilibrium to be reached *faster*, it does not change the position of the equilibrium itself.  The relative rates of the forward and reverse reactions will both be increased, so the equilibrium constant remains unchanged.
+*   **Conclusion:** Adding a catalyst will *not* shift the equilibrium. It only affects the *rate* at which equilibrium is attained.

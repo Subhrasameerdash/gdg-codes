@@ -1,0 +1,123 @@
+1.  A student claims that the binomial expansion of (4 + x)^(-1/2) is valid for all real values of *x*. Critically evaluate this claim, stating the necessary condition for the validity of such an expansion and determining the range of *x* for which the expansion holds true.
+Sample Answer:
+Here's a sample answer suitable for a CBSE class 11-12 student, addressing the given question:
+
+**Answer:**
+
+The student's claim that the binomial expansion of (4 + x)^(-1/2) is valid for all real values of *x* is incorrect. The binomial theorem for any index, which allows for negative or fractional exponents, has a crucial condition for its validity.
+
+**Explanation:**
+
+The generalized binomial theorem states that for any index *n* (which can be a real number) and |x| < 1:
+
+(1 + x)^n = 1 + nx + [n(n-1)/2!]x^2 + [n(n-1)(n-2)/3!]x^3 + ...
+
+This expansion is an *infinite series*, and it converges (i.e., has a finite sum) *only* when |x| < 1.  If |x| ≥ 1, the series diverges and does not represent (1 + x)^n.
+
+Now, let's consider the given expression (4 + x)^(-1/2). To apply the binomial theorem, we need to manipulate it into the form (1 + something)^n. We can do this by factoring out the 4:
+
+(4 + x)^(-1/2) = [4(1 + x/4)]^(-1/2) = 4^(-1/2) * (1 + x/4)^(-1/2) = (1/2) * (1 + x/4)^(-1/2)
+
+Now we have the expression in the required form (1 + x/4)^(-1/2). Here, we can now consider the validity condition. The binomial expansion of (1 + x/4)^(-1/2) will be valid only if |x/4| < 1.
+
+Therefore, |x/4| < 1  implies  |x| < 4.
+
+This means -4 < x < 4.
+
+**Conclusion:**
+
+The binomial expansion of (4 + x)^(-1/2) is valid only for **-4 < x < 4**. The student's claim is false because the binomial theorem for a non-integer index has a restricted range of validity.  The expansion only holds true when the absolute value of x/4 is less than 1, which restricts the possible values of *x* to the interval between -4 and 4. Outside this interval, the series diverges and does not represent the function.
+
+2.  Consider two infinite geometric series, Series A and Series B. Series A has a first term of 10 and a common ratio of *x*. Series B has a first term of 5 and a common ratio of 2*x*. Determine the range of values for *x* for which both series converge to a finite sum. Further, if *x* = 0.2, find the difference between the sums to infinity of Series A and Series B.
+Sample Answer:
+Okay, here's a sample answer suitable for a CBSE class 11-12 student, addressing the given assignment question, drawing upon the provided NCERT content:
+
+**Answer:**
+
+To determine the range of values for *x* for which both infinite geometric series, Series A and Series B, converge to a finite sum, we need to apply the condition for convergence:  |r| < 1, where 'r' is the common ratio.
+
+**For Series A:**
+
+*   First term (a) = 10
+*   Common ratio (r) = *x*
+*   Convergence condition: |*x*| < 1  =>  -1 < *x* < 1
+
+**For Series B:**
+
+*   First term (a) = 5
+*   Common ratio (r) = 2*x*
+*   Convergence condition: |2*x*| < 1  =>  -1 < 2*x* < 1  =>  -1/2 < *x* < 1/2
+
+**Determining the Common Range for Convergence:**
+
+For both series to converge *simultaneously*, *x* must satisfy *both* convergence conditions.  We need to find the intersection of the intervals -1 < *x* < 1 and -1/2 < *x* < 1/2. The more restrictive condition is -1/2 < *x* < 1/2.
+
+Therefore, the range of values for *x* for which both series converge to a finite sum is **-1/2 < *x* < 1/2**.
+
+**Calculating the Difference of Sums when x = 0.2:**
+
+Since 0.2 lies within the range -1/2 < *x* < 1/2, both series converge when *x* = 0.2.
+
+*   **Sum to infinity of Series A (S<sub>A</sub>):**
+
+    *   a = 10, r = 0.2
+    *   S<sub>A</sub> = a / (1 - r) = 10 / (1 - 0.2) = 10 / 0.8 = 12.5
+
+*   **Sum to infinity of Series B (S<sub>B</sub>):**
+
+    *   a = 5, r = 2 * 0.2 = 0.4
+    *   S<sub>B</sub> = a / (1 - r) = 5 / (1 - 0.4) = 5 / 0.6 = 25/3 ≈ 8.33
+
+*   **Difference between the sums (S<sub>A</sub> - S<sub>B</sub>):**
+
+    *   S<sub>A</sub> - S<sub>B</sub> = 12.5 - (25/3) = 12.5 - 8.33 = 4.17 (approximately)
+    *   Alternatively, S<sub>A</sub> - S<sub>B</sub> = 12.5 - (25/3) = 25/2 - 25/3 = (75 - 50)/6 = 25/6 ≈ 4.17
+
+**Conclusion:**
+
+The range of values for *x* for which both Series A and Series B converge to a finite sum is -1/2 < *x* < 1/2.  When *x* = 0.2, the difference between the sums to infinity of Series A and Series B is approximately 4.17 or exactly 25/6.
+
+3.  The exponential series can be used to approximate values of e^x. Use the first four terms of the exponential series to estimate the value of e^(0.5). Compare this approximation to the actual value (using a calculator) and discuss the trade-off between accuracy and the number of terms used in the approximation.
+Sample Answer:
+Okay, here's a sample answer to the assignment question, suitable for a CBSE Class 11-12 student:
+
+**Question 3: The exponential series can be used to approximate values of e^x. Use the first four terms of the exponential series to estimate the value of e^(0.5). Compare this approximation to the actual value (using a calculator) and discuss the trade-off between accuracy and the number of terms used in the approximation.**
+
+**Answer:**
+
+The exponential series is a powerful tool for approximating values of  e^x. It's given by:
+
+e^x = 1 + x + (x^2)/2! + (x^3)/3! + (x^4)/4! + ...
+
+To estimate e^(0.5) using the first four terms of this series, we substitute x = 0.5 into the formula:
+
+e^(0.5) ≈ 1 + 0.5 + (0.5^2)/2! + (0.5^3)/3!
+
+Now, let's calculate each term:
+
+*   1st term: 1
+*   2nd term: 0.5
+*   3rd term: (0.5^2) / 2! = 0.25 / 2 = 0.125
+*   4th term: (0.5^3) / 3! = 0.125 / 6 ≈ 0.02083
+
+Therefore, our approximation is:
+
+e^(0.5) ≈ 1 + 0.5 + 0.125 + 0.02083 = 1.64583
+
+Now, let's compare this to the actual value obtained using a calculator:
+
+e^(0.5) ≈ 1.64872 (using a calculator)
+
+The absolute error in our approximation is:
+
+|1.64872 - 1.64583| ≈ 0.00289
+
+**Discussion on Accuracy and Trade-off:**
+
+As you can see, using just the first four terms of the exponential series gives us a reasonably close approximation of e^(0.5). However, there's still a small error.
+
+*   **Accuracy:**  The accuracy of the approximation increases as we include more terms in the series. Each subsequent term contributes a smaller amount to the sum, but it helps to refine the estimate and reduce the error.
+
+*   **Trade-off:**  The trade-off is between accuracy and the computational effort required. Calculating more terms involves more arithmetic operations (exponentiation, division, addition). In situations where computational resources are limited, or a quick estimate is sufficient, using fewer terms might be preferred. However, if a high degree of accuracy is crucial, it's necessary to include more terms in the series.
+
+In conclusion, the exponential series provides a valuable method for approximating values of e^x. By carefully considering the trade-off between accuracy and computational effort, we can choose an appropriate number of terms to achieve a desired level of precision. In this specific case, using just four terms provides a good estimate, and the error can be further reduced by including more terms.
