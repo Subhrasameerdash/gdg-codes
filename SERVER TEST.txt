@@ -1,0 +1,49 @@
+:: Test Case 1: Excellent Match (Grade A)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"The mitochondria generate energy in the form of ATP through cellular respiration.\", \"model_answer\": \"Mitochondria generate energy in the form of ATP through cellular respiration.\"}"
+
+:: Test Case 2: Slightly Different Wording (Grade B)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"The mitochondria create ATP by cellular respiration.\", \"model_answer\": \"Mitochondria generate energy in the form of ATP through cellular respiration.\"}"
+
+:: Test Case 3: Moderate Match with Some Errors (Grade C)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"The mitochondria makes energy but not always ATP.\", \"model_answer\": \"Mitochondria generate energy in the form of ATP through cellular respiration.\"}"
+
+:: Test Case 4: Partial Understanding (Grade D)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"The mitochondria is involved in energy production.\", \"model_answer\": \"Mitochondria generate energy in the form of ATP through cellular respiration.\"}"
+
+:: Test Case 5: Incorrect Concept (Grade F)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"The mitochondria produces DNA for the cell.\", \"model_answer\": \"Mitochondria generate energy in the form of ATP through cellular respiration.\"}"
+
+:: Test Case 6: Good Match with Minor Variation (Grade B)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"Photosynthesis converts sunlight into glucose in plants.\", \"model_answer\": \"Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll and releasing oxygen as a by-product.\"}"
+
+:: Test Case 7: Slight Conceptual Error (Grade C)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"Photosynthesis is when plants absorb oxygen and release carbon dioxide.\", \"model_answer\": \"Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll and releasing oxygen as a by-product.\"}"
+
+:: Test Case 8: Partially Correct Statement (Grade D)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"Photosynthesis uses sunlight.\", \"model_answer\": \"Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll and releasing oxygen as a by-product.\"}"
+
+:: Test Case 9: Completely Incorrect (Grade F)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"Photosynthesis happens in humans.\", \"model_answer\": \"Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll and releasing oxygen as a by-product.\"}"
+
+:: Test Case 10: Slight Paraphrasing with Good Accuracy (Grade B)
+curl -X POST "http://127.0.0.1:8080/predict" ^
+-H "Content-Type: application/json" ^
+-d "{\"student_answer\": \"Gravity attracts objects toward Earth’s center.\", \"model_answer\": \"Gravity is the force that attracts objects toward the center of the Earth or any other mass.\"}"
